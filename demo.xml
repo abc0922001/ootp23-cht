@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TRANSLATION_DATA version="gui_korean.xml 2022-05-27 08:53:47">
+ <HARD_CODED_STRINGS>
+  <HCS i="1">
+   <EN>Your %t have won the tournament! Well done. The rewards, including %pp Perfect Points, have been added to your account</EN>
+   <DC>EX: Your AAA team have won the tournament! Well done. The rewards, including 1,000 Perfect Points, have been added to your account.</DC>
+   <KR>您的 %t 贏得了比賽！做得好。獎勵，包括 %pp 完美積分，已添加到您的帳戶</KR>
+   <ES>¡Tu %t ha ganado el torneo! Bien hecho. Las recompensas, incluidos %pp Perfect Points, se agregaron a su cuenta</ES>
+   <JP>あなたの％tがトーナメントに勝ちました！素晴らしい。 ％ppパーフェクトポイントを含む特典がアカウントに追加されました</JP>
+   <CN>您的 %t 赢得了比赛！做得好。奖励，包括 %pp 完美积分，已添加到您的帐户</CN>
+  </HCS>
+  <HCS i="2">
+   <EN>Your %t have won the tournament! Well done. The reward has been added to your account</EN>
+   <DC>Your AAA team have won the tournament! Well done. The reward has been added to your account.</DC>
+   <KR>您的 %t 贏得了比賽！做得好。獎勵已添加到您的帳戶</KR>
+   <ES>¡Tu %t ha ganado el torneo! Bien hecho. La recompensa ha sido añadida a tu cuenta.</ES>
+   <JP>あなたの％tがトーナメントに勝ちました！素晴らしい。報酬がアカウントに追加されました</JP>
+   <CN>您的 %t 赢得了比赛！做得好。奖励已添加到您的帐户</CN>
+  </HCS>
+  <HCS i="3">
+   <EN>The following event has not been finished yet</EN>
+   <DC></DC>
+   <KR>以下活動尚未結束</KR>
+   <ES>El siguiente evento aún no ha terminado</ES>
+   <JP>次のイベントはまだ終了していません</JP>
+   <CN>以下活动尚未结束</CN>
+  </HCS>
+  <HCS i="4">
+   <EN>Granted %player_position %player_name free agency because of a contract clause</EN>
+   <DC></DC>
+   <KR>由於合約條款，授予 %player_position %player_name 自由球員</KR>
+   <ES>Concedió la agencia libre a %player_position %player_name debido a una cláusula del contrato</ES>
+   <JP>契約条項により％player_position％player_nameフリーエージェントを付与</JP>
+   <CN>由于合同条款，授予 %player_position %player_name 自由球员</CN>
+  </HCS>
+  <HCS i="5">
+   <EN>Submitted votes</EN>
+   <DC></DC>
+   <KR>提交的選票</KR>
+   <ES>Votos enviados</ES>
+   <JP>提出された投票</JP>
+   <CN>提交的选票</CN>
+  </HCS>
+  </HARD_CODED_STRINGS>
+</TRANSLATION_DATA>
