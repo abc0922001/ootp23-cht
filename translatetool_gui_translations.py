@@ -16,7 +16,7 @@ for hcs in root.iter('HCS'):
     print(en.text)
     print("Call Open API")
     completion = openai.ChatCompletion.create(
-    model="gpt-3.5-turbo", 
+    model="gpt-4", 
     messages=[{"role": "user",  "content": f"Please help me translate the following text into commonly used traditional Chinese in Taiwan. My input is all about baseball and comes from a baseball simulation game called OOTP. Please use commonly used punctuation marks in Taiwan, and make sure that the meaning is not deviated from the original text, the translation is accurate, without omission or arbitrary addition. The translation should be clear and smooth, and the choice of words should be appropriate, pursuing the elegance and simplicity of the article itself. Return only the translated content, not the original text. Here is the text:\n\n{en.text}"}]
     )
     print(completion.choices[0].message.content)
