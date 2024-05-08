@@ -1,0 +1,310 @@
+<TEXT_FILE fileversion="OOTP Developments 2022-12-20 07:38:02">
+<CAT id="842">
+<OBJ id="43164" text="Yes, I agree. This proposal works for us.">
+<COND id="416" value="0"/>
+</OBJ>
+<OBJ id="43178" text="I agree. It has been a pleasure doing business with you.">
+<COND id="416" value="0"/>
+</OBJ>
+<OBJ id="43179" text="There's a lot to like in this offer for us."/>
+<OBJ id="43180" text="This is a good deal for us. I accept.">
+<COND id="416" value="0"/>
+</OBJ>
+<OBJ id="43181" text="I like your proposal. Please submit it."/>
+<OBJ id="57327" text="That's a good offer for me. Please submit it."/>
+<OBJ id="57328" text="I very much like the proposal."/>
+<OBJ id="62391" text="You have yourself a deal!"/>
+<OBJ id="62392" text="Done deal, as soon as you submit the offer."/>
+<OBJ id="62393" text="If it's good with you, it's good with us. Let's do it."/>
+<OBJ id="62394" text="Yes, let's consummate the deal."/>
+<OBJ id="62395" text="Seems like a good deal. Please submit your offer."/>
+<OBJ id="62645" text="We will accept your offer."/>
+<OBJ id="62646" text="We like your proposal. Let's make it happen."/>
+<OBJ id="62647" text="Let's finalize the deal."/>
+<OBJ id="62648" text="Submit your offer and we'll make our acceptance official."/>
+<OBJ id="62649" text="We agree to your terms."/>
+<OBJ id="62650" text="Your terms are acceptable; let's do it."/>
+<OBJ id="62651" text="We agree to this trade."/>
+<OBJ id="62652" text="It's a deal!"/>
+<OBJ id="62653" text="As soon as you submit this offer, we'll sign off on it."/>
+<OBJ id="62654" text="Deal! Go ahead and submit your offer so we can make it official."/>
+</CAT>
+
+<CAT id="843">
+<OBJ id="43165" text="I cannot agree to this trade, but it's very close to being alright."/>
+<OBJ id="43182" text="I can't quite accept this deal. Please add something else to it."/>
+<OBJ id="43183" text="This proposal is very close to being acceptable. I can't quite agree to it."/>
+<OBJ id="43184" text="I cannot agree to this deal. Please add more and I'll probably accept it."/>
+<OBJ id="62396" text="Close but not quite. What else can you add?"/>
+<OBJ id="62397" text="Close but no cigar. Let's keep talking."/>
+<OBJ id="62398" text="I have to turn down your offer. But it's close."/>
+<OBJ id="62399" text="I'd still like to make a deal, though I must turn this one down."/>
+<OBJ id="62400" text="I think we're close. What else can you offer?"/>
+<OBJ id="62401" text="We're getting closer; I can feel it. Still need something more."/>
+<OBJ id="62402" text="I decline. But let's keep the conversation going."/>
+<OBJ id="62403" text="Let's keep trying. I think we're close to sealing the deal."/>
+<OBJ id="62635" text="We're headed in the right direction, even if we're not there yet."/>
+<OBJ id="62636" text="I think we're getting closer to hammering out a deal."/>
+<OBJ id="62637" text="If we keep at it, we may be able to close the deal."/>
+<OBJ id="62638" text="A deal is almost within reach.  Let's keep at it."/>
+<OBJ id="62639" text="A deal is almost within reach.  Let's keep trying."/>
+<OBJ id="62640" text="Not a done deal, but we're close."/>
+<OBJ id="62641" text="I can't accept this offer, but let's keep trying."/>
+<OBJ id="62642" text="I like your proposal, but not enough to make a deal."/>
+<OBJ id="62643" text="Add a bit more to your offer and we may be able to do business."/>
+<OBJ id="62644" text="Sweeten the pot and we may be able to work out a deal."/>
+</CAT>
+
+<CAT id="844">
+<OBJ id="43166" text="OK, I have to think about this. Please make an official offer and I'll respond soon."/>
+<OBJ id="43185" text="I will need to think about this offer. Please submit it and I'll get back to you."/>
+<OBJ id="43186" text="This offer might be enough for us, but I need more time to think about it."/>
+<OBJ id="43187" text="I can't quite accept this right now. However, if you submit it, I'll give it some more consideration."/>
+<OBJ id="62404" text="I'll give it some thought. Feel free to make your offer official and I'll be in touch."/>
+<OBJ id="62578" text="I'll decide soon, so please make your offer official."/>
+<OBJ id="62579" text="I'll need more time to think about your offer."/>
+<OBJ id="62580" text="Once you submit your offer, I'll make a decision."/>
+<OBJ id="62581" text="Let me give it some more thought."/>
+<OBJ id="62582" text="I need more time to make up my mind."/>
+<OBJ id="62617" text="I'm still mulling over your proposal."/>
+<OBJ id="62618" text="Submit your offer and I'll let you know what I decide to do."/>
+<OBJ id="62619" text="I'm sorry, but I need more time to analyze your offer."/>
+<OBJ id="62620" text="Make your offer official and I'll do my best to respond promptly."/>
+<OBJ id="62621" text="Submit your offer and I'll get back to you ASAP."/>
+<OBJ id="62622" text="I'll give you an answer soon.  In the meantime, feel free to submit your offer."/>
+<OBJ id="62624" text="I'm not sure yet what I want to do about your offer."/>
+<OBJ id="62625" text="Please give me more time to consider your proposal."/>
+<OBJ id="62626" text="Once you submit your offer, I'll try to give you a firm answer."/>
+<OBJ id="62627" text="I'll let you know my decision, once you submit your offer."/>
+<OBJ id="62628" text="I should be ready to make a decision, as soon as you submit your offer."/>
+<OBJ id="62629" text="I'm not yet sold on this deal.  Give me more time to consider it."/>
+<OBJ id="62630" text="I'd like to give you an answer, but I need more time to think about it."/>
+<OBJ id="62631" text="I'm still weighing the pros and cons of your proposal."/>
+<OBJ id="62632" text="I should have an answer for you soon.  Submit the offer and I'll let you know."/>
+<OBJ id="62633" text="Our side is still considering your proposal."/>
+<OBJ id="62634" text="I haven't made a decision yet, but feel free to submit your proposal."/>
+</CAT>
+
+<CAT id="845">
+<OBJ id="43167" text="That's not a fair deal. You'll need to offer us more."/>
+<OBJ id="43188" text="That isn't enough for us. Please make a better offer."/>
+<OBJ id="43189" text="We need more to make this deal work from our end."/>
+<OBJ id="43190" text="There's not enough in here for us. Please offer a little bit more."/>
+<OBJ id="62433" text="We need more than what you've offered."/>
+<OBJ id="62434" text="You're on the right track, but we need more incentive to make a deal."/>
+<OBJ id="62435" text="The offer isn't good enough, but I think we're close."/>
+<OBJ id="62436" text="With more effort, I think we can reach an agreement."/>
+<OBJ id="62437" text="The answer is no. But we're clearly not that far apart."/>
+<OBJ id="62438" text="Your offer is not quite what we're looking for. But we're still listening."/>
+<OBJ id="62439" text="I know we're close but we need a bit more from your side."/>
+<OBJ id="62440" text="If you can offer a little more, we may be able to seal the deal."/>
+<OBJ id="62482" text="Definitely maybe.  Just need a bit more."/>
+<OBJ id="62483" text="Appreciate the offer but we need something more."/>
+<OBJ id="62484" text="Tack on a bit more and we may have a deal."/>
+<OBJ id="62485" text="It won't take much more and we can strike a deal."/>
+<OBJ id="62486" text="I like the offer.  Just need a little bit more."/>
+<OBJ id="62487" text="Tantalizing offer.  We'll need more, though."/>
+<OBJ id="62488" text="Hate to say no, but that's our answer -- unless you can toss in a bit more."/>
+</CAT>
+
+<CAT id="846">
+<OBJ id="43168" text="If that's the best you have to offer, I guess we don't have anything to talk about."/>
+<OBJ id="43191" text="This is not a very good offer. Please add more if you want to continue the conversation."/>
+<OBJ id="43192" text="I definitely cannot accept this offer. You'll need to sweeten the pot."/>
+<OBJ id="62421" text="This will not work. "/>
+<OBJ id="62422" text="This is a no go. Got a better offer?"/>
+<OBJ id="62423" text="I'm not sold on the offer. What can you do to make it more appealing?"/>
+<OBJ id="62424" text="Try again. Fail again. Fail better."/>
+<OBJ id="62425" text="This won't get it done. But let's keep trying."/>
+<OBJ id="62426" text="Make me an offer I can't refuse."/>
+<OBJ id="62427" text="Not gonna happen unless you add some sugar."/>
+<OBJ id="62428" text="That won't work for us. Got a better proposal?"/>
+<OBJ id="62429" text="That deal might be good enough for you, but it's not good enough for us."/>
+<OBJ id="62430" text="Nothing doing. But let's keep trying and see what happens."/>
+<OBJ id="62432" text="This negotiation is going nowhere fast. Let's get serious, shall we?"/>
+<OBJ id="62489" text="You'll have to do better if you want to strike a deal."/>
+<OBJ id="62490" text="Your offer's not really close to what we need."/>
+<OBJ id="62491" text="No chance with that offer, I'm afraid."/>
+<OBJ id="62492" text="Better up your offer or you can forget it."/>
+<OBJ id="62493" text="Unless you can do better, this conversation is over."/>
+</CAT>
+
+<CAT id="847">
+<OBJ id="43169" text="That's a very bad deal for us. I won't even bother discussing it."/>
+<OBJ id="43193" text="You'll need to offer a lot more before I'd make this deal."/>
+<OBJ id="43194" text="Throw in a player who can really contribute and I'll consider the offer."/>
+<OBJ id="43195" text="While I don't quite consider this proposal an insult, you certainly need to make it much more compelling."/>
+<OBJ id="62413" text="I'd like to make a deal -- but this isn't it."/>
+<OBJ id="62414" text="You'll have to do a whole lot better than that."/>
+<OBJ id="62415" text="No, that comes nowhere near to what we need to close a deal."/>
+<OBJ id="62416" text="Not happening. Sorry."/>
+<OBJ id="62417" text="Unless you get more serious with your offer, you're wasting your time."/>
+<OBJ id="62418" text="Up your game and maybe we can do a deal."/>
+<OBJ id="62419" text="I certainly hope that's not your final offer."/>
+<OBJ id="62420" text="Your offer's a non-starter. What else do you propose?"/>
+<OBJ id="62477" text="I don't think so.  No."/>
+<OBJ id="62478" text="You'll have to up the ante -- and then some."/>
+<OBJ id="62479" text="Prove you're serious by making a better offer."/>
+<OBJ id="62480" text="No, not even close.  Sorry."/>
+<OBJ id="62481" text="Your offer tells me you're not really serious."/>
+<OBJ id="62494" text="Come back to us with a much better deal or these talks are over."/>
+<OBJ id="62495" text="Make an offer worth our while and we'll listen. Otherwise, don't bother."/>
+</CAT>
+
+<CAT id="848">
+<OBJ id="43170" text="You are kidding, right? I'd never accept this deal!"/>
+<OBJ id="43196" text="Please get back to me when you have a serious offer."/>
+<OBJ id="43197" text="Really? This must be a joke."/>
+<OBJ id="43198" text="This offer of yours is an insult."/>
+<OBJ id="43199" text="You must be joking with this offer."/>
+<OBJ id="43200" text="This might be the worst offer I've ever received."/>
+<OBJ id="62405" text="You can't be serious."/>
+<OBJ id="62406" text="I'm not sure how to respond. No. Just no."/>
+<OBJ id="62407" text="Is this a joke? Let's get serious."/>
+<OBJ id="62408" text="Get serious or don't bother."/>
+<OBJ id="62409" text="You're wasting my time with such an offer."/>
+<OBJ id="62410" text="Forget it. No way, no how."/>
+<OBJ id="62411" text="Let me tell you what you can do with your offer."/>
+<OBJ id="62412" text="Now, that's a perfect proposal. Perfectly awful."/>
+<OBJ id="62474" text="Yawn."/>
+<OBJ id="62475" text="I'll be blunt.  No."/>
+<OBJ id="62476" text="Please stop wasting my time."/>
+<OBJ id="62496" text="I like a joke, same as everyone else.  Now, tell me what you really have in mind."/>
+<OBJ id="62497" text="Frankly, that's an insulting proposal."/>
+<OBJ id="62498" text="Get real."/>
+<OBJ id="62499" text="Stop wasting my time."/>
+<OBJ id="62500" text="This deal has absolutely no chance of happening."/>
+<OBJ id="62501" text="Give me a break."/>
+<OBJ id="62502" text="Fat chance of that deal ever happening."/>
+<OBJ id="62503" text="I'll give you credit. You've got a great sense of humor."/>
+<OBJ id="62504" text="Your proposal is headed to the circular file."/>
+<OBJ id="62505" text="No, times a thousand."/>
+<OBJ id="62831" text="Zero chance of this ever happening."/>
+<OBJ id="62832" text="What have you been smoking?"/>
+</CAT>
+
+<CAT id="849">
+<OBJ id="43171" text="That seems like a good deal to me. Hopefully, the other side agrees."/>
+<OBJ id="43172" text="There is a lot to like about this trade!"/>
+<OBJ id="62372" text="This is a very good deal for us!"/>
+<OBJ id="62373" text="My advice: do it! "/>
+<OBJ id="62374" text="Making this trade makes sense. It'd be to our benefit."/>
+<OBJ id="62376" text="I'd go ahead and get this trade done. It's a good offer."/>
+<OBJ id="62377" text="What's not to like about this trade? "/>
+<OBJ id="62378" text="You won't get any flak from me if you make this deal."/>
+<OBJ id="62379" text="I think we'd regret it if we didn't make this deal."/>
+<OBJ id="62380" text="This is a good offer. I say let's do it.">
+<COND id="504" value="0"/>
+</OBJ>
+<OBJ id="62381" text="Seems like a decent deal. I think it'd help our team."/>
+<OBJ id="62544" text="Do it.">
+<COND id="504" value="0"/>
+</OBJ>
+<OBJ id="62545" text="Make it happen."/>
+<OBJ id="62546" text="This trade would be advantageous to us."/>
+<OBJ id="62547" text="I'm all for sealing this deal."/>
+<OBJ id="62548" text="We'd definitely benefit from making this trade."/>
+<OBJ id="62549" text="The more I think about it, the more I like it."/>
+<OBJ id="62550" text="What's not to like? I say go for it."/>
+<OBJ id="62551" text="The pros outweigh the cons. I say do it."/>
+<OBJ id="62552" text="Make it happen is my advice."/>
+<OBJ id="62554" text="I wouldn't hesitate to make this trade."/>
+<OBJ id="62555" text="Hands down, it's a good deal in my opinion."/>
+<OBJ id="62594" text="A firm 'yes' from me.">
+<COND id="504" value="0"/>
+</OBJ>
+<OBJ id="62595" text="I don't like it; I love it."/>
+<OBJ id="62597" text="My gut tells me this is a pretty good deal."/>
+<OBJ id="62598" text="I can't think of a good reason not to accept this offer.">
+<COND id="504" value="0"/>
+</OBJ>
+<OBJ id="62599" text="I fully support making this deal."/>
+<OBJ id="62600" text="I have no misgivings about this offer. Get it done."/>
+<OBJ id="62601" text="You'll regret it later if you decline this offer. I say go for it."/>
+<OBJ id="62602" text="Accept, accept!"/>
+<OBJ id="62603" text="Make the deal before they withdraw the offer.">
+<COND id="504" value="0"/>
+</OBJ>
+<OBJ id="62604" text="This is a trade that would really help us."/>
+<OBJ id="62605" text="This trade would make our team better for sure."/>
+<OBJ id="62606" text="I like it. I like it a lot, in fact."/>
+<OBJ id="62607" text="We would definitely benefit from this trade."/>
+<OBJ id="62830" text="Two thumbs up."/>
+</CAT>
+
+<CAT id="850">
+<OBJ id="43173" text="While not improving us by a lot, this would not really hurt us either."/>
+<OBJ id="43174" text="This is not too bad. You can try asking for more but could be fair as it stands."/>
+<OBJ id="62353" text="I'm ambivalent about this trade. I could take it or leave it."/>
+<OBJ id="62354" text="I have mixed feelings about this proposal. "/>
+<OBJ id="62355" text="I'm not leaning for or against this trade proposal."/>
+<OBJ id="62356" text="I don't have a strong opinion about this deal, one way or the other."/>
+<OBJ id="62358" text="I guess it's an okay deal. Do what you think is right."/>
+<OBJ id="62359" text="Maybe we could ask for more; more likely, this is the best deal we can make."/>
+<OBJ id="62360" text="It's not a bad deal, but maybe we could do better."/>
+<OBJ id="62361" text="Yes, no, maybe? I really have no preference."/>
+<OBJ id="62538" text="I'm on the fence about this deal."/>
+<OBJ id="62539" text="Could do better, could do worse."/>
+<OBJ id="62567" text="This trade is okay at best."/>
+<OBJ id="62568" text="There are good arguments for and against this deal."/>
+<OBJ id="62569" text="I don't have a firm opinion about this trade proposal."/>
+<OBJ id="62570" text="I'd be fine with accepting or rejecting this offer.">
+<COND id="504" value="0"/>
+</OBJ>
+<OBJ id="62571" text="I don't feel strongly, one way or the other. It's your call."/>
+<OBJ id="62572" text="This might be the best we can do. I don't know."/>
+<OBJ id="62573" text="I hate to waffle, but I go back and forth on this one."/>
+<OBJ id="62574" text="Not a good deal, but also not a bad deal."/>
+<OBJ id="62576" text="Meh."/>
+<OBJ id="62577" text="This proposal is nothing to get too excited about. But I'm not against it."/>
+<OBJ id="62583" text="Maybe, maybe not. You'll have to trust your gut on this one."/>
+<OBJ id="62586" text="Tough call. I swing back and forth on this proposal."/>
+<OBJ id="62587" text="Okay deal but could do better."/>
+<OBJ id="62588" text="I'm of two minds about this deal. Hard to give a firm yes or no."/>
+<OBJ id="62623" text="Toss-up, as far as I'm concerned."/>
+</CAT>
+
+<CAT id="851">
+<OBJ id="43175" text="Sorry, boss, but this deal does not make too much sense to me."/>
+<OBJ id="43176" text="This is not really close to being fair. We should ask for more."/>
+<OBJ id="43177" text="This is not fair at all. We're not getting enough in return!"/>
+<OBJ id="62363" text="Don't make this deal. It's not in our best interest."/>
+<OBJ id="62364" text="I feel unequivocally that this is a bad deal. "/>
+<OBJ id="62365" text="I wouldn't pull the trigger. We can do better."/>
+<OBJ id="62366" text="I have misgivings about this trade. The price is too steep."/>
+<OBJ id="62367" text="I don't think we'd get enough in return. That's my opinion."/>
+<OBJ id="62368" text="If you want an honest answer, I'd say no. I wouldn't make this deal."/>
+<OBJ id="62369" text="We need more than what they're offering. So, no, I wouldn't make this deal."/>
+<OBJ id="62370" text="I'd reject the trade offer. It doesn't make sense for us."/>
+<OBJ id="62371" text="My advice: decline the offer. We can do better."/>
+<OBJ id="62541" text="This trade is not in our best interest."/>
+<OBJ id="62542" text="I strongly advise against making this deal."/>
+<OBJ id="62543" text="This is not a trade I would make."/>
+<OBJ id="62556" text="Bad deal in my opinion."/>
+<OBJ id="62557" text="Not the best deal from where I sit."/>
+<OBJ id="62558" text="In my opinion, this trade would be a mistake."/>
+<OBJ id="62559" text="Probably not a good idea, this trade."/>
+<OBJ id="62560" text="I'd put the kibosh on this trade, if I were you."/>
+<OBJ id="62561" text="I cannot endorse this proposal."/>
+<OBJ id="62562" text="I'd think long and hard before making this trade, if I were you."/>
+<OBJ id="62563" text="I think we'd regret it, if we made this trade."/>
+<OBJ id="62564" text="I get heartburn just thinking about this proposal."/>
+<OBJ id="62565" text="I'd advise against making this trade."/>
+<OBJ id="62566" text="This is not a deal I would do."/>
+<OBJ id="62575" text="I have a bad feeling about this trade; but that could just be indigestion."/>
+<OBJ id="62589" text="Don't do it."/>
+<OBJ id="62590" text="I'm in the 'no' camp on this one."/>
+<OBJ id="62591" text="No. Full stop."/>
+<OBJ id="62592" text="Definitely not a good deal for us."/>
+<OBJ id="62593" text="Reject the deal. That's my advice."/>
+<OBJ id="62608" text="We would be worse off if we made this trade."/>
+<OBJ id="62609" text="It would be a mistake to accept this offer."/>
+<OBJ id="62610" text="We'd regret it if we accepted this deal."/>
+<OBJ id="62611" text="I don't like it. I don't like it at all."/>
+<OBJ id="62612" text="This is a bad deal. Change my mind."/>
+<OBJ id="62613" text="This is a stinker of a deal."/>
+<OBJ id="62614" text="We'd look like idiots if we accepted this offer."/>
+<OBJ id="62615" text="I can't think of a good reason to accept this offer."/>
+<OBJ id="62616" text="I have serious doubts about this deal."/>
+</CAT>
+</TEXT_FILE>
