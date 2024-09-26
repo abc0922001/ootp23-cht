@@ -579,7 +579,7 @@
   <HCS i="74">
    <EN>The players above are eligible for salary arbitration. Hearings are held on %d; you must submit or withdraw your offers before then. The values set by default reflect the estimated value and have been submitted already, so you might want to offer lower amounts! Players who are not offered a contract will become free agents</EN>
    <DC />
-   <KR>以上球員有資格參與薪資仲裁。聽證會將於 %d 舉行；您必須在此之前提交或撤回您的報價。預設值反映了估計值並已提交，因此您可能希望提供較低的金額！未獲得合約報價的球員將成為自由球員</KR>
+   <KR>上述球員有資格進行薪資仲裁。聽證會將於 %d 舉行；您必須在該日期之前提交或撤回您的報價。預設的數值反映了估計的價值，並且已經提交，但您可能會希望提出較低的報價！未被提供合約的球員將成為自由球員</KR>
    <ES>Los jugadores anteriores son elegibles para el arbitraje salarial. Las audiencias se llevan a cabo el %d; debe enviar o retirar sus ofertas antes de esa fecha. Los valores establecidos de forma predeterminada reflejan el valor estimado y ya se han enviado, por lo que es posible que desee ofrecer cantidades más bajas. Los jugadores a los que no se les ofrezca un contrato se convertirán en agentes libres</ES>
    <JP>上記のプレーヤーは、給与仲裁の対象となります。公聴会は％dで開催されます。それまでにオファーを送信または撤回する必要があります。デフォルトで設定されている値は推定値を反映しており、すでに送信されているため、より少ない金額を提供することをお勧めします。契約が提供されていないプレイヤーはフリーエージェントになります</JP>
    <CN>上述球员有资格进行薪資仲裁。听证会在 %d 举行；您必须在此之前提交或撤回您的报价。默认设置的值反映了估计值并且已经提交，因此您可能希望提供更低的金额！未获得合同的球员将成为自由球员</CN>
@@ -11499,7 +11499,7 @@
   <HCS i="1449">
    <EN>Re-import name &amp; ethnicity database</EN>
    <DC />
-   <KR>重新导入姓名和民族数据库</KR>
+   <KR>重新匯入姓名與族裔資料庫</KR>
    <ES>Volver a importar la base de datos de nombres y etnias</ES>
    <JP>名前と民族データベースを再インポートする</JP>
    <CN>重新导入姓名和种族数据库</CN>
@@ -11515,7 +11515,7 @@
   <HCS i="1451">
    <EN>Re-import school database</EN>
    <DC />
-   <KR>重新导入学校数据库</KR>
+   <KR>重新匯入學校資料庫</KR>
    <ES>Volver a importar la base de datos de la escuela</ES>
    <JP>学校のデータベースを再インポートする</JP>
    <CN>重新导入学校数据库</CN>
@@ -12187,7 +12187,7 @@
   <HCS i="1535">
    <EN>%player_name is not on the secondary roster</EN>
    <DC />
-   <KR>%player_name並未在次要名單上</KR>
+   <KR>%player_name 並未在次要名單上</KR>
    <ES>%player_name no está en la lista secundaria</ES>
    <JP>％player_nameはセカンダリ名簿にありません</JP>
    <CN>%player_name 不在二级名单上</CN>
@@ -12211,7 +12211,7 @@
   <HCS i="1538">
    <EN>Auto-Calc Modifiers</EN>
    <DC />
-   <KR>自动计算修正值</KR>
+   <KR>自動計算修正值</KR>
    <ES>Modificadores de cálculo automático</ES>
    <JP>自動計算修飾子</JP>
    <CN>自动计算修饰符</CN>
@@ -12379,7 +12379,7 @@
   <HCS i="1559">
    <EN>Rosters Already Set</EN>
    <DC />
-   <KR>名單已确认</KR>
+   <KR>名單已設定</KR>
    <ES>Listas ya establecidas</ES>
    <JP>名簿はすでに設定されています</JP>
    <CN>名册已经确定</CN>
@@ -12475,7 +12475,7 @@
   <HCS i="1572">
    <EN>The numbers are an estimate based on current team market sizes and the current financial settings. If you alter any settings, please hit the 'Refresh' button to see the projected effect</EN>
    <DC />
-   <KR>數字是基於目前球隊市場的估計和目前的財務設定。如果您修改了任何設定，請點擊“刷新”按鈕以查看預計的影響</KR>
+   <KR>這些數字是根據當前球隊市場規模和目前的財務設定進行估算的。如果您修改任何設定，請按下「刷新」按鈕以查看預期效果</KR>
    <ES>Los números son una estimación basada en el tamaño actual del mercado de equipos y la configuración financiera actual. Si modifica alguna configuración, presione el botón &amp;#39;Actualizar&amp;#39; para ver el efecto proyectado</ES>
    <JP>数値は、現在のチームの市場規模と現在の財務設定に基づく推定値です。設定を変更した場合は、[更新]ボタンを押して、投影された効果を確認してください</JP>
    <CN>这些数字是基于当前团队市场规模和当前财务状况的估计。如果您更改任何设置，请点击“刷新”按钮查看投影效果</CN>
@@ -12523,7 +12523,7 @@
   <HCS i="1581">
    <EN>There are %d players on the ballot this year</EN>
    <DC />
-   <KR>今年票選中有%d名球員</KR>
+   <KR>今年票選中有 %d 名球員</KR>
    <ES>Hay %d jugadores en la boleta este año</ES>
    <JP>今年の投票には％d人のプレイヤーがいます</JP>
    <CN>今年有 %d 名球员参加选票</CN>
@@ -12699,7 +12699,7 @@
   <HCS i="1603">
    <EN>Make a GM co-commish</EN>
    <DC />
-   <KR>讓一位經理成為共同聯合主席</KR>
+   <KR>將總經理設為聯合聯盟委員</KR>
    <ES>Hacer un co-comisionado de GM</ES>
    <JP>GMを共同コミッシュにする</JP>
    <CN>让 GM 共同承诺</CN>
@@ -12707,7 +12707,7 @@
   <HCS i="1604">
    <EN>Release a co-commish</EN>
    <DC />
-   <KR>釋放一個聯合總管</KR>
+   <KR>解除聯合聯盟委員職務</KR>
    <ES>Liberar una comisión conjunta</ES>
    <JP>ココミッシュをリリースする</JP>
    <CN>发布共同承诺</CN>
@@ -12763,7 +12763,7 @@
   <HCS i="1611">
    <EN>Purchased the contract of %player_position %player_name from the %team_name of the %league</EN>
    <DC />
-   <KR>從%league %team%player_name購買了%player_position的合約</KR>
+   <KR>從 %league 的 %team_name 購買了 %player_position %player_name 的合約</KR>
    <ES>Compró el contrato de %player_position %player_name del %team_name de la %league</ES>
    <JP>%leagueの％team_nameから％player_position％player_nameの契約を購入しました</JP>
    <CN>从 %league 的 %team_name 购买了 %player_position %player_name 的合同</CN>
@@ -12771,7 +12771,7 @@
   <HCS i="1612">
    <EN>Contract was purchased by the %team_name organization</EN>
    <DC />
-   <KR>合約已被%team_name組織購買</KR>
+   <KR>合約已被 %team_name 組織購買</KR>
    <ES>El contrato fue adquirido por la organización %team_name</ES>
    <JP>契約は％team_name組織によって購入されました</JP>
    <CN>合同由 %team_name 组织购买</CN>
@@ -12795,7 +12795,7 @@
   <HCS i="1615">
    <EN>Game Days per Sim</EN>
    <DC />
-   <KR>每場比賽天數 per 模擬</KR>
+   <KR>每次模擬的比賽天數</KR>
    <ES>Días de juego por Sim</ES>
    <JP>シムあたりのゲーム日数</JP>
    <CN>每个 Sim 的游戏天数</CN>
@@ -12987,7 +12987,7 @@
   <HCS i="1639">
    <EN>Players listed are eligible for election to the %league Hall of Fame for %year. They are the only players eligible to receive votes.{nl}Please select up to %number players to be inducted. Ballots must be submitted before %date</EN>
    <DC />
-   <KR>以下球員符合%year %league 名人堂提名資格，只有這些球員有資格接受投票{nl}請選擇最多 %number 名球員進入名人堂。選票必須在 %date 之前提交</KR>
+   <KR>所列球員有資格參加 %year 年的 %league 名人堂選舉。他們是唯一有資格接受投票的球員。{nl}請選擇最多 %number 名球員入選。選票必須在 %date 之前提交</KR>
    <ES>Los jugadores enumerados son elegibles para ser elegidos para el Salón de la Fama de la %liga durante %año. Son los únicos jugadores elegibles para recibir votos.{nl}Seleccione hasta %number de jugadores para incluirlos. Las boletas deben enviarse antes del %fecha</ES>
    <JP>リストされているプレーヤーは、％年間、％リーグの殿堂入りの資格があります。投票の対象となるのは彼らだけです。{nl}入会するプレーヤーを最大％人選択してください。投票は％dateの前に提出する必要があります</JP>
    <CN>列出的球员有资格在 %year 入选 %league 名人堂。他们是唯一有资格获得选票的球員。{nl}请选择最多 %number 的球員来入选。选票必须在 %date 之前提交</CN>
@@ -13043,7 +13043,7 @@
   <HCS i="1646">
    <EN>Edit League Colors &amp; Logo for %league_name</EN>
    <DC />
-   <KR>編輯%league_name聯盟的顏色與標誌</KR>
+   <KR>編輯 %league_name 聯盟的顏色與標誌</KR>
    <ES>Editar los colores y el logotipo de la liga para %league_name</ES>
    <JP>%league_nameのリーグの色とロゴを編集します</JP>
    <CN>编辑 %league_name 的联赛颜色和徽标</CN>
@@ -13067,7 +13067,7 @@
   <HCS i="1649">
    <EN>Run Computer Manager on all Teams</EN>
    <DC />
-   <KR>在所有球队上运行计算机经理</KR>
+   <KR>在所有球隊執行電腦經理</KR>
    <ES>Ejecute Computer Manager en todos los equipos</ES>
    <JP>すべてのチームでコンピューターマネージャーを実行する</JP>
    <CN>在所有团队上运行计算机管理器</CN>
@@ -13179,7 +13179,7 @@
   <HCS i="1663">
    <EN>Set all teams to controlled by %manager_name</EN>
    <DC />
-   <KR>將所有球隊調整為由%manager_name掌控</KR>
+   <KR>將所有球隊調整為由 %manager_name 掌控</KR>
    <ES>Establecer todos los equipos controlados por %manager_name</ES>
    <JP>すべてのチームを％manager_nameによって制御されるように設定します</JP>
    <CN>将所有团队设置为由 %manager_name 控制</CN>
@@ -13411,7 +13411,7 @@
   <HCS i="1696">
    <EN>%team_name has just announced the release of %manager_name</EN>
    <DC />
-   <KR>%teamname 剛宣布 %總教練名字 的離職</KR>
+   <KR>%team_name 剛剛宣布解雇 %manager_name</KR>
    <ES>%team_name acaba de anunciar el lanzamiento de %manager_name</ES>
    <JP>％team_nameは％manager_nameのリリースを発表しました</JP>
    <CN>%team_name 刚刚宣布发布 %manager_name</CN>
@@ -13419,7 +13419,7 @@
   <HCS i="1697">
    <EN>%team_name has just announced the firing of %manager_name</EN>
    <DC />
-   <KR>%teamname剛宣布解僱總教練%教練名稱</KR>
+   <KR>%team_name 剛剛宣布解僱 %manager_name</KR>
    <ES>%team_name acaba de anunciar el despido de %manager_name</ES>
    <JP>％team_nameは％manager_nameの解雇を発表しました</JP>
    <CN>%team_name 刚刚宣布解雇 %manager_name</CN>
@@ -13643,7 +13643,7 @@
   <HCS i="1725">
    <EN>Batter Rejection Amount</EN>
    <DC />
-   <KR>打者拒絕次數</KR>
+   <KR>打者拒絕金額</KR>
    <ES>Cantidad de rechazo del bateador</ES>
    <JP>バッター拒否量</JP>
    <CN>电池拒收金额</CN>
@@ -13651,7 +13651,7 @@
   <HCS i="1726">
    <EN>Pitcher Rejection Amount</EN>
    <DC />
-   <KR>投手被拒绝金额</KR>
+   <KR>投手拒絕金額</KR>
    <ES>Monto de rechazo del lanzador</ES>
    <JP>投手拒否額</JP>
    <CN>投手拒绝量</CN>
@@ -13659,7 +13659,7 @@
   <HCS i="1727">
    <EN>Rotate Host Cities between Tournaments</EN>
    <DC />
-   <KR>在锦标赛之间轮换主办城市</KR>
+   <KR>在不同賽事之間輪換主辦城市</KR>
    <ES>Rotar ciudades anfitrionas entre torneos</ES>
    <JP>トーナメント間で開催都市をローテーションする</JP>
    <CN>在锦标赛之间轮换主办城市</CN>
@@ -19987,7 +19987,7 @@
   <HCS i="2524">
    <EN>C Instructor</EN>
    <DC />
-   <KR>C 教練</KR>
+   <KR>捕手教練</KR>
    <ES>Instructor C</ES>
    <JP>Cインストラクター</JP>
    <CN>C 教练</CN>
@@ -19995,7 +19995,7 @@
   <HCS i="2525">
    <EN>IF Instructor</EN>
    <DC />
-   <KR>打擊教練</KR>
+   <KR>內野教練</KR>
    <ES>SI Instructor</ES>
    <JP>IFインストラクター</JP>
    <CN>如果教练</CN>
@@ -20011,7 +20011,7 @@
   <HCS i="2527">
    <EN>BSR Instructor</EN>
    <DC />
-   <KR>BSR 教練</KR>
+   <KR>跑壘教練</KR>
    <ES>Instructor BSR</ES>
    <JP>BSRインストラクター</JP>
    <CN>BSR 讲师</CN>
@@ -31524,7 +31524,7 @@
   <HCS i="3981">
    <EN>Miles per Hour</EN>
    <DC />
-   <KR>英文原文: Miles per Hour每小时英里数</KR>
+   <KR>每小時英里數</KR>
    <ES>Millas por hora</ES>
    <JP>マイル/時</JP>
    <CN>英里每小时</CN>
@@ -31700,7 +31700,7 @@
   <HCS i="4003">
    <EN>Max. Frames per Second</EN>
    <DC />
-   <KR>每秒最大帧数</KR>
+   <KR>每秒最大幀數</KR>
    <ES>máx. Cuadros por segundo</ES>
    <JP>最大1秒あたりのフレーム数</JP>
    <CN>最大限度。每秒帧数</CN>
@@ -31908,7 +31908,7 @@
   <HCS i="4029">
    <EN>Walk it off</EN>
    <DC />
-   <KR>走开吧</KR>
+   <KR>再見比賽</KR>
    <ES>caminar fuera</ES>
    <JP>歩き去る</JP>
    <CN>走开</CN>
@@ -36164,7 +36164,7 @@
   <HCS i="4622">
    <EN>Gate Share Lost</EN>
    <DC />
-   <KR>失去大門票收入</KR>
+   <KR>門票收入分成損失</KR>
    <ES>Compartimiento de puerta perdido</ES>
    <JP>ゲートシェアが失われました</JP>
    <CN>门份额丢失</CN>
@@ -36188,7 +36188,7 @@
   <HCS i="4625">
    <EN>Please select how player ratings are displayed in the game. You may also modify the accuracy of the scouting system, which can increase or lower the difficulty of evaluating players. Historical replay leagues have the scouting system disabled and hence a 100% accuracy by default</EN>
    <DC />
-   <KR>請選擇球員評級在遊戲中的顯示方式。您也可以修改球探系統的精度，進而提高或降低評估球員的難度。在歷史重現联盟中，球探系統已停用，因此默認精度為100％</KR>
+   <KR>請選擇在遊戲中如何顯示球員評級。您也可以修改球探系統的準確度，這可能會提高或降低評估球員的難度。歷史重播聯盟的球探系統已被禁用，因此預設為 100% 準確度。</KR>
    <ES>Seleccione cómo se muestran las calificaciones de los jugadores en el juego. También puede modificar la precisión del sistema de exploración, lo que puede aumentar o disminuir la dificultad de evaluar a los jugadores. Las ligas de repetición históricas tienen el sistema de exploración deshabilitado y, por lo tanto, una precisión del 100% de forma predeterminada</ES>
    <JP>ゲームでのプレーヤーの評価の表示方法を選択してください。スカウティングシステムの精度を変更することもできます。これにより、プレイヤーの評価の難易度を上げたり下げたりすることができます。過去のリプレイリーグではスカウティングシステムが無効になっているため、デフォルトで100％の精度が得られます</JP>
    <CN>请选择球員评分在游戏中的显示方式。您还可以修改球探系统的准确性，这可以增加或降低评估球员的难度。历史回放联赛禁用了球探系统，因此默认情况下准确率为 100%</CN>
@@ -51228,7 +51228,7 @@
   <HCS i="6548">
    <EN>Fielding Potential Rating at the First Base Position</EN>
    <DC />
-   <KR>一垒手守備潛力評級</KR>
+   <KR>一壘手守備潛力評級</KR>
    <ES>Clasificación de potencial de fildeo en la posición de primera base</ES>
    <JP>一塁位置での守備ポテンシャル評価</JP>
    <CN>在一垒位置的守备潜力评级</CN>
@@ -77758,7 +77758,7 @@
   <HCS i="9963">
    <EN>Players with a * are 'Super 2' arbitration cases. They became eligible for arbitration because they were in the top %p% of service time among players with at least %n years of service time</EN>
    <DC />
-   <KR>標有星號的球員屬於「超級二」仲裁案例。他們之所以有資格參加仲裁，是因為他們在擁有至少 %n 年工作時間的球員中排名前%p%</KR>
+   <KR>帶有 * 標記的球員是「超級二年級生」仲裁案。他們因為在擁有至少 %n 年服役時間的球員中，服務時間排名前 %p% 而獲得了仲裁資格。</KR>
    <ES>Los jugadores con un * son casos de arbitraje &amp;#39;Super 2&amp;#39;. Se volvieron elegibles para el arbitraje porque estaban en el %p% superior de tiempo de servicio entre los jugadores con al menos %n años de tiempo de servicio.</ES>
    <JP>*が付いているプレーヤーは、「スーパー2」アービトレーションケースです。彼らは、少なくとも％n年のサービス時間を持つプレーヤーの中で、サービス時間の上位％p％にあったため、仲裁の対象となりました。</JP>
    <CN>带 * 的球員是“超级 2”仲裁案件。他们有资格获得仲裁，因为他们在至少 %n 年服役时间的球員中处于最高 %p% 服役时间</CN>
@@ -77782,7 +77782,7 @@
   <HCS i="9966">
    <EN>Pending Free Agents</EN>
    <DC />
-   <KR>自由球員（Pending Free Agents</KR>
+   <KR>待處理的自由球員</KR>
    <ES>Agentes libres pendientes</ES>
    <JP>保留中のフリーエージェント</JP>
    <CN>待定的自由球员</CN>
@@ -77806,7 +77806,7 @@
   <HCS i="9969">
    <EN>Pending Free Agents Without Compensation</EN>
    <DC />
-   <KR>待定自由球員（無補償</KR>
+   <KR>無補償的待處理自由球員</KR>
    <ES>Agentes libres pendientes sin compensación</ES>
    <JP>補償なしの保留中のフリーエージェント</JP>
    <CN>悬而未决的无偿自由球员</CN>
@@ -77814,7 +77814,7 @@
   <HCS i="9970">
    <EN>Pending Minor League Free Agents</EN>
    <DC />
-   <KR>未定小聯盟自由球員</KR>
+   <KR>待處理的小聯盟自由球員</KR>
    <ES>Agentes libres de ligas menores pendientes</ES>
    <JP>保留中のマイナーリーグフリーエージェント</JP>
    <CN>待定的小联盟自由球员</CN>
@@ -78302,7 +78302,7 @@
   <HCS i="10032">
    <EN>Changing any of the following rules/settings will automatically sync all the rules of the associated leagues. You may change individual league rules in the league setup after you have set the association rules</EN>
    <DC />
-   <KR>更改以下任何规则/设置将自动同步所有相关联联盟的规则。在设置协会规则后，您可以在联盟设置中更改单个联盟规则</KR>
+   <KR>更改以下任何規則/設定將自動同步所有相關聯盟的規則。設定聯盟規則後，您可以在聯盟設定中單獨更改各聯盟的規則</KR>
    <ES>Cambiar cualquiera de las siguientes reglas/configuraciones sincronizará automáticamente todas las reglas de las ligas asociadas. Puede cambiar las reglas de la liga individual en la configuración de la liga después de haber establecido las reglas de la asociación.</ES>
    <JP>次のルール/設定のいずれかを変更すると、関連するリーグのすべてのルールが自動的に同期されます。アソシエーションルールを設定した後、リーグ設定で個々のリーグルールを変更できます</JP>
    <CN>更改以下任何规则/设置将自动同步相关联赛的所有规则。设置关联规则后，您可以在联赛设置中更改个别联赛规则</CN>
@@ -78406,7 +78406,7 @@
   <HCS i="10046">
    <EN>Post-Season Roster Rules</EN>
    <DC />
-   <KR>季後賽名單規定</KR>
+   <KR>季後賽名單規則</KR>
    <ES>Reglas de la lista de postemporada</ES>
    <JP>シーズン後の名簿ルール</JP>
    <CN>季后花名册规则</CN>
@@ -78414,7 +78414,7 @@
   <HCS i="10047">
    <EN>Post-Season Roster Eligibility</EN>
    <DC />
-   <KR>季後賽名單合格性</KR>
+   <KR>季後賽名單資格</KR>
    <ES>Elegibilidad de la lista de postemporada</ES>
    <JP>シーズン後の名簿の適格性</JP>
    <CN>季后赛名册资格</CN>
@@ -78462,7 +78462,7 @@
   <HCS i="10053">
    <EN>DFA Period Length</EN>
    <DC />
-   <KR>DFA期限長度</KR>
+   <KR>指定讓渡期長度</KR>
    <ES>Duración del período de DFA</ES>
    <JP>DFA期間の長さ</JP>
    <CN>DFA 周期长度</CN>
@@ -78486,7 +78486,7 @@
   <HCS i="10056">
    <EN>Batter Injured List Length</EN>
    <DC />
-   <KR>打者受傷名單持續時間</KR>
+   <KR>打者受傷名單長度</KR>
    <ES>Longitud de la lista de bateadores lesionados</ES>
    <JP>打者の故障者リストの長さ</JP>
    <CN>击球手受伤名单长度</CN>
@@ -78502,7 +78502,7 @@
   <HCS i="10058">
    <EN>Pitcher Injured List Length</EN>
    <DC />
-   <KR>投手受傷名單持續時間</KR>
+   <KR>投手受傷名單長度</KR>
    <ES>Longitud de la Lista de Lanzadores Lesionados</ES>
    <JP>投手故障者リストの長さ</JP>
    <CN>投手受伤名单长度</CN>
@@ -78670,7 +78670,7 @@
   <HCS i="10079">
    <EN>Enable Shared Rule 5 Draft</EN>
    <DC />
-   <KR>啟用共同領域規例5選秀</KR>
+   <KR>啟用共享規則五選秀</KR>
    <ES>Habilitar borrador de la regla 5 compartida</ES>
    <JP>共有ルール5ドラフトを有効にする</JP>
    <CN>启用共享规则 5 草稿</CN>
@@ -78678,7 +78678,7 @@
   <HCS i="10080">
    <EN>Rule 5 Draft Date</EN>
    <DC />
-   <KR>規則五Draft日期</KR>
+   <KR>規則五選秀日期</KR>
    <ES>Artículo 5 Fecha del borrador</ES>
    <JP>ルール5ドラフト日付</JP>
    <CN>规则 5 草案日期</CN>
@@ -79030,7 +79030,7 @@
   <HCS i="10124">
    <EN>Trainer Ratings</EN>
    <DC />
-   <KR>訓練師評分</KR>
+   <KR>訓練員評級</KR>
    <ES>Calificaciones del entrenador</ES>
    <JP>トレーナーの評価</JP>
    <CN>培训师评分</CN>
@@ -85998,7 +85998,7 @@
   <HCS i="11021">
    <EN>Coach Ratings</EN>
    <DC />
-   <KR>教練評分</KR>
+   <KR>教練評級</KR>
    <ES>Calificaciones de entrenador</ES>
    <JP>コーチの評価</JP>
    <CN>教练评分</CN>
@@ -87286,7 +87286,7 @@
   <HCS i="11186">
    <EN>GM Ratings</EN>
    <DC />
-   <KR>GM 評比</KR>
+   <KR>總經理評級</KR>
    <ES>Calificaciones de gerente general</ES>
    <JP>GMレーティング</JP>
    <CN>通用汽车评级</CN>
@@ -87310,7 +87310,7 @@
   <HCS i="11189">
    <EN>Value Ratings</EN>
    <DC />
-   <KR>價值評分</KR>
+   <KR>價值評級</KR>
    <ES>Calificaciones de valor</ES>
    <JP>価値評価</JP>
    <CN>价值评级</CN>
@@ -91158,7 +91158,7 @@
   <HCS i="11683">
    <EN>Manager</EN>
    <DC />
-   <KR>經理</KR>
+   <KR>總教練</KR>
    <ES>Gerente</ES>
    <JP>マネジャー</JP>
    <CN>经理</CN>
@@ -101984,7 +101984,7 @@
   <HCS i="13063">
    <EN>Managers</EN>
    <DC />
-   <KR>經理</KR>
+   <KR>總教練</KR>
    <ES>Gerentes</ES>
    <JP>マネージャー</JP>
    <CN>经理人</CN>
@@ -101992,7 +101992,7 @@
   <HCS i="13064">
    <EN>MANAGING HISTORY</EN>
    <DC />
-   <KR>管理历史</KR>
+   <KR>管理歷史</KR>
    <ES>GESTIÓN DE LA HISTORIA</ES>
    <JP>履歴の管理</JP>
    <CN>管理历史</CN>
@@ -106008,7 +106008,7 @@
   <HCS i="13566">
    <EN>The players above are eligible for free agency. In order to qualify for draft pick compensation for lost free agents, you must offer these players arbitration. In the unlikely event that a player accepts arbitration, he will receive a 1-year contract on %d at a salary determined by the arbitrators. If the player does not accept, he will become a free agent, and you will receive a compensatory draft pick if he signs with another team. If he is a Type-A free agent, you will receive the first-round pick of the signing team, plus a pick in the supplemental first round. (If the first-round pick has already been taken, or is in the first half of the round, then it becomes a second-round pick or later.) If the player is a Type-B free agent, you will receive a pick in the supplemental first round</EN>
    <DC />
-   <KR>以上球員有資格成為自由球員。為了符合因失去自由球員而獲得選秀賠償的資格，您必須向這些球員提供仲裁。假如球員接受仲裁的機率非常小，萬一球員接受了仲裁，他將在%d年簽下1年合約，薪資由仲裁員決定。假如球員不接受，他就會成為自由球員，如果他和另一隊簽約，您將獲得一個補償選秀權。如果他是A級自由球員，您將收到簽約球隊的第一輪選秀權，加上附加的第一輪選秀權。（如果第一輪的選秀權已經被選走，或者在第一輪中位於前半部分，那麼它就會變成第二輪或之後的選秀權。）如果球員是B級自由球員，您將獲得一個附加的第一輪選秀權</KR>
+   <KR>這些球員已經符合自由球員資格。若要獲得失去自由球員後的選秀補償，你必須向這些球員提供仲裁。在不太可能的情況下，球員接受仲裁，他將會獲得一份按 %d 確定薪資的 1 年合約，由仲裁員裁定薪水。如果球員不接受，他將成為自由球員，若他與其他球隊簽約，你將獲得補償性選秀權。如果球員是 A 類自由球員，你將獲得簽約球隊的首輪選秀權，加上補充首輪選秀權。（如果首輪選秀權已經被選中，或位於該輪前半段，那麼這個選秀權將成為二輪或之後的選秀權。）如果球員是 B 類自由球員，你將獲得補充首輪選秀權</KR>
    <ES>Los jugadores anteriores son elegibles para la agencia libre. Para calificar para la compensación de selección de draft por agentes libres perdidos, debe ofrecer arbitraje a estos jugadores. En el improbable caso de que un jugador acepte el arbitraje, recibirá un contrato de 1 año el %d con un salario determinado por los árbitros. Si el jugador no acepta, se convertirá en agente libre y recibirá una selección de draft compensatoria si firma con otro equipo. Si es un agente libre tipo A, recibirá la selección de primera ronda del equipo firmante, más una selección en la primera ronda suplementaria. (Si la selección de primera ronda ya se tomó o está en la primera mitad de la ronda, entonces se convierte en una selección de segunda ronda o posterior). Si el jugador es un agente libre Tipo-B, recibirá una selección en la primera ronda suplementaria</ES>
    <JP>上記のプレーヤーはフリーエージェントの資格があります。失われたフリーエージェントのドラフトピック補償の資格を得るには、これらのプレーヤーに仲裁を提供する必要があります。万が一、プレーヤーが仲裁を受け入れる場合、仲裁人が決定した給与で％dの1年間の契約を受け取ります。プレーヤーが受け入れない場合、彼はフリーエージェントになり、彼が別のチームと署名した場合、あなたは代償ドラフトピックを受け取ります。彼がタイプAのフリーエージェントである場合、あなたは署名チームの最初のラウンドのピックに加えて、補足の最初のラウンドのピックを受け取ります。 （第1ラウンドのピックがすでに行われている場合、またはラウンドの前半にある場合は、第2ラウンド以降のピックになります。）プレーヤーがタイプBのフリーエージェントの場合、ピックを受け取ります。補足の最初のラウンドで</JP>
    <CN>上述球员有资格成为自由球员。为了有资格获得失去自由球员的选秀权补偿，您必须向这些球员提供仲裁。万一球員接受仲裁，他将在 %d 收到一份为期 1 年的合同，薪水由仲裁员确定。如果球员不接受，他将成为自由球员，如果他与另一支球队签约，你将获得一个补偿选秀权。如果他是 A 类自由球员，您将获得签约球队的首轮选秀权，以及补充首轮选秀权。 （如果首轮选秀权已经被选中，或者在前半轮，则成为第二轮选秀权或之后的选秀权。）如果球员是B型自由球员，您将获得一个选秀权在补充第一轮</CN>
@@ -130465,7 +130465,7 @@
   <HCS i="16692">
    <EN>MAN+GM</EN>
    <DC />
-   <KR>球迷+總經理</KR>
+   <KR>人+總經理</KR>
    <ES>HOMBRE+GM</ES>
    <JP>MAN + GM</JP>
    <CN>人+通用</CN>
@@ -133121,7 +133121,7 @@
   <HCS i="17030">
    <EN>BN</EN>
    <DC>Abbreviation for Bench Coach</DC>
-   <KR>板凳教練</KR>
+   <KR>替補教練</KR>
    <ES>BN</ES>
    <JP>BN</JP>
    <CN>国阵</CN>
@@ -146024,7 +146024,7 @@
    <CN>这些选项在您退出并重新启动游戏后才会生效</CN>
  </HCS>
   <HCS i="18690">
-   <EN>Manager in</EN>
+   <EN>的經理</EN>
    <DC>EX: ... Manager in AAA team</DC>
    <KR>AAA 隊的經理</KR>
    <ES>Gerente en</ES>
@@ -150881,7 +150881,7 @@
   <HCS i="23001">
    <EN>Preparing managers</EN>
    <DC />
-   <KR>準備經理</KR>
+   <KR>培訓經理</KR>
    <ES>Preparando gerentes</ES>
    <JP>マネージャーの準備</JP>
    <CN>準備經理</CN>

@@ -7434,103 +7434,103 @@
 </CAT>
 
 <CAT id="49">
-<OBJ id="87" text="[%teamname] 投手奪得 [%subleagueabbr] [%pitcheraward]"/>
-<OBJ id="91" text="宣布 [%pitcheraward] 得主"/>
-<OBJ id="2642" text="[%teamname] 王牌投手奪得 [%subleagueabbr] [%pitcheraward]"/>
-<OBJ id="2644" text="[%personname L] 獲得 [%subleaguename] 投球冠軍"/>
-<OBJ id="2645" text="宣布 [%subleagueabbr] [%pitcheraward] 得主"/>
-<OBJ id="2646" text="[%teamnickname] 的王牌投手是 [%subleagueabbr] 最佳投手"/>
-<OBJ id="2647" text="[%subleagueabbr] 宣布 [%pitcheraward] 得主"/>
-<OBJ id="2648" text="[%personname L] 超越 [%subleaguename] 的其他投手"/>
-<OBJ id="2649" text="宣布 [%pitcheraward] 得主，勝利者是 [%personname L]"/>
-<OBJ id="2650" text="[%pitcheraward] 頒給 [%teamname] 的明星投手"/>
-<OBJ id="2651" text="[%teamnickname] 明星接受 [%pitcheraward] 獎項"/>
+<OBJ id="87" text="[%teamname] 投手獲得 [%subleagueabbr] [%pitcheraward]"/>
+<OBJ id="91" text="[%pitcheraward] 得主揭曉"/>
+<OBJ id="2642" text="[%teamname] 王牌贏得 [%subleagueabbr] [%pitcheraward]"/>
+<OBJ id="2644" text="[%personname L] 奪得 [%subleaguename] 投手王冠"/>
+<OBJ id="2645" text="[%subleagueabbr] [%pitcheraward] 公布"/>
+<OBJ id="2646" text="[%teamnickname] 王牌成為 [%subleagueabbr] 最佳投手"/>
+<OBJ id="2647" text="[%subleagueabbr] 公布 [%pitcheraward] 得主"/>
+<OBJ id="2648" text="[%personname L] 位居 [%subleaguename] 投手之首"/>
+<OBJ id="2649" text="[%pitcheraward] 公佈，得主為 [%personname L]"/>
+<OBJ id="2650" text="[%pitcheraward] 頒給 [%teamname] 明星投手"/>
+<OBJ id="2651" text="[%teamnickname] 明星獲得 [%pitcheraward]"/>
 <OBJ id="2653" text="[%personname L] 奪得 [%subleagueabbr] [%pitcheraward]"/>
-<OBJ id="2657" text="[%subleagueabbr] [%pitcheraward] 屬於 [%personname L]"/>
-<OBJ id="2659" text="[%personname L] 的出色表現為他帶來 [%pitcheraward]"/>
-<OBJ id="2662" text="[%teamname] 隊投手在投手獎選票中名列前茅" />
-<OBJ id="2663" text="[%subleagueabbr] [%pitcheraward] 獎項得主公佈" />
-<OBJ id="2669" text="[%teamname] 的[%personname L] 擊出 [%subleagueabbr] [%pitcheraward]" />
-<OBJ id="2670" text="[%teamname nickname] 投手中的[%subleagueabbr]翹楚" />
-<OBJ id="2672" text="最佳[%subleagueabbr]投手獎項授予給[%personname L]" />
-<OBJ id="2674" text="[%leagueyear] [%subleagueabbr] [%pitcheraward] 報到" />
-<OBJ id="2679" text="[%teamname] 投手獲得[%pitcheraward]" />
-<OBJ id="2682" text="[%subleaguename] 傑出表現 [%teamname] [%personname L] 登頂為王" />
-<OBJ id="15590" text="[%personname L] 榮膺[%subleagueabbr]最佳投手" />
-<OBJ id="15591" text="[%personname l] 抱回 [%subleagueabbr] [%pitcheraward]" />
-<OBJ id="15592" text="[%teamname] 隊的 [%personname L] 獲得最佳投手獎" />
-<OBJ id="15593" text="[%subleagueabbr] 宣布 [%pitcheraward]" />
-<OBJ id="15594" text="「[%teamname] 隊」的「王牌投手」得到了「[%subleagueabbr] 聯盟」的「[%pitcheraward]」獎項。" />
-<OBJ id="15595" text="[%subleagueabbr]宣布[%personname l][%pitcheraward]冠軍得主" />
-<OBJ id="15596" text="[%personname L] 贏得[%pitcheraward] 票選" />
-<OBJ id="15597" text="[%teamnickname] 星隊在[%leagueyear]贏得[%pitcheraward]" />
-<OBJ id="15598" text="[%personname L] 緻力[%subleagueabbr] 頂級先發投手獎" />
-<OBJ id="15599" text="[%teamname] 的[%personname l] 抓下了 [%pitcheraward]" />
-<OBJ id="15600" text="[%subleaguename] 球隊榮獲第一棒投手" />
-<OBJ id="15601" text="[%subleaguename] 冠軍投手被挑選了" />
-<OBJ id="15602" text="[%subleaguename]最佳投手被選中" />
-<OBJ id="15603" text="宣布[%subleaguename]頂尖投手" />
-<OBJ id="15604" text="[%subleaguename] 最佳投手名單" />
-<OBJ id="15605" text="[%teamname]的[%personname L]獲得[%pitcheraward]" />
-<OBJ id="15606" text="[%subleagueabbr]最佳投手獲選" />
-<OBJ id="15607" text="[%subleaguename] 年度最佳投手揭曉" />
-<OBJ id="15608" text="[%teamname] 的[%personname L] 被評為最佳投手。" />
-<OBJ id="15609" text="[%leagueyear]年[%subleagueabbr]區[%pitcheraward]出爐" />
-<OBJ id="15611" text="[%leagueyear] [%subleagueabbr] [%pitcheraward] 被選出" />
-<OBJ id="15612" text="[%teamnickname] [%personname l] 奪得上半季最佳投手獎座" />
-<OBJ id="15613" text="由[%subleagueabbr]公布頂級投手獎。" />
-<OBJ id="15614" text="[%subleagueabbr] 頒獎給最佳投手" />
-<OBJ id="15615" text="[%teamnickname] 的[%personname l]獲得最佳投手獎座 。" />
-<OBJ id="15616" text="[%teamnickname] [%personname l] 獲得最佳投手獎座。" />
-<OBJ id="15617" text="[%teamnickname] [%personname l]贏得＃1投手獎杯。" />
-<OBJ id="15618" text="[%teamname]的[%personname L]，[%pitcheraward]得主" />
-<OBJ id="15619" text="[%teamnickname] [%personname L]，[%pitcheraward]冠軍" />
-<OBJ id="15620" text="[%teamname] 明星, [%pitcheraward] 獎得主" />
-<OBJ id="15621" text="[%teamnickname] 金扇子, [%pitcheraward] 冠軍" />
-<OBJ id="15622" text="[%personname l] 得[%subleagueabbr]最佳投手榮譽" />
-<OBJ id="15623" text="[%subleaguename] 宣布了「丘上之王」。" />
-<OBJ id="15626" text="[%teamname] 的 [%personname L] 勉強擠進 [%subleagueabbr] 獎項" />
-<OBJ id="15627" text="[%subleagueabbr] 獲得優秀投手獎" />
-<OBJ id="15628" text="[%subleagueabbr] 頒發傑出投手獎" />
-<OBJ id="15629" text="[%subleagueabbr] 獎項 傑出投手獎盃" />
-<OBJ id="15631" text="[%personname L] 獲得 [%subleagueabbr] 的 [%pitcheraward] 獎項" />
-<OBJ id="15632" text="[%subleagueabbr] 最佳投手是 [%personname l]。" />
-<OBJ id="15633" text="[%teamname]隊的[%personname L]獲得最佳投手榮譽。" />
-<OBJ id="15634" text="[%subleagueabbr]'s #1 投手係[%personname l]" />
-<OBJ id="15635" text="[%subleagueabbr]最佳投手是[%personname l]" />
-<OBJ id="15636" text="[%subleagueabbr]最佳投手係[%personname l]" />
-<OBJ id="15637" text="[%teamnickname] 明星隊獲得 [%pitcheraward]" />
-<OBJ id="15638" text="[%teamname] 王牌投手榮獲 [%pitcheraward]" />
-<OBJ id="15639" text="[%teamname] 關鍵投手幫[%pitcheraward]收下了">
-<COND id="72" value="13" />
+<OBJ id="2657" text="[%subleagueabbr] [%pitcheraward] 授予 [%personname L]"/>
+<OBJ id="2659" text="[%personname L] 的出色賽季贏得 [%pitcheraward]"/>
+<OBJ id="2662" text="[%teamname] 投手在 [%pitcheraward] 投票中脫穎而出"/>
+<OBJ id="2663" text="[%subleagueabbr] [%pitcheraward] 公佈"/>
+<OBJ id="2669" text="[%teamname] 的 [%personname L] 獲得 [%subleagueabbr] [%pitcheraward]"/>
+<OBJ id="2670" text="[%teamname nick] 投手成為 [%subleagueabbr] 頂尖投手"/>
+<OBJ id="2672" text="[%subleagueabbr] 最佳投手榮譽授予 [%personname L]"/>
+<OBJ id="2674" text="[%leagueyear] [%subleagueabbr] [%pitcheraward] 名單公布"/>
+<OBJ id="2679" text="[%teamname] 投手囊括 [%pitcheraward]"/>
+<OBJ id="2682" text="[%subleaguename] 加冕 [%teamname] 的 [%personname L]"/>
+<OBJ id="15590" text="[%personname L] 獲得 [%subleagueabbr] [%pitcheraward]"/>
+<OBJ id="15591" text="[%personname l] 拿下 [%subleagueabbr] [%pitcheraward]"/>
+<OBJ id="15592" text="[%teamname] 的 [%personname L] 獲得最佳投手獎"/>
+<OBJ id="15593" text="[%subleagueabbr] 宣布 [%pitcheraward] 得主"/>
+<OBJ id="15594" text="[%teamname] 王牌奪得 [%subleagueabbr] [%pitcheraward]"/>
+<OBJ id="15595" text="[%subleagueabbr] 公佈 [%personname l] 為 [%pitcheraward] 得主"/>
+<OBJ id="15596" text="[%personname L] 在 [%pitcheraward] 投票中獲勝"/>
+<OBJ id="15597" text="[%teamnickname] 明星贏得 [%leagueyear] [%pitcheraward]"/>
+<OBJ id="15598" text="[%personname L] 獲得 [%subleagueabbr] 最佳投手獎"/>
+<OBJ id="15599" text="[%teamname] 的 [%personname l] 拿下 [%pitcheraward]"/>
+<OBJ id="15600" text="[%subleaguename] 最佳投手公布"/>
+<OBJ id="15601" text="[%subleaguename] 最佳投手選出"/>
+<OBJ id="15602" text="[%subleaguename] 頂尖投手公佈"/>
+<OBJ id="15603" text="[%subleaguename] 頂尖投手揭曉"/>
+<OBJ id="15604" text="[%subleaguename] 最佳投手名單揭曉"/>
+<OBJ id="15605" text="[%teamname] 的 [%personname L] 獲得 [%pitcheraward]"/>
+<OBJ id="15606" text="[%subleagueabbr] 公佈最佳投手"/>
+<OBJ id="15607" text="[%subleaguename] 年度投手名單揭曉"/>
+<OBJ id="15608" text="[%teamname] 的 [%personname L] 被評為最佳投手"/>
+<OBJ id="15609" text="[%leagueyear] [%subleagueabbr] [%pitcheraward] 公佈"/>
+<OBJ id="15611" text="[%leagueyear] [%subleagueabbr] [%pitcheraward] 選出"/>
+<OBJ id="15612" text="最佳投手獎頒給 [%teamnickname] 的 [%personname l]"/>
+<OBJ id="15613" text="[%subleagueabbr] 公佈最佳投手獎"/>
+<OBJ id="15614" text="[%subleagueabbr] 頒發最佳投手獎"/>
+<OBJ id="15615" text="最佳投手獎由 [%teamnickname] 的 [%personname l] 獲得"/>
+<OBJ id="15616" text="最佳投手獎由 [%teamnickname] 的 [%personname l] 獲得"/>
+<OBJ id="15617" text="[#1] 投手獎由 [%teamnickname] 的 [%personname l] 獲得"/>
+<OBJ id="15618" text="[%teamname] 的 [%personname L]， [%pitcheraward] 得主"/>
+<OBJ id="15619" text="[%teamnickname] 的 [%personname L]， [%pitcheraward] 得主"/>
+<OBJ id="15620" text="[%teamname] 明星投手， [%pitcheraward] 得主"/>
+<OBJ id="15621" text="[%teamnickname] 王牌， [%pitcheraward] 得主"/>
+<OBJ id="15622" text="[%personname l] 獲得 [%subleagueabbr] 最佳投手榮譽"/>
+<OBJ id="15623" text="[%subleaguename] 宣布「山丘之王」"/>
+<OBJ id="15626" text="[%teamname] 的 [%personname l] 獲得 [%subleagueabbr] 頒發的獎項"/>
+<OBJ id="15627" text="[%subleagueabbr] 頒發傑出投手獎"/>
+<OBJ id="15628" text="[%subleagueabbr] 公佈傑出投手獎得主"/>
+<OBJ id="15629" text="[%subleagueabbr] 頒發傑出投手獎座"/>
+<OBJ id="15631" text="[%personname L] 被評為 [%subleagueabbr] [%pitcheraward] 得主"/>
+<OBJ id="15632" text="[%subleagueabbr] 的最佳投手為 [%personname l]"/>
+<OBJ id="15633" text="最佳投手榮譽授予 [%teamname] 的 [%personname L]"/>
+<OBJ id="15634" text="[%subleagueabbr] 的頭號投手為 [%personname l]"/>
+<OBJ id="15635" text="[%subleagueabbr] 最佳投手為 [%personname l]"/>
+<OBJ id="15636" text="[%subleagueabbr] 的最佳投手是 [%personname l]"/>
+<OBJ id="15637" text="[%teamnickname] 明星贏得 [%pitcheraward]"/>
+<OBJ id="15638" text="[%teamname] 王牌獲得 [%pitcheraward]"/>
+<OBJ id="15639" text="[%teamname] 終結者獲得 [%pitcheraward]">
+<COND id="72" value="13"/>
 </OBJ>
-<OBJ id="15640" text="[%subleagueabbr] 最佳投手被選為[%leagueyear]" />
-<OBJ id="15641" text="[%leagueyear]年[%subleagueabbr]投手王名揭曉" />
-<OBJ id="15642" text="#1 投手已選定為[%leagueyear]" />
-<OBJ id="15643" text="[%personname l] 第一志願，贏得[%pitcheraward]" />
-<OBJ id="15644" text="宣布[%subleagueabbr]上半季最佳投手" />
-<OBJ id="15646" text="宣布最佳[%subleagueabbr]投手。" />
-<OBJ id="15647" text="#1 [%subleagueabbr] 投手 宣告 上場" />
-<OBJ id="15648" text="[%leagueyear] [%pitcheraward] 得主出爐" />
-<OBJ id="15649" text="[%pitcheraward] 頒發給[%personname l]" />
-<OBJ id="15650" text="[%pitcheraward]歸[%teamname]" />
-<OBJ id="15651" text="[%pitcheraward] 由[%subleagueabbr]頒發" />
-<OBJ id="15652" text="[%personname l]選擇了最佳的[%subleagueabbr]投手" />
-<OBJ id="15653" text="[%personname l]稱為[%subleagueabbr]的一號先發投手" />
-<OBJ id="15654" text="[%personname l] 被選為[%subleagueabbr]最佳投手" />
-<OBJ id="15655" text="[%personname l] 選擇了[%subleagueabbr]最強投手" />
-<OBJ id="15656" text="[%personname l] 投了[%subleagueabbr]的[%pitcheraward]" />
-<OBJ id="15657" text="[%leagueyear] [%subleagueabbr] [%pitcheraward] 被選中" />
-<OBJ id="15658" text="[%subleagueabbr] 頒發最佳投手獎" />
-<OBJ id="15659" text="[%subleagueabbr]  頒發最佳投手獎盃" />
-<OBJ id="15660" text="[%subleagueabbr] 頒發第一投手獎" />
-<OBJ id="28313" text="[%teamname] 明星球員 [%personname L] 接近王牌投手" />
-<OBJ id="28314" text="[%teamnickname] 王牌 [%personname l] 警察 [%pitcheraward]" />
-<OBJ id="28315" text="[%personname F L] 榮獲[%pitcheraward]大獎" />
-<OBJ id="28316" text="[%personname F L] 上 [%subleagueabbr] 投手" />
-<OBJ id="28317" text="[%personname l] 大好年，贏得 [%subleagueabbr] [%pitcheraward]" />
-<OBJ id="28318" text="[%personname l][%teamnickname] 非常厲害，贏得[%pitcheraward]。" />
-<OBJ id="28319" text="[%personname l] 精彩的球季！贏得了[%subleagueabbr] [%pitcheraward] 獎項。" />
+<OBJ id="15640" text="[%leagueyear] [%subleagueabbr] 頂尖投手選出"/>
+<OBJ id="15641" text="[%leagueyear] [%subleagueabbr] 頭號投手揭曉"/>
+<OBJ id="15642" text="[#1] 投手選出 [%leagueyear]"/>
+<OBJ id="15643" text="[%personname l] 被選為頭號投手，贏得 [%pitcheraward]"/>
+<OBJ id="15644" text="[%subleagueabbr] 頂尖投手公佈"/>
+<OBJ id="15646" text="[%subleagueabbr] 最佳投手公佈"/>
+<OBJ id="15647" text="[%subleagueabbr] 頂尖投手選出"/>
+<OBJ id="15648" text="[%leagueyear] [%pitcheraward] 得主公布"/>
+<OBJ id="15649" text="[%pitcheraward] 頒發給 [%personname l]"/>
+<OBJ id="15650" text="[%pitcheraward] 頒發給 [%teamname] 投手"/>
+<OBJ id="15651" text="[%pitcheraward] 由 [%subleagueabbr] 頒發"/>
+<OBJ id="15652" text="[%personname l] 被評為 [%subleagueabbr] 最佳投手"/>
+<OBJ id="15653" text="[%personname l] 獲得 [%subleagueabbr] 頭號投手稱號"/>
+<OBJ id="15654" text="[%personname l] 被選為 [%subleagueabbr] 最佳投手"/>
+<OBJ id="15655" text="[%personname l] 被選為 [%subleagueabbr] 頂尖投手"/>
+<OBJ id="15656" text="[%personname l] 獲得 [%subleagueabbr] [%pitcheraward]"/>
+<OBJ id="15657" text="[%leagueyear] [%subleagueabbr] [%pitcheraward] 選出"/>
+<OBJ id="15658" text="[%subleagueabbr] 頒發最佳投手獎"/>
+<OBJ id="15659" text="[%subleagueabbr] 頒發頂尖投手獎座"/>
+<OBJ id="15660" text="[%subleagueabbr] 頒發頭號投手獎"/>
+<OBJ id="28313" text="[%teamname] 明星 [%personname L] 奪得 [%pitcheraward]"/>
+<OBJ id="28314" text="[%teamnickname] 王牌 [%personname l] 獲得 [%pitcheraward]"/>
+<OBJ id="28315" text="[%personname F L] 獲得知名 [%pitcheraward]"/>
+<OBJ id="28316" text="[%personname F L] 獲得 [%subleagueabbr] 最佳投手"/>
+<OBJ id="28317" text="[%personname l] 度過精彩一年，贏得 [%subleagueabbr] [%pitcheraward]"/>
+<OBJ id="28318" text="[%teamnickname] 的 [%personname l] 大豐收，奪得 [%pitcheraward]"/>
+<OBJ id="28319" text="[%personname l] 的精彩賽季，奪得 [%subleagueabbr] [%pitcheraward]"/>
 </CAT>
 
 <CAT id="50">
@@ -9049,7 +9049,7 @@
 <TXT>對於棒球迷來說，今天的薪資仲裁聽證會是 [%leaguename] 冬季長時間休賽期裡的一種解藥。對於總經理、球員代理人和球員而言，這些聽證會往往是噩夢，因為針對球員數據或是球質的討論，總是會讓大家心中充滿不愉快。大多數的仲裁聽證會最後都會造成某一方的傷害感。聽證會將於今天結束，裁決結果將於明天公佈。(nl)</TXT>
 </OBJ>
 <OBJ id="677">
-<TXT>球員和總經理們進入會議室，你可以感受到緊張的氛圍，因為一整天的[%leagueabbr]仲裁聽證即將開始。獨立的仲裁人將在今天結束前對每位球員的情況做出裁決。媒體的報導密度很高。由於自由球員市場還有幾天才開啟，他們也沒有太多其他事可報導，所以他們在這裡等待著可能的意外收獲。在這一天，棒球並不是在球迷之間進行比賽，而是由幾位律師在一系列的無菌辦公室裡進行談判。</TXT>
+<TXT>房間裡瀰漫著緊張的氣氛，球員和總經理們陸續抵達，準備度過漫長而艱苦的 [%leagueabbr] 仲裁聽證會。獨立仲裁員將在一天結束前裁決每位球員的案件。媒體的關注度很高。由於自由球員市場還有幾天就要開啟，沒有其他太多值得報導的新聞，因此他們待在附近，希望能有意外的收穫。在這一天，棒球比賽並不在球迷之間進行，而是由少數律師在幾間無菌辦公室裡進行。</TXT>
 </OBJ>
 <OBJ id="678">
 <TXT>[%leagueabbr] 的薪資仲裁聽證會今天舉行。在幾個瞬間，總經理、球員及其代言人將進行一場危險的口語拉鋸比賽。球員習慣在球場上解決問題，現在可能一夕間獲得數百萬或直接被減薪。當明天的決定公佈時，球隊總經理將更好地把握即將到來的自由球員市場。有一件事是肯定的——當結果明天公開時，[%leaguename] 將有人不會高興。</TXT>
