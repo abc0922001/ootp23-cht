@@ -3990,7 +3990,7 @@
 <COND id="9" value="5" />
 </OBJ>
 <OBJ id="1798">
-<TXT>距離[%personlink]進入大聯盟已經有一段時間了，但上週他又重新感受到了年輕的感覺。這位[%teamlink]的投手被選為過去七天中[%subleaguename]的本週球員。（nl）（nl）這位[%personage]歲的投手取得了[%pitching w]勝[%pitching l]敗的戰績，投出了[%pitching k word]三振，防禦率為[%pitching era]。他將對手打擊率限制在[%pitching avg]，讓對手擊出[%pitching ha]支安打，保送了[%pitching bb]次。</TXT>
+<TXT>距離[%personlink]進入大聯盟已經有一段時間了，但上週他又重新感受到了年輕的感覺。這位[%teamlink]的投手被選為過去七天中[%subleaguename]的本週球員。(nl)(nl)這位[%personage]歲的投手取得了[%pitching w]勝[%pitching l]敗的戰績，投出了[%pitching k word]三振，防禦率為[%pitching era]。他將對手打擊率限制在[%pitching avg]，讓對手擊出[%pitching ha]支安打，保送了[%pitching bb]次。</TXT>
 <COND id="7" value="34" />
 <COND id="9" value="5" />
 </OBJ>
@@ -8968,7 +8968,7 @@
 
 <CAT id="67">
 <OBJ id="103">
-<TXT>[%leaguename] 的薪資仲裁期今天開始。(nl)(nl)所有接受球隊邀請進行仲裁，以及服務年資在 [%string#1] 至 [%string#2] 年的年輕球員，必須在這 10 天內進行申請，向球隊提交他們對合同的要求，以便進行仲裁。(nl)(nl)球員和球隊在申請後可以繼續協商。</TXT>
+<TXT>[%leaguename] 的薪資仲裁期今天開始。(nl)(nl)所有接受球隊邀請進行仲裁，以及服務年資在 [%string#1] 至 [%string#2] 年的年輕球員，必須在這 10 天內進行申請，向球隊提交他們對合約的要求，以便進行仲裁。(nl)(nl)球員和球隊在申請後可以繼續協商。</TXT>
 </OBJ>
 <OBJ id="703">
 <TXT>又到了一年一度的仲裁期，[%leaguename]球季的球員和球會要開始展開仲裁。(nl)(nl)在未來10天裡，已接受球會邀請進行仲裁的自由球員，以及服務時間在[%string#1]到[%string#2]年之間的年輕球員，可以向仲裁員提交他們的合約要求。(nl)(nl)即使提交了要求，球員和球會仍然可以進行談判，希望在10天的提交期限結束前達成協議。</TXT>
@@ -9058,7 +9058,9 @@
 <TXT>[%leagueabbr] 的薪資仲裁聽證會今天舉行。對於一般觀察者來說，仲裁似乎是一個乏味的過程——律師和賬房人員之間的貓鼠遊戲。對[%leaguename] 的加盟球隊來說，仲裁聽證會可能會預示著整個季後賽的氣氛和風氣，因為明天宣布的決定將在很大程度上決定每個俱樂部的財務狀況。</TXT>
 </OBJ>
 <OBJ id="680">
-<TXT>勝者是球員還是老板呢？這個年代久遠的問題又再次浮現，因為[%leaguename]的薪資仲裁聽證會即將開始。未能和球隊簽下新約的球員們即將得知獨立仲裁員是否會接受他們的薪資請求，那麼當最終決定公布時，明天肯定有開心和難過的表情出現。</TXT>
+<TXT>誰將獲勝？球員——還是老闆？這個古老的問題今天再次升級，隨著 [%leaguename] 開始薪資仲裁聽證會。
+那些未能與俱樂部簽訂新合約的球員將很快知道他們的薪資要求是否會被獨立仲裁人接受或拒絕。明天最終決定公布時，
+無疑會出現一群快樂和悲傷的面孔。</TXT>
 </OBJ>
 </CAT>
 
@@ -9195,7 +9197,7 @@
 <TXT>今天就是[%leaguename]開幕戰啦！全新[%leagueyear]賽季就要開始了。球隊們都準備好了，迎接又一個充滿著緊張刺激、好球打爆的賽季。精彩紛呈的比賽即將上演：(nl)[%string#1]。</TXT>
 </OBJ>
 <OBJ id="347">
-<TXT>球員名單設定好了，陣容也定好了。棒球回來啦。(nl)(nl)經過漫長的"熱炉季"，充滿了交易與猜測，[%leaguename] 聯盟的球隊終於要離開訓練營，登上球場。(nl)(nl) [%leagueyear] 賽季今天就開始了，以下是今天的比賽：[%string#1]。</TXT>
+<TXT>名單已經確定。陣容已經安排好。棒球回來了。(nl)(nl)經過漫長的「熱爐」季節，充滿了交易與揣測，[%leaguename] 球隊已經結束集訓，準備上場。(nl)(nl)[%leagueyear] 賽季今天開始，以下是這些比賽：[%string#1]</TXT>
 </OBJ>
 <OBJ id="348" text="春訓結束了。練習也已經結束了。現在是真正的棒球比賽！[%leagueyear]球季今天正式開打，[%leagueabbr]賽程表上有以下比賽安排：(nl)[%string#1]" />
 <OBJ id="349" text="棒球季節來了！經過幾個月的補強之後，[%leagueabbr]終於開啟[%leagueyear]年度賽事，包括了許多精彩的比賽，例如：(nl)[%string#1]。" />
@@ -9386,7 +9388,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <TXT>[%leaguename] 的季後休兵期就像一條河流，它退縮前進，迎向一片未知的海洋。接下來的幾個月是一位卓越的總經理大顯身手的時刻：合約談判、交易洽談、球隊評估、球探及小聯盟的評估。現在 [%leagueyear] 的季後賽已經落幕，GM和他們的團隊該開始著手打造明年的球隊。</TXT>
 </OBJ>
 <OBJ id="1007">
-<TXT>我地正式進入沈悶期啦。棒球賽季攏結束、咱會有最後一次用防水布蓋住球場。不過在[%leaguename]還是有好多人事財務調整，攏捏一直揣揣誰去邊度的猜測。謠言、換手、解僱、聘用，攏是繁忙得像是歡樂的旋轉木馬，到季開幕戰時才告一段落。</TXT>
+<TXT>沉悶的時期來臨了。棒球正式結束了一個賽季，最後一次的防雨布可以覆蓋在球場上。當然，在 [%leaguename] 中仍然有很多活動。需要進行名單和財務上的調整。無止境的揣測誰會最終落腳在哪裡。謠言、交易、解僱、聘用，以及一場充滿歡樂的旋轉木馬行動，最終將在開幕日達到高潮。</TXT>
 </OBJ>
 <OBJ id="1008">
 <TXT>[%leagueyear]年度賽季已經結束，棒球場上顯得無聲無息。但是在這種平靜的表象下，緊張感正在逐漸加劇。[%leaguename]球隊正在準備長期的季休期內進行交易、憧憬、合約協商和為明年做準備。雖然這不是正式的棒球比賽，但旁觀者也會勉強將其視為代替，直到各隊進入季前訓練營為止。(nl)</TXT>
@@ -9415,7 +9417,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="77">
-<OBJ id="108" text="今天，[%leaguename]有資格的球員可以申請自由球員。球隊在整個休賽期有時間跟球員談合同並簽約。(nl)(nl)今年由BNN提供的頂尖自由球員有: (nl)(nl)[%string]" />
+<OBJ id="108" text="今天，[%leaguename]有資格的球員可以申請自由球員。球隊在整個休賽期有時間跟球員談合約並簽約。(nl)(nl)今年由BNN提供的頂尖自由球員有: (nl)(nl)[%string]" />
 <OBJ id="830">
 <TXT>隨著午夜臨近，昨晚應該成為自由球員的[%leaguename]球員們紛紛排隊正式提交文件，正式將自己放到市場上。(nl)(nl)全聯盟的總經理們今天以不同的方式進入競爭 - 抵押掉整個冠軍隊伍來抓住明星，還是簡單地維持現狀？(nl)(nl)自由球員名單上的主角球員如下：(nl)(nl)[%string#1]</TXT>
 </OBJ>
@@ -10515,7 +10517,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="25" value="2" />
 </OBJ>
 <OBJ id="3880">
-<TXT>我受夠你的半套和冷淡的建議了。你以為我是傻瓜嗎？我不是，我是一個職業棒球選手，我應該賺足夠的錢養家糊口。你不能給我這個，所以我要嘗試去其他地方打球，懂嗎？（插入玩家連結）</TXT>
+<TXT>我受夠了你們的半心半意和冷淡的提案。你覺得我是一個白癡嗎？我不是，我是一名職業棒球選手，我應該賺到足夠的錢來養活我的家庭。你無法給我這樣的報酬，所以我打算去別的地方打球，明白了嗎？(nl)(nl)[%personlink]</TXT>
 <COND id="29" value="3" />
 </OBJ>
 <OBJ id="3881" text="你想要讓我破產嗎？我不會簽下[%contract salary average]一年的合約，簽了我才真的瘋了。(nl)(nl)[%personlink]">
@@ -11011,7 +11013,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <TXT>[%teamlink nick]領隊[%team gmlink]今日解雇了總教練[%personlink]，理由是「沒有善用球隊所有戰力元素。」"(nl)(nl)在整理辦公室時接受記者採訪，[%personlink l] 被問及對此做出評論。(nl)(nl)"球隊成功的一部分來自於每天上場的才華球員。眾所周知，[%teamnickname]缺少幾個關鍵組成部分，"他說。"我從所給予的才能中發揮了最大的價值。也許解雇錯了人?</TXT>
 </OBJ>
 <OBJ id="23963">
-<TXT>在一個有些球迷認為來得不夠快，而另一些人認為過度嚴厲的決定中，[%teamlink nick] 球隊解雇了[%personlink] 經理。(nl)(nl)"這是我工作中最艱難的部分之一，"[%team gm] 總經理告訴一群記者安靜地聚集在記者會上說。"這是一個艱難的決定。但是，儘管我們可能會爭論我們組織中應該承擔什麼責任，我們都可以同意的一點是，我們都有責任扭轉這支球隊的局面。這是今天決定的目標。"(nl)(nl) 多次嘗試聯繫 [%personlink l] 尋求評論並未成功。</TXT>
+<TXT>在一些球迷認為這個決定來得不夠快，而另一些則認為過於嚴厲的情況下，經理 [%personlink] 被 [%teamlink nick] 解雇。(nl)(nl)『這是我工作中最艱難的部分之一，』總經理 [%team gm] 對聚集在新聞發布會上的一群記者說。『這是一個艱難的決定。但雖然我們可能會爭論在我們的組織中該把責任歸到誰，但我們都能一致同意的是，我們都對改變這支球隊的未來有責任。這就是今天決策的目標。』(nl)(nl)多次試圖聯繫 [%personlink l] 獲取評論均未成功。</TXT>
 </OBJ>
 <OBJ id="23964">
 <TXT>據宣傳，[%personlink] 數週前已經喪失了球隊，所以今天 [%teamlink] 召開記者會宣布解雇總教練 [%personlink] 也不足為奇。(nl)(nl)[%personlink l]對自己被解雇表示：「我被聘來就是要拿冠軍，但是做不到，只能怪自己了。」(nl)(nl)球隊希望本週內能找到新總教練。</TXT>
@@ -11035,7 +11037,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <TXT>[%teamlink nick]球隊的未來將不包括[%personlink]。(nl)(nl) 最近因比賽管理受到當地媒體的嚴厲批評，[%personlink l]已被解任[%teamnickname]的經理。(nl)(nl) 據信，這項決定主要是由球隊老闆所做，他經常公開批評[%personlink l]在球場上和更衣室裡的決定。(nl)(nl) 當被問及在[%teamlink]的家中時，球隊老闆[%team owner]表示這項決定是為了球隊的最大利益而做出，但他拒絕進一步解釋導致解雇的具體原因。(nl)(nl)[%personlink l]告訴BNN，他計劃尋找另一份棒球工作的機會。(nl)(nl) "我會懷念[%teamlink]和[%teamnickname]，但我不會懷念我的所有決定都被質疑的感覺"。</TXT>
 </OBJ>
 <OBJ id="23971">
-<TXT>[%personlink] 听到传闻后并不在意自己被解雇的事情。(nl)(nl)直到今天到了球场，才知道自己被免去了 [%teamlink nick] 的經理職位。(nl)(nl)"你读报纸，听别人说，你希望這不会发生，但当它真的发生时，失去工作令人难受，" 心烦意乱的 [%personlink l] 在得知自己被解雇仅几分钟后说道。"這从来不是轻松的，但你必须尽力忍受。就像他們说的那样：'你被雇佣就是為了被解雇。'"(nl)(nl)几位球员来到 [%personlink l] 的办公室，说他們的告别话，拥抱他，并送上祝福，当他收拾行李的时候。(nl)(nl)"他在更衣室里备受尊敬，但最终我們需要一個能带来更好結果的人，" [%team gmlink]说道。</TXT>
+<TXT>[%personlink] 聽過這些傳聞，但並不太在意自己被解雇的消息。(nl)(nl)直到今天他來到球場，發現自己已被解雇為 [%teamlink nick] 的經理。(nl)(nl)『你讀報紙，聽人談論，心中希望這不會發生，當它真的發生時，失去工作真的很難，』心煩意亂的 [%personlink l] 在得知自己被解雇後僅幾分鐘便這樣說道。『這永遠不容易接受，但你得試著微笑面對。正如他們所說，『你是被雇來被解雇的。』』(nl)(nl)幾名球員來到 [%personlink l] 的辦公室向他道別，並在他整理物品時給予擁抱和祝福。(nl)(nl)『他在更衣室裡受到尊重，但最終我們需要一位能帶來更好結果的人，』[%teamlink] 總經理 [%team gmlink] 說。</TXT>
 </OBJ>
 <OBJ id="23972">
 <TXT>[%personlink] 的批評者和挑剔者可以歡慶了，他在[%teamlink]的任期結束了。今天他被解僱了，成為[%teamnickname]的經理人。(nl)(nl)據一位匿名球員表示，這個決定早該做了。(nl)(nl)「我從來都不認同他的決定，我認為他以他的方式來管理，讓我們失去了很多比賽。」這位球員說。「我喜歡[%personlink f]的人，但是作為一位管理者，我不認為他是對的人選來管理這支球隊。」(nl)(nl)當被告知有匿名評論時，[%personlink l]採取高姿態。(nl)(nl)「我不想和任何人爭吵，關於這件事情我沒有任何評論。基本上，管理層已經做出了他們的決定，不需要一再討論。」他說。</TXT>
@@ -11139,7 +11141,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </OBJ>
 <OBJ id="2749" text="不好意思，我無法接受你的小聯盟合約。我不是小聯盟球員，我想我可以在其他地方找到一份好工作。不要介意嗎？(nl)(nl)[%personlink]" />
 <OBJ id="2750">
-<TXT>抱歉，我不能接受你的小聯盟協定。這不是我個人不喜歡你，只是我認為自己是大聯盟級別的球員，而且我可以在別處找到更好的交易。如果你覺得你能給我專業合同，那好吧，我會聽你講。(nl)(nl)[%personlink]</TXT>
+<TXT>抱歉，我不能接受你的小聯盟協定。這不是我個人不喜歡你，只是我認為自己是大聯盟級別的球員，而且我可以在別處找到更好的交易。如果你覺得你能給我專業合約，那好吧，我會聽你講。(nl)(nl)[%personlink]</TXT>
 </OBJ>
 <OBJ id="2751">
 <TXT>這份合約的障礙之一在於它是一份二軍約，而我的客戶 [%personlink] 不是一位二軍球員。他是一位備受 [%leaguename] 尊敬的老手，值得每一支 [%leagueabbr] 球隊的尊重。如果您希望能繼續和我們談判，請記住這一點。</TXT>
@@ -11153,7 +11155,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <OBJ id="2754">
 <TXT>我不會接受 [%teamlink nick] 的小聯盟邀約，我會四處看看、找找有沒有大聯盟的合約。如果你認為你們的球隊有辦法達成這個目標，最好趁現在給我一個大聯盟的邀約。(nl)(nl)[%personlink]</TXT>
 </OBJ>
-<OBJ id="2755" text="我最大的不滿意的地方就在於[%teamlink]堅持提供一個二軍合同。如果不是這樣的話，我可能會更傾向於和你們簽約。(nl)(nl)[%personlink]" />
+<OBJ id="2755" text="我最大的不滿意的地方就在於[%teamlink]堅持提供一個二軍合約。如果不是這樣的話，我可能會更傾向於和你們簽約。(nl)(nl)[%personlink]" />
 <OBJ id="2756" text="我對你的報價唯一真正的抱怨是這是一個小聯盟交易，而我是一位[%leaguename]球員。在這些情況下，我不會和你簽約，但如果有職業報價，我會考慮的。(nl)(nl)[%personlink]" />
 <OBJ id="2757" text="[%personlink L] 先生不想以任何形式簽署小聯盟合約。他是一名大聯盟球員，應該得到大聯盟球員的尊重。如果你仍有興趣簽下他，請提供[%personlink]一份他可以接受的合約。">
 <COND id="9" value="1" />
@@ -11302,7 +11304,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="24" value="1" />
 </OBJ>
 <OBJ id="2799">
-<TXT>我已經想破了頭，試圖想出一個解決這個情況的方法。 [%teamlink] 的人們已經開始尊重我，我不想輕易丟棄這一切。但我必須為了我自己和我的家庭做出正確的決定，因此我要婉拒這份小聯盟合同的續約邀請。希望你能理解。(nl)(nl)[%personlink]</TXT>
+<TXT>我已經想破了頭，試圖想出一個解決這個情況的方法。 [%teamlink] 的人們已經開始尊重我，我不想輕易丟棄這一切。但我必須為了我自己和我的家庭做出正確的決定，因此我要婉拒這份小聯盟合約的續約邀請。希望你能理解。(nl)(nl)[%personlink]</TXT>
 <COND id="24" value="1" />
 </OBJ>
 <OBJ id="2800" text="如果妳們不打算提供我[%leaguename]的交易，那我想是時候分手了。我可以去別處簽約，但沒有任何地方可以取代在[%teamlink]度過的美好時光。現在球權在妳們手中。(nl)(nl)[%personlink]">
@@ -11420,14 +11422,14 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <OBJ id="3134" text="我看到你提出的合約後，可以想像自己在[%teamlink]打球。如果最後沒有成行，那一定是因為其他隊伍提供更好的條件。不過目前為止，你的合約是最優先的。(nl)(nl)[%personlink]" />
 <OBJ id="3135" text="我看了你提出的交易，沒什麼好講的，只能說你目前領先。如果其他的報價不能夠接近我的要求，我下季應該會加入[%teamlink]。[%personlink]" />
 <OBJ id="3136" text="我們的客戶[%personlink]對你們的報價印象深刻，期待能與[%teamlink]簽約。如果一切如現在這樣，我們會再告訴你們我們的決定。" />
-<OBJ id="3137" text="我覺得我地討論到咗一個好嘅優惠。我唔話我即刻就同你簽約，但如果其他人可以比你優，我會覺得好驚訝。(nl)(nl)[%personlink]" />
+<OBJ id="3137" text="我認為我們提出了一個很好的交易。我不是說我會立即和你簽約，但如果其他人能提供更好的條件，我會感到驚訝。(nl)(nl)[%personlink]" />
 <OBJ id="3138">
-<TXT>我喜歡跟你做交易。你所提供給我這個條件，差不多就是我想要的交易。我還沒有簽約，因為我需要再仔細考慮所有選擇，但如果現況維持不變，我想明年春天我會加入[%teamlink]的隊伍。(nl)(nl)[%personlink]</TXT>
+<TXT>我喜歡和你做生意。你給我的這個提案幾乎符合我對交易的期望。我還不會立即簽署，因為我想權衡所有選擇，但如果情況保持不變，我想我明春會在 [%teamlink] 比賽。（nl）（nl）[%personlink]</TXT>
 </OBJ>
 <OBJ id="3139" text="你的報價到目前為止是我看過最好的。我還想多考慮一下，但如果沒有其他選擇的話，我可能會跟你簽約。(nl)(nl)[%personlink]" />
 <OBJ id="3140" text="我想花幾天時間和家人商量一下這筆交易。表面上看起來不錯，也是我目前收到的最好的提議，但我想要確定一切都安排好了才做出最終決定。(nl)(nl)[%personlink]" />
 <OBJ id="3141" text="你的合約薪資總額為[%contract salary total]元，並且合約期限是[%contract years word]年，接近我所期望的交易。我會看看競爭對手提出的條件如何，但如果你們處於領先地位，我明年就會加盟[%teamlink]了。 (nl)(nl)[%personlink]" />
-<OBJ id="3142" text="我得承認你的報價是我到現在為止看過最好的。多拜託了。&#10;&#10;（妳）" />
+<OBJ id="3142" text="我必須承認，你的提案是我至今看到的最好報價。保持希望。（nl）（nl）[%personlink]" />
 <OBJ id="3143" text="我有種直覺，沒有其他人會接近你的報價。但如果我不逛逛其他的選擇，這就不是自由球員市場了，對吧？(nl)(nl)[%personlink]" />
 <OBJ id="3144" text="我對你們年平均薪資[%contract salary average]的合約提議感到滿意。幾天後我會跟你聯絡。(nl)(nl)[%personlink]" />
 <OBJ id="3145" text="如果這是我收到的最好的報價，我決定跟你簽約。我認為你的頭腦很正常，而且絕對比[%leaguename]裡的其他總經理都要強。希望一切順利。(nl)(nl)[%personlink]" />
@@ -11599,7 +11601,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </OBJ>
 <OBJ id="3053" text="我本來應該跟你簽約，但我就是不想當你的副手。這不是狂妄，每個人都是為了贏球而打球，而不是拿第二名。你明白嗎？(nl)(nl)[%personlink]" />
 <OBJ id="3054">
-<TXT>我不想當一個老吉他的副手，我寧願加入一個具有贏得冠軍實力的球隊，和有能力年復一年贏得比賽的球員們一起打球。你們的球員表現還不錯，但不是冠軍材料。(nl)(nl)[%personlink]</TXT>
+<TXT>我不想在一把舊吉他旁邊演奏。我寧願加入一支具有競爭力的球隊，該球隊擁有每年都有能力贏得冠軍的球員。你們的球員還不錯，但不是冠軍級別的。(nl)(nl)[%personlink]</TXT>
 </OBJ>
 <OBJ id="3055" text="我對棒球很有經驗，當我看到爛球隊時我知道。雖然你不會永遠處於最低層，但在我退役之前你們不會爭冠。因此，我無法加入[%teamlink]。(nl)(nl)[%personlink]。">
 <COND id="9" value="10" />
@@ -11621,20 +11623,20 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <OBJ id="3061" text="很抱歉，我不能給你好消息，因為我認為你們沒有爭冠的實力。(nl)(nl)[%personlink]" />
 <OBJ id="3062" text="我想去一個可以為贏得世界冠軍做出貢獻的地方。如果你能提供我這個機會，我可能會更樂意接受你的報價。(nl)(nl)[%personlink]" />
 <OBJ id="3063" text="我的主要目標是拿下世界冠軍，而不是幫助[%teamlink]重建。或許另一個時候？(nl)(nl)[%personlink]" />
-<OBJ id="3064" text="我真的在找硬體，而不是成長階段。也許再等一年。(nl)(nl)[%personlink]" />
+<OBJ id="3064" text="我真的在尋找獎盃，而不是成長的煩惱。也許再等一年。(nl)(nl)[%personlink]" />
 <OBJ id="3065" text="我尋找硬體，不想要經驗問題。我想我會試試看找一支有競爭實力的球隊，而不是[%teamlink]。(nl)(nl)[%personlink]。" />
 <OBJ id="3066" text="我最大的職業抱負就是能扛起冠軍旗並且可以讓我的孫子們每人一枚冠軍戒指。如果你想這是自負，那就這樣說吧，但我在尋找黃金，而你只有黃鐵礦。(nl)(nl)[%personlink]" />
 <OBJ id="3067" text="我已經評估了你們的球隊，決定如果我來到[%teamlink]，對我來說會是一個不明智的選擇。我實在是在尋找寶藏，不是貧苦的日子。我想我可以去其他地方找到。祝你們重建好運！(nl)(nl)[%personlink]">
 <COND id="24" value="0" />
 </OBJ>
 <OBJ id="3068">
-<TXT>我想要的是硬體，不是苦力。如果你能保證我有機會拿冠軍，可能我就會考慮留下了。但既然不可能，我打算跳槽去找一個比[%teamlink]更有潛力的球隊。(nl)(nl)[%personlink]</TXT>
+<TXT>我在尋找獎盃，而不是困難。如果你能保證我有機會爭取冠軍，我可能會傾向於留下來。既然這是不可能的，我將會考慮其他選擇，並嘗試與比 [%teamlink] 更有前景的球隊合作。(nl)(nl)[%personlink]</TXT>
 <COND id="24" value="1" />
 </OBJ>
 <OBJ id="3070" text="我享受贏球的感覺。在我的人生中，我曾經在擁有贏球紀錄的球隊打球，但坦白地說，當我在[%teamlink]這樣的一支毫無表現的球隊打球時，我實在覺得很失望。現在我打算離開這裡，去為一支老牌強隊效力。(nl)(nl)[%personlink]">
 <COND id="24" value="1" />
 </OBJ>
-<OBJ id="3071" text="我咱家勢商量過，決定唸[%teamlink nickonly]毋著跟。毋是很有勝算，我會想去關係好個球隊。(nl)(nl)[%personlink]" />
+<OBJ id="3071" text="我已經與我的經紀人商量過，並決定不加入 [%teamlink nickonly] 組織。你們贏的希望不大，而我真的想為一支有競爭力的球隊效力。(nl)(nl)[%personlink]" />
 <OBJ id="3072">
 <TXT>我已經跟我經紀人商量明年去哪個球隊打。不會選[%teamlink]，因為我覺得你們沒有能力贏得冠軍。這不是針對你們個人，只是球隊似乎沒有往對的方向發展。(nl)(nl)[%personlink]</TXT>
 <COND id="24" value="1" />
@@ -11696,7 +11698,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <OBJ id="4117" text="我不會加入[%teamlink]，你們算不上是職棒，至少在我的標準裡不算。(nl)(nl)[%personlink]」">
 <COND id="24" value="0" />
 </OBJ>
-<OBJ id="4119" text="我不會再和你們續約了。你們的球團還不錯，但我寧願去打一個能讓我得到更好薪資的聯盟。還是謝謝你們的邀請。」（揮手）[%personlink]">
+<OBJ id="4119" text="我不打算與你重新簽約。你們的組織還不錯，但我更想在一個能讓我更有機會獲得應有價值的聯盟中打球。不過謝謝你的提議。(nl)(nl)[%personlink]">
 <COND id="24" value="1" />
 </OBJ>
 <OBJ id="4120" text="我對這個決定有些複雜的情緒，但我已經決定不參加[%leaguename]了。這就意味著我無法和你簽約。在這裡的時間很美好，但我必須前進。(nl)(nl)[%personlink]">
@@ -11782,7 +11784,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="7" value="30" />
 <COND id="24" value="1" />
 </OBJ>
-<OBJ id="2872" text="在大聯盟沒有家人在身邊真是夠慘的。我承認你的合同不錯，但我只是希望能更靠近我的朋友和家人，也許在我的家鄉安定下來。(nl)(nl)[%personlink]">
+<OBJ id="2872" text="在大聯盟沒有家人在身邊真是夠慘的。我承認你的合約不錯，但我只是希望能更靠近我的朋友和家人，也許在我的家鄉安定下來。(nl)(nl)[%personlink]">
 <COND id="8" value="25" />
 </OBJ>
 <OBJ id="2873">
@@ -12017,7 +12019,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <OBJ id="2931" text="遠距離當父親真的很不容易，所以我想我下個球季不會再跟[%teamlink]一起打了。(nl)(nl)[%personlink]" />
 <OBJ id="2932" text="當一位遠距離的父親很難，所以我想下一季我不會跟[%teamlink]簽約。(nl)(nl)[%personlink]" />
 <OBJ id="2933" text="當個遠距離的父親真的很辛苦。這就是為什麼我不打算和你簽約。希望你可以理解我的決定。(nl)(nl)[%personlink]" />
-<OBJ id="2934" text="我唔想做無責任嘅父親同丈夫，毋望錯過孖仔成長嘅機會。所以，下一季我唔會加入[%teamlink nickonly]。(nl)(nl)[%personlink]" />
+<OBJ id="2934" text="我不會做一個不負責任的父親和丈夫，也不想錯過孩子成長的過程。基於這點，我將不會在下個賽季與 [%teamlink nickonly] 簽約。(nl)(nl)[%personlink]" />
 <OBJ id="2935">
 <TXT>我生命中到了一個十字路口，開始檢視我從沒有想過的事情。我有孩子，而這些孩子在我一直不在的情況下不是處於最佳狀況。因此，我不會跟你的球隊簽約。(nl)(nl)[%personlink]</TXT>
 </OBJ>
@@ -12079,7 +12081,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="24" value="0" />
 </OBJ>
 <OBJ id="2724">
-<TXT>感謝提議。我不確定這是一個失誤還是不是，但我記得在我們的討論中提到了不交易條款。我在你發來的合同中沒有看到它，所以我猜你可能只是忘了，因為我不會在沒有不交易條款的合同上簽名。(nl)(nl)[%personlink]</TXT>
+<TXT>感謝提議。我不確定這是一個失誤還是不是，但我記得在我們的討論中提到了不交易條款。我在你發來的合約中沒有看到它，所以我猜你可能只是忘了，因為我不會在沒有不交易條款的合約上簽名。(nl)(nl)[%personlink]</TXT>
 <COND id="36" value="3" />
 </OBJ>
 <OBJ id="2725">
@@ -12226,11 +12228,11 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="31" value="4" />
 <COND id="38" value="4" />
 </OBJ>
-<OBJ id="4771" text="我恐怕不能接受你的要求，除非我有禁止轉会條款。(nl)(nl)[%personlink]" />
-<OBJ id="4772" text="如果你能夠加入一個不可交易條款的話，我可能會接受你的報價。[%personlink]。" />
-<OBJ id="4773" text="從你的角度來看是個艱難決定，但你或許想要選擇不交易我。(nl)(nl)[%personlink]" />
-<OBJ id="4774" text="我不是說這是斷送交易的事情，但我想我已經贏得了不可交易條款。(nl)(nl)[%personlink]" />
-<OBJ id="4775" text="我在找任何一份協定裡都包含不能交易的條款。(nl)(nl)[%personlink]" />
+<OBJ id="4771" text="恐怕我無法接受你的提議，除非有禁止交易條款。(nl)(nl)[%personlink]"/>
+<OBJ id="4772" text="如果你加入禁止交易條款，我可能會考慮接受你的提議。(nl)(nl)[%personlink]"/>
+<OBJ id="4773" text="這是一個艱難的選擇，但你可能想給我一個禁止交易的條款。(nl)(nl)[%personlink]"/>
+<OBJ id="4774" text="我不是說這是破局的理由，但我認為我應該獲得一個禁止交易條款。(nl)(nl)[%personlink]"/>
+<OBJ id="4775" text="我希望在任何我簽署的合約中都包含禁止交易的條款。(nl)(nl)[%personlink]"/>
 <OBJ id="4781">
 <TXT>謝謝你的提案。我會詳細閱讀並在和經紀人商量後做出最後決定。有一件事我希望可以做到，就是不可轉移條款。您不必擔心我會在更衣室鬧事或遲到練習。我不是那種球員。(nl)(nl)[%personlink]</TXT>
 <COND id="27" value="4" />
@@ -12322,7 +12324,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <CAT id="139">
 <OBJ id="17990" text="今天正式宣布了已經有一陣子的傳聞。[%team#1link nickname] 把 [%string#1] 送到了 [%team#2link nickname]，換來了 [%string#2]。" />
 <OBJ id="18005" text="今天早上[%team#1link]與[%team#2link]宣布一筆交易完成。[%team#1nickname]將[%string#1]交換至[%team#2nickname]，換來[%string#2]。" />
-<OBJ id="18006" text="[%team#1link] 的官方確認已將 [%string#1] 交易至 [%team#2link nickname]。作為回報，[%team#1nickname] 將獲得 [%string#2]。" />
+<OBJ id="18006" text="[%team#1link] 的官員確認他們已將 [%string#1] 交易到 [%team#2link nickname]。作為回報，[%team#1nickname] 將收到 [%string#2]。" />
 <OBJ id="18007" text="[%team#1nickname] 已經和 [%string#1] 以一筆交易的方式和 [%team#2nickname] 分道揚鑣，換取了 [%string#2]。[%team gm] 總經理今早在宣布交易時證實此事。" />
 <OBJ id="18008" text="[%team#1link nickname] 完成與 [%team#2link nickname] 關於 [%string#2] 的交易，作為交換，[%team#2nickname] 將會得到 [%string#1]。" />
 <OBJ id="19629" text="今天[%team#1link nickname] 在一場記者會上宣布已經完成了一筆交易，交易對象是[%team#2link nickname]。[%team#1nickname] 把[%string#1]送到了[%team#2nickname]，換回了[%string#2]。" />
@@ -12571,7 +12573,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="36" value="4" />
 </OBJ>
 <OBJ id="4078">
-<TXT>我對你提供的[%contract salary total] 在 [%contract years word] 內的合約深感失望。這份合同的財務數字和時間長度都讓我感到非常困擾，與供需經濟學形成了明顯的衝突。我不想給你上任何經濟學課，但如果你想繼續追求我，你必須提出更有吸引力的報價，我才會同意達成協議。(nl)(nl)[%personlink]</TXT>
+<TXT>我對你提供的[%contract salary total] 在 [%contract years word] 內的合約深感失望。這份合約的財務數字和時間長度都讓我感到非常困擾，與供需經濟學形成了明顯的衝突。我不想給你上任何經濟學課，但如果你想繼續追求我，你必須提出更有吸引力的報價，我才會同意達成協議。(nl)(nl)[%personlink]</TXT>
 <COND id="39" value="-3" />
 <COND id="40" value="-3" />
 <COND id="36" value="4" />
@@ -12616,7 +12618,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="40" value="-3" />
 </OBJ>
 <OBJ id="4086">
-<TXT>這筆交易的財務狀況令人擔憂，但不如其長度令人震驚。你不能給一個人[%contract years word]的合約，然後期望他簽署。我正在尋找一個更長的合約。如果你提高你的出價，並給我至少三年，我會考慮[%teamlink]。（nl）（nl）[%personlink]</TXT>
+<TXT>這筆交易的財務狀況令人擔憂，但不如其長度令人震驚。你不能給一個人[%contract years word]的合約，然後期望他簽署。我正在尋找一個更長的合約。如果你提高你的出價，並給我至少三年，我會考慮[%teamlink]。(nl)(nl)[%personlink]</TXT>
 <COND id="39" value="-2" />
 <COND id="40" value="-3" />
 </OBJ>
@@ -12656,7 +12658,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="38" value="4" />
 </OBJ>
 <OBJ id="4094">
-<TXT>我不排除每年[%contract salary average]元和你签约，但是除非你提供更多的薪水，否则我会认真考虑其他的报价。让我困扰的是這份合同的长度，完全不符合我的要求。如果你想让我签约，必须提供比[%contract years word]還要长的合同期限。(nl)(nl)[%personlink]</TXT>
+<TXT>我不排除每年[%contract salary average]元和你签约，但是除非你提供更多的薪水，否则我会认真考虑其他的报价。让我困扰的是這份合約的长度，完全不符合我的要求。如果你想让我签约，必须提供比[%contract years word]還要长的合約期限。(nl)(nl)[%personlink]</TXT>
 <COND id="39" value="-2" />
 <COND id="40" value="-3" />
 </OBJ>
@@ -12684,7 +12686,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="37" value="2" />
 </OBJ>
 <OBJ id="4100">
-<TXT>我不會全心全意投入到一個不尊重我的俱樂部。任何會給我一份只有[%contract years word]年，年薪只有[%contract salary average]的微薄合同的球隊都是嚴重的妄想家。雖然此合同的財務部分很糟糕，但合同長度是最大的問題。不管我明年在哪個球隊打球，我都想留好幾個球季。(nl)(nl)[%personlink]</TXT>
+<TXT>我不會全心全意投入到一個不尊重我的俱樂部。任何會給我一份只有[%contract years word]年，年薪只有[%contract salary average]的微薄合約的球隊都是嚴重的妄想家。雖然此合約的財務部分很糟糕，但合約長度是最大的問題。不管我明年在哪個球隊打球，我都想留好幾個球季。(nl)(nl)[%personlink]</TXT>
 <COND id="39" value="-2" />
 <COND id="40" value="-3" />
 <COND id="37" value="2" />
@@ -13609,7 +13611,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <OBJ id="4939" text="據報導，[%teamlink]和[%personlink]兩方正緊密商談可能的交易，但都對此保持沉默。(nl)(nl)知情人士透露，[%personlink]可能會在[%contract years word]內淨賺[%contract salary total]。(BNN)" />
 <OBJ id="4940" text="[%teamlink]的消息傳出來，[%personlink]正在和這座城市的球隊討論未來[%contract years word]總共[%contract salary total]元的合約，雖然雙方都快速否認了這些謠言。" />
 <OBJ id="4941">
-<TXT>[%teamlink nick] 和 [%personlink] 之間的可能合同談判的傳聞浮出水面，這將帶來這位[%personage]歲的[%playerposition]球員來到這座城市。(nl)(nl)[%personlink L] 不會對可能的交易發表評論，但接近情況的人堅稱有一筆[%contract salary total]的報價在桌面上。</TXT>
+<TXT>[%teamlink nick] 和 [%personlink] 之間的可能合約談判的傳聞浮出水面，這將帶來這位[%personage]歲的[%playerposition]球員來到這座城市。(nl)(nl)[%personlink L] 不會對可能的交易發表評論，但接近情況的人堅稱有一筆[%contract salary total]的報價在桌面上。</TXT>
 </OBJ>
 <OBJ id="4942">
 <TXT>[%teamname] 的球迷都很興奮，因為有傳言指出 [%teamlink nickonly] 和 [%personlink] 之間可能有一筆交易在醞釀當中，這引發了兩方發表聲明否認有任何談判。(nl)(nl)不過，BNN 的消息來源告訴我們，這筆交易正在進行當中，可能涉及度過全明星比賽的球員的贊助總額達到 [%contract salary total] 元，可能會將他引進球隊。</TXT>
@@ -13711,7 +13713,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="16" value="5" />
 </OBJ>
 <OBJ id="4967">
-<TXT>[%personlink] 的知情人士表示，他和[%teamlink] 正在談判一筆交易，將 [%personage] 歲的他帶到[%teamlink nickonly]。(nl)(nl)經濟條件還沒有被披露，不過業界的知名消息來源聽到 [%personlink L] 收到了一份總共 [%contract salary total] 的合同，為期 [%contract years] 年。</TXT>
+<TXT>[%personlink] 的知情人士表示，他和[%teamlink] 正在談判一筆交易，將 [%personage] 歲的他帶到[%teamlink nickonly]。(nl)(nl)經濟條件還沒有被披露，不過業界的知名消息來源聽到 [%personlink L] 收到了一份總共 [%contract salary total] 的合約，為期 [%contract years] 年。</TXT>
 </OBJ>
 <OBJ id="4968">
 <TXT>[%personlink] 努力回到青春，但[%playerposition]已[%personage]歲，卻至今未能成功。[%teamlink] 的球迷們因此感到憂心，因為據報導，球隊正在與[%personlink L]簽下合約。</TXT>
@@ -13729,7 +13731,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="17" value="2" />
 </OBJ>
 <OBJ id="4971">
-<TXT>球隊幹部今天受到[%personlink]和[%teamlink nickonly]之間可能達成合同，因為傳給媒體而緊張不安。(nl)(nl) 消息指出合同總值可能高達[%contract salary total]。(nl)(nl) 球迷擔心，輾轉多險[%playerposition]，會將[%teamlink]視為潛在的退休之家。</TXT>
+<TXT>球隊幹部今天受到[%personlink]和[%teamlink nickonly]之間可能達成合約，因為傳給媒體而緊張不安。(nl)(nl) 消息指出合約總值可能高達[%contract salary total]。(nl)(nl) 球迷擔心，輾轉多險[%playerposition]，會將[%teamlink]視為潛在的退休之家。</TXT>
 <COND id="7" value="34" />
 <COND id="17" value="2" />
 </OBJ>
@@ -14024,7 +14026,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <TXT>不確定[%personlink]明年是否會穿[%teamlink]的球衣，不過據未經證實的報導，[%teamlink nickonly][%playerposition]正尋求一份[%contract years]年、總合計[%contract salary total]元的續約合約。(nl)(nl) 如果沒有達成合約延長，[%personlink L]將有自由追求其他機會。</TXT>
 </OBJ>
 <OBJ id="3969">
-<TXT>鑒於下一年沒有[%personlink]簽約的計畫，[%teamlink]再次簽下他成為話題。(nl)(nl)一些消息來源堅稱這位[%personage]歲的球員只會接受[%contract salary average]的年薪，其他人指出這個數字可能會低得多，要取決於合同以及如何提出。(nl)(nl)然而，所有人都同意，到目前為止沒有達成任何協議。</TXT>
+<TXT>鑒於下一年沒有[%personlink]簽約的計畫，[%teamlink]再次簽下他成為話題。(nl)(nl)一些消息來源堅稱這位[%personage]歲的球員只會接受[%contract salary average]的年薪，其他人指出這個數字可能會低得多，要取決於合約以及如何提出。(nl)(nl)然而，所有人都同意，到目前為止沒有達成任何協議。</TXT>
 </OBJ>
 <OBJ id="3970">
 <TXT>[%teamlink] 能否與即將成為自由球員的 [%personlink] 簽下續約呢？(nl)(nl)這位 [%personage] 歲的球員正處於合約的最後一年，據報導，他希望在接下來的 [%contract years word] 中每年擁有 [%contract salary average] 的高薪。(nl)(nl)雙方都迅速否認了媒體報導，讓一般踏實的記者冒著風險進入通俗報章的醜惡世界。</TXT>
@@ -14036,7 +14038,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="13" value="2" />
 </OBJ>
 <OBJ id="3973">
-<TXT>據報導，[%teamlink]和[%personlink]之間的談判已經進行了數週，雙方一直在試圖達成合同延長的協議。(nl)(nl)目前還不清楚這筆交易需要多少錢才能啟動，主要是因為雙方在這個話題上一直非常保密。</TXT>
+<TXT>據報導，[%teamlink]和[%personlink]之間的談判已經進行了數週，雙方一直在試圖達成合約延長的協議。(nl)(nl)目前還不清楚這筆交易需要多少錢才能啟動，主要是因為雙方在這個話題上一直非常保密。</TXT>
 <COND id="8" value="29" />
 <COND id="10" value="5" />
 <COND id="13" value="2" />
@@ -14064,7 +14066,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <OBJ id="3979" text="據BNN聽聞，[%personlink]和[%teamlink]簽約的傳聞似乎還不確定。(nl)(nl)知情者透露，雙方代表已經陳述了各自的理由，正謀劃著下一步行動。" />
 <OBJ id="3980" text="[%teamlink]和[%personlink]為了平息那濃得像豌豆湯般的猜測，澄清他們並沒有在組合一份合約，讓那[%personage]歲的球員在下個球季會被交易到新城市。" />
 <OBJ id="3981">
-<TXT>[%teamlink]和[%personlink]今天早些時候進行了一次極機密的約會，討論續約的條款。(nl)(nl)目前細節仍然模糊不清，但BNN正在通過其來源採集信息。(nl)(nl)如果合同實現，BNN新聞將進行全程報道。</TXT>
+<TXT>[%teamlink]和[%personlink]今天早些時候進行了一次極機密的約會，討論續約的條款。(nl)(nl)目前細節仍然模糊不清，但BNN正在通過其來源採集信息。(nl)(nl)如果合約實現，BNN新聞將進行全程報道。</TXT>
 </OBJ>
 <OBJ id="3982">
 <TXT>[%personlink]今天只是輕描淡寫地對各位記者說，不管[報酬合約]的問題如何都不會影響到他本季的球賽表現。不過最新傳聞指出，對這份[合約]續約的討論已經在背地裡進行了。(nl)(nl)[%personlink L] 可能會要求[%contract salary total]的合約金額，並且要求延長[%contract years word]的期限，不過他也告誡媒體在任何事情公開之前不要隨意妄下結論。</TXT>
@@ -14128,7 +14130,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <TXT>熟悉事情透露，[%personlink]和[%teamlink]正在討論合約延長的最後細節，明天便有可能達成協議。(nl)(nl)財務條款尚未披露，不過有消息指出，[%personlink L]有可能獲得[%contract salary total]的薪水。</TXT>
 </OBJ>
 <OBJ id="4461">
-<TXT>據[%leaguename]的傳聞，超級明星[%personlink]已經和[%teamlink]接續合同。(nl)(nl)雖然目前還沒有最終決定，知情人士建議不要過早樂觀，但他們也堅持說，這筆交易可能在一週之內完成。</TXT>
+<TXT>據[%leaguename]的傳聞，超級明星[%personlink]已經和[%teamlink]接續合約。(nl)(nl)雖然目前還沒有最終決定，知情人士建議不要過早樂觀，但他們也堅持說，這筆交易可能在一週之內完成。</TXT>
 <COND id="16" value="5" />
 </OBJ>
 <OBJ id="4462" text="據可靠消息，[%personlink] 可能本週內就會和 [%teamlink nickonly] 簽下新約，這是聯盟中最引人注目的名字之一。(nl)(nl)謠言說雙方已接近達成協議，不過財務條件還沒有洩漏。">
@@ -14176,7 +14178,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <TXT>知情人士自信地告訴 BNN，在過去幾天中，讓 [%personlink] 留在 [%teamlink] 的交易已經 gathering momentum，[%personage] 歲的他隨時可能簽約。(nl)(nl) 尚未公開薪資金額，但有人估計每年的合約薪資會達到 [%contract salary average]。</TXT>
 </OBJ>
 <OBJ id="4479">
-<TXT>[%teamlink] 和[%playerposition] [%personlink]之間的交易傳聞不斷，旨在避免可能的自由球員流失。(nl)(nl)據傳，這筆交易的合同總額約為[%contract salary total]，但尚未最終確定。儘管如此，據報導，協議可能很快達成。</TXT>
+<TXT>[%teamlink] 和[%playerposition] [%personlink]之間的交易傳聞不斷，旨在避免可能的自由球員流失。(nl)(nl)據傳，這筆交易的合約總額約為[%contract salary total]，但尚未最終確定。儘管如此，據報導，協議可能很快達成。</TXT>
 </OBJ>
 <OBJ id="4482">
 <TXT>雖然這不算是一個引人注目的舉動，[%teamlink] 和 [%personlink] 看起來即將達成合約延長，讓這位[%playerposition] 至少在鎮上待上 [%contract years word] 。(nl)(nl)[%personlink L] 預計到時候會賺進 [%contract salary total]。</TXT>
@@ -14311,7 +14313,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="16" value="7" />
 </OBJ>
 <OBJ id="4525">
-<TXT>[%teamlink] 的球迷非常興奮，因為一個簽約消息變成了現實。[%personlink] 不會很快離開，因為他已經簽了一份[%contract years]年合同，年薪[%contract salary average]。(nl)(nl)由於他被廣泛地認為是球隊的重要一員，[%teamlink] 的官員們必須阻止[%personlink L]離開球會。</TXT>
+<TXT>[%teamlink] 的球迷非常興奮，因為一個簽約消息變成了現實。[%personlink] 不會很快離開，因為他已經簽了一份[%contract years]年合約，年薪[%contract salary average]。(nl)(nl)由於他被廣泛地認為是球隊的重要一員，[%teamlink] 的官員們必須阻止[%personlink L]離開球會。</TXT>
 <COND id="16" value="6" />
 </OBJ>
 <OBJ id="4526">
@@ -14399,7 +14401,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="16" value="4" />
 </OBJ>
 <OBJ id="4189">
-<TXT>[%personlink]和[%teamlink]之間即將達成協議的消息今天變成現實，雙方已就[%contract salary total]的合同達成協議。[%personage]歲的[%playerposition]球員將在[%contract years word]至少效力於[%teamlink]。</TXT>
+<TXT>[%personlink]和[%teamlink]之間即將達成協議的消息今天變成現實，雙方已就[%contract salary total]的合約達成協議。[%personage]歲的[%playerposition]球員將在[%contract years word]至少效力於[%teamlink]。</TXT>
 </OBJ>
 <OBJ id="4190" text="[%teamlink] 今天傳出消息，[%personlink] 與 [%teamlink nickonly]reached 一份為期 [%contract years] 年的合約協議。這位[%playerposition] 每季可獲得[%contract salary average]的年薪 。" />
 <OBJ id="4191" text="[%teamlink nickonly] 球團今天確定簽下了[%personlink]。(nl)(nl)這位[%playerposition]已經[%personage]歲，他每年可以獲得[%contract salary average]的合約薪資，並且會在[%contract years word]期間打出[%teamlink]球場的主場。" />
@@ -14431,7 +14433,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <TXT>有些[%teamlink nickonly]球迷對簽下[%personage]歲的[%playerposition][%personlink]有怨言。有些人謹慎樂觀，而大多數人堅決懷疑這筆估計為[%contract salary average]每年的合約是否對[%teamlink]有利。</TXT>
 </OBJ>
 <OBJ id="4714">
-<TXT>[%teamlink]球迷對[%teamnickname]簽下[%personlink]沒有太大的反應。(nl)(nl)這位[%personage]歲球員簽下了一份據報價值[%contract salary total]的合同，讓他在[%teamlink]效力[%contract years word]年。</TXT>
+<TXT>[%teamlink]球迷對[%teamnickname]簽下[%personlink]沒有太大的反應。(nl)(nl)這位[%personage]歲球員簽下了一份據報價值[%contract salary total]的合約，讓他在[%teamlink]效力[%contract years word]年。</TXT>
 <COND id="17" value="3" />
 </OBJ>
 <OBJ id="4715">
@@ -14447,7 +14449,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="17" value="3" />
 </OBJ>
 <OBJ id="4718">
-<TXT>今天下午，當[%personlink] 走進更衣室與媒體見面時，並未引起太多注意。(nl)(nl) [%personlink L] 是一名[%playerposition]球員，在幾個小時前才與[%teamlink nickonly] 簽下了一份[%contract years]年，總額為[%contract salary total]的合同。</TXT>
+<TXT>今天下午，當[%personlink] 走進更衣室與媒體見面時，並未引起太多注意。(nl)(nl) [%personlink L] 是一名[%playerposition]球員，在幾個小時前才與[%teamlink nickonly] 簽下了一份[%contract years]年，總額為[%contract salary total]的合約。</TXT>
 <COND id="17" value="3" />
 </OBJ>
 <OBJ id="4852">
@@ -14664,7 +14666,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="16" value="4" />
 </OBJ>
 <OBJ id="4913">
-<TXT>[%personage]歲的[%playerposition][%personlink]今日宣布加入[%teamlink]，簽下了一份[%contract years]年，總值[%contract salary total]的合同，備受體育記者、球迷以及球隊官員的關注。(nl)(nl)儘管[%personname l]是被看好的球員，但他仍然相對缺乏經驗。</TXT>
+<TXT>[%personage]歲的[%playerposition][%personlink]今日宣布加入[%teamlink]，簽下了一份[%contract years]年，總值[%contract salary total]的合約，備受體育記者、球迷以及球隊官員的關注。(nl)(nl)儘管[%personname l]是被看好的球員，但他仍然相對缺乏經驗。</TXT>
 <COND id="8" value="27" />
 <COND id="7" value="22" />
 <COND id="16" value="4" />
@@ -15297,14 +15299,14 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="24" value="1" />
 <COND id="11" value="1" />
 </OBJ>
-<OBJ id="3988" text="我客戶[%personlink]叫我通知您，您最近出的[%contract years word]合同，[%contract salary average]的薪水，他接受了。交易完成，很高興跟您做生意。">
+<OBJ id="3988" text="我客戶[%personlink]叫我通知您，您最近出的[%contract years word]合約，[%contract salary average]的薪水，他接受了。交易完成，很高興跟您做生意。">
 <COND id="24" value="1" />
 </OBJ>
 <OBJ id="3989" text="交易已經完成了！我迫不及待地想到舉起冠軍獎盃的那一天了！(nl)(nl)[%personlink]">
 <COND id="24" value="0" />
 </OBJ>
 <OBJ id="3990" text="我會接受你的[%contract salary average]年薪，為期[%contract years word]的合約。恭喜！(nl)(nl)[%personlink]" />
-<OBJ id="3991" text="恭喜你拿出了一份我可以接受的非常好的合同报价。我觉得每年[%contract salary average]元是我能得到的最好的，你真的很努力地让這一切成為可能。(nl)(nl)[%personlink]" />
+<OBJ id="3991" text="恭喜你拿出了一份我可以接受的非常好的合約报价。我觉得每年[%contract salary average]元是我能得到的最好的，你真的很努力地让這一切成為可能。(nl)(nl)[%personlink]" />
 <OBJ id="3992" text="我覺得你的報價是到目前為止我收到的最好的。事實上，我很喜歡它，我要跟[%teamlink]簽約了。恭喜！(nl)(nl)[%personlink]。" />
 <OBJ id="3993" text="你讓這筆交易得以成立，每年[%contract salary average]萬元，共[%contract years word]年。這對我來說意義重大，尤其是在我這個年紀。你不會失望的。(nl)(nl)[%personlink]」">
 <COND id="7" value="34" />
@@ -30455,7 +30457,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="278" value="2" />
 <COND id="73" value="1" />
 </OBJ>
-<OBJ id="52455" usage_chance_for_game="2" only_once_per_x2="1" text="劈棄一擊，卻未能擊中。（nl）這位揮棒果斷的[%game batter]三振出局。">
+<OBJ id="52455" usage_chance_for_game="2" only_once_per_x2="1" text="劈棄一擊，卻未能擊中。(nl)這位揮棒果斷的[%game batter]三振出局。">
 <COND id="278" value="1" />
 <COND id="73" value="1" />
 <COND id="53" value="1" />
@@ -92527,78 +92529,78 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="392">
-<OBJ id="15220" text="[%playerposition capital] [%personname L] 將退休。" />
-<OBJ id="18123" text="[%teamname] [%playerposition capital] [%personname l] 將退役。" />
-<OBJ id="18124" text="[%personname l] 宣布退役" />
-<OBJ id="18125" text="[%teamname] 的 [%personname l] 宣布退休" />
-<OBJ id="18126" text="[%personname l] 決定退役" />
-<OBJ id="18127" text="[%teamnickname] [%personname l] 決定退役" />
-<OBJ id="18128" text="[%teamnickname] 的 [%personname l] 宣布退役'." />
-<OBJ id="18129" text="[%teamnickname] 的 [%personname l] 結束職業生涯" />
-<OBJ id="18130" text="[%teamname] 宣布[%personname l] 將退役" />
-<OBJ id="18131" text="[%teamnickname] 宣布[%personname l] 將退休" />
-<OBJ id="18132" text="[%personname l] 宣布退役。" />
-<OBJ id="18133" text="時間到了：[%personname l] 要退役了。" />
-<OBJ id="18134" text="下班啦：[%personname l] 退休了。" />
-<OBJ id="18135" text="[%teamname] 的 [%personname f l] 宣布退役" />
-<OBJ id="18136" text="時候到了：[%personname l] 再 [%teamname] 退休。" />
-<OBJ id="18137" text="[%personname l] 結束猜測，將退役。" />
-<OBJ id="18138" text="派對結束：[%personname l]在[%teamname]退役。" />
-<OBJ id="18139" text="結束了：[%personname f l] 退役了。" />
-<OBJ id="18140" text="[%personname l] 確定退役" />
-<OBJ id="18141" text="[%personname l] 在[%teamname]說再見。" />
-<OBJ id="18142" text="[%personname f l] 離開棒球" />
-<OBJ id="18143" text="[%personname l] 道別棒球" />
-<OBJ id="18144" text="[%personname f l] 打算退休了。" />
-<OBJ id="18145" text="[%personname l] 離開比賽了 " />
-<OBJ id="18146" text="嗚咽時刻：[%personname l] 宣布退役。" />
-<OBJ id="18147" text="[%personname l] 在[%teamname]宣布退役了。" />
-<OBJ id="18148" text="正式啦，[%personname l] 要退役了。" />
-<OBJ id="18149" text="生涯結束 -- [%personname f l] 退休了。" />
-<OBJ id="18150" text="傳言證實，[%personname l] 退役了。" />
-<OBJ id="18151" text="決定日：[%personname l]宣布退休。" />
-<OBJ id="18152" text="[%personname l] 準備退役了。" />
-<OBJ id="18268" text="[%personname f l] 訴說棒球告別" />
+<OBJ id="15220" text="[%playerposition capital] [%personname L] 將退役"/>
+<OBJ id="18123" text="[%teamname] [%playerposition capital] [%personname l] 將退役"/>
+<OBJ id="18124" text="[%personname l] 宣布退役"/>
+<OBJ id="18125" text="[%teamname] 的 [%personname l] 將退役"/>
+<OBJ id="18126" text="[%personname l] 設定退役"/>
+<OBJ id="18127" text="[%teamnickname] [%personname l] 決定退役"/>
+<OBJ id="18128" text="[%teamnickname] [%personname l] 宣布退休"/>
+<OBJ id="18129" text="[%teamnickname] [%personname l] 揭開鞋釘告別"/>
+<OBJ id="18130" text="[%teamname] 宣布 [%personname l] 將退役"/>
+<OBJ id="18131" text="[%teamnickname] 宣布 [%personname l] 將退役"/>
+<OBJ id="18132" text="[%personname f l] 宣告結束職業生涯"/>
+<OBJ id="18133" text="時間到了：[%personname l] 將退役"/>
+<OBJ id="18134" text="告別時間：[%personname l] 退役"/>
+<OBJ id="18135" text="[%teamname] 的 [%personname f l] 宣布退休"/>
+<OBJ id="18136" text="該走了：[%personname l] 在 [%teamname] 退役"/>
+<OBJ id="18137" text="[%personname l] 終止揣測，將退役"/>
+<OBJ id="18138" text="派對結束：[%personname l] 在 [%teamname] 退役"/>
+<OBJ id="18139" text="結局來臨：[%personname f l] 退役"/>
+<OBJ id="18140" text="[%personname l] 正式宣布，將退役"/>
+<OBJ id="18141" text="[%personname l] 在 [%teamname] 告別"/>
+<OBJ id="18142" text="[%personname f l] 離開棒球"/>
+<OBJ id="18143" text="[%personname l] 向棒球告別"/>
+<OBJ id="18144" text="[%personname f l] 計劃退役"/>
+<OBJ id="18145" text="[%personname l] 從比賽中走開"/>
+<OBJ id="18146" text="哭泣的時間：[%personname l] 退役"/>
+<OBJ id="18147" text="[%personname l] 在 [%teamname] 宣告結束"/>
+<OBJ id="18148" text="已正式：[%personname l] 將退役"/>
+<OBJ id="18149" text="職業生涯結束 -- [%personname f l] 退役"/>
+<OBJ id="18150" text="傳聞確認，[%personname l] 退役"/>
+<OBJ id="18151" text="決定之日：[%personname l] 退役"/>
+<OBJ id="18152" text="[%personname l] 準備退役"/>
+<OBJ id="18268" text="[%personname f l] 向棒球道別"/>
 </CAT>
 
 <CAT id="394">
-<OBJ id="15766" text="風把那顆球吹偏了。" />
-<OBJ id="18238" text="風肯定是把球往外吹了。" />
-<OBJ id="18240" text="風可能把球吹偏了。" />
-<OBJ id="23158" text="風幫到那顆球打偏了。" />
-<OBJ id="23159" text="風力把那顆球吹偏了。" />
-<OBJ id="23160" text="那顆球被風吹偏落在外界，Thanks to the wind!" />
-<OBJ id="23161" text="風把那顆球吹偏了。" />
-<OBJ id="33046" text="風把那顆球吹偏了。" />
+<OBJ id="15766" text="風把那顆球打出界了。"/>
+<OBJ id="18238" text="風絕對把球推向了界外。"/>
+<OBJ id="18240" text="風可能把球帶到了界外。"/>
+<OBJ id="23158" text="風幫助把那顆球推向了界外。"/>
+<OBJ id="23159" text="風把那顆球推向了界外。"/>
+<OBJ id="23160" text="那顆球落在界外，多虧了風。"/>
+<OBJ id="23161" text="風把那顆球帶到了界外。"/>
+<OBJ id="33046" text="風把那顆球打出界了。"/>
 </CAT>
 
 <CAT id="395">
-<OBJ id="15767" text="風力幫了這一球離場。" />
-<OBJ id="18226" text="風可能有助於那一擊。" />
-<OBJ id="18227" text="風幫了那顆球出去." />
-<OBJ id="18228" text="那顆球飛出場外是因為風的關係。" />
-<OBJ id="18229" text="大部分的日子那是一個出局。(nl)但今天風吹把它吹出了界外!" />
-<OBJ id="23167" text="[%game batter] 這一球飛得更遠了……(nl)都歸功於風。" />
-<OBJ id="23168" text="[%game batter] 把球往上打，在風中飄……(nl)結果球就飛出去了!" />
-<OBJ id="23169" text="沒有風的話……(nl)那顆球在球場內。" />
-<OBJ id="23170" text="無風 -- 大概無全壘打。" />
-<OBJ id="23172" text="風力讓那顆球往前飛。" />
-<OBJ id="23173" text="風向改變了比賽結果！" />
-<OBJ id="23206" text="[%game batter] 把球打到了空中…… (nl) 然後風把它吹離了這裡。" />
-<OBJ id="23207" text="風把那個球吹過了圍牆。" />
-<OBJ id="23209" text="風將它帶起而飄出了。" />
-<OBJ id="23211" usage_chance_for_game="1" only_once_per_x2="1" text="那一支全壘打實在輕鬆自在啊！風把它助力，帶過了牆壁。" />
-<OBJ id="39810" text="風讓那個球飛起來了。" />
-<OBJ id="39811" text="有風力推助的全壘打。" />
-<OBJ id="39812" text="風幫他擎了飛球！" />
-<OBJ id="39813" text="風幫助那球飛越圍牆。" />
-<OBJ id="40229" text="[%game batter] 順風球出去了！" />
-<OBJ id="40230" text="風可能把出局轉成了全壘打。" />
-<OBJ id="40231" text="風向有利於打者。(nl)那顆飛球離開球場時非常有幫助。" />
-<OBJ id="44892" text="這一棒由大自然帶離了球場。" />
-<OBJ id="45125" text="沒有風的話，那球落地之前就結束了。" />
-<OBJ id="48314" text="那球入了上風條件區，就漲起來了！" />
-<OBJ id="59161" text="那颗球被风给奪走了！" />
+<OBJ id="15767" text="風幫助那顆球飛出了球場。"/>
+<OBJ id="18226" text="風可能幫助了那一擊。"/>
+<OBJ id="18227" text="風幫助那顆球離開了球場。"/>
+<OBJ id="18228" text="那顆球因為風而飛出了球場。"/>
+<OBJ id="18229" text="在大多數情況下，那是出局。(nl)但今天風把它帶出來了！"/>
+<OBJ id="23167" text="[%game batter] 在那一球上獲得了額外的距離...(nl)多虧了風。"/>
+<OBJ id="23168" text="[%game batter] 把那顆球打到了風中...(nl)結果它被帶出來了！"/>
+<OBJ id="23169" text="如果沒有風...(nl)那顆球就會留在球場裡。"/>
+<OBJ id="23170" text="沒有風——可能就沒有全壘打。"/>
+<OBJ id="23172" text="風給了那顆球所需的幫助。"/>
+<OBJ id="23173" text="風造成了差異！"/>
+<OBJ id="23206" text="[%game batter] 把它打上了空中...(nl)而風把它帶出來了。"/>
+<OBJ id="23207" text="風把那顆球推過了圍欄。"/>
+<OBJ id="23209" text="風把它抬起來帶出來了。"/>
+<OBJ id="23211" usage_chance_for_game="1" only_once_per_x2="1" text="那支全壘打簡直是輕而易舉——字面上的！(nl)風給了它剛好足夠的幫助以越過圍牆。"/>
+<OBJ id="39810" text="風抓住了那一球。"/>
+<OBJ id="39811" text="這是一支風助的全壘打。"/>
+<OBJ id="39812" text="風控制了那一球。"/>
+<OBJ id="39813" text="風幫助那顆球越過了圍欄。"/>
+<OBJ id="40229" text="[%game batter] 獲得了一支風助全壘打。"/>
+<OBJ id="40230" text="風可能把出局變成了全壘打。"/>
+<OBJ id="40231" text="風對打者有利。(nl)它確實幫助那個高飛球離開了球場。"/>
+<OBJ id="44892" text="大自然的母親把那個帶了出去。"/>
+<OBJ id="45125" text="沒有風，那顆球就會留在球場裡。"/>
+<OBJ id="48314" text="那顆球找到了噴流並起飛了！"/>
+<OBJ id="59161" text="風把那顆球帶走了！"/>
 </CAT>
 
 <CAT id="396">
@@ -92656,18 +92658,18 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="397">
-<OBJ id="15769" text="濕濕嘅草地攪到佢唔掂啦。" />
-<OBJ id="18225" text="潮濕的環境對那個失誤起了作用。" />
-<OBJ id="22796" text="雨可能對那個失誤有所貢獻。" />
-<OBJ id="22797" text="潮濕的環境對那個失誤有所貢獻。" />
-<OBJ id="22798" text="濕地球場跟濕棒球玩起來真不容易。" />
-<OBJ id="22799" text="落雨天，得捕捉球好困難。(nl)且丟回去更加困難。" />
-<OBJ id="22800" text="當地面潮濕、球又溼滑時，失誤的情況就更容易發生。" />
-<OBJ id="22804" text="球和球場都很滑。在這個雨天中打球有些棘手。" />
-<OBJ id="22805" text="潮濕的天氣導致那個失誤。" />
-<OBJ id="40621" text="打棒球的狀況不怎麼好。" />
-<OBJ id="40622" text="現在打棒球的環境不是很好。" />
-<OBJ id="57695" text="球場濕滑得跟漏油一樣難打啊。" />
+<OBJ id="15769" text="潮濕的草地對那次失誤有影響。"/>
+<OBJ id="18225" text="潮濕的條件在那次失誤中起了作用。"/>
+<OBJ id="22796" text="雨可能導致了那次失誤。"/>
+<OBJ id="22797" text="潮濕的條件對那次失誤有貢獻。"/>
+<OBJ id="22798" text="在潮濕的場地上打球，球也濕滑，真的很困難。"/>
+<OBJ id="22799" text="在潮濕的天氣裡，接球很困難。(nl)而投球更是困難。"/>
+<OBJ id="22800" text="當腳下不穩，球又濕滑時，失誤會更頻繁發生。(nl)"/>
+<OBJ id="22804" text="球和場地都滑溜。(nl)在這種雨中比賽有點危險。"/>
+<OBJ id="22805" text="潮濕的條件對那次失誤有貢獻。"/>
+<OBJ id="40621" text="這不是打棒球的理想條件。"/>
+<OBJ id="40622" text="現在的條件對打棒球來說不太好。"/>
+<OBJ id="57695" text="在比油漬還滑的場地上打球真的很難。"/>
 </CAT>
 
 <CAT id="398">
@@ -92710,10 +92712,10 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="146" value="1" />
 </OBJ>
 <OBJ id="18952">
-<TXT>[%personnamemr]，(nl)(nl)我哋睇完你個履歷，好欣賞你，想問下你有無興趣做我哋新嘅總管，我哋認為你可以立即對我哋嘅辦公室做出貢獻。請考慮我哋嘅邀請，盡快聯絡我哋。(nl)(nl)敬祝商祺(nl)[%teamlink nick] 擁有權人</TXT>
+<TXT>[%personnamemr]，(nl)(nl)我們對你的履歷印象深刻，想知道你是否有興趣成為我們的新總經理。我們認為你能對我們的前台立刻產生影響。請考慮這個提議，並盡快與我們聯繫。(nl)(nl)誠摯的，(nl)[%teamlink nick] 所有權</TXT>
 <COND id="145" value="1" />
 </OBJ>
-<OBJ id="18953" text="[%personnamemr]，(nl)(nl)我哋正尋搵一個新的總管，聽聞你唔錯。呢度係大時代，但我哋相信你有能力嘅，盡快聯絡我哋。(nl)(nl)敬啟,(nl)(nl) [%teamname nickname] 所有權人">
+<OBJ id="18953" text="[%personnamemr]，(nl)(nl)我們正在尋找一位新的總經理，並對你聽到的消息感到滿意。這是大時候，但我們相信你能迎接這個挑戰。請儘快告訴我們。(nl)(nl)誠摯的，(nl)(nl)[%teamname nick] 所有權">
 <COND id="146" value="1" />
 </OBJ>
 <OBJ id="18954">
@@ -92740,7 +92742,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="146" value="1" />
 </OBJ>
 <OBJ id="38234">
-<TXT>[%personnamemr]，(nl)(nl)唔係每日都有機會捉住個人做我地嘅總教練兼總經理，但我地覺得你有呢個實力去完成呢份工作。你想唔想番黎[%teamlink nick]？(nl)(nl)真誠地，(nl)(nl)[%teamnickname] 團隊擁有權</TXT>
+<TXT>[%personnamemr]，(nl)(nl)我們不是每天都會提供某人擔任我們的經理和總經理的機會，但我們覺得你具備做這份工作的能力。你怎麼看，你想來為 [%teamlink nick] 工作嗎？(nl)(nl)誠摯的，(nl)(nl)[%teamnickname] 所有權</TXT>
 <COND id="146" value="1" />
 </OBJ>
 <OBJ id="38235">
@@ -92767,7 +92769,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <OBJ id="38241" text="[%personnamemr]，(nl)(nl)[%teamlink nick] 想邀請你加入我們的球隊。我們認為你作為經理的技能對我們會非常有幫助。你有興趣嗎？(nl)(nl)誠摯地，(nl)(nl)[%teamnickname]  擁有權">
 <COND id="144" value="1" />
 </OBJ>
-<OBJ id="38242" text="[%personnamemr]，(nl)(nl)我哋[%teamlink nick]需要一位新經理，我哋覺得你係一個好選擇。你想加入我哋球隊貢獻嗎？(nl)(nl)敬祝，(nl)(nl)[%teamnickname] 團隊所有人">
+<OBJ id="38242" text="[%personnamemr],(nl)(nl) [%teamlink nick] 需要一位新的經理，我們認為你非常合適。你想來為我們的球隊工作嗎？(nl)(nl) 誠摯的，(nl)(nl) [%teamnickname] 所有權">
 <COND id="144" value="1" />
 </OBJ>
 <OBJ id="38243" text="您好，[%personnamemr]。(nl)(nl)我們想要給您一個機會來[%leaguename]执教。如果您有興趣，我們很樂意邀請您成為[%teamlink nick]的總教練。請讓我們知道。(nl)(nl)誠摯地，(nl)(nl)[%teamnickname] 的擁有權。">
@@ -92777,7 +92779,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <TXT>嗨[%personname F]，(nl)(nl)希望您過得不錯。我們寫信來通知您，[%teamlink nick]想要提供您擔任我們球隊的經理。這樣的機會不是很容易得到，所以我們希望您會認真考慮。(nl)(nl)誠摯地,(nl)(nl)[%teamnickname] 的所有權人</TXT>
 <COND id="144" value="1" />
 </OBJ>
-<OBJ id="38245" text="[%personnamemr]，(nl)(nl)我哋驚歎妳對呢個運動嘅認識同埋證書。我哋希望可以立即邀請你加入我哋嘅球隊。有興趣成為[%teamlink nick]嘅經理嗎？(nl)(nl)謹此，(nl)(nl)[%teamnickname] 球隊擁有權">
+<OBJ id="38245" text="[%personnamemr],(nl)(nl) 我們對你的資格和對比賽的了解印象深刻。我們希望立即讓你加入我們的休息區。你有興趣成為 [%teamlink nick] 的經理嗎？(nl)(nl) 誠摯的，(nl)(nl) [%teamnickname] 所有權">
 <COND id="144" value="1" />
 </OBJ>
 <OBJ id="38246" text="親愛的[%personnamemr]，(nl)(nl)[%teamlink nick]現在有經理職缺，我們認為你具備了適當的技能，可以勝任這份工作。你覺得如何？有興趣來跟我們一起工作嗎？(nl)(nl)此致敬意，(nl)(nl)[%teamnickname]管理層">
@@ -106580,73 +106582,73 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="766">
-<OBJ id="38020" text="[%subleagueabbr] 名人堂授予[%silversluggeraward]獎項得主" />
-<OBJ id="38030" text="最強球棒手贏得[%subleagueabbr][%silversluggeraward]榮譽。" />
-<OBJ id="38031" text="[%silversluggeraward] 得主揭曉，來自[%subleagueabbr]的球員獲選" />
-<OBJ id="38032" text="大打者得[%subleagueabbr][%silversluggeraward]獎項。" />
-<OBJ id="38033" text=" 選出[%subleagueabbr] [%silversluggeraward] 獎項得主" />
-<OBJ id="38034" text="[%subleaguename] 選出 [%silversluggeraward] 獎項得主" />
-<OBJ id="38035" text="[%subleaguename] 宣布 [%silversluggeraward] 得主" />
-<OBJ id="38036" text="頂尖[%subleagueabbr]打者榮獲[%silversluggeraward]。" />
-<OBJ id="38037" text="[%subleaguename] [%silversluggeraward] 得獎者公佈" />
-<OBJ id="38038" text="[%subleagueabbr] 星隊宣布[%silversluggeraward]獎項得主" />
+<OBJ id="38020" text="[%subleagueabbr] 公佈 [%silversluggeraward] 獲獎者"/>
+<OBJ id="38030" text="最佳打者獲得 [%subleagueabbr] [%silversluggeraward] 榮譽"/>
+<OBJ id="38031" text="[%silversluggeraward] 獲獎者公佈於 [%subleagueabbr]"/>
+<OBJ id="38032" text="大打者被命名為 [%subleagueabbr] [%silversluggeraward] 獲獎者"/>
+<OBJ id="38033" text="[%subleagueabbr] [%silversluggeraward] 獲獎者已選定"/>
+<OBJ id="38034" text="[%subleaguename] [%silversluggeraward] 獲獎者已挑選"/>
+<OBJ id="38035" text="[%subleaguename] 公佈 [%silversluggeraward] 獲獎者"/>
+<OBJ id="38036" text="頂尖 [%subleagueabbr] 打者獲得 [%silversluggeraward] 獎項"/>
+<OBJ id="38037" text="[%subleaguename] [%silversluggeraward] 獲獎者已公告"/>
+<OBJ id="38038" text="[%subleagueabbr] 明星被命名為 [%silversluggeraward] 獲獎者"/>
 </CAT>
 
 <CAT id="767">
-<OBJ id="38021" text="今天，[%subleaguename] 宣布了 [%silversluggeraward] 得主，該獎項是頒給在其主要位置表現最出色的攻擊球員。(nl)(nl) 以下是[%leagueyear] 的得主名單：(nl)(nl)[%string]" />
-<OBJ id="38039" text="因為在攻擊上表現出色，[%subleaguename] 今天宣布了[%silversluggeraward] 的得獎人。[%leagueyear] 的得獎者為：(nl)(nl)[%string]" />
-<OBJ id="38040" text="今年的[%subleaguename] [%silversluggeraward] 得主們在进攻方面都做出了卓越的贡献。(nl)(nl)這些得主在今天受到了表彰，以表彰他們在[%leagueyear]的出色进攻贡献:(nl)(nl)[%string]" />
-<OBJ id="38041" text="[%subleaguename]的投手在整個賽季都很難投到這一群打者，因為他們表現優異，所以他們獲得了[%leagueyear]的[%silversluggeraward]。(nl)(nl)獲獎者為: (nl)(nl)[%string]" />
-<OBJ id="38042" text="今天公佈了[%leagueyear]年[%subleaguename]的[%silversluggeraward]得獎者名單。這些球員在守備位置上表現優異，攻擊表現也比同位置的其他球員更出色。(nl)(nl)得獎者為:(nl)(nl)[%string]。" />
-<OBJ id="38043" text="今天公佈了[%subleaguename] [%silversluggeraward] 的得主，被[%leaguename] 總裁稱為「進攻優秀的一個賽季」。(nl)(nl) [%leagueyear] 年的得主是: (nl)(nl)[%string]" />
-<OBJ id="38044" text="今天[%subleaguename]頒獎，宣布[%leagueyear]銀棒獎得主。(nl)(nl)今年各位置最佳打者是：(nl)(nl)[%string]" />
-<OBJ id="38045" text="因為今年在其守備位置上是最強的攻擊貢獻者，所以[%subleaguename]宣布一群球員成為[%silversluggeraward]得獎者。(nl)(nl)這個[%leagueyear]的得主如下:(nl)(nl)[%string]" />
-<OBJ id="38046" text="[%subleaguename] [%silversluggeraward] 的得主據[%leaguename]總裁表示在板上極為出色，今年的成績非常亮眼。(nl)(nl)在這個进攻方面表現卓越的[%leagueyear]年得主為:(nl)(nl) [%string]" />
-<OBJ id="38047" text="今天宣佈一群優秀的[%leaguename]球星贏得了[%subleaguename]的[%silversluggeraward]。(nl)(nl)為表現出色的攻擊表現，[%leagueyear]的得獎者為：(nl)(nl)[%string]" />
-<OBJ id="38095" text="有著全明星球員在鑽石四周，[%leagueyear] [%subleaguename] [%silversluggeraward] 獎得主代表了[%leaguename] 中最出色的進攻表現者。(nl)(nl)以下是獲得者:(nl)(nl)[%string]" />
-<OBJ id="38096" text="任何一位[%leaguename]經理都希望在他們的陣容中擁有一位[%silversluggeraward]獎得主。這些球員在[%leagueyear]年在[%subleaguename]聯盟的守備位置上都是攻擊方面的頂尖球員：(nl)(nl)[%string]。" />
-<OBJ id="38097" text="有些球員是第一次贏得這個獎項，而有些則已經在他們的位置上成為頂尖進攻球員之一。[%leagueyear] [%subleaguename] [%silversluggeraward] 獲獎者為：(nl)(nl)[%string]。" />
+<OBJ id="38021" text="今天，[%subleaguename] 公布了 [%silversluggeraward] 獲獎者，此獎項頒發給其主要位置的最佳攻擊球員。(nl)(nl)以下是 [%leagueyear] 的獲獎者：(nl)(nl)[%string]"/>
+<OBJ id="38039" text="由於他們突出的攻擊表現，[%subleaguename] 今天公布了 [%silversluggeraward] 獲獎者。[%leagueyear] 的獲獎者是：(nl)(nl)[%string]"/>
+<OBJ id="38040" text="今年的 [%subleaguename] [%silversluggeraward] 獲獎者在攻擊貢獻上毫不吝嗇。(nl)(nl)這些獲獎者因其在 [%leagueyear] 的穩定攻擊貢獻而獲得了認可：(nl)(nl)[%string]"/>
+<OBJ id="38041" text="在整個賽季中，[%subleaguename] 的投手們對這組打者感到困難，而他們因其出色的賽季而獲得 [%leagueyear] 的 [%silversluggeraward] 獎項。(nl)(nl)獲獎者為：(nl)(nl)[%string]"/>
+<OBJ id="38042" text="[%leagueyear] 的 [%subleaguename] [%silversluggeraward] 獲獎者今天被公佈。這些球員在各自位置上有著出色的攻擊賽季，超越了同位置的對手。(nl)(nl)獲獎者為：(nl)(nl)[%string]"/>
+<OBJ id="38043" text="今天公布了 [%subleaguename] 的 [%silversluggeraward] 獲獎者，這些球員因 [%leaguename] 總監所描述的「卓越的攻擊賽季」而受到榮譽。(nl)(nl)[%leagueyear] 的獲獎者為：(nl)(nl)[%string]"/>
+<OBJ id="38044" text="[%subleaguename] 今天頒發了一些獎項，命名 [%leagueyear] 的 [%silversluggeraward] 獲獎者。(nl)(nl)今年在各自位置上獲勝的打者有：(nl)(nl)[%string]"/>
+<OBJ id="38045" text="因為在今年的各自位置上是最強的攻擊貢獻者，[%subleaguename] 命名了一組球員為 [%silversluggeraward] 獲獎者。(nl)(nl)[%leagueyear] 的獲獎者為：(nl)(nl)[%string]"/>
+<OBJ id="38046" text="根據 [%leaguename] 總監的說法，[%subleaguename] [%silversluggeraward] 獲獎者在今年的打擊表現都相當「出色」。(nl)(nl)在攻擊上表現卓越的 [%leagueyear] 獲獎者有：(nl)(nl)[%string]"/>
+<OBJ id="38047" text="一組成名和新興的 [%leaguename] 明星今天被命名為 [%subleaguename] [%silversluggeraward] 的獲獎者。(nl)(nl)因出色的攻擊表現，[%leagueyear] 的獲獎者為：(nl)(nl)[%string]"/>
+<OBJ id="38095" text="在全場都有全明星的情況下，[%leagueyear] 的 [%subleaguename] [%silversluggeraward] 獲獎者代表著 [%leaguename] 中一些最好的攻擊表現者。(nl)(nl)以下是獲獎者：(nl)(nl)[%string]"/>
+<OBJ id="38096" text="任何 [%leaguename] 的經理都希望在他們的名單中有一位 [%silversluggeraward] 獲獎者。這些球員在 [%subleaguename] 的 [%leagueyear] 年度中是其位置的最佳攻擊者：(nl)(nl)[%string]"/>
+<OBJ id="38097" text="對於一些人來說，這是第一次獲得這項獎項，而其他人已經在其位置上證明了自己是最佳攻擊球員。[%leagueyear] [%subleaguename] [%silversluggeraward] 獲獎者為：(nl)(nl)[%string]"/>
 <OBJ id="38098">
-<TXT>這些[%subleaguename]的打者中，有些在各自位置上與其他球員打得不相上下，有些則是遙遙領先。不管怎樣，今天[%leagueyear]的[%silversluggeraward]得主已經揭曉。他們分別是：(nl)(nl)[%string]。</TXT>
+<TXT>一些 [%subleaguename] 的打者在各自位置的競爭中不分上下，而其他人的表現則超過了競爭者。無論如何，今天的 [%leagueyear] [%silversluggeraward] 獲獎者已經被命名。他們是：(nl)(nl)[%string]</TXT>
 </OBJ>
-<OBJ id="38099" text="[%silversluggeraward]是頒發給鑽石周圍每個位置上展現最佳攻擊技術的球員的獎項。這群球員整年來讓[%subleaguename]的投手們很頭痛，現在在[%leagueyear]年獲得了榮譽：(nl)(nl)[%string]。" />
-<OBJ id="38100" text="[%subleaguename]得主[%silversluggeraward]是在他們的位置上展現出優秀的攻擊表現。[%leagueyear]年的得主是:(nl)(nl)[%string]。" />
+<OBJ id="38099" text="[%silversluggeraward] 頒發給每個位置上展現最佳攻擊技能的球員。這組球員在整個賽季中給 [%subleaguename] 的投手帶來麻煩，並因此受到 [%leagueyear] 的榮譽：(nl)(nl)[%string]"/>
+<OBJ id="38100" text="[%subleaguename] [%silversluggeraward] 的獲獎者在其位置上展示了作為最佳攻擊球員的實力。[%leagueyear] 的獲獎者為：(nl)(nl)[%string]"/>
 <OBJ id="38101">
-<TXT>這是值得炫耀的獎座，而且肯定會成為[%leaguename]更衣室裡的話題。[%subleaguename]今天宣布了[%silversluggeraward]的得獎者，該獎項頒發給每個位置上的頂尖進攻表現者。(nl)(nl)以下是[%leagueyear]的得獎者名單：(nl)(nl)[%string]</TXT>
+<TXT>這是一座擺放在架上的獎盃，無疑是在 [%leaguename] 更衣室中的自豪象徵。今天，[%subleaguename] 公布了 [%silversluggeraward] 獲獎者，這項獎項頒發給每個位置上最佳的攻擊表現者。(nl)(nl)以下是 [%leagueyear] 的獲獎者：(nl)(nl)[%string]</TXT>
 </OBJ>
 <OBJ id="38102">
-<TXT>這組猛打者是[%subleaguename]投手群在[%leagueyear]嚇得不想見到的人。他們都是[%silversluggeraward]的獲得者，該獎項是頒給每個位置的最佳進攻表現者。(nl)(nl)以下是[%leagueyear]的得主：(nl)(nl)[%string]</TXT>
+<TXT>這組打者是 [%subleaguename] 投手在 [%leagueyear] 不想看到的球員。他們是 [%silversluggeraward] 的獲獎者，這項獎項頒發給每個位置上的最佳攻擊表現者。(nl)(nl)以下是 [%leagueyear] 的獲獎者：(nl)(nl)[%string]</TXT>
 </OBJ>
-<OBJ id="38103" text="[%leaguename] 的管理員說他很“有幸和榮幸”能命名[%subleaguename]的[%silversluggeraward]得主。[%leagueyear]的得獎者是：(nl)(nl)[%string]" />
-<OBJ id="38104" text="[%subleaguename]的最佳攻擊表現者今天被授予[%silversluggeraward]，該獎項頒給其主要位置上的頂級打擊手。(nl)(nl)以下是[%leagueyear]的得獎者：(nl)(nl)[%string]" />
+<OBJ id="38103" text="[%leaguename] 總監表示，他感到「榮幸和驕傲」能命名 [%subleaguename] [%silversluggeraward] 的獲獎者。[%leagueyear] 的獲獎者為：(nl)(nl)[%string]"/>
+<OBJ id="38104" text="[%subleaguename] 提供的最佳攻擊表現者今天獲得了 [%silversluggeraward] 的榮譽，這項獎項頒發給每個位置的最佳打者。(nl)(nl)以下是 [%leagueyear] 的獲獎者：(nl)(nl)[%string]"/>
 <OBJ id="38142">
-<TXT>今天把硬體贈送給[%subleaguename]打者，他們在相對的位置中展現最佳的攻勢表現。根據聯盟專員的聲明，他們都是「非凡的[%leaguename]貢獻者」。[%leagueyear]年度的[%silversluggeraward]得主是：(nl)(nl)[%string]。</TXT>
+<TXT>今天頒發給 [%subleaguename] 打者的獎項是基於他們在各自位置上的最佳攻擊表現。根據聯盟總監的聲明，他們都是「卓越的 [%leaguename] 貢獻者」。[%leagueyear] 的 [%silversluggeraward] 獲獎者為：(nl)(nl)[%string]</TXT>
 </OBJ>
-<OBJ id="38143" text="[%subleaguename]的[%silversluggeraward]是一個令人垂涎的獎項，它是頒給每個位置在過去一年中攻擊表現最強的球員。[%leagueyear]的得獎者是：(nl)(nl)[%string]。" />
-<OBJ id="38144" text="[%silversluggeraward] 是獎項中的殊榮，象徵著在當該位置上攻擊表現的巔峰。&quot; [%leaguename] 的主席表示。 [%leagueyear] 年度的[%subleaguename] 得主是：(nl)(nl)[%string]" />
+<OBJ id="38143" text="[%subleaguename] [%silversluggeraward] 是一項受人珍視的獎項，頒發給過去一年在每個位置上表現最佳的球員。[%leagueyear] 的獲獎者為：(nl)(nl)[%string]"/>
+<OBJ id="38144" text="[%silversluggeraward] 榮耀「在各自位置上攻擊表現的巔峰」，[%leaguename] 總監表示。[%subleaguename] 的 [%leagueyear] 獲獎者為：(nl)(nl)[%string]"/>
 <OBJ id="38145">
-<TXT>[%subleaguename] [%silversluggeraward] 的勝利者，根據[%leaguename]委員會的聲明表現出 "持續且卓越的攻擊表現"。(nl)(nl) [%leagueyear] 年份的得獎者是：(nl)(nl)[%string]</TXT>
+<TXT>[%subleaguename] [%silversluggeraward] 的獲獎者展示了「穩定且傑出的攻擊表現」，根據 [%leaguename] 總監的聲明。(nl)(nl)[%leagueyear] 的獲獎者為：(nl)(nl)[%string]</TXT>
 </OBJ>
-<OBJ id="38146" text="每個位置最佳的攻擊表現者現在會有一個華麗的獎杯來炫耀他們的成就。(nl)(nl) [%leagueyear] [%subleaguename] [%silversluggeraward] 獲獎者今天宣布：(nl)(nl)[%string]" />
-<OBJ id="38147" text="[%subleaguename]的投手們在整個賽季中都很難對付這群打者。[%leagueyear]年度的[%silversluggeraward]得主是：(nl)(nl)[%string]" />
-<OBJ id="38148" text="去年[%leagueyear]，[%subleaguename]聯盟的[%silversluggeraward]頒給表現最優異的打擊手。得獎者是：(nl)(nl)[%string]。" />
-<OBJ id="38149" text="佢哋首位嘅打者係去季度佢哋崴出嘅表現佈爾，而家佢哋攞咗證據。(nl)(nl)[%leagueyear]年度[%subleaguename]嘅[%silversluggeraward]獎項已經頒發俾以下選手：(nl)(nl)[%string]" />
-<OBJ id="38150" text="有些球員今年起飛，但有些球員持續地在每個賽季中優異表現。今天，[%leagueyear] [%subleaguename] [%silversluggeraward] 獎項得主揭曉：(nl)(nl)[%string]。" />
-<OBJ id="38151" text="今日[%leaguename]授予[%subleaguename]球員[%silversluggeraward]得獎名單揭曉，球員們臉上洋溢著微笑。(nl)(nl)這些獎項表揚各位置今年度優秀的打擊表現者。得獎名單如下：(nl)(nl)[%string]" />
+<OBJ id="38146" text="每個位置上最佳的攻擊表現者現在將擁有一座精美的獎盃來展示他們的成就。(nl)(nl)[%leagueyear] 的 [%subleaguename] [%silversluggeraward] 獲獎者今天被公佈：(nl)(nl)[%string]"/>
+<OBJ id="38147" text="[%subleaguename] 投手整個賽季都在與這組打者較量，[%leagueyear] 的 [%silversluggeraward] 獲獎者為：(nl)(nl)[%string]"/>
+<OBJ id="38148" text="[%subleaguename] [%silversluggeraward] 在 [%leagueyear] 被頒發給那些在過去一年中展現出色攻擊表現的球員。獲獎者為：(nl)(nl)[%string]"/>
+<OBJ id="38149" text="他們是整個賽季在各自位置上突出的打者，現在他們有獎項來證明這一點。(nl)(nl)[%subleaguename] [%silversluggeraward] 在 [%leagueyear] 被頒發給以下球員：(nl)(nl)[%string]"/>
+<OBJ id="38150" text="對於某些球員來說，這是一個突破年，而其他人則持續在每個賽季中表現出色。今天，[%leagueyear] [%subleaguename] [%silversluggeraward] 獲獎者被命名為：(nl)(nl)[%string]"/>
+<OBJ id="38151" text="今天的笑容燦爛，因為 [%leaguename] 宣布了 [%subleaguename] 的 [%silversluggeraward] 獲獎者。(nl)(nl)這些球員是今年各自位置上最佳的攻擊表現者。獲獎者為：(nl)(nl)[%string]"/>
 </CAT>
 
 <CAT id="768">
-<OBJ id="38022" text="[%personname l] 抓下了[%subleagueabbr]的[%relieveraward]" />
-<OBJ id="38057" text="[%personname L] 成為 [%subleagueabbr] 最佳救援投手" />
-<OBJ id="38058" text="[%personname L] 獲頒救援工作獎" />
-<OBJ id="38059" text="[%relieveraward] 頒給 [%personname L]" />
-<OBJ id="38060" text="[%subleagueabbr]宣布[%relieveraward]贏家" />
-<OBJ id="38061" text="[%personname l] 抓下了[%subleagueabbr]的[%relieveraward]" />
-<OBJ id="38062" text="頂尖[%subleagueabbr]救援投手獲得榮譽。" />
-<OBJ id="38063" text="[%personname L] 獲得[%subleagueabbr] 統治力獎" />
-<OBJ id="38064" text="[%subleagueabbr] 選擇[%relieveraward]啦" />
-<OBJ id="38065" text="最佳[%subleagueabbr]救援投手出爐" />
-<OBJ id="38066" text="最佳[%subleagueabbr]救援王出爐" />
+<OBJ id="38022" text="[%personname l] 獲得 [%subleagueabbr] [%relieveraward]"/>
+<OBJ id="38057" text="[%personname L] 被評為 [%subleagueabbr] 的最佳救援投手"/>
+<OBJ id="38058" text="[%personname L] 獲得救援工作獎"/>
+<OBJ id="38059" text="[%relieveraward] 頒發給 [%personname L]"/>
+<OBJ id="38060" text="[%subleagueabbr] [%relieveraward] 獲獎者已命名"/>
+<OBJ id="38061" text="[%personname l] 獲得 [%subleagueabbr] [%relieveraward]"/>
+<OBJ id="38062" text="最佳 [%subleagueabbr] 救援投手獲得榮譽"/>
+<OBJ id="38063" text="[%personname L] 獲得 [%subleagueabbr] 的主導獎"/>
+<OBJ id="38064" text="[%subleagueabbr] 發放 [%relieveraward]"/>
+<OBJ id="38065" text="最佳 [%subleagueabbr] 救援投手已命名"/>
+<OBJ id="38066" text="最佳 [%subleagueabbr] 救援投手已命名"/>
 </CAT>
 
 <CAT id="769">
@@ -106772,16 +106774,16 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="770">
-<OBJ id="38024" text="[%teamname] 投手拿下 [%subleagueabbr] [%batteraward]" />
-<OBJ id="38076" text="[%teamname] 頂級投手稱號為 [%subleagueabbr] [%batteraward]" />
-<OBJ id="38077" text="統治性的一年贏了[%personname L][%subleagueabbr][%batteraward]。" />
-<OBJ id="38078" text="[%subleagueabbr]最佳球員: [%personname F L]" />
-<OBJ id="38079" text="[%personname L] 領先眾人，奪得[%subleagueabbr] [%batteraward]" />
-<OBJ id="38080" text="[%teamname] 投手拿到[%batteraward]" />
-<OBJ id="38081" text="[%teamname nickname] 的王牌球員被命名為 [%subleagueabbr] 的 [%batteraward]。" />
-<OBJ id="38082" text="不容易的壯舉：投手贏得了 [%subleagueabbr] [%batteraward]。" />
-<OBJ id="38083" text="[%personname L] 以 [%subleagueabbr] [%batteraward] 的殊榮為這椪難忘的賽季點綴完美句號。" />
-<OBJ id="38084" text="[%subleagueabbr] [%batteraward] 獎項頒給了 [%personname L]" />
+<OBJ id="38024" text="[%teamname] 投手獲得 [%subleagueabbr] [%batteraward]"/>
+<OBJ id="38076" text="[%teamname] 主力被評為 [%subleagueabbr] [%batteraward]"/>
+<OBJ id="38077" text="出色的表現使 [%personname L] 獲得 [%subleagueabbr] [%batteraward]"/>
+<OBJ id="38078" text="[%subleagueabbr] 的最佳球員：[%personname F L]"/>
+<OBJ id="38079" text="[%personname L] 脫穎而出，獲得 [%subleagueabbr] [%batteraward]"/>
+<OBJ id="38080" text="[%teamname] 投手獲得 [%batteraward]"/>
+<OBJ id="38081" text="[%teamname nickname] 主力被評為 [%subleagueabbr] [%batteraward]"/>
+<OBJ id="38082" text="不易之舉：投手獲得 [%subleagueabbr] [%batteraward]"/>
+<OBJ id="38083" text="[%personname L] 以 [%subleagueabbr] [%batteraward] 榮譽結束難忘的賽季"/>
+<OBJ id="38084" text="[%subleagueabbr] [%batteraward] 頒發給 [%personname L]"/>
 </CAT>
 
 <CAT id="771">
