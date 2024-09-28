@@ -3358,7 +3358,7 @@
    <KR>設定收入百分比</KR>
    <ES>Establecer porcentaje de ingresos</ES>
    <JP>収入のパーセンテージを設定する</JP>
-   <CN>设定收入百分比</CN>
+   <CN>設定收入百分比</CN>
  </HCS>
   <HCS i="424">
    <EN>Wants more yrs</EN>
@@ -30031,7 +30031,7 @@
    <KR>設定替換陣容</KR>
    <ES>Configuración de alineación alternativa</ES>
    <JP>代替ラインナップの設定</JP>
-   <CN>设定替补阵容</CN>
+   <CN>設定替补阵容</CN>
  </HCS>
   <HCS i="3795">
    <EN>Select Attribute</EN>
@@ -35908,7 +35908,7 @@
   <HCS i="4590">
    <EN>%season_year All-Star Game</EN>
    <DC />
-   <KR>%season_year明星賽</KR>
+   <KR>%season_year 全明星賽</KR>
    <ES>%temporada_año Juego de estrellas</ES>
    <JP>%season_yearオールスターゲーム</JP>
    <CN>%season_year 全明星赛</CN>
@@ -35956,7 +35956,7 @@
   <HCS i="4596">
    <EN>%season_year All-Star Prospects Game</EN>
    <DC />
-   <KR>%season_year 星際新秀明星賽</KR>
+   <KR>%season_year 全明星新秀賽</KR>
    <ES>%season_year Juego All-Star Prospects</ES>
    <JP>%season_yearオールスタープロスペクトゲーム</JP>
    <CN>%season_year 全明星前景赛</CN>
@@ -36036,7 +36036,7 @@
   <HCS i="4606">
    <EN>Remote Balls</EN>
    <DC />
-   <KR>遠隔球</KR>
+   <KR>遠端球</KR>
    <ES>Bolas remotas</ES>
    <JP>リモートボール</JP>
    <CN>遥控球</CN>
@@ -36044,7 +36044,7 @@
   <HCS i="4607">
    <EN>Remote Balls Pct</EN>
    <DC />
-   <KR>遙控球比率</KR>
+   <KR>遠端球百分比</KR>
    <ES>Porcentaje de bolas remotas</ES>
    <JP>リモートボール率</JP>
    <CN>遥控球 Pct</CN>
@@ -36068,7 +36068,7 @@
   <HCS i="4610">
    <EN>If player creation is delayed, no players will be created for this league until filled later using league functions</EN>
    <DC />
-   <KR>如果球員創建被延遲，直到之後使用聯盟功能填充之前，此聯盟將不會創建任何球員</KR>
+   <KR>如果球員創建被延遲，則在使用聯盟功能填補之前，該聯盟將不會創建任何球員</KR>
    <ES>Si se retrasa la creación de jugadores, no se crearán jugadores para esta liga hasta que se llene más tarde usando las funciones de la liga.</ES>
    <JP>プレーヤーの作成が遅れた場合、後でリーグ機能を使用して埋められるまで、このリーグのプレーヤーは作成されません。</JP>
    <CN>如果延迟创建球员，则在稍后使用联赛功能填充之前，不会为该联赛创建球员</CN>
@@ -36108,7 +36108,7 @@
   <HCS i="4615">
    <EN>%s %s received a %d-year contract through arbitration worth a total of %value</EN>
    <DC />
-   <KR>%s %s 透過仲裁獲得了一份為期%d年的合約，總價值為%value</KR>
+   <KR>%s %s 透過仲裁獲得了一份為期 %d 年的合約，總價值為 %value</KR>
    <ES>%s %s recibió un contrato de %d años a través de arbitraje por un valor total de %value</ES>
    <JP>%s%sは、合計％valueに相当する仲裁を通じて％d年契約を受け取りました</JP>
    <CN>%s %s 通过仲裁收到了一份为期 %d 年的合約，总价值为 %value</CN>
@@ -36124,7 +36124,7 @@
   <HCS i="4617">
    <EN>With no games scheduled per teams, the regular season will be skipped. Please go through the custom playoff setup to set matchups</EN>
    <DC />
-   <KR>由於球隊之間沒有安排比賽，常規賽將被跳過。請通過自定的季后賽設定來設定對決</KR>
+   <KR>由於各隊沒有排定比賽，季賽將被跳過。請通過自訂季後賽設置來設定對戰組合</KR>
    <ES>Sin juegos programados por equipos, se omitirá la temporada regular. Revisa la configuración personalizada de los playoffs para establecer enfrentamientos.</ES>
    <JP>チームごとに試合が予定されていないため、レギュラーシーズンはスキップされます。カスタムプレーオフの設定を行って、対戦を設定してください</JP>
    <CN>由于没有为每支球队安排比赛，常规赛将被跳过。请通过自定义季后赛设置来设置比赛</CN>
@@ -36252,7 +36252,7 @@
   <HCS i="4633">
    <EN>Money that the owner has either taken or put into the team</EN>
    <DC />
-   <KR>业主拿走或投入球队的资金</KR>
+   <KR>所有者從球隊中提取或投入的資金</KR>
    <ES>Dinero que el dueño ha tomado o puesto en el equipo</ES>
    <JP>所有者がチームに取ったか入れたお金</JP>
    <CN>所有者已经拿走或投入团队的钱</CN>
@@ -36260,7 +36260,7 @@
   <HCS i="4634">
    <EN>Cash from Owner</EN>
    <DC />
-   <KR>業主所提供的現金</KR>
+   <KR>來自所有者的現金</KR>
    <ES>Efectivo del propietario</ES>
    <JP>所有者からの現金</JP>
    <CN>业主现金</CN>
@@ -36292,7 +36292,7 @@
   <HCS i="4638">
    <EN>FaceGen Settings</EN>
    <DC />
-   <KR>面部造型设定</KR>
+   <KR>面部造型設定</KR>
    <ES>Configuración de FaceGen</ES>
    <JP>FaceGen設定</JP>
    <CN>人脸生成设置</CN>
@@ -36364,7 +36364,7 @@
   <HCS i="4647">
    <EN>Received a %d-year contract through arbitration worth a total of %value</EN>
    <DC />
-   <KR>通過仲裁獲得了一份為期%d年的合約，合約總價值為%value</KR>
+   <KR>通過仲裁獲得了一份為期 %d 年的合約，合約總價值為 %value</KR>
    <ES>Recibió un contrato de %d años a través de arbitraje por un valor total de %value</ES>
    <JP>合計％valueに相当する仲裁を通じて％d年契約を受け取りました</JP>
    <CN>通过仲裁获得了一份为期 %d 年的合約，总价值为 %value</CN>
@@ -36412,7 +36412,7 @@
   <HCS i="4653">
    <EN>%s1 %s2 received a %d-year contract through automatic renewal worth a total of %value</EN>
    <DC />
-   <KR>%s1 %s2 通過自動續約獲得了一份%d年的合約，總價值為 %value</KR>
+   <KR>%s1 %s2 通過自動續約獲得了一份 %d 年的合約，總價值為 %value</KR>
    <ES>%s1 %s2 recibió un contrato de %d años a través de la renovación automática por un valor total de %value</ES>
    <JP>%s1%s2は、合計％valueの自動更新を通じて％d年契約を受け取りました</JP>
    <CN>%s1 %s2 通过自动续订收到了一份 %d 年的合約，总价值为 %value</CN>
@@ -36460,7 +36460,7 @@
   <HCS i="4659">
    <EN>%money, %years y</EN>
    <DC>$40,000, 3 y</DC>
-   <KR>付給 %money 的 %years 年</KR>
+   <KR>%money，%years 年</KR>
    <ES>%dinero, %años y</ES>
    <JP>％money、%yearsy</JP>
    <CN>% 钱，% 年</CN>
@@ -36540,7 +36540,7 @@
   <HCS i="4669">
    <EN>Owner Information</EN>
    <DC />
-   <KR>店主信息</KR>
+   <KR>所有者資訊</KR>
    <ES>Información del propietario</ES>
    <JP>所有者情報</JP>
    <CN>所有者信息</CN>
@@ -36612,7 +36612,7 @@
   <HCS i="4678">
    <EN>Do you want the AI to set up your entire organization</EN>
    <DC />
-   <KR>想要讓人工智慧為您設定整個組織嗎？</KR>
+   <KR>想要讓 AI 為您設定整個組織嗎？</KR>
    <ES>¿Quiere que la IA configure toda su organización?</ES>
    <JP>AIで組織全体をセットアップしますか</JP>
    <CN>您是否希望 AI 建立您的整个组织</CN>
@@ -36684,7 +36684,7 @@
   <HCS i="4687">
    <EN>Signed a minor league contract extension with the %s organization</EN>
    <DC />
-   <KR>已與%s機構簽署小聯盟合約延期</KR>
+   <KR>與 %s 組織簽署了小聯盟合約延長</KR>
    <ES>Firmó una extensión de contrato de ligas menores con la organización %s</ES>
    <JP>%s組織とマイナーリーグ契約延長に署名</JP>
    <CN>与 %s 组织签署了一份小联盟续约合約</CN>
@@ -36743,7 +36743,7 @@
    <KR>球員的個人戰略已經設定完成</KR>
    <ES>Las estrategias individuales de los jugadores se han establecido.</ES>
    <JP>個々のプレイヤーの戦略が設定されています</JP>
-   <CN>已设定个人球員策略</CN>
+   <CN>已設定个人球員策略</CN>
  </HCS>
   <HCS i="4695">
    <EN>This will reset all player strategies and have the AI set up new strategies for all players. Continue</EN>
@@ -36764,7 +36764,7 @@
   <HCS i="4697">
    <EN>Could not upload file. Error %d: %s</EN>
    <DC />
-   <KR>無法上載檔案。錯誤%d：%s</KR>
+   <KR>無法上載檔案。錯誤 %d：%s</KR>
    <ES>No se pudo cargar el archivo. Error %d: %s</ES>
    <JP>ファイルをアップロードできませんでした。エラー％d：%s</JP>
    <CN>无法上传文件。错误 %d: %s</CN>
@@ -36772,7 +36772,7 @@
   <HCS i="4698">
    <EN>Could not import team. The error code is %d: %s</EN>
    <DC />
-   <KR>無法導入球隊，錯誤碼為%d：%s</KR>
+   <KR>無法導入球隊，錯誤碼為 %d：%s</KR>
    <ES>No se pudo importar el equipo. El código de error es %d: %s</ES>
    <JP>チームをインポートできませんでした。エラーコードは％dです：%s</JP>
    <CN>无法导入团队。错误代码是 %d: %s</CN>
@@ -36956,7 +36956,7 @@
   <HCS i="4721">
    <EN>Approx %d WAR</EN>
    <DC />
-   <KR>約 %d 勝率替換勝利球員指數</KR>
+   <KR>約 %d WAR</KR>
    <ES>Aproximadamente %d WAR</ES>
    <JP>約％d WAR</JP>
    <CN>大约 %d 次战争</CN>
@@ -37300,7 +37300,7 @@
   <HCS i="4764">
    <EN>Tampa Bay</EN>
    <DC />
-   <KR>光芒隊</KR>
+   <KR>坦帕灣光芒隊</KR>
    <ES>rayos de la bahía de tampa</ES>
    <JP>タンパベイレイズ</JP>
    <CN>坦帕湾光芒</CN>
@@ -37340,7 +37340,7 @@
   <HCS i="4769">
    <EN>Do you want to report this team to the administrator because of suspected illegal trading of points</EN>
    <DC />
-   <KR>您是否因為懷疑該球隊非法交易積分而想向管理員報告？</KR>
+   <KR>您是否因為懷疑該球隊非法交易積分而想向管理員報告</KR>
    <ES>¿Quieres denunciar este equipo al administrador debido a la sospecha de intercambio ilegal de puntos?</ES>
    <JP>ポイントの違法取引が疑われるため、このチームを管理者に報告しますか？</JP>
    <CN>您是否要向管理员举报该团队涉嫌非法交易积分</CN>
@@ -37492,7 +37492,7 @@
   <HCS i="4788">
    <EN>Do you want to report this team to the administrator because of suspected cheating</EN>
    <DC />
-   <KR>你想因為疑似作弊而向管理員報告這個球隊嗎？</KR>
+   <KR>你想因為疑似作弊而向管理員報告這個球隊嗎</KR>
    <ES>¿Quieres denunciar este equipo al administrador por sospecha de trampa?</ES>
    <JP>不正行為の疑いがあるため、このチームを管理者に報告しますか？</JP>
    <CN>是否因涉嫌作弊而向管理员举报此团队</CN>
@@ -37604,7 +37604,7 @@
   <HCS i="4802">
    <EN>Do you want to report this team to the administrator because of an inappropriate team jersey</EN>
    <DC />
-   <KR>你想因為不當的球隊球衣向管理員舉報這支球隊嗎？</KR>
+   <KR>你想因為不當的球隊球衣向管理員舉報這支球隊嗎</KR>
    <ES>¿Quieres denunciar este equipo al administrador debido a una camiseta de equipo inapropiada?</ES>
    <JP>チームジャージが不適切なため、このチームを管理者に報告しますか？</JP>
    <CN>是否因为球队球衣不合适而向管理员举报该球队</CN>
@@ -37732,7 +37732,7 @@
   <HCS i="4818">
    <EN>%n1 of the %t1 finished second in voting%f1, while %n2 of the %t2 finished third%f2</EN>
    <DC />
-   <KR>%n1所屬的%t1在投票中獲得第二名%f1，而 %n2所屬的%t2則獲得第三名%f2</KR>
+   <KR>%n1 的 %t1 在投票中獲得第二名 %f1，而 %n2 的 %t2 獲得第三名 %f2</KR>
    <ES>%n1 de %t1 terminó segundo en la votación%f1, mientras que %n2 de %t2 terminó tercero%f2</ES>
    <JP>％t1の％n1は投票％f1で2番目に終了し、％t2の％n2は3番目に終了しました％f2</JP>
    <CN>%t1 中的 %n1 在投票中获得第二名%f1，而 %t2 中的 %n2 获得第三名%f2</CN>
@@ -37996,7 +37996,7 @@
   <HCS i="4852">
    <EN>Generating %s coach pictures</EN>
    <DC>EX: Generating 10 coach pictures...</DC>
-   <KR>正在生成 %s 教练照片</KR>
+   <KR>生成 %s 教練圖片</KR>
    <ES>Generando %s imágenes de entrenadores</ES>
    <JP>%sコーチ画像の生成</JP>
    <CN>生成 %s 教练图片</CN>
@@ -38004,7 +38004,7 @@
   <HCS i="4853">
    <EN>Generating %totalnumber coach pictures, %numberdone done</EN>
    <DC>EX: Generating 10 player pictures, 5 done</DC>
-   <KR>正在生成%totalnumber名教练的照片，已完成 %numberdone</KR>
+   <KR>生成 %totalnumber 張教練圖片，%numberdone 張已完成</KR>
    <ES>Generando %totalnumber de imágenes de entrenadores, %numberdone hecho</ES>
    <JP>％totalnumberコーチ画像の生成、 %numberdone完了</JP>
    <CN>生成 %totalnumber 教练图片，完成 %numberdone</CN>
@@ -38012,7 +38012,7 @@
   <HCS i="4854">
    <EN>Updating / generating %s coach pictures</EN>
    <DC>EX: Updating / generating 10 coach pictures...</DC>
-   <KR>更新/生成%s教练照片</KR>
+   <KR>更新 / 生成 %s 教練圖片</KR>
    <ES>Actualizar/generar %s imágenes de entrenadores</ES>
    <JP>%sコーチ画像の更新/生成</JP>
    <CN>更新/生成 %s 教练图片</CN>
@@ -38020,7 +38020,7 @@
   <HCS i="4855">
    <EN>Updating / generating %totalnumber coach pictures, %numberdone done</EN>
    <DC>EX: Updating / generating 10 coach pictures, 5 done</DC>
-   <KR>更新/生成%totalnumber位教练图片， %numberdone已完成</KR>
+   <KR>更新 / 生成 %totalnumber 張教練圖片，%numberdone 張已完成</KR>
    <ES>Actualización/generación de %totalnumber de imágenes de entrenadores, %numberdone hecho</ES>
    <JP>％totalnumberコーチ画像の更新/生成、 %numberdone完了</JP>
    <CN>更新/生成 %totalnumber 教练图片， %numberdone 完成</CN>
@@ -38060,7 +38060,7 @@
   <HCS i="4860">
    <EN>Updating / generating %s manager pictures</EN>
    <DC>EX: Updating / generating 10 manager pictures...</DC>
-   <KR>更新/生成%s總教練圖片</KR>
+   <KR>更新 / 生成 %s 總教練圖片</KR>
    <ES>Actualizar/generar %s imágenes de administrador</ES>
    <JP>%sマネージャー画像の更新/生成</JP>
    <CN>更新/生成 %s 经理图片</CN>
@@ -38068,7 +38068,7 @@
   <HCS i="4861">
    <EN>Updating / generating %totalnumber manager pictures, %numberdone done</EN>
    <DC>EX: Updating / generating 10 manager pictures, 5 done</DC>
-   <KR>更新/生成%totalnumber位經理的照片，已完成 %numberdone位</KR>
+   <KR>更新 / 生成 %totalnumber 張經理圖片，%numberdone 張已完成</KR>
    <ES>Actualización/generación de imágenes del administrador de %totalnumber, %numberdone hecho</ES>
    <JP>％totalnumberマネージャーの画像の更新/生成、 %numberdone完了</JP>
    <CN>更新/生成 %totalnumber 经理图片， %numberdone 完成</CN>
@@ -38268,7 +38268,7 @@
   <HCS i="4886">
    <EN>Players on "Not interested" list</EN>
    <DC />
-   <KR>不感興趣球員名單</KR>
+   <KR>在「不感興趣」名單上的球員</KR>
    <ES>Jugadores en la lista de &amp;quot;No interesados&amp;quot;</ES>
    <JP>「興味なし」リストのプレイヤー</JP>
    <CN>“不感兴趣”名单上的球員</CN>
@@ -38532,7 +38532,7 @@
   <HCS i="4919">
    <EN>Hit by pitch in %i</EN>
    <DC />
-   <KR>被觸身球擊中的機率為%i%</KR>
+   <KR>在 %i 被投球擊中</KR>
    <ES>Golpeado por tono en %i</ES>
    <JP>％iの死球</JP>
    <CN>在 %i 中被音高击中</CN>
@@ -38564,7 +38564,7 @@
   <HCS i="4923">
    <EN>Coaches are disabled in world options</EN>
    <DC />
-   <KR>教练在世界选项中被禁用</KR>
+   <KR>在世界選項中已禁用教練</KR>
    <ES>Los entrenadores están deshabilitados en las opciones mundiales.</ES>
    <JP>コーチはワールドオプションで無効になっています</JP>
    <CN>教练在世界选项中被禁用</CN>
@@ -38588,7 +38588,7 @@
   <HCS i="4926">
    <EN>Two-run home run in %i</EN>
    <DC />
-   <KR>%i的兩分砲</KR>
+   <KR>%i 的兩分砲</KR>
    <ES>Jonrón de dos carreras en %i</ES>
    <JP>％iでの2本塁打</JP>
    <CN>%i 中的两次全垒打</CN>
@@ -38596,7 +38596,7 @@
   <HCS i="4927">
    <EN>Three-run home run in %i</EN>
    <DC />
-   <KR>在%i局三分砲!</KR>
+   <KR>在 %i 局三分砲</KR>
    <ES>Jonrón de tres carreras en %i</ES>
    <JP>％iで3本塁打</JP>
    <CN>%i 中的三分全垒打</CN>
@@ -38636,7 +38636,7 @@
   <HCS i="4932">
    <EN>Leads %l in hitting with %a</EN>
    <DC>EX: Leads BBbxxx in hitting with 0.4.</DC>
-   <KR>在擊球方面領先於 %l，擊率為 %a</KR>
+   <KR>在打擊上領先 %l，得分為 %a</KR>
    <ES>Adelanta a %l en golpear con %a</ES>
    <JP>％aでのヒットで%lをリードします</JP>
    <CN>带领 %l 击中 %a</CN>
@@ -38652,7 +38652,7 @@
   <HCS i="4934">
    <EN>Leads %l in HR with %a</EN>
    <DC>EX: Leads AABBxxx in HR with 0.4.</DC>
-   <KR>他在全隊中以 %a 轟打數量領先 %l</KR>
+   <KR>在全壘打上領先 %l，得分為 %a</KR>
    <ES>Lidera %l en recursos humanos con %a</ES>
    <JP>％aでHRの%lをリード</JP>
    <CN>以 %a 领导 HR %l</CN>
@@ -38684,7 +38684,7 @@
   <HCS i="4938">
    <EN>Leads %l in RBI with %a</EN>
    <DC />
-   <KR>以％a的RBI數領先%l</KR>
+   <KR>在打點上領先 %l，得分為 %a</KR>
    <ES>Lidera a %l en RBI con %a</ES>
    <JP>％aでRBIの%lをリード</JP>
    <CN>在 RBI 中以 %a 领先 %l</CN>
@@ -51087,7 +51087,7 @@
    <KR>設定比賽策略</KR>
    <ES>Establecer estrategia de juego</ES>
    <JP>ゲーム戦略を設定する</JP>
-   <CN>设定游戏策略</CN>
+   <CN>設定游戏策略</CN>
  </HCS>
   <HCS i="6531">
    <EN>Ability to run the Bases effectively</EN>
@@ -84918,7 +84918,7 @@
   <HCS i="10880">
    <EN>Settings that resemble the year %t</EN>
    <DC />
-   <KR>球季设定选择 %t 年</KR>
+   <KR>球季設定选择 %t 年</KR>
    <ES>Ajustes que se asemejan al año %t</ES>
    <JP>年％tに似た設定</JP>
    <CN>类似于年份 %t 的设置</CN>
@@ -88422,7 +88422,7 @@
   <HCS i="11329">
    <EN>Matchups can be configured in the next step. The order above is used for seeding</EN>
    <DC />
-   <KR>在下一步中，可以配置比赛对阵。上面的顺序用于设定种子</KR>
+   <KR>在下一步中，可以配置比赛对阵。上面的顺序用于設定种子</KR>
    <ES>Los emparejamientos se pueden configurar en el siguiente paso. El orden anterior se utiliza para sembrar</ES>
    <JP>マッチアップは次のステップで構成できます。上記の順序はシードに使用されます</JP>
    <CN>可以在下一步中配置比赛。以上订单用于播种</CN>
@@ -97403,7 +97403,7 @@
    <KR>球員原有的傷勢（在季前設定中）將保持不變</KR>
    <ES>Las lesiones originales de los jugadores (según lo establecido en la pretemporada) permanecerán</ES>
    <JP>プレーヤーの元の怪我（シーズン前に設定されたもの）は残ります</JP>
-   <CN>球员的原始伤病（如季前赛设定）将保留</CN>
+   <CN>球员的原始伤病（如季前赛設定）将保留</CN>
  </HCS>
   <HCS i="12482">
    <EN>REAL WORLD</EN>
@@ -110915,7 +110915,7 @@
    <KR>設定預算（球員搜索、培訓等）與票價</KR>
    <ES>Establecimiento de presupuestos (exploración, desarrollo, etc.) y precio de entradas</ES>
    <JP>予算（スカウト、開発など）とチケット価格の設定</JP>
-   <CN>设定预算（侦察、开发等）和票价</CN>
+   <CN>設定预算（侦察、开发等）和票价</CN>
  </HCS>
   <HCS i="14192">
    <EN>GM of</EN>
@@ -113819,7 +113819,7 @@
    <KR>您的老板已決定控制和設定您的球探預算</KR>
    <ES>Su propietario ha decidido controlar y establecer su presupuesto de exploración.</ES>
    <JP>あなたの所有者はあなたのスカウト予算を管理し設定することを決定しました</JP>
-   <CN>你的主人决定控制和设定你的球探预算</CN>
+   <CN>你的主人决定控制和設定你的球探预算</CN>
  </HCS>
   <HCS i="14567">
    <EN>You can only edit the scouting budget during the offseason and preseason</EN>
@@ -128652,7 +128652,7 @@
    <KR>%m，(nl)(nl)我已經回顧了我為您設定的目標。我的評論如下。(nl)(nl</KR>
    <ES>%m,(nl)(nl)Revisé los objetivos que me propuse. Mis comentarios están a continuación.(nl)(nl</ES>
    <JP>％m、（nl）（nl）私はあなたのために設定した目標を確認しました。私のコメントは以下の通りです。（nl）（nl</JP>
-   <CN>%m,(nl)(nl)我已经回顾了我为你设定的目标。我的评论如下。(nl)(nl</CN>
+   <CN>%m,(nl)(nl)我已经回顾了我为你設定的目标。我的评论如下。(nl)(nl</CN>
  </HCS>
   <HCS i="16466">
    <EN>RA9-WAR</EN>
@@ -144802,7 +144802,7 @@
   <HCS i="18528">
    <EN>Claim Of</EN>
    <DC />
-   <KR>的主張</KR>
+   <KR>索賠</KR>
    <ES>Reclamación de</ES>
    <JP>の主張</JP>
    <CN>索赔</CN>
@@ -144906,7 +144906,7 @@
   <HCS i="18541">
    <EN>First Base Coach in</EN>
    <DC />
-   <KR>棒球比賽中的一壘教練</KR>
+   <KR>一壘教練在</KR>
    <ES>Entrenador de primera base en</ES>
    <JP>の最初のベースコーチ</JP>
    <CN>一垒教练在</CN>
@@ -145242,7 +145242,7 @@
   <HCS i="18583">
    <EN>degrees&lt;br&gt;</EN>
    <DC />
-   <KR>度數</KR>
+   <KR>度數&lt;br&gt;</KR>
    <ES>grados&amp;lt;br&amp;gt;</ES>
    <JP>度&amp;lt;br&amp;gt;</JP>
    <CN>度&amp;lt;br&amp;gt;</CN>
@@ -145410,7 +145410,7 @@
   <HCS i="18605">
    <EN>who is the %y %a winner</EN>
    <DC />
-   <KR>"誰是%y %a的獲勝者？"</KR>
+   <KR>誰是 %y 的 %a 獲獎者</KR>
    <ES>quien es el %y %a ganador</ES>
    <JP>％y％aの勝者は誰ですか</JP>
    <CN>谁是 %y %a 赢家</CN>
@@ -145490,7 +145490,7 @@
   <HCS i="18615">
    <EN>The player will be returned to %s (rule 5 pick</EN>
    <DC />
-   <KR>球員將被送回%s（第5輪選秀）模擬棒球遊戲中</KR>
+   <KR>該球員將被返回至 %s（規則五選秀</KR>
    <ES>El jugador será devuelto a %s (selección de la regla 5</ES>
    <JP>プレイヤーは%sに戻ります（ルール5ピック</JP>
    <CN>球員将返回 %s（规则 5 选择</CN>
@@ -146749,7 +146749,7 @@
    <KR>nl)(nl)這也是提醒球隊設定下個賽季的門票價格。在冬季會議結束後賽季票開售後，價格不能改變。(nl</KR>
    <ES>nl)(nl)Este es también un recordatorio para que los equipos establezcan los precios de sus boletos para la próxima temporada. Los precios no pueden cambiar después de que los boletos de temporada salgan a la venta al final de las Reuniones de Invierno.(nl</ES>
    <JP>nl）（nl）これは、チームが次のシーズンのチケット価格を設定することを思い出させるものでもあります。ウインターミーティングの終了時にシーズンチケットが発売された後は、価格を変更することはできません。（nl</JP>
-   <CN>nl)(nl)这也是提醒球队设定下赛季的门票价格。在冬季会议结束时季票开始销售后，价格不能更改。（nl</CN>
+   <CN>nl)(nl)这也是提醒球队設定下赛季的门票价格。在冬季会议结束时季票开始销售后，价格不能更改。（nl</CN>
  </HCS>
   <HCS i="18781">
    <EN>3BC</EN>
@@ -146837,7 +146837,7 @@
    <KR>在我們共事的期間，我對於你朝向我設定的目標進步的進展感到%mood</KR>
    <ES>nl) Durante el tiempo que trabajamos juntos, he estado de acuerdo con su progreso hacia las metas que me he propuesto.</ES>
    <JP>nl）一緒に仕事をしている間、私はあなたのために設定した目標に向けたあなたの進歩に％気分がありました</JP>
-   <CN>nl)在我们一起工作的时间里，我一直对你朝着我为你设定的目标的进展感到高兴</CN>
+   <CN>nl)在我们一起工作的时间里，我一直对你朝着我为你設定的目标的进展感到高兴</CN>
  </HCS>
   <HCS i="18793">
    <EN>2B/AB</EN>
@@ -147173,7 +147173,7 @@
    <KR>未知目標設定</KR>
    <ES>Configuración de destino desconocida</ES>
    <JP>不明なターゲット設定</JP>
-   <CN>未知目标设定</CN>
+   <CN>未知目标設定</CN>
  </HCS>
   <HCS i="18838">
    <EN>HR/9</EN>

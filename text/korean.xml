@@ -14590,12 +14590,12 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="16" value="4" />
 </OBJ>
 <OBJ id="4897">
-<TXT>儘管[%personlink]的表現相當穩健，有些球迷還是對這次[%teamlink]官方發布會上祭出[%personlink L]表現質疑。(nl)(nl) [%personlink L]必定為球隊帶來很大的幫助，但他的身價是[%contract salary total]，並要持續[%contract years word]年。</TXT>
+<TXT>儘管[%personlink] 的表現相當穩健，有些球迷還是對這次 [%teamlink] 官方發布會上祭出 [%personlink L] 表現質疑。(nl)(nl) [%personlink L]必定為球隊帶來很大的幫助，但他的身價是[%contract salary total]，並要持續[%contract years word]年。</TXT>
 <COND id="7" value="34" />
 <COND id="16" value="4" />
 </OBJ>
 <OBJ id="4898">
-<TXT>[%personlink] 今天答應了[%teamlink nickonly] 的高額[%contract salary total]契約，結束了哪個棒球大都會會是他明年的球場之爭。(nl)(nl)但許多歷年球迷認為，球會花太多精神在那些已經過了巔峰期的球員上，而這次簽約的代價也太高了。</TXT>
+<TXT>[%personlink] 今天答應了 [%teamlink nickonly] 的高額 [%contract salary total] 契約，結束了哪個棒球大都會會是他明年的球場之爭。(nl)(nl)但許多歷年球迷認為，球會花太多精神在那些已經過了巔峰期的球員上，而這次簽約的代價也太高了。</TXT>
 <COND id="16" value="4" />
 <COND id="7" value="34" />
 </OBJ>
