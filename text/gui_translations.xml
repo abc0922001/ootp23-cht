@@ -12131,7 +12131,7 @@
   <HCS i="1528">
    <EN>Default Starters in Relief</EN>
    <DC />
-   <KR>救援投手的默認開局投手</KR>
+   <KR>預設後援先發投手</KR>
    <ES>Arrancadores predeterminados en relieve</ES>
    <JP>救済のデフォルトスターター</JP>
    <CN>救济中的默认首发</CN>
@@ -40100,7 +40100,7 @@
   <HCS i="5115">
    <EN>Base Lineup on Likely Follower</EN>
    <DC />
-   <KR>基礎陣容基於可能的接投</KR>
+   <KR>基礎陣容基於可能的接替投手</KR>
    <ES>Alineación base en seguidor probable</ES>
    <JP>フォロワー候補のベースラインナップ</JP>
    <CN>可能追随者的基本阵容</CN>
@@ -40196,7 +40196,7 @@
   <HCS i="5127">
    <EN>Use as Opener</EN>
    <DC />
-   <KR>開局投手</KR>
+   <KR>假先發</KR>
    <ES>Usar como abridor</ES>
    <JP>オープナーとして使用</JP>
    <CN>用作开瓶器</CN>
@@ -40276,7 +40276,7 @@
   <HCS i="5137">
    <EN>Hook as Opener/Reliever</EN>
    <DC />
-   <KR>更換開局投手/救援投手</KR>
+   <KR>更換假先發/救援投手</KR>
    <ES>Hook como Abridor/Relevista</ES>
    <JP>オープナー/リリーフとしてのフック</JP>
    <CN>钩子作为开启者/释放者</CN>
@@ -40284,7 +40284,7 @@
   <HCS i="5138">
    <EN>Hook as Starter</EN>
    <DC />
-   <KR>更換開局投手</KR>
+   <KR>作為先發投手的調整</KR>
    <ES>Gancho como iniciador</ES>
    <JP>スターターとしてフック</JP>
    <CN>Hook 作为 Starter</CN>
@@ -40332,7 +40332,7 @@
   <HCS i="5144">
    <EN>Hook as Starter/Follower</EN>
    <DC />
-   <KR>挂鉤作為先發投手／跟隨者</KR>
+   <KR>挂鉤作為先發投手／接替投手</KR>
    <ES>Hook como iniciador/seguidor</ES>
    <JP>スターター/フォロワーとしてフック</JP>
    <CN>Hook 作为 Starter/Follower</CN>
@@ -46276,7 +46276,7 @@
   <HCS i="5890">
    <EN>Being over budget, the development budget is limited to half the league baseline</EN>
    <DC />
-   <KR>因預算超支，開發預算被限制在聯盟基準線的一半</KR>
+   <KR>因預算超支，發展預算被限制在聯盟基準線的一半</KR>
    <ES>Al estar por encima del presupuesto, el presupuesto de desarrollo se limita a la mitad de la base de referencia de la liga.</ES>
    <JP>予算を超過しているため、開発予算はリーグベースラインの半分に制限されています</JP>
    <CN>超出预算，开发预算被限制在联盟基线的一半</CN>
@@ -65245,7 +65245,7 @@
   <HCS i="8385">
    <EN>%n pitches a NO-HITTER against the %ot with %k strikeouts and %bb BB allowed</EN>
    <DC />
-   <KR>%n 投出完全比賽，迎戰 %ot 隊伍，投出 %k 次三振和 %bb 保送</KR>
+   <KR>%n 在對 %ot 的比賽中投出無安打比賽，三振 %k 次，允許 %bb 次四壞球</KR>
    <ES>%nlanza un NO-HITTER contra %ot con %k ponches y %bb BB permitidos</ES>
    <JP>％nは、％kの三振と％bb BBを許可して、％otに対してノーヒットノーランを投げます</JP>
    <CN>%n 对 %ot 投出 NO-HITTER，%k 次三振出局，%bb BB 被允许</CN>
@@ -65413,7 +65413,7 @@
   <HCS i="8406">
    <EN>%n pitches a PERFECT GAME against the %ot, striking out %k hitters</EN>
    <DC />
-   <KR>%n 對戰 %ot 投出完美比賽，三振了 %k 名打者</KR>
+   <KR>%n 在對 %ot 的比賽中投出完美比賽，三振了 %k 名打者</KR>
    <ES>%nlanza un JUEGO PERFECTO contra %ot, ponchando a %k bateadores</ES>
    <JP>％nは％otに対してパーフェクトゲームを売り込み、％kの打者を打ち負かします</JP>
    <CN>%n 与 %ot 进行了一场完美的比赛，淘汰了 %k 名击球手</CN>
@@ -65421,7 +65421,7 @@
   <HCS i="8407">
    <EN>Pitches a PERFECT GAME against the %ot, striking out %k hitters</EN>
    <DC />
-   <KR>對戰 %ot 投手以完美表現投出全壘打，逐漸擊倒 %k 名打者</KR>
+   <KR>在對 %ot 的比賽中投出完美比賽，三振了 %k 名打者</KR>
    <ES>Lanza un JUEGO PERFECTO contra el %ot, ponchando a %k bateadores</ES>
    <JP>％otに対してパーフェクトゲームをピッチし、％kの打者を打ち負かす</JP>
    <CN>对 %ot 投出一场完美的比赛，击出 %k 名击球手</CN>
@@ -79334,7 +79334,7 @@
   <HCS i="10162">
    <EN>Use Opener</EN>
    <DC />
-   <KR>使用開局投手策略</KR>
+   <KR>使用假先發策略</KR>
    <ES>Usar abridor</ES>
    <JP>オープナーを使用する</JP>
    <CN>使用开瓶器</CN>
@@ -81646,7 +81646,7 @@
   <HCS i="10453">
    <EN>Development Budget Preference</EN>
    <DC />
-   <KR>開發預算偏好</KR>
+   <KR>發展預算偏好</KR>
    <ES>Preferencia de presupuesto de desarrollo</ES>
    <JP>開発予算の好み</JP>
    <CN>发展预算偏好</CN>
@@ -104672,7 +104672,7 @@
   <HCS i="13399">
    <EN>Op</EN>
    <DC>pitcher role 'Opener'</DC>
-   <KR>開局投手</KR>
+   <KR>假先發</KR>
    <ES>operación</ES>
    <JP>Op</JP>
    <CN>操作</CN>
@@ -104680,7 +104680,7 @@
   <HCS i="13400">
    <EN>Fo</EN>
    <DC>pitcher role 'Follower'</DC>
-   <KR>主戰投手</KR>
+   <KR>接替投手</KR>
    <ES>Fo</ES>
    <JP>Fo</JP>
    <CN>佛</CN>
@@ -104712,7 +104712,7 @@
   <HCS i="13404">
    <EN>Opener</EN>
    <DC>pitcher role 'Opener'</DC>
-   <KR>開局投手</KR>
+   <KR>假先發</KR>
    <ES>Abrelatas</ES>
    <JP>オープナー</JP>
    <CN>开瓶器</CN>
@@ -104720,7 +104720,7 @@
   <HCS i="13405">
    <EN>Follower</EN>
    <DC>pitcher role 'Follower'</DC>
-   <KR>主戰投手</KR>
+   <KR>接替投手</KR>
    <ES>Seguidor</ES>
    <JP>フォロワー</JP>
    <CN>追随者</CN>
@@ -114016,7 +114016,7 @@
   <HCS i="14591">
    <EN>Fo</EN>
    <DC>Follower</DC>
-   <KR>追隨者</KR>
+   <KR>接替投手</KR>
    <ES>Fo</ES>
    <JP>Fo</JP>
    <CN>佛</CN>
@@ -145770,7 +145770,7 @@
   <HCS i="18655">
    <EN>&lt;Development Budget:page#%d&gt;</EN>
    <DC>Do not translate the :page#%d part</DC>
-   <KR>&lt;開發預算:page#%d&gt;</KR>
+   <KR>&lt;發展預算:page#%d&gt;</KR>
    <ES>&amp;lt;Presupuesto de desarrollo:página#%d&amp;gt;</ES>
    <JP>&amp;lt;開発予算：page＃％d&amp;gt;</JP>
    <CN>&amp;lt;开发预算:page#%d&amp;gt;</CN>
@@ -145778,7 +145778,7 @@
   <HCS i="18656">
    <EN>&lt;Dev. Budget:page#%d&gt;</EN>
    <DC>Do not translate the :page#%d part</DC>
-   <KR>&lt;開發預算:page#%d&gt;</KR>
+   <KR>&lt;發展預算:page#%d&gt;</KR>
    <ES>&amp;lt;Dev. Presupuesto:página#%d&amp;gt;</ES>
    <JP>&amp;lt;開発予算：ページ＃％d&amp;gt;</JP>
    <CN>&amp;lt;开发。预算:page#%d&amp;gt;</CN>

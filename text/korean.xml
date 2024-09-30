@@ -2470,187 +2470,184 @@
 </CAT>
 
 <CAT id="23">
-<OBJ id="63" text="[%personname L] 控制了[%team#2name]" />
-<OBJ id="64" text="[%personname L] 破 [%team#2name] 無力抵抗" />
-<OBJ id="284" text="[%team#1nickname]，[%personname L] 零封 [%team#2name]，[%game score]" />
-<OBJ id="285" text="在 [%personname l] 的帶領下， [%team#1name] 完美防守，[%team#2name] 遭遇零封，最終比分 [%game score]。" />
-<OBJ id="287" text="[%personname L] 滾雞巴 [%team#2name], [%game score]" />
-<OBJ id="288" text="[%personname L] 令[%team#2name] 打者猶豫不決" />
-<OBJ id="290" text="[%personname L] 火力全開憑 [%game score] 大比數完封勝利'" />
-<OBJ id="291" text="[%personname L] 投出 [%game score] 局無失分" />
-<OBJ id="292" text="[%team#2name] 被[%personname L]完封" />
-<OBJ id="293" text="[%personname F L] 完全制伏[%team#2name]，本局比分[%game score]" />
-<OBJ id="294" usage_chance_for_game="4" text="[%personname L]在完封勝中表現神勇" />
-<OBJ id="295" text="[%team#1nickname], [%personname L] 安靜了 [%team#2name], [%game score]" />
-<OBJ id="296" text="[%team#2name] 初遇[%personname L]難以攻破對方防禦" />
-<OBJ id="297" text="[%personname L] 火熱的狀態退卻了 [%team#2name] 的熱度。" />
-<OBJ id="300" text="[%team#2nickname] 被 [%personname L] 完全封鎖, [%game score]" />
-<OBJ id="301" text="[%team#2name] 成功被[%personname L]制伏" />
-<OBJ id="302" text="[%team#2name] 被[%personname L] 完封了, [%game score]" />
-<OBJ id="304" text="[%team#1nickname] [%personname L] 勝 [%team#2nickname]" />
-<OBJ id="305" text="[%team#2name] 無法打敗 [%personname L]。" />
-<OBJ id="307" text="[%personname L] 霸氣出擊，[%team#2name] 零得分，[%game score]" />
-<OBJ id="308" text="[%personname L] 在比賽中表現優異，率領[%team#1nickname]擊敗了[%team#2name]，[%game score]。" />
-<OBJ id="309" text="[%personname L] 好快，[%team#2nickname] 0打分" />
-<OBJ id="311" text="[%personname L] 沉默了[%team#2name]，[%game score]" />
-<OBJ id="312" text="[%team#1nickname] [%personname L] 擊敗 [%team#2nickname]" />
-<OBJ id="313" text="零時: [%personname L] 無情摧毀 [%team#2nickname]。" />
-<OBJ id="316" text="[%team#2name] 被[%personname L]在[%game score]的比數中狂轟而放空" />
-<OBJ id="319" text="[%personname L] 厲害的防守讓[%team#2name] 卡在 [%game score] 分。" />
-<OBJ id="320" text="[%personname L] 對[%team#2name]下了咒語" />
-<OBJ id="322" text="[%personname L] 踩扁了 [%team#2name], [%game score]" />
-<OBJ id="323" text="[%team#1nickname] 的 [%personname L] 無情地揮擊，將 [%team#2nickname] 敵方打者架空。" />
-<OBJ id="324" text="[%personname L] 完封 [%team#2name], [%game score]" />
-<OBJ id="327" text="[%personname L] 逮 [%team#2nickname] 出局啦！" />
-<OBJ id="15091" text="[%team#1name] 在 [%personname L] 的帶領下，成功擊敗 [%team#2name]。" />
-<OBJ id="15098" text="[%personname L] 勇守線上，[%team#2nickname] 慘遭封殺，[%game score]" />
-<OBJ id="15103" text="[%team#1name] 以0比0零封[%team#2name]，[%personname L] 成為勝利者。" />
-<OBJ id="15105" text="[%team#1nickname] 無情擊敗 [%team#2nickname]，[%personname L] 獲勝者" />
-<OBJ id="15106" text="[%personname L] 投出完封勝 [%team#1name]" />
-<OBJ id="15107" text="[%personname L] 投出完封勝利，幫助[%team#1name] 獲勝" />
-<OBJ id="15108" text="[%personname L] 投出完封勝，[%team#1nickname] 奪得 [%game score] 的勝利！" />
-<OBJ id="15109" text="[%personname L] 投出完封勝利 為 [%team#1nickname] 贏得勝利" />
-<OBJ id="15110" text="[%personname L] 敲下 [%game score] 個局外人出賽，[%team#1name] 完封勝利！" />
-<OBJ id="15111" text="[%personname L] 投完封鎖戰役，[%team#1name] 獲得完勝。" />
-<OBJ id="15112" text="[%personname L] 領投將[%team#1nickname]投到[%game score]的勝利。" />
-<OBJ id="15113" text="[%personname L] 投完封鎖戰役，[%team#1nickname] 奪下勝利" />
-<OBJ id="15114" text="[%personname L] 完封 [%team#2name], [%game score]" />
-<OBJ id="15115" text="[%personname L] 無情砍殺 [%team#2nickname]，得分為[%game score]" />
-<OBJ id="15116" text="[%personname L] 完封 [%team#2name], [%game score]" />
-<OBJ id="15117" text="[%personname L] 完封 [%team#2nickname], [%game score]" />
-<OBJ id="15119" text="[%personname L] 丟出 [%game score] 無失分比賽，[%team#1nickname] 獲得完全封鎖勝利。" />
-<OBJ id="15120" text="[%personname L] 投出 [%game score] 奪得 [%team#1name] 的完封勝利" />
-<OBJ id="15121" text="[%personname L] 投出完封勝，[%team#1nickname] 獲得勝利" />
-<OBJ id="15122" text="[%personname L] 投完封關 [%team#2name]。" />
-<OBJ id="15123" text="[%personname L] 對上 [%team#2nickname] 投出完封勝利。" />
-<OBJ id="15124" text="[%personname L] 完封了[%team#2name]的打擊" />
-<OBJ id="15125" text="[%personname L]完成了完全比分對[%team#2nickname]的封鎖" />
-<OBJ id="15126" text="[%personname L] 投出 [%game score] 無安打比分擊敗 [%team#2name]" />
-<OBJ id="15127" text="[%personname L] 投完全比賽擊敗了[%team#2nickname]" />
-<OBJ id="15128" text="[%personname L] 填寫了 [%game score] 的完封勝利，面對 [%team#2name]。" />
-<OBJ id="15129" text="[%personname L]打倒[%team#2nickname]！零失分紀錄。" />
-<OBJ id="15130" text="[%personname L] 今役[%team#2name]     零失分" />
-<OBJ id="15131" text="[%personname L] 完美壓制[%team#2nickname] 的得分" />
-<OBJ id="15132" text="[%personname L] 投出[%game score]局完封勝，[%team#1name] 奪勝利。" />
-<OBJ id="15133" text="[%personname L] 在[%team#1nickname]的勝利中投出 [%game score] 的完封" />
-<OBJ id="15134" text="[%personname L] 在 [%team#1name] 勝利中獲得封鎖戰果" />
-<OBJ id="15135" text="[%personname L] 在 [%team#1nickname] 的勝利中投出完封" />
-<OBJ id="15136" text="[%team#1nickname] 奪勝，比數為[%game score]，[%personname L] 神奇地讓[%team#2name] 無言以對。" />
-<OBJ id="15137" text="[%personname L] 給 [%team#2nickname] 嚇壞了，[%game score]" />
-<OBJ id="15139" text="[%personname L] 表現精彩 讓 [%team#2name] 措手不及 [%game score] [%team#1name] 獲勝" />
-<OBJ id="15140" text="[%personname L] 壓制 [%team#2name]" />
-<OBJ id="15141" text="[%personname L] 在[%game score]精采表現中大放異彩" />
-<OBJ id="15142" text="[%personname L] 在[%game score]完封表現亮眼" />
-<OBJ id="15143" text="[%personname L] 球技絕佳，完封[%team#2name]！" />
-<OBJ id="15144" text="[%personname L] 統治了 [%team#2nickname]，[%game score] 的完全封鎖" />
-<OBJ id="15147" text="[%personname L] 勝利輕輕鬆鬆完封對手" />
-<OBJ id="15148" text="[%personname L] 輕鬆取得完封勝利" />
-<OBJ id="15150" text="[%personname L] 勝了 [%team#2nickname], [%game score]" />
-<OBJ id="15151" text="[%personname L] 精彩表現 無線雙城[%team#2name] 零分" />
-<OBJ id="15152" text="[%personname L] 守住了 [%team#2nickname] 零分" />
-<OBJ id="15154" text="[%personname L] 火熱，[%team#2name] 冷淡啊。" />
-<OBJ id="15156" usage_chance_for_game="2" text="[%personname L] 在 [%game score] 的比賽中玩弄了[%team#2name]，贏得勝利。" />
-<OBJ id="15157" text="[%personname L] 停下了[%team#2name]" />
-<OBJ id="15161" text="[%personname L]球技全開，擊敗[%team#2name]，比數是[%game score]" />
-<OBJ id="15162" text="[%personname L] 實在太過強大了，讓[%team#2name]無力回天" />
-<OBJ id="15163" text="[%team#1name] 今日白布袋[%team#2nickname]，勝利由[%personname L]拿下" />
-<OBJ id="15164" text="[%team#1nickname] 完全擊敗 [%team#2nickname]，[%personname L] 獲勝。" />
-<OBJ id="15165" text="[%team#1nickname] 白打 [%team#2name]，[%personname L] 獲勝者" />
-<OBJ id="15166" text="[%team#1name] 完封 [%team#2nickname]，[%personname L] 獲勝'" />
-<OBJ id="15167" text="[%team#1nickname] 無安打比 [%team#2nickname]，[%personname L] 勝利者。" />
-<OBJ id="15168" text="[%team#1nickname] 白鹭登上 [%team#2name]，[%personname L] 獲勝。" />
-<OBJ id="15222" text="[%personname L] 在 [%game score] 對 [%team#2name] 的完封勝中大放異彩！" />
-<OBJ id="15223" text="[%personname L] 對上 [%team#2name] 表現極佳" />
-<OBJ id="15226" text="[%personname L] 在 [%game score] 的比賽中表現傑出，[%team#1name] 獲勝。" />
-<OBJ id="15227" text="[%personname L] 在擊敗[%team#2name]的比賽中展現了優異表現。" />
-<OBJ id="15228" text="[%personname L] 狠狠地打敗了[%team#2name]，[%game score]" />
-<OBJ id="15229" text="[%personname l] 投出 [%game score] 傑作" />
-<OBJ id="15230" text="鋒利的[%personname L]完封[%team#2name]。" />
-<OBJ id="15231" text="[%personname L] 綁住了 [%team#2name]" />
-<OBJ id="15232" text="[%personname L] 無安打無得分[%team#2name]" />
-<OBJ id="15234" text="[%personname L] 在 [%team#1name] 的完封勝中表現突出。" />
-<OBJ id="15235" text="[%personname L] 壯觀表現，讓[%team#2name] 零分，[%game score]" />
-<OBJ id="15236" text="[%team#1name] 白眉 [%team#2nickname]，[%personname L] 手感高妙" />
-<OBJ id="15239" text="[%personname L]，[%team#1nickname] 完封 [%team#2nickname]，[%game score]" />
-<OBJ id="15241" text="[%team#1nickname] 的 [%personname L] 打敗了 [%team#2name]" />
-<OBJ id="15242" text="[%personname L] 最佳狀態下，擊敗了 [%team#2nickname]" />
-<OBJ id="15243" text="[%personname L] 真厲害，[%team#2nickname] 的Blanks" />
-<OBJ id="15244" text="[%personname L]橫掃、零比[%team#2nickname]" />
-<OBJ id="15374" text="[%personname L] 壓制[%team#2name]，[%game score]" />
-<OBJ id="15375" text="[%personname L] 完封 [%team#2nickname], [%game score]" />
-<OBJ id="15376" text="[%personname L] 無雙 [%team#2nickname]" />
-<OBJ id="15377" text="[%personname L] 擋下[%team#2name]零分" />
-<OBJ id="15378" text="[%personname L] 完全控制 [%team#2nickname] 不得分" />
-<OBJ id="15379" text="[%personname L] 白手奪勝 [%team#2name]" />
-<OBJ id="19225" text="[%personname l] 於 [%game score] 掀翻[%team#2nickname]，完成零比賽" />
-<OBJ id="19230" text="[%personname l] 投出 [%game score] 優勢完封勝利" />
-<OBJ id="19231" text="[%personname l] 投出 [%game score] 壘打零" />
-<OBJ id="19232" text="[%team#1nickname] 投手 [%personname l] 献出完美表现" />
-<OBJ id="19233" text="[%team#2name] 無可奈何地面對 [%personname l]，以[%game score]敗北。" />
-<OBJ id="19234" text="[%team#2name] 左大有毛病，[%personname l] 真的太強了。" />
-<OBJ id="19247" text="[%team#2name] 被[%personname l]投手成功締造零封" />
-<OBJ id="19248" text="[%team#2nickname] 零得分，被[%personname l]打空，[%game score]" />
-<OBJ id="19249" usage_chance_for_game="3" text="[%personname l] 把 [%team#2name] 打得落花流水, [%game score]" />
-<OBJ id="19250" text="[%personname l]火熱，[%team#2nickname]冷清" />
-<OBJ id="19741" text="[%personname l] 輕鬆守將 [%team#2name] 的零分" />
-<OBJ id="19742" text="[%personname l]完投無失分擊敗[%team#2nickname]" />
-<OBJ id="19743" text="[%personname l] 投出 [%game score] 的完封勝利" />
-<OBJ id="19744" text="[%personname l] 投出完封比賽" />
-<OBJ id="19745" text="[%personname l] 投出 [%game score] 建功局" />
-<OBJ id="19746" text="[%personname l] 無安打無失分完封勝" />
-<OBJ id="19748" text="[%personname l] 打了 [%team#2nickname] 的白仗。" />
-<OBJ id="19749" text="[%team#2name] 被[%personname l]零封了" />
-<OBJ id="19750" text="[%team#2nickname] 被[%personname l]零封了" />
-<OBJ id="19751" text="[%personname l] 投出 [%game score] 優勢無失分" />
-<OBJ id="19752" text="[%personname l] 投出了 [%game score] 嘉鴻" />
-<OBJ id="42438" text="[%personname L] 將[%team#2name]的球棒送入冷凍庫" />
-<OBJ id="55054" text="[%team#1name] 超過 [%team#2name]，[%game score]" />
-<OBJ id="55055" text="[%team#1name] 勇奪勝利，[%team#2name] 零得分，[%game score]" />
-<OBJ id="55056" text="[%team#1name] 完投 [%team#2name]，[%game score]。" />
-<OBJ id="56536" text="[%personname L] 猛攻 [%team#2name]" />
-<OBJ id="56879" text="投手 [%personname l] 投出 [%game score] 的完封比賽" />
-<OBJ id="56880" text="[%personname l] 投出 [%game score] 優勢完封勝利" />
-<OBJ id="56881" text="[%personname l] 投出 [%game score] 無失分比賽，擊敗了 [%team#2name]" />
-<OBJ id="56882" text="[%personname l] 打造 [%game score] 零封勝利" />
-<OBJ id="56957" usage_chance_for_game="8" text="[%team#2name] 被[%personname L]橫掃，[%game score]" />
-<OBJ id="56958" text="[%personname L] 的球隊[%team#2nickname]被臭鼬擊敗了。" />
-<OBJ id="56998" text="[%personname L] 投出 [%game score] 個完全比賽。" />
-<OBJ id="56999" text="[%personname l] 把[%team#2name]零封，[%game score]" />
-<OBJ id="57000" text="[%personname L] 在 [%game score] 執著表現出神" />
-<OBJ id="57001" text="[%personname l] 空白 [%team#2name], [%game score]" />
-<OBJ id="57002" text="[%team#2nickname] 在 [%game score] 比分中輸給了 [%personname l]，沒有取得好成績。" />
-<OBJ id="57028" usage_chance_for_game="1" text="[%team#1nickname] 獲得勝利">
-<COND id="214" value="1" />
+<OBJ id="63" text="[%personname L] 主導 [%team#2name]"/>
+<OBJ id="64" text="[%team#2name] 無法與 [%personname L] 匹敵"/>
+<OBJ id="284" text="[%team#1nickname]，[%personname L] 在 [%game score] 中擊敗 [%team#2name]"/>
+<OBJ id="285" text="在 [%personname l] 的帶領下，[%team#1name] 在 [%game score] 中擊敗 [%team#2name]"/>
+<OBJ id="287" text="[%personname L] 擊潰 [%team#2name]，[%game score]"/>
+<OBJ id="288" text="[%personname L] 令 [%team#2name] 的打者困惑"/>
+<OBJ id="290" text="[%personname L] 在 [%game score] 的無安打比賽中表現出色"/>
+<OBJ id="291" text="[%personname L] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="292" text="[%team#2name] 被 [%personname L] 無安打擊敗"/>
+<OBJ id="293" text="[%personname F L] 在 [%game score] 中擊敗 [%team#2name]"/>
+<OBJ id="294" usage_chance_for_game="4" text="[%personname L] 在無安打勝利中「電光火石」"/>
+<OBJ id="295" text="[%team#1nickname]，[%personname L] 在 [%game score] 中讓 [%team#2name] 沉默"/>
+<OBJ id="296" text="[%team#2name] 在對 [%personname L] 的比賽中無法得分"/>
+<OBJ id="297" text="紅熱的 [%personname L] 令 [%team#2name] 冷卻"/>
+<OBJ id="300" text="[%team#2nickname] 在 [%game score] 中被 [%personname L] 無安打擊敗"/>
+<OBJ id="301" text="[%team#2name] 面對 [%personname L] 無法得分"/>
+<OBJ id="302" text="[%team#2name] 被 [%personname L] 擊潰，[%game score]"/>
+<OBJ id="304" text="[%team#1nickname] [%personname L] 擊退 [%team#2nickname]"/>
+<OBJ id="305" text="[%team#2name] 在對 [%personname L] 的比賽中未能得分"/>
+<OBJ id="307" text="[%personname L] 主導比賽，在 [%game score] 中擊敗 [%team#2name]"/>
+<OBJ id="308" text="[%personname L] 投出佳作，[%team#1nickname] 擊敗 [%team#2name]，[%game score]"/>
+<OBJ id="309" text="[%personname L] 銳利，擊敗 [%team#2nickname]，[%game score]"/>
+<OBJ id="311" text="[%personname L] 令 [%team#2name] 沉默，[%game score]"/>
+<OBJ id="312" text="[%team#1nickname] [%personname L] 主導 [%team#2nickname]"/>
+<OBJ id="313" text="零時刻：[%personname L] 擊敗 [%team#2nickname]"/>
+<OBJ id="316" text="[%team#2name] 在 [%game score] 的比賽中被 [%personname L] 擾亂"/>
+<OBJ id="319" text="[%personname L] 冷凍 [%team#2name]，[%game score]"/>
+<OBJ id="320" text="[%personname L] 對 [%team#2name] 施加魔法"/>
+<OBJ id="322" text="[%personname L] 令 [%team#2name] 垮掉，[%game score]"/>
+<OBJ id="323" text="[%team#1nickname] [%personname L] 擊退 [%team#2nickname]"/>
+<OBJ id="324" text="[%personname L] 擊敗 [%team#2name]，[%game score]"/>
+<OBJ id="327" text="[%personname L] 擊退 [%team#2nickname]"/>
+<OBJ id="15091" text="在 [%personname L] 的帶領下，[%team#1name] 擊退 [%team#2name]"/>
+<OBJ id="15098" text="[%personname L] 擊敗 [%team#2nickname]，[%game score]"/>
+<OBJ id="15103" text="[%team#1name] 在 [%personname L] 的帶領下無法得分，[%game score]"/>
+<OBJ id="15105" text="[%team#1nickname] 擊敗 [%team#2nickname]，[%personname L] 獲勝"/>
+<OBJ id="15106" text="[%personname L] 為 [%team#1name] 贏得無安打勝利"/>
+<OBJ id="15107" text="[%personname L] 為 [%team#1name] 獲得無安打勝利"/>
+<OBJ id="15108" text="[%personname L] 為 [%team#1nickname] 贏得 [%game score] 的無安打勝利"/>
+<OBJ id="15109" text="[%personname L] 為 [%team#1nickname] 獲得無安打勝利"/>
+<OBJ id="15110" text="[%personname L] 為 [%team#1nickname] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="15111" text="[%personname L] 為 [%team#1nickname] 獲得無安打勝利"/>
+<OBJ id="15114" text="[%personname L] 擊敗 [%team#2name]，[%game score]"/>
+<OBJ id="15115" text="[%personname L] 擊退 [%team#2nickname]，[%game score]"/>
+<OBJ id="15116" text="[%personname L] 擊敗 [%team#2name]，[%game score]"/>
+<OBJ id="15117" text="[%personname L] 擊敗 [%team#2nickname]，[%game score]"/>
+<OBJ id="15119" text="[%personname L] 為 [%team#1nickname] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="15120" text="[%personname L] 為 [%team#1name] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="15121" text="[%personname L] 為 [%team#1nickname] 贏得無安打勝利"/>
+<OBJ id="15122" text="[%personname L] 在對 [%team#2name] 的比賽中投出無安打比賽"/>
+<OBJ id="15123" text="[%personname L] 在對 [%team#2nickname] 的比賽中投出無安打比賽"/>
+<OBJ id="15124" text="[%personname L] 在對 [%team#2name] 的比賽中創造無安打比賽"/>
+<OBJ id="15125" text="[%personname L] 在對 [%team#2nickname] 的比賽中創造無安打比賽"/>
+<OBJ id="15126" text="[%personname L] 在對 [%team#2name] 的比賽中投出 [%game score] 的無安打比賽"/>
+<OBJ id="15127" text="[%personname L] 在對 [%team#2nickname] 的比賽中投出無安打比賽"/>
+<OBJ id="15128" text="[%personname L] 在對 [%team#2name] 的比賽中創造無安打比賽"/>
+<OBJ id="15129" text="[%personname L] 在對 [%team#2nickname] 的比賽中創造無安打比賽"/>
+<OBJ id="15130" text="[%personname L] 令 [%team#2name] 無法得分"/>
+<OBJ id="15131" text="[%personname L] 令 [%team#2nickname] 無法得分"/>
+<OBJ id="15132" text="[%personname L] 為 [%team#1name] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="15133" text="[%personname L] 在 [%team#1name] 的勝利中投出 [%game score] 的無安打比賽"/>
+<OBJ id="15134" text="[%personname L] 在 [%team#1name] 的勝利中投出無安打比賽"/>
+<OBJ id="15135" text="[%personname L] 在 [%team#1nickname] 的勝利中投出無安打比賽"/>
+<OBJ id="15136" text="[%team#1nickname] 在 [%game score] 中獲勝，[%personname L] 讓 [%team#2name] 無法得分"/>
+<OBJ id="15137" text="[%personname L] 讓 [%team#2nickname] 驚訝，[%game score]"/>
+<OBJ id="15139" text="[%personname L] 在 [%game score] 中困惑 [%team#2name]，[%team#1name] 獲勝"/>
+<OBJ id="15140" text="[%personname L] 讓 [%team#2name] 冷卻"/>
+<OBJ id="15141" text="[%personname L] 在 [%game score] 的佳作中表現出色"/>
+<OBJ id="15142" text="[%personname L] 在 [%game score] 的無安打比賽中閃耀"/>
+<OBJ id="15143" text="[%personname L] 鋒利，擊退 [%team#2name]"/>
+<OBJ id="15144" text="[%personname L] 在 [%game score] 的無安打比賽中主導 [%team#2nickname]"/>
+<OBJ id="15147" text="[%personname L] 輕鬆獲得無安打勝利"/>
+<OBJ id="15148" text="[%personname L] 輕鬆投出無安打比賽"/>
+<OBJ id="15150" text="[%personname L] 控制 [%team#2nickname]，[%game score]"/>
+<OBJ id="15151" text="[%personname L] 在最佳狀態下，讓 [%team#2name] 無法得分"/>
+<OBJ id="15152" text="[%personname L] 讓 [%team#2nickname] 無法得分"/>
+<OBJ id="15154" text="[%personname L] 燃燒，[%team#2name] 無法得分"/>
+<OBJ id="15156" usage_chance_for_game="2" text="[%personname L] 在 [%game score] 的勝利中玩弄 [%team#2name]"/>
+<OBJ id="15157" text="[%personname L] 停住 [%team#2name]"/>
+<OBJ id="15161" text="[%personname L] 狀態良好，擊敗 [%team#2name]，[%game score]"/>
+<OBJ id="15162" text="[%personname L] 太強大，讓 [%team#2name] 無法得分"/>
+<OBJ id="15163" text="[%team#1name] 擊退 [%team#2nickname]，[%personname L] 獲勝"/>
+<OBJ id="15164" text="[%team#1nickname] 擊退 [%team#2nickname]，[%personname L] 獲勝"/>
+<OBJ id="15165" text="[%team#1nickname] 擊退 [%team#2name]，[%personname L] 獲勝"/>
+<OBJ id="15166" text="[%team#1name] 擊退 [%team#2nickname]，[%personname L] 獲勝"/>
+<OBJ id="15167" text="[%team#1nickname] 擊退 [%team#2name]，[%personname L] 獲勝"/>
+<OBJ id="15222" text="[%personname L] 在 [%game score] 的無安打比賽中閃耀 [%team#2name]"/>
+<OBJ id="15223" text="[%personname L] 在 [%team#2name] 的比賽中表現卓越"/>
+<OBJ id="15226" text="[%personname L] 在 [%game score] 的勝利中壯觀"/>
+<OBJ id="15227" text="[%personname L] 在擊敗 [%team#2name] 的比賽中表現出色"/>
+<OBJ id="15228" text="[%personname L] 擊敗 [%team#2name]，[%game score]"/>
+<OBJ id="15229" text="[%personname L] 投出 [%game score] 的佳作"/>
+<OBJ id="15230" text="鋒利的 [%personname L] 擊退 [%team#2name]"/>
+<OBJ id="15231" text="[%personname L] 令 [%team#2name] 無法得分"/>
+<OBJ id="15232" text="[%personname L] 讓 [%team#2name] 失去機會"/>
+<OBJ id="15234" text="[%personname L] 在 [%team#1name] 的無安打比賽中脫穎而出"/>
+<OBJ id="15235" text="[%personname L] 燦爛，讓 [%team#2name] 無法得分，[%game score]"/>
+<OBJ id="15236" text="[%team#1name] 擊退 [%team#2nickname]，[%personname L] 在最佳狀態下"/>
+<OBJ id="15239" text="[%personname L]，[%team#1nickname] 擊退 [%team#2nickname]，[%game score]"/>
+<OBJ id="15241" text="[%team#1nickname] 讓 [%team#2name] 無法得分"/>
+<OBJ id="15242" text="[%personname L] 在 [%team#2nickname] 的比賽中優秀表現"/>
+<OBJ id="15243" text="[%personname L] 鮮明，讓 [%team#2nickname] 無法得分"/>
+<OBJ id="15244" text="[%personname L] 主導，讓 [%team#2nickname] 無法得分"/>
+<OBJ id="15374" text="[%personname L] 擊退 [%team#2name]，[%game score]"/>
+<OBJ id="15375" text="[%personname L] 擊退 [%team#2nickname]，[%game score]"/>
+<OBJ id="15376" text="[%personname L] 擊退 [%team#2name]，[%game score]"/>
+<OBJ id="15377" text="[%personname L] 擊退 [%team#2nickname]，[%game score]"/>
+<OBJ id="15378" text="[%personname L] 擊退 [%team#2name]，[%game score]"/>
+<OBJ id="15379" text="[%personname L] 擊退 [%team#2nickname]，[%game score]"/>
+<OBJ id="19225" text="[%personname l] 讓 [%team#2nickname] 感到困惑，在 [%game score] 的比賽中獲勝"/>
+<OBJ id="19230" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="19231" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="19232" text="[%team#1nickname] 投手 [%personname l] 投出佳作"/>
+<OBJ id="19233" text="[%team#2name] 面對 [%personname l] 無能為力，最終以 [%game score] 輸掉比賽"/>
+<OBJ id="19234" text="[%team#2name] 面對 [%personname l] 感到絕望"/>
+<OBJ id="19247" text="[%team#2name] 被 [%personname l] 擊潰"/>
+<OBJ id="19248" text="[%team#2nickname] 被 [%personname l] 擊潰，[%game score]"/>
+<OBJ id="19249" usage_chance_for_game="3" text="[%personname l] 擊潰 [%team#2name]，[%game score]"/>
+<OBJ id="19250" text="[%personname l] 狀態火熱，[%team#2nickname] 狀態冰冷"/>
+<OBJ id="19741" text="[%personname l] 擊敗 [%team#2name]"/>
+<OBJ id="19742" text="[%personname l] 擊敗 [%team#2nickname]"/>
+<OBJ id="19743" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="19744" text="[%personname l] 投出無安打比賽"/>
+<OBJ id="19745" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="19746" text="[%personname l] 獲得 [%game score] 的無安打比賽"/>
+<OBJ id="19748" text="[%personname l] 擊退 [%team#2nickname]"/>
+<OBJ id="19749" text="[%team#2name] 被 [%personname l] 擊潰"/>
+<OBJ id="19750" text="[%team#2nickname] 被 [%personname l] 擊潰"/>
+<OBJ id="19751" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="19752" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="42438" text="[%personname L] 讓 [%team#2name] 的打者陷入僵局"/>
+<OBJ id="55054" text="[%team#1name] 擊潰 [%team#2name]，[%game score]"/>
+<OBJ id="55055" text="[%team#1name] 擊退 [%team#2name]，[%game score]"/>
+<OBJ id="55056" text="[%team#1name] 擊退 [%team#2name]，[%game score]"/>
+<OBJ id="56536" text="[%personname L] 令 [%team#2name] 感到著迷"/>
+<OBJ id="56879" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="56880" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="56881" text="[%personname l] 在對 [%team#2name] 的比賽中投出 [%game score] 的無安打比賽"/>
+<OBJ id="56882" text="[%personname l] 創造 [%game score] 的無安打比賽"/>
+<OBJ id="56957" usage_chance_for_game="8" text="[%team#2name] 被 [%personname L] 擊潰，[%game score]"/>
+<OBJ id="56958" text="[%personname L] 擊潰 [%team#2nickname]"/>
+<OBJ id="56998" text="[%personname L] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="56999" text="[%personname l] 擊敗 [%team#2name]，[%game score]"/>
+<OBJ id="57000" text="[%personname L] 在 [%game score] 的無安打比賽中展現出色表現"/>
+<OBJ id="57001" text="[%personname l] 擊退 [%team#2name]，[%game score]"/>
+<OBJ id="57002" text="[%team#2nickname] 在對 [%personname l] 的比賽中未能得分"/>
+<OBJ id="57028" usage_chance_for_game="1" text="[%team#1nickname] 獲得一分來贏得比賽">
+<COND id="214" value="1"/>
 </OBJ>
-<OBJ id="57029" usage_chance_for_game="1" text="一分足以讓[%team#1name]獲勝。">
-<COND id="214" value="1" />
+<OBJ id="57029" usage_chance_for_game="1" text="一分足夠讓 [%team#1name] 贏得比賽">
+<COND id="214" value="1"/>
 </OBJ>
-<OBJ id="57033" text="[%team#2nickname] 熄火於[%personname L]，[%team#1nickname]" />
-<OBJ id="57034" text="[%team#2nickname] 在 [%game score] 的比分下輸給了 [%team#1nickname]。" />
-<OBJ id="57035" usage_chance_for_game="2" text="[%team#2nickname] 萎靡不振，在 [%game score] 惜敗於 [%team#1nickname]">
-<COND id="213" value="6" />
+<OBJ id="57033" text="[%team#2nickname] 在 [%personname L] 面前慘敗，[%team#1nickname]"/>
+<OBJ id="57034" text="[%team#2nickname] 在對 [%team#1nickname] 的比賽中以 [%game score] 輸掉，無法發揮實力"/>
+<OBJ id="57035" usage_chance_for_game="2" text="[%team#2nickname] 在對 [%team#1nickname] 的比賽中以 [%game score] 輸掉，表現低迷">
+<COND id="213" value="6"/>
 </OBJ>
-<OBJ id="57036" usage_chance_for_game="2" text="[%team#2nickname] 在 [%game score] 的失利中明顯缺乏競爭力，輸給了[%team#1name]">
-<COND id="213" value="6" />
+<OBJ id="57036" usage_chance_for_game="2" text="[%team#2nickname] 在對 [%team#1name] 的比賽中以 [%game score] 輸掉，毫無競爭力">
+<COND id="213" value="6"/>
 </OBJ>
-<OBJ id="57037" usage_chance_for_game="4" text="[%team#2nickname] 無法與[%personname L]，[%team#1nickname] 在[%game score] 大比分之下對抗。">
-<COND id="213" value="9" />
+<OBJ id="57037" usage_chance_for_game="4" text="[%team#2nickname] 面對 [%personname L] 和 [%team#1nickname] 時毫無招架之力，以 [%game score] 輸掉">
+<COND id="213" value="9"/>
 </OBJ>
-<OBJ id="57038" usage_chance_for_game="4" text="[%team#1nickname]在[%game score]的狂虐比賽中，[%team#2nickname]一隊毫無抵抗力">
-<COND id="213" value="9" />
+<OBJ id="57038" usage_chance_for_game="4" text="[%team#1nickname] 在對 [%team#2nickname] 的比賽中毫無抵抗之力，以 [%game score] 輸掉">
+<COND id="213" value="9"/>
 </OBJ>
-<OBJ id="57060" text="[%personname l] 投出 [%game score] 的完封勝利" />
-<OBJ id="57061" text="[%personname l] 投 [%team#2nickname] [%game score] 無安打無失分" />
-<OBJ id="57062" text="[%team#1name] 在 [%personname L] 的帶領下以 [%game score] 的比分完封 [%team#2name]。" />
-<OBJ id="57063" text="[%team#1nickname][%personname L] 完全封鎖[%team#2name]，比分[%game score]。" />
-<OBJ id="57064" text="[%team#2name] 輸了，[%game score]，給了 [%team#1nickname]，[%personname L]" />
-<OBJ id="57065" usage_chance_for_game="6" text="[%team#2name] 無力回天 在 [%game score] 的失利中輸給[%team#1nickname]">
-<COND id="213" value="8" />
+<OBJ id="57060" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="57061" text="[%personname l] 對 [%team#2nickname] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="57062" text="[%team#1name] 在 [%personname L] 的帶領下以 [%game score] 擊敗 [%team#2name]"/>
+<OBJ id="57063" text="[%team#2name] 被 [%team#1nickname] 擊敗，最終比分 [%game score]，[%personname L] 投出無安打比賽"/>
+<OBJ id="57064" text="[%team#2name] 輸給 [%team#1nickname]，最終比分 [%game score]，[%personname L] 投出無安打比賽"/>
+<OBJ id="57065" usage_chance_for_game="6" text="[%team#2name] 在對 [%team#1nickname] 的比賽中以 [%game score] 輸掉，毫無抵抗力">
+<COND id="213" value="8"/>
 </OBJ>
-<OBJ id="57067" text="[%team#1name] 擊敗了 [%team#2name]，[%personname L] 投出 [%game score] 完全比賽。" />
-<OBJ id="57068" text="[%team#1name] 壓倒 [%team#2name]，[%personname L] 投出 [%game score] 局整壓倒性勝利。" />
-<OBJ id="57069" text="[%team#1name] 鎖定 [%team#2name]，[%game score] " />
-<OBJ id="57070" text="[%personname L] 帶領 [%team#1name] 以 [%game score] 擊敗 [%team#2name]。" />
+<OBJ id="57067" text="[%team#1name] 擊敗 [%team#2name]，[%personname L] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="57068" text="[%team#1name] 擊敗 [%team#2name]，[%personname L] 投出 [%game score] 的無安打比賽"/>
+<OBJ id="57069" text="[%team#1name] 擊敗 [%team#2name]，最終比分 [%game score]"/>
+<OBJ id="57070" text="[%personname L] 帶領 [%team#1name] 以 [%game score] 擊敗 [%team#2name]"/>
 <OBJ id="57095" usage_chance_for_game="4" text="[%team#1nickname] 無情地 [%game score] 轟擊了 [%team#2nickname]">
 <COND id="213" value="9" />
 </OBJ>
@@ -2950,89 +2947,89 @@
 </CAT>
 
 <CAT id="25">
-<OBJ id="65" text="[%personname L] 三響砲" />
-<OBJ id="66" text="[%personname F L] 3 發炸彈啦!" />
-<OBJ id="67" text="[%personname L] 三度敲出本壘打，對上[%team#2name]。" />
-<OBJ id="3750" text="[%personname L] 打出 3 支轟" />
-<OBJ id="3751" text="[%personname L] 打了 [%team#1name] 的三安士。" />
-<OBJ id="3752" text="[%personname L] 三支全壘打 Hat Trick 完成！" />
-<OBJ id="3753" text="[%personname L] 在 [%team#1name] 打出 3 隻全壘打。" />
-<OBJ id="3754" text="[%personname L] 敲出 3 發全壘打" />
-<OBJ id="3755" text="[%personname L] 對上[%team#2name]敲出了 3 支全壘打。" />
-<OBJ id="3757" text="[%personname L]三轟出爐啦！" />
-<OBJ id="3758" text="[%personname L] 打出【3支重砲】為 [%team#1name]" />
-<OBJ id="3760" text="[%personname L] 打出三支全壘打" />
-<OBJ id="3770" text="[%personname L] 轟出 3 次全壘打，攻擊 [%team#2name]。" />
-<OBJ id="3771" text="[%personname L] 打出 3 發全壘打擊敗了[%team#2name]" />
-<OBJ id="3772" text="[%personname L] 擊出3支全壘打" />
-<OBJ id="3773" text="[%personname L] 打出三支全壘打為[%team#1nickname]獲得得分。" />
-<OBJ id="3774" text="[%personname L] 在對上[%team#2name]的比賽中擊出了3支全壘打。" />
-<OBJ id="3775" text="[%personname L] 打了三支全壘打" />
-<OBJ id="3776" text="[%personname L] 連續 3 次狠打 [%team#2name] 球隊" />
-<OBJ id="3777" text="[%personname L] 擊出 3 發全壘打擊敗 [%team#2nickname]" />
-<OBJ id="3778" text="[%personname F L] 敲出3支全壘打助[%team#1nickname]大勝。" />
-<OBJ id="3779" text="[%personname F L] 擊出 3 發全壘打" />
-<OBJ id="3780" text="[%personname L] 將球三壘飛入觀眾席" />
-<OBJ id="3781" text="[%personname L] 把 3 發全壘打轟出，為了 [%team#1nickname]。" />
-<OBJ id="3783" text="[%personname F L] 敲出三支全壘打" />
-<OBJ id="3784" text="三壘打就是美：[%personname L] 敲出三發全壘打啦！" />
-<OBJ id="3785" text="[%personname L] 敲出3支龍捲風" />
-<OBJ id="3786" text="[%personname L] 三度對戰[%team#2nickname]，坐庫區等待機會。" />
-<OBJ id="3787" text="[%personname L] 在廣場擊出3支全壘打" />
-<OBJ id="3788" text="[%personname L] 擊出 3 支全壘打，面對 [%team#2name]。" />
-<OBJ id="3789" text="去一! 去二! 又去啦! [%personname l] 三支全壘打!" />
-<OBJ id="3790" text="[%personname L] 轟出 3 發全壘打對上 [%team#2nickname]" />
-<OBJ id="3791" text="[%personname L] 打出3支全壘打，對戰[%team#2name]。" />
-<OBJ id="3792" text="[%personname F L] 一場比賽敲出三支全壘打" />
-<OBJ id="3793" text="轟炸四壘: [%personname L] 野獸打出[%team#1name] 3支全壘打！" />
-<OBJ id="3794" text="[%personname F L] 火箭 3支全壘打" />
-<OBJ id="3795" text="[%personname L] 狂轟 3 發全壘打擊敗 [%team#2name] " />
-<OBJ id="3796" text="[%personname L] 炸出 3 發全壘打對上 [%team#2nickname]" />
-<OBJ id="3797" text="[%personname L] 對上 [%team#2nickname] 敲出 3 支全壘打" />
-<OBJ id="3798" text="[%personname L] 今日打了[%team#1nickname] 3 支全壘打" />
-<OBJ id="3799" text="[%personname L] 打了 3 隻全壘打壓制了 [%team#2nickname]" />
-<OBJ id="3800" text="[%personname L] 擊出三支全壘打攻破[%team#2name]防線。" />
-<OBJ id="3801" text="[%personname L] 打出 3 發全壘打，為 [%team#1name] 貢獻了功勞" />
-<OBJ id="3802" text="[%personname L] 今日 3 支全壘打 " />
-<OBJ id="3803" text="[%personname L] 敲出 3 發全壘打擊敗 [%team#2nickname]" />
-<OBJ id="3804" text="[%personname L] 3支全壘打轟擊[%team#2name]" />
-<OBJ id="3805" text="[%personname L] 打了 3 支全壘打耶" />
-<OBJ id="3806" text="[%personname L] 打一砲 -- 對上 [%team#2nickname] 打出3發全壘打" />
-<OBJ id="3809" text="[%personname L] 打了 3 發全壘打為 [%team#1nickname] 打進分數板上。" />
-<OBJ id="3810" text="[%personname L] 飛夾 3 發" />
-<OBJ id="3811" text="[%personname L] 全壘打擊出三支，攻擊 [%team#2nickname]。" />
-<OBJ id="3812" text="[%personname L] 的3轟夢幻比賽" />
-<OBJ id="3813" text="[%personname L] 焰火燎原：狠狠地在 [%team#2name] 身上放了 3 發陽春砲" />
-<OBJ id="3814" text="[%personname L] 猛轟[%team#2nickname] 3 支全壘打" />
-<OBJ id="3816" text="[%personname L] 主打3支全壘打為[%team#1nickname]" />
-<OBJ id="3817" text="[%personname L] 打出 3 發全壘打對抗 [%team#2name]" />
-<OBJ id="3818" text="[%personname L] 打了3支全壘打為[%team#1name]。" />
-<OBJ id="3819" text="[%personname L]是棒擊之王：三度長打" />
-<OBJ id="3820" text="轟轟有聲的成功：[%personname L] 敲出三支全壘打！" />
-<OBJ id="3821" text="揮棒！揮擺！揮出去！[%personname L] 三發全壘打砸了出去！" />
-<OBJ id="3822" text="[%personname L] 打了三支全壘打對上 [%team#2name]。" />
-<OBJ id="5226" text="精彩比賽：[%personname L]敲出3支全壘打 " />
-<OBJ id="7331" text="出去了！[%personname l]敲了三支全壘打！" />
-<OBJ id="15700" text="砰！[%team#1name]的[%personname l]擊出三支全壘打！" />
-<OBJ id="15701" text="[%personname l] 三轟出爐'" />
-<OBJ id="15702" text="[%personname l]火箭猛襲[%team#2name]，擊出3支全壘打！" />
-<OBJ id="15703" text="起飛啦！[%personname l]投手炸出3支全壘打！" />
-<OBJ id="17472" text="[%personname l] 打了三支長打" />
-<OBJ id="17473" text="[%personname l] 打出3支轟炸進看台" />
-<OBJ id="19214" text="[%personname l] 一打三全壘打" />
-<OBJ id="19215" text="[%personname l] 三響砲大秀" />
-<OBJ id="19216" text="[%personname l] 打出三支全壘打" />
-<OBJ id="19217" text="出去了！出去了！出去了！[%personname l]擊出了3支全壘打" />
-<OBJ id="19218" text="[%team#1nickname] 的[%personname l] 擊出3支全壘打" />
-<OBJ id="19219" text="[%personname l] 在 [%team#1name] 打出 3 支全壘打" />
-<OBJ id="19220" text="[%personname l] 加入3支全壘打俱樂部" />
-<OBJ id="19221" text="[%team#1nickname] 的 [%personname l] 敲了3支全壘打" />
-<OBJ id="19222" text="[%personname l] 三支轟炸彈" />
-<OBJ id="19223" text="[%personname l]敲出3支全壘打" />
-<OBJ id="19224" text="[%personname l] 三轟 [%team#2nickname]" />
-<OBJ id="42335" text="老將[%personname L]三支全壘打">
-<COND id="7" value="32" />
-<COND id="9" value="8" />
+<OBJ id="65" text="[%personname L] 三次全壘打"/>
+<OBJ id="66" text="[%personname F L] 打出三支全壘打"/>
+<OBJ id="67" text="[%personname L] 在對 [%team#2name] 的比賽中三次全壘打"/>
+<OBJ id="3750" text="[%personname L] 在比賽中打出三支全壘打"/>
+<OBJ id="3751" text="[%personname L] 為 [%team#1name] 打出三支全壘打"/>
+<OBJ id="3752" text="全壘打三連發，[%personname L] 表現出色"/>
+<OBJ id="3753" text="[%personname L] 為 [%team#1name] 打出三支全壘打"/>
+<OBJ id="3754" text="[%personname L] 打出三支全壘打"/>
+<OBJ id="3755" text="[%personname L] 在對 [%team#2name] 的比賽中打出三支全壘打"/>
+<OBJ id="3757" text="[%personname L] 打出三支全壘打"/>
+<OBJ id="3758" text="[%personname L] 為 [%team#1name] 打出三支全壘打"/>
+<OBJ id="3760" text="[%personname L] 打出三支全壘打"/>
+<OBJ id="3770" text="[%personname L] 在對 [%team#2name] 的比賽中打出三支全壘打"/>
+<OBJ id="3771" text="[%personname L] 在對 [%team#2name] 的比賽中打出三支全壘打"/>
+<OBJ id="3772" text="[%personname L] 打出三支全壘打"/>
+<OBJ id="3773" text="[%personname L] 為 [%team#1nickname] 打出三支全壘打"/>
+<OBJ id="3774" text="[%personname L] 在對 [%team#2name] 的比賽中打出三支全壘打"/>
+<OBJ id="3775" text="三支全壘打的比賽，[%personname L] 表現卓越"/>
+<OBJ id="3776" text="[%personname L] 在對 [%team#2name] 的比賽中打出三次全壘打"/>
+<OBJ id="3777" text="[%personname L] 在對 [%team#2nickname] 的比賽中打出三支全壘打"/>
+<OBJ id="3778" text="[%personname F L] 為 [%team#1nickname] 打出三支全壘打"/>
+<OBJ id="3779" text="[%personname F L] 打出三支全壘打"/>
+<OBJ id="3780" text="[%personname L] 打出三支全壘打"/>
+<OBJ id="3781" text="[%personname L] 為 [%team#1nickname] 打出三支全壘打"/>
+<OBJ id="3783" text="三支全壘打的精彩表現，[%personname L] 輕鬆打出"/>
+<OBJ id="3784" text="[%personname L] 在對 [%team#2nickname] 的比賽中打出三支全壘打"/>
+<OBJ id="3785" text="[%personname L] 在對 [%team#2nickname] 的比賽中打出三支全壘打"/>
+<OBJ id="3786" text="[%personname L] 在對 [%team#2nickname] 的比賽中打出三支全壘打"/>
+<OBJ id="3787" text="[%personname L] 在對 [%team#2name] 的比賽中打出三支全壘打"/>
+<OBJ id="3788" text="[%personname L] 在對 [%team#2name] 的比賽中打出三支全壘打"/>
+<OBJ id="3789" text="三支全壘打，[%personname l] 的比賽"/>
+<OBJ id="3790" text="[%personname L] 在對 [%team#2nickname] 的比賽中打出三支全壘打"/>
+<OBJ id="3791" text="[%personname L] 在對 [%team#2name] 的比賽中打出三支全壘打"/>
+<OBJ id="3792" text="[%personname F L] 在一場比賽中打出三支全壘打"/>
+<OBJ id="3793" text="四壘打的盛宴：[%personname L] 為 [%team#1name] 打出三支全壘打"/>
+<OBJ id="3794" text="[%personname F L] 打出三支全壘打"/>
+<OBJ id="3795" text="三支全壘打的盛宴，[%personname L] 表現出色"/>
+<OBJ id="3796" text="[%personname L] 在對 [%team#2name] 的比賽中打出三支全壘打"/>
+<OBJ id="3797" text="[%personname L] 在對 [%team#2nickname] 的比賽中打出三支全壘打"/>
+<OBJ id="3798" text="[%personname L] 在對 [%team#1nickname] 的比賽中打出三支全壘打"/>
+<OBJ id="3799" text="[%personname L] 在對 [%team#2nickname] 的比賽中打出三支全壘打"/>
+<OBJ id="3800" text="[%personname L] 在對 [%team#2name] 的比賽中打出三支全壘打"/>
+<OBJ id="3801" text="[%personname L] 在對 [%team#1name] 的比賽中打出三支全壘打"/>
+<OBJ id="3802" text="三支全壘打的精彩表現，[%personname L] 為 [%team#1name] 打出"/>
+<OBJ id="3803" text="[%personname L] 在對 [%team#2nickname] 的比賽中打出三支全壘打"/>
+<OBJ id="3804" text="[%personname L] 在對 [%team#2name] 的比賽中打出三支全壘打"/>
+<OBJ id="3805" text="[%personname L] 在對 [%team#2nickname] 的比賽中打出三支全壘打"/>
+<OBJ id="3806" text="[%personname L] 在對 [%team#1nickname] 的比賽中打出三支全壘打"/>
+<OBJ id="3809" text="[%personname L] 在對 [%team#1nickname] 的比賽中打出三支全壘打"/>
+<OBJ id="3810" text="[%personname L] 打出三支全壘打"/>
+<OBJ id="3811" text="[%personname L] 在對 [%team#2nickname] 的比賽中打出三支全壘打"/>
+<OBJ id="3812" text="三支全壘打的夢幻比賽，[%personname L] 表現優異"/>
+<OBJ id="3813" text="[%personname L] 表現火熱：在對 [%team#2name] 的比賽中打出三支全壘打"/>
+<OBJ id="3814" text="[%personname L] 在對 [%team#2nickname] 的比賽中打出三支全壘打"/>
+<OBJ id="3816" text="[%personname L] 為 [%team#1nickname] 打出三支全壘打"/>
+<OBJ id="3817" text="[%personname L] 在對 [%team#2name] 的比賽中打出三支全壘打"/>
+<OBJ id="3818" text="[%personname L] 為 [%team#1name] 打出三支全壘打"/>
+<OBJ id="3819" text="[%personname L] 是全壘打之王：打出三支全壘打"/>
+<OBJ id="3820" text="驚人的成功：[%personname L] 打出三支全壘打"/>
+<OBJ id="3821" text="揮擊！揮擊！揮擊！[%personname L] 打出三支全壘打"/>
+<OBJ id="3822" text="[%personname L] 在對 [%team#2name] 的比賽中打出三支全壘打"/>
+<OBJ id="5226" text="精彩的比賽：[%personname L] 打出三支全壘打"/>
+<OBJ id="7331" text="正要出去了，正要出去了，真的出去了！[%personname l] 打出三支全壘打"/>
+<OBJ id="15700" text="大爆炸！[%team#1name] 的 [%personname l] 打出三支全壘打"/>
+<OBJ id="15701" text="[%personname l] 三次長打"/>
+<OBJ id="15702" text="[%personname l] 在對 [%team#2name] 的比賽中打出三支全壘打"/>
+<OBJ id="15703" text="爆炸了！三支全壘打，[%personname l] 表現驚人"/>
+<OBJ id="17472" text="[%personname l] 三次出擊全壘打"/>
+<OBJ id="17473" text="[%personname l] 打出三支全壘打"/>
+<OBJ id="19214" text="[%personname l] 打出三支全壘打"/>
+<OBJ id="19215" text="三支全壘打的盛宴，[%personname l] 表現優異"/>
+<OBJ id="19216" text="[%personname l] 打出三支全壘打"/>
+<OBJ id="19217" text="出局了！出局了！出局了！[%personname l] 打出三支全壘打"/>
+<OBJ id="19218" text="[%team#1nickname] [%personname l] 三支全壘打"/>
+<OBJ id="19219" text="[%personname l] 為 [%team#1name] 打出三支全壘打"/>
+<OBJ id="19220" text="[%personname l] 加入三支全壘打俱樂部"/>
+<OBJ id="19221" text="[%team#1nickname] [%personname l] 打出三支全壘打"/>
+<OBJ id="19222" text="三支全壘打的精彩表現，[%personname l] 打出三支全壘打"/>
+<OBJ id="19223" text="三支全壘打的壯舉"/>
+<OBJ id="19224" text="[%personname l] 在對 [%team#2nickname] 的比賽中打出三支全壘打"/>
+<OBJ id="42335" text="老將 [%personname L] 打出三支全壘打">
+<COND id="7" value="32"/>
+<COND id="9" value="8"/>
 </OBJ>
 </CAT>
 
@@ -3245,120 +3242,120 @@
 </CAT>
 
 <CAT id="32">
-<OBJ id="70" text="[%teamname] 的[%personname L]，本週最佳球員" />
-<OBJ id="71" text="[%subleagueabbr] 宣布選出週最佳球員" />
-<OBJ id="356" text="[%subleagueabbr]週 MVP，[%teamname]的[%personname L]" />
-<OBJ id="358" text="[%subleagueabbr] 肯定了 [%teamname] 的[%playerposition capital]" />
-<OBJ id="359" text="[%personname L] 榮膺[%subleagueabbr]最佳球員獎" />
-<OBJ id="360" text="[%personname l] 拿下[%subleagueabbr] 週間獎項" />
-<OBJ id="361" text="[%personname L] 榮獲[%subleagueabbr] 週最佳球員" />
-<OBJ id="362" text="[%teamname] [%playerposition capital] 精英網路聯盟 獎項" />
-<OBJ id="363" text="[%personname L]贏得[%subleagueabbr]本週球員獎項。" />
-<OBJ id="364" text="[%personname L] 選為本週[%subleagueabbr]聯盟球員" />
-<OBJ id="365" text="[%personname l] 抱走週球員獎" />
-<OBJ id="366" text="[%subleagueabbr] 週 MVP 製造者選出！" />
-<OBJ id="367" text="[%teamname]的[%playerposition capital]選手獲得了[%subleagueabbr]的本週最佳球員獎。" />
-<OBJ id="370" text="[%personname l] 抱回了[%subleagueabbr] 本週最佳球員!" />
-<OBJ id="373" text="[%subleagueabbr]'s 最佳球員，[%teamname]的[%personname L]" />
-<OBJ id="374" text="[%subleagueabbr] 的當紅球員 [%personname L] 本週獲選為球員週報報導的焦點。" />
-<OBJ id="375" text="[%personname L] 週最佳球員" />
-<OBJ id="376" text="[%personname l] 週最佳球員在[%subleagueabbr]" />
-<OBJ id="377" text="[%subleagueabbr] 週最佳球員頒發" />
-<OBJ id="379" text="[%teamname] 王牌 [%personname L] 榮獲最佳球員" />
-<OBJ id="380" text="[%teamname] 的 [%personname L] 榮獲週間最佳球員獎" />
-<OBJ id="381" text="本週球員：[%personname L] 從 [%teamnickname]。" />
-<OBJ id="384" text="[%subleagueabbr] 投票 [%teamnickname] [%personname l] 最佳球員" />
-<OBJ id="385" text="[%subleagueabbr]選出本週最佳球員" />
-<OBJ id="387" text="這周最佳球員：[%teamname]的[%personname L]" />
-<OBJ id="388" text="[%subleagueabbr] 呈獻本週球員獎盃" />
-<OBJ id="389" text="[%subleagueabbr] 名稱 [%teamnickname] [%personname l] 勝利者" />
-<OBJ id="394" text="本週的獎盃被[%personname L]拿下了。" />
-<OBJ id="444" text="[%teamname]的[%personname L]獲得[%subleagueabbr]週最佳球員" />
-<OBJ id="445" text="[%personname L] 榮獲[%subleaguename] 的嘉獎" />
-<OBJ id="448" text="[%personname L] 挑選 [%subleagueabbr] 週最佳球員" />
-<OBJ id="450" text="[%teamnickname] [%personname l] [%subleagueabbr] 週最佳打者" />
-<OBJ id="794" text="[%teamname]的[%personname F L]這個禮拜表現很不錯啊！" />
-<OBJ id="795" text="火熱肆虐者獲得[%subleagueabbr]獎勵" />
-<OBJ id="796" text="[%personname L] 新人燃燒，[%subleagueabbr] 週最佳球員" />
-<OBJ id="798" text="[%subleagueabbr] 本週最佳球員" />
-<OBJ id="799" text="[%personname L] 進攻中，本週最佳球員" />
-<OBJ id="800" text="連番安打讓[%personname l]得到[%subleagueabbr]獎項" />
-<OBJ id="801" text="[%personname l]贏得[%subleagueabbr]周最佳球員榮譽" />
-<OBJ id="802" text="[%teamname]的[%personname L] [%subleagueabbr] 週明星" />
-<OBJ id="803" text="[%personname l] 抱走了[%subleagueabbr]最佳球員獎" />
-<OBJ id="804" text="[%personname L] 裡好搶手！被選 [%subleagueabbr] 本週球員。" />
-<OBJ id="805" text="[%personname L] 這個禮拜在[%subleagueabbr]懲罰投手" />
-<OBJ id="806" text="大棒硬是打出成果，[%personname l] 成為本週球員。" />
-<OBJ id="807" text="[%personname F L] 收穫[%subleagueabbr]獎項" />
-<OBJ id="808" text="這個禮拜的明星球員係[%personname l]。" />
-<OBJ id="809" text="[%personname l] 本週表現非常棒" />
-<OBJ id="810" text="[%subleaguename] 勝者是[%personname l]" />
-<OBJ id="811" text="[%subleaguename] 命名 [%personname l] 最佳打擊手" />
-<OBJ id="812" text="[%subleagueabbr] 選手名人堂授予[%personname l]最佳打擊手獎" />
-<OBJ id="813" text="[%personname L] 的強勢表現贏得[%subleagueabbr]盃賽" />
-<OBJ id="814" text="[%personname l] 選為本週球員" />
-<OBJ id="815" text="選出[%subleagueabbr]本週球員" />
-<OBJ id="816" text="[%personname l]: 在[%subleaguename] 打出一顆大安打" />
-<OBJ id="818" text="[%teamname]的[%personname F L]這週打得非常好啊!" />
-<OBJ id="819" text="[%personname L]可厲害了，被選為本週最佳球員。" />
-<OBJ id="820" text="[%subleagueabbr] 的獎盃被[%teamname]的[%personname L]獲得。" />
-<OBJ id="822" text="[%subleagueabbr] 週最佳球員為[%teamname]隊的[%personname L]" />
-<OBJ id="823" text="[%teamnickname] [%personname l] 展現優異表現，獲得[%subleagueabbr] 本週最佳球員!" />
-<OBJ id="824" text="[%subleagueabbr] 宣布本週最佳球員" />
-<OBJ id="4934" text="周最佳球員獎座給 [%personname l] ！" />
-<OBJ id="15661" text="[%subleagueabbr] 週最佳球員揭曉" />
-<OBJ id="15662" text="[%subleagueabbr] 發表最佳球員" />
-<OBJ id="15663" text="[%teamnickname] [%personname l]被冠上[%subleagueabbr]聯盟的第一名球員" />
-<OBJ id="15664" text="[%subleaguename] 選擇頂尖球員" />
-<OBJ id="15665" text="[%personname l] 挑選了最佳球員" />
-<OBJ id="15666" text="[%personname l] 被選為頭號球員" />
-<OBJ id="15667" text="[%personname l] 選擇最佳球員" />
-<OBJ id="15669" text="[%personname l] 在[%subleagueabbr]被選為頂尖表現者" />
-<OBJ id="15670" text="[%personname L] 獲得 [%subleagueabbr] 週最佳球員獎盃" />
-<OBJ id="15671" text="[%subleagueabbr]的最佳球員，[%teamname]的[%personname L]" />
-<OBJ id="15672" text="[%subleagueabbr]第一球員，[%teamname]的[%personname L]" />
-<OBJ id="15673" text="[%subleaguename] 選出表現最佳球員" />
-<OBJ id="15674" text="[%subleaguename] 稱呼頂尖球員" />
-<OBJ id="15675" text="[%subleaguename] 宣布 #1 球員" />
-<OBJ id="15676" text="[%subleaguename] 挑選最佳表現者" />
-<OBJ id="15677" text="[%personname L] 週最佳球員" />
-<OBJ id="15678" text="[%personname L] 週最佳球員" />
-<OBJ id="15679" text="本週最佳球員：[%teamname]的[%personname l]" />
-<OBJ id="15680" text="本週最佳球員：[%teamname]的[%personname L]" />
-<OBJ id="15681" text="週最佳球員：[%teamname] 的 [%personname L]" />
-<OBJ id="15682" text="本週第一球員：[%teamname]的[%personname L]" />
-<OBJ id="15683" text="週最佳球員：[%teamname] 的 [%personname l]" />
-<OBJ id="15684" text="[%subleagueabbr]頒發本週最佳球員獎盃 " />
-<OBJ id="15685" text="本週表現最佳的球員[%subleagueabbr]所屬，受到表彰。" />
-<OBJ id="15686" text="本週最佳球員被[%subleagueabbr]表揚。" />
-<OBJ id="15687" text="本週[%subleagueabbr]榮耀的#1球員" />
-<OBJ id="15688" text="本週表現最佳球員由[%subleagueabbr]表揚" />
-<OBJ id="15689" text="[%teamname] 的 [%personname l]，恭喜您在本週表現超優秀！" />
-<OBJ id="15690" text="[%personname L] 這個禮拜輾過[%subleagueabbr]投手們" />
-<OBJ id="15691" text="[%subleagueabbr]最佳球員已經公佈!" />
-<OBJ id="15692" text="[%subleagueabbr] 聯盟的明星球員獲選" />
-<OBJ id="15693" text="[%subleagueabbr]的第一球員名稱揭曉" />
-<OBJ id="15694" text="[%subleagueabbr] 聯盟最佳球員" />
-<OBJ id="15695" text="[%personname l] [%subleaguename] 最夯的打者" />
-<OBJ id="15696" text="[%teamname] 的 [%personname l] [%subleagueabbr] 最佳球員" />
-<OBJ id="15697" text="[%subleaguename] 最佳打者揭曉" />
-<OBJ id="15698" text="[%personname l] 勝 [%subleagueabbr] 榮耀" />
-<OBJ id="15706" text="[%personname l] [%subleagueabbr] 本週最佳球員" />
-<OBJ id="15751" text="在[%subleagueabbr]中星期播出名稱的球星：" />
-<OBJ id="15752" text="[%subleagueabbr]星期之星已選出" />
-<OBJ id="15753" text="[%subleagueabbr]選出本週之星" />
-<OBJ id="15754" text="[%subleagueabbr] 的週最佳球星獎項已頒發。" />
-<OBJ id="15755" text="[%subleagueabbr]周星球員」被榮譽了。" />
-<OBJ id="17099" text="宣布[%subleagueabbr]本週明星球員" />
-<OBJ id="17100" text="[%subleagueabbr] 週明星 揭曉" />
-<OBJ id="17101" text="選出[%subleagueabbr]週的明星球員" />
-<OBJ id="17102" text="[%subleagueabbr] 本週之星已選定。" />
-<OBJ id="17103" text="[%subleagueabbr] 本週球星受表揚啦。" />
-<OBJ id="17104" text="[%teamnickname] 的[%personname F L]獲得 [%subleagueabbr] 獎項。" />
-<OBJ id="17105" text="[%subleagueabbr]頂級球員被選中了" />
-<OBJ id="17106" text="[%personname f l] 獲得[%subleagueabbr]冠軍盃" />
-<OBJ id="17107" text="[%personname l] 打爆[%subleagueabbr] 投手" />
-<OBJ id="23360" text="[%teamnickname] 的[%personname l] 打擊熱絡，[%subleagueabbr] 冠軍。" />
+<OBJ id="70" text="[%personname L] 被選為 [%teamname] 本週最佳球員"/>
+<OBJ id="71" text="[%subleagueabbr] 公布本週最佳球員"/>
+<OBJ id="356" text="[%subleagueabbr] 本週最佳球員，[%personname L] 來自 [%teamname]"/>
+<OBJ id="358" text="[%subleagueabbr] 榮譽 [%teamname] 的 [%playerposition capital]"/>
+<OBJ id="359" text="[%personname L] 獲得 [%subleagueabbr] 最佳球員獎"/>
+<OBJ id="360" text="[%personname l] 獲得 [%subleagueabbr] 每週獎"/>
+<OBJ id="361" text="[%personname L] 獲得 [%subleagueabbr] 本週最佳球員"/>
+<OBJ id="362" text="[%teamname] 的 [%playerposition capital] 獲得 [%subleagueabbr] 獎項"/>
+<OBJ id="363" text="[%personname L] 獲得 [%subleagueabbr] 本週最佳球員獎"/>
+<OBJ id="364" text="[%personname L] 被選為 [%subleagueabbr] 本週最佳球員"/>
+<OBJ id="365" text="[%personname l] 獲得本週最佳球員獎"/>
+<OBJ id="366" text="[%subleagueabbr] 本週最佳球員已選出"/>
+<OBJ id="367" text="[%teamname] 的 [%playerposition capital] 被選為 [%subleagueabbr] 本週最佳球員"/>
+<OBJ id="370" text="[%personname l] 獲得 [%subleagueabbr] 本週最佳球員"/>
+<OBJ id="373" text="[%subleagueabbr] 的最佳球員，[%personname L] 來自 [%teamname]"/>
+<OBJ id="374" text="火力全開的 [%personname L] 獲得 [%subleagueabbr] 本週最佳球員"/>
+<OBJ id="375" text="[%personname L] 本週最佳球員"/>
+<OBJ id="376" text="[%personname l] 本週在 [%subleagueabbr] 的最佳表現"/>
+<OBJ id="377" text="[%subleagueabbr] 本週最佳球員獎已頒發"/>
+<OBJ id="379" text="[%teamname] 的 [%personname L] 獲得最佳球員榮譽"/>
+<OBJ id="380" text="[%teamname] 的 [%personname L] 獲得本週最佳球員"/>
+<OBJ id="381" text="本週最佳球員：[%personname L] 來自 [%teamnickname]"/>
+<OBJ id="384" text="[%subleagueabbr] 投票選出 [%teamnickname] 的 [%personname l] 為最佳球員"/>
+<OBJ id="385" text="[%subleagueabbr] 頒發本週最佳球員獎"/>
+<OBJ id="387" text="本週最佳球員：[%teamname] 的 [%personname L]"/>
+<OBJ id="388" text="[%subleagueabbr] 頒發本週最佳球員獎杯"/>
+<OBJ id="389" text="[%subleagueabbr] 宣布 [%teamnickname] 的 [%personname l] 獲獎"/>
+<OBJ id="394" text="[%personname L] 獲得本週獎杯"/>
+<OBJ id="444" text="[%teamname] 的 [%personname L] 獲得 [%subleagueabbr] 本週最佳球員"/>
+<OBJ id="445" text="[%personname L] 獲得 [%subleaguename] 榮譽"/>
+<OBJ id="448" text="[%personname L] 獲選 [%subleagueabbr] 本週最佳球員"/>
+<OBJ id="450" text="[%teamnickname] 的 [%personname l] 獲得 [%subleagueabbr] 本週最佳打者"/>
+<OBJ id="794" text="[%teamname] 的 [%personname F L] 本週表現優異"/>
+<OBJ id="795" text="火熱的表現獲得 [%subleagueabbr] 獎勵"/>
+<OBJ id="796" text="[%personname L] 表現火熱，獲得 [%subleagueabbr] 本週最佳球員"/>
+<OBJ id="798" text="[%subleagueabbr] 本週最佳球員已選出"/>
+<OBJ id="799" text="[%personname L] 繼續發威，獲得本週最佳球員"/>
+<OBJ id="800" text="擊球連發，[%personname l] 獲得 [%subleagueabbr] 獎勵"/>
+<OBJ id="801" text="[%personname l] 獲得 [%subleagueabbr] 本週最佳球員榮譽"/>
+<OBJ id="802" text="[%teamname] 的 [%personname L] 獲得 [%subleagueabbr] 本週明星球員"/>
+<OBJ id="803" text="[%personname l] 獲得 [%subleagueabbr] 最佳球員獎"/>
+<OBJ id="804" text="[%personname L] 表現火熱，獲得 [%subleagueabbr] 本週最佳球員"/>
+<OBJ id="805" text="[%personname L] 在本週給予 [%subleagueabbr] 投手壓力"/>
+<OBJ id="806" text="強力擊球使 [%personname l] 獲得 [%subleagueabbr] 獎勵"/>
+<OBJ id="807" text="[%personname F L] 獲得 [%subleagueabbr] 獎項"/>
+<OBJ id="808" text="本週的明星球員是 [%personname l]"/>
+<OBJ id="809" text="[%personname l] 結束出色的一周"/>
+<OBJ id="810" text="[%subleaguename] 的獲獎者是 [%personname l]"/>
+<OBJ id="811" text="[%subleaguename] 確定 [%personname l] 為最佳打者"/>
+<OBJ id="812" text="[%subleagueabbr] 將最佳打者獎頒發給 [%personname l]"/>
+<OBJ id="813" text="[%personname L] 的強勁表現獲得 [%subleagueabbr] 獎杯"/>
+<OBJ id="814" text="[%personname l] 被選為本週最佳球員"/>
+<OBJ id="815" text="[%subleagueabbr] 本週最佳球員已選出"/>
+<OBJ id="816" text="[%personname l] 在 [%subleaguename] 獲得大熱門"/>
+<OBJ id="818" text="[%teamname] 的 [%personname F L] 本週表現優異"/>
+<OBJ id="819" text="[%personname L] 狂熱出擊，獲得本週最佳球員"/>
+<OBJ id="820" text="[%subleagueabbr] 獎杯頒給 [%personname L] 來自 [%teamname]"/>
+<OBJ id="822" text="[%subleagueabbr] 本週最佳球員頒給 [%personname L] 來自 [%teamname]"/>
+<OBJ id="823" text="[%teamnickname] 的 [%personname l] 獲得 [%subleagueabbr] 本週最佳球員"/>
+<OBJ id="824" text="[%subleagueabbr] 宣布本週最佳球員"/>
+<OBJ id="4934" text="本週最佳球員獎杯頒給 [%personname l]"/>
+<OBJ id="15661" text="[%subleagueabbr] 本週最佳球員已選出"/>
+<OBJ id="15662" text="[%subleagueabbr] 確定最佳球員"/>
+<OBJ id="15663" text="[%teamnickname] 的 [%personname l] 獲得 [%subleagueabbr] 的 #1 球員"/>
+<OBJ id="15664" text="[%subleaguename] 選出最佳球員"/>
+<OBJ id="15665" text="[%personname l] 被選為最佳球員"/>
+<OBJ id="15666" text="[%personname l] 被選為 #1 球員"/>
+<OBJ id="15667" text="[%personname l] 被選為頂尖球員"/>
+<OBJ id="15669" text="[%personname l] 被選為 [%subleagueabbr] 的頂尖表現者"/>
+<OBJ id="15670" text="[%personname L] 獲得 [%subleagueabbr] 本週最佳球員獎"/>
+<OBJ id="15671" text="[%subleagueabbr] 的最佳球員，[%personname L] 來自 [%teamname]"/>
+<OBJ id="15672" text="[%subleagueabbr] 的 #1 球員，[%personname L] 來自 [%teamname]"/>
+<OBJ id="15673" text="[%subleaguename] 選出最佳表現者"/>
+<OBJ id="15674" text="[%subleaguename] 宣布最佳球員"/>
+<OBJ id="15675" text="[%subleaguename] 宣布 #1 球員"/>
+<OBJ id="15676" text="[%subleaguename] 選出最佳表現者"/>
+<OBJ id="15677" text="[%personname L] 本週 #1 球員"/>
+<OBJ id="15678" text="[%personname L] 本週最佳球員"/>
+<OBJ id="15679" text="本週最佳球員：[%teamname] 的 [%personname l]"/>
+<OBJ id="15680" text="本週最佳球員：[%teamname] 的 [%personname L]"/>
+<OBJ id="15681" text="本週最佳球員：[%teamname] 的 [%personname L]"/>
+<OBJ id="15682" text="本週 #1 球員：[%teamname] 的 [%personname L]"/>
+<OBJ id="15683" text="本週最佳球員：[%teamname] 的 [%personname l]"/>
+<OBJ id="15684" text="[%subleagueabbr] 頒發本週最佳球員獎"/>
+<OBJ id="15685" text="本週最佳表現者獲得 [%subleagueabbr] 獎勵"/>
+<OBJ id="15686" text="本週最佳球員獲得 [%subleagueabbr] 獎勵"/>
+<OBJ id="15687" text="本週 #1 球員獲得 [%subleagueabbr] 獎勵"/>
+<OBJ id="15688" text="本週最佳表現者獲得 [%subleagueabbr] 獎勵"/>
+<OBJ id="15689" text="本週表現優異的 [%teamname] 的 [%personname l]！"/>
+<OBJ id="15690" text="[%personname L] 給予 [%subleagueabbr] 投手重創"/>
+<OBJ id="15691" text="[%subleagueabbr] 的最佳球員已選出"/>
+<OBJ id="15692" text="[%subleagueabbr] 的明星球員已選出"/>
+<OBJ id="15693" text="[%subleagueabbr] 的 #1 球員已選出"/>
+<OBJ id="15694" text="[%subleagueabbr] 的頂尖球員已選出"/>
+<OBJ id="15695" text="[%personname l] 在 [%subleaguename] 的最佳擊球者"/>
+<OBJ id="15696" text="[%teamname] 的 [%personname l] 在 [%subleagueabbr] 中表現最佳"/>
+<OBJ id="15697" text="[%subleaguename] 的最佳打者已公告"/>
+<OBJ id="15698" text="[%personname l] 獲得 [%subleagueabbr] 獎項"/>
+<OBJ id="15706" text="[%personname l] 是 [%subleagueabbr] 的最佳球員"/>
+<OBJ id="15751" text="本週明星球員在 [%subleagueabbr] 已選出"/>
+<OBJ id="15752" text="本週明星球員在 [%subleagueabbr] 已選出"/>
+<OBJ id="15753" text="本週明星球員在 [%subleagueabbr] 已選出"/>
+<OBJ id="15754" text="本週明星球員在 [%subleagueabbr] 已頒發"/>
+<OBJ id="15755" text="本週明星球員在 [%subleagueabbr] 獲得獎勵"/>
+<OBJ id="17099" text="[%subleagueabbr] 本週明星球員已公告"/>
+<OBJ id="17100" text="[%subleagueabbr] 本週明星球員已選出"/>
+<OBJ id="17101" text="[%subleagueabbr] 本週明星球員已選擇"/>
+<OBJ id="17102" text="[%subleagueabbr] 本週明星球員已選定"/>
+<OBJ id="17103" text="[%subleagueabbr] 本週明星球員獲獎"/>
+<OBJ id="17104" text="[%teamnickname] 的 [%personname F L] 獲得 [%subleagueabbr] 獎項"/>
+<OBJ id="17105" text="[%subleagueabbr] 的頂尖球員已選出"/>
+<OBJ id="17106" text="[%personname f l] 獲得 [%subleagueabbr] 獎杯"/>
+<OBJ id="17107" text="[%personname l] 對 [%subleagueabbr] 投手造成壓力"/>
+<OBJ id="23360" text="[%teamnickname] 的 [%personname F L] 表現火熱，成為 [%subleagueabbr] 獲獎者"/>
 </CAT>
 
 <CAT id="33">
@@ -90832,53 +90829,53 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="373">
-<OBJ id="14720" text="[%personname l] 投出零被安打完全比賽 對抗 [%team#2name]" />
-<OBJ id="14796" text="[%personname L] 把 [%team#2nickname] 零安打" />
-<OBJ id="14797" text="[%personname L] 投無安打比賽對上 [%team#2name]" />
-<OBJ id="14798" text="[%team#2nickname] 無安打，被[%personname L]擊潰了！" />
-<OBJ id="14799" text="[%personname L] 在比賽中擋下 [%team#2name] 劇烈攻勢，寫下零安打紀錄。" />
-<OBJ id="14801" text="[%personname L] 投手之王，無安打比賽 " />
-<OBJ id="14802" text="[%personname f l] 丟出完全比賽，對抗[%team#2name]" />
-<OBJ id="14805" text="[%personname L] 無人能及，投出無安打比賽" />
-<OBJ id="14806" text="[%personname L] 完全比賽。" />
-<OBJ id="14807" text="[%team#2nickname] 無安打對上 [%personname L]" />
-<OBJ id="15246" text="[%personname L] 真是太棒了 -- 投出無安打比賽" />
-<OBJ id="15247" text="[%personname L] 完全比賽擊敗了[%team#2name]" />
-<OBJ id="15248" text="[%personname L] 投出完全比賽，對上[%team#2nickname]" />
-<OBJ id="15249" text="[%personname L] 投出完全比賽，[%team#2nickname] 打不中球了。" />
-<OBJ id="15251" text="[%personname L] 投出無安打比賽" />
-<OBJ id="15252" text="[%personname L] 投出完全比賽，對抗[%team#2name]" />
-<OBJ id="15253" text="[%team#1nickname] 的[%personname L] 投出無安打比賽" />
-<OBJ id="15254" text="[%personname L] 投出完全比賽" />
-<OBJ id="15255" text="[%personname L] 獻出絕佳表現，擊敗 [%team#2name] 的無安打戰" />
-<OBJ id="15257" text="[%team#2name] 無緣直擊 [%personname L] " />
-<OBJ id="15258" text="[%team#1nickname] 的 [%personname L] 完封 [%team#2nickname]" />
-<OBJ id="15259" text="[%personname L] 投完全比賽" />
-<OBJ id="15260" text="[%personname L] 實在太棒了，[%team#2nickname] 無安打" />
-<OBJ id="15262" text="[%personname L] 的完全無安打大成就'" />
-<OBJ id="15263" text="[%personname L] 投出無安打比賽，[%team#2name] 無緣得分。" />
-<OBJ id="15264" text="[%personname L]完全比賽（No-No）！" />
-<OBJ id="15265" text="[%team#1nickname]的[%personname L] 投無安打壓 [%team#2nickname]" />
-<OBJ id="15266" text="[%personname L] 超神啦！-- 無安打[%team#2name]" />
-<OBJ id="15267" text="[%personname L] 完全封鎖了[%team#2name]的安打" />
-<OBJ id="15269" text="[%personname L] 投出完全比賽，擊敗[%team#2nickname]" />
-<OBJ id="15274" text="[%team#2name] 被 [%personname L] 無安打" />
-<OBJ id="15275" text="[%team#2nickname] 著迷，[%personname L] 投出無安打比賽" />
-<OBJ id="15276" text="[%team#2name] 靚眼啦！[%personname L] 丟出無安打比賽。" />
-<OBJ id="15278" text="[%team#2name] 遲鈍，[%personname L] 投出無安打比賽" />
-<OBJ id="15283" text="[%personname L] 一口氣投出無安打比賽，對上[%team#2name]。" />
-<OBJ id="15284" text="[%personname L] 對上 [%team#2name] 投出無安打比賽。" />
-<OBJ id="15285" text="[%personname L] 壘上之王，封鎖 [%team#2nickname] 的無安打佳功夫" />
-<OBJ id="15286" text="[%team#1nickname]隊[%personname L]投出無安打比賽'" />
-<OBJ id="15287" text="[%personname L] 施展出無安打比賽，對抗[%team#2nickname]" />
-<OBJ id="15288" text="[%personname L] 全壘打閃亮無安打比賽" />
-<OBJ id="15289" text="[%personname L] 暫時掌握主動權，[%team#2nickname] 還沒有擊出安打。" />
-<OBJ id="15291" text="[%personname L] 投無安打比賽" />
-<OBJ id="15294" text="[%team#2name] 被魯拉皮: 被[%personname L]擒抑全壘打'." />
-<OBJ id="15295" text="紅打日: [%team#2name] 被 [%personname L] 投出無安打無保送。" />
-<OBJ id="15298" text="[%team#1nickname] 的 [%personname L] 投出無安打比賽，[%team#2nickname] 落敗了。" />
-<OBJ id="15322" text="[%personname L] 投出無安打比賽，對上[%team#2nickname]" />
-<OBJ id="16256" text="對，[%personname l] 完全封鎖了球隊。" />
+<OBJ id="14720" text="[%personname l] 在對 [%team#2name] 的比賽中投出無安打比賽"/>
+<OBJ id="14796" text="[%personname L] 無安打地擊敗 [%team#2nickname]"/>
+<OBJ id="14797" text="[%personname L] 在對 [%team#2name] 的比賽中投出無安打比賽"/>
+<OBJ id="14798" text="[%team#2nickname] 被 [%personname L] 無安打擊敗"/>
+<OBJ id="14799" text="[%personname L] 在無安打比賽中輕鬆擊退 [%team#2name]"/>
+<OBJ id="14801" text="[%personname L] 無安打之王"/>
+<OBJ id="14802" text="[%personname f l] 在對 [%team#2name] 的比賽中投出無安打比賽"/>
+<OBJ id="14805" text="[%personname L] 無可挑剔，投出無安打比賽"/>
+<OBJ id="14806" text="[%personname L] 的無安打比賽"/>
+<OBJ id="14807" text="[%team#2nickname] 面對 [%personname L] 無安打"/>
+<OBJ id="15246" text="[%personname L] 突出表現 -- 投出無安打比賽"/>
+<OBJ id="15247" text="[%personname L] 無安打擊敗 [%team#2name]"/>
+<OBJ id="15248" text="[%personname L] 在對 [%team#2nickname] 的比賽中投出無安打比賽"/>
+<OBJ id="15249" text="[%personname L] 在對 [%team#2nickname] 的比賽中創造無安打比賽"/>
+<OBJ id="15251" text="[%personname L] 投出無安打比賽"/>
+<OBJ id="15252" text="[%personname L] 在對 [%team#2name] 的比賽中投出無安打比賽"/>
+<OBJ id="15253" text="[%team#1nickname] [%personname L] 投出無安打比賽"/>
+<OBJ id="15254" text="[%personname L] 投出無安打比賽"/>
+<OBJ id="15255" text="[%personname L] 作品卓越，無安打擊敗 [%team#2name]"/>
+<OBJ id="15257" text="[%team#2name] 在對 [%personname L] 的比賽中無安打"/>
+<OBJ id="15258" text="[%team#1nickname] [%personname L] 無安打擊敗 [%team#2nickname]"/>
+<OBJ id="15259" text="[%personname L] 投出無安打比賽"/>
+<OBJ id="15260" text="[%personname L] 表現卓越，無安打擊敗 [%team#2nickname]"/>
+<OBJ id="15262" text="[%personname L] 投出無安打傑作"/>
+<OBJ id="15263" text="[%personname L] 在對 [%team#2name] 的比賽中投出無安打比賽"/>
+<OBJ id="15264" text="對 [%personname L] 而言，這是一場無安打比賽"/>
+<OBJ id="15265" text="[%team#1nickname] [%personname L] 投出無安打擊敗 [%team#2nickname]"/>
+<OBJ id="15266" text="[%personname L] 非常出色 -- 無安打擊敗 [%team#2name]"/>
+<OBJ id="15267" text="[%personname L] 讓 [%team#2name] 無安打"/>
+<OBJ id="15269" text="[%personname L] 在對 [%team#2nickname] 的比賽中投出無安打比賽"/>
+<OBJ id="15274" text="[%team#2name] 被 [%personname L] 無安打擊敗"/>
+<OBJ id="15275" text="[%team#2nickname] 受到震撼，[%personname L] 投出無安打比賽"/>
+<OBJ id="15276" text="[%team#2name] 驚訝，[%personname L] 投出無安打比賽"/>
+<OBJ id="15278" text="[%team#2name] 迷惑不解，[%personname L] 投出無安打比賽"/>
+<OBJ id="15283" text="[%personname L] 在對 [%team#2name] 的比賽中投出無安打比賽"/>
+<OBJ id="15284" text="[%personname L] 在對 [%team#2name] 的比賽中投出無安打比賽"/>
+<OBJ id="15285" text="[%personname L] 在對 [%team#2nickname] 的比賽中無安打擊敗對手"/>
+<OBJ id="15286" text="[%team#1nickname] [%personname L] 投出無安打比賽"/>
+<OBJ id="15287" text="[%personname L] 在對 [%team#2nickname] 的比賽中投出無安打比賽"/>
+<OBJ id="15288" text="[%personname L] 在無安打比賽中表現卓越"/>
+<OBJ id="15289" text="[%personname L] 掌控全場，無安打擊敗 [%team#2nickname]"/>
+<OBJ id="15291" text="[%personname L] 投出無安打比賽"/>
+<OBJ id="15294" text="[%team#2name] 被 [%personname L] 施加詛咒，無安打"/>
+<OBJ id="15295" text="完全控制：[%team#2name] 被 [%personname L] 無安打"/>
+<OBJ id="15298" text="[%team#1nickname] [%personname L] 無安打擊敗 [%team#2nickname]"/>
+<OBJ id="15322" text="[%personname L] 在對 [%team#2nickname] 的比賽中投出無安打比賽"/>
+<OBJ id="16256" text="是的，[%personname l] 投出無安打比賽"/>
 </CAT>
 
 <CAT id="374">
@@ -91039,44 +91036,44 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="375">
-<OBJ id="14721" text="[%personname l] 完美無誤對戰[%team#2nickname]" />
-<OBJ id="14809" text="[%personname l] 完全比賽表現耀眼" />
-<OBJ id="14810" text="[%personname l] 投完美比賽'" />
-<OBJ id="14811" text="是的！是的！[%personname l]拿到了完全不被安打的比賽。" />
-<OBJ id="14812" text="[%personname l]是完美的投手。" />
-<OBJ id="14814" text="[%personname L] 投完全比賽擊退[%team#2nickname]。" />
-<OBJ id="14815" text="[%personname L] 投出完全比賽，對上[%team#2name]。" />
-<OBJ id="14816" text="[%personname L] 完美比賽投球無過失" />
-<OBJ id="14817" text="[%personname L] 狂投完全比賽" />
-<OBJ id="14818" text="[%personname L] 無安打比賽對戰[%team#2nickname]" />
-<OBJ id="14819" text="[%personname L]對上[%team#2nickname]投出完美比賽。" />
-<OBJ id="14820" text="[%personname L] 連抽 [%pitching bf] 名 [%team#2nickname] 打者'" />
-<OBJ id="14821" text="[%personname L] 連續退了[%pitching bf]名[%team#2nickname]打者" />
-<OBJ id="15318" text="[%personname L] 投完美比賽為[%team#1name]" />
-<OBJ id="15321" text="[%personname l] 完美比賽！" />
-<OBJ id="15419" text="[%team#1nickname] 的 [%personname L] 完美比賽" />
-<OBJ id="15420" text="[%personname L] 完美比賽" />
-<OBJ id="15421" text="[%team#1nickname] [%personname L]完美投出完全比賽。" />
-<OBJ id="15422" text="完美先生：[%personname L] 投出珍稀的寶石。" />
-<OBJ id="15423" text="[%personname L] 是完美主投手" />
-<OBJ id="15424" text="[%team#1nickname] 的 [%personname L] 投出完美比賽" />
-<OBJ id="15425" text="[%team#1name]隊的[%personname L]完成完美比賽" />
-<OBJ id="15426" text="[%team#1chinesenickname]的[%personname L]投出完美比賽" />
-<OBJ id="15427" text="零得分、零支安打、零失誤、沒有留下任何人。" />
-<OBJ id="15428" text="[%personname l] 完美比賽無安打" />
-<OBJ id="15429" text="[%team#1name]的[%personname l]投出無安打比賽" />
-<OBJ id="15430" text="[%personname l] 完美對戰[%team#2name]" />
-<OBJ id="15431" text="坐好，[%personname l] 三個「三上三下」，[%pitching bf] 為你而退場。" />
-<OBJ id="15432" text="完美比賽：[%personname l] 沒有讓任何跑者上壘。" />
-<OBJ id="15433" text="完美比賽：[%personname l] 投得酣暢淋漓，控制了[%team#2nickname]。" />
-<OBJ id="15434" text="[%personname l] 平安守備 [%pitching bf] 無失分" />
-<OBJ id="15704" text="詩意的動作：[%personname l] 完封勝利。" />
-<OBJ id="15705" text="[%personname l] 連續把[%pitching bf]打者三振" />
-<OBJ id="15763" text="誰說沒有人是完美的？" />
-<OBJ id="15764" text="[%personname l] 完美對峙[%team#2name]" />
-<OBJ id="15765" text="[姓名] 完美地完成了他的工作" />
-<OBJ id="44313" text="[%personname l] 無懈可擊對抗[%team#2name]，完成完美比賽" />
-<OBJ id="44314" text="[%personname l] 對上[%team#2name] 投得完全比賽，記下完美無與倫比的紀錄。" />
+<OBJ id="14721" text="[%personname l] 在 [%team#2nickname] 面前完美表現"/>
+<OBJ id="14809" text="[%personname l] 在完美比賽中大放異彩"/>
+<OBJ id="14810" text="[%personname l] 投出完美比賽"/>
+<OBJ id="14811" text="是的！是的！[%personname l] 完美無瑕！"/>
+<OBJ id="14812" text="[%personname l] 是完美的投手"/>
+<OBJ id="14814" text="[%personname L] 在對 [%team#2nickname] 的比賽中投出完美比賽"/>
+<OBJ id="14815" text="[%personname L] 在對 [%team#2name] 的比賽中投出完美比賽"/>
+<OBJ id="14816" text="[%personname L] 投出完美比賽"/>
+<OBJ id="14817" text="[%personname L] 在完美比賽中主導全場"/>
+<OBJ id="14818" text="[%personname L] 在對 [%team#2nickname] 的比賽中投出完美比賽"/>
+<OBJ id="14819" text="[%personname L] 在對 [%team#2nickname] 的比賽中投出完美比賽"/>
+<OBJ id="14820" text="[%personname L] 連續淘汰 [%pitching bf] [%team#2nickname]"/>
+<OBJ id="14821" text="[%personname L] 連續淘汰 [%pitching bf] [%team#2nickname]"/>
+<OBJ id="15318" text="[%personname L] 為 [%team#1name] 投出完美比賽"/>
+<OBJ id="15321" text="[%personname l] 的完美比賽"/>
+<OBJ id="15419" text="[%team#1nickname] 的 [%personname L] 投出完美比賽"/>
+<OBJ id="15420" text="[%personname L] 的完美比賽"/>
+<OBJ id="15421" text="[%team#1nickname] [%personname L] 的完美比賽"/>
+<OBJ id="15422" text="完美先生：[%personname L] 投出稀有的完美比賽"/>
+<OBJ id="15423" text="[%personname L] 是完美投手"/>
+<OBJ id="15424" text="[%team#1nickname] [%personname L] 投出完美比賽"/>
+<OBJ id="15425" text="[%team#1name] 的 [%personname L] 投出完美比賽"/>
+<OBJ id="15426" text="[%team#1nickname] [%personname L] 投出完美比賽"/>
+<OBJ id="15427" text="[%team#1name] 的 [%personname l] 投出完美比賽"/>
+<OBJ id="15428" text="[%personname l] 在完美比賽中無安打"/>
+<OBJ id="15429" text="[%team#1name] 的 [%personname l] 投出完美比賽"/>
+<OBJ id="15430" text="[%personname l] 在對 [%team#2name] 的比賽中完美表現"/>
+<OBJ id="15431" text="抓住板凳：[%personname l] 連續淘汰 [%pitching bf]"/>
+<OBJ id="15432" text="完美：[%personname l] 不允許任何跑壘者"/>
+<OBJ id="15433" text="完美比賽：[%personname l] 主導 [%team#2nickname]"/>
+<OBJ id="15434" text="[%personname l] 連續淘汰 [%pitching bf] 打者"/>
+<OBJ id="15704" text="動作中的詩：[%personname l] 投出完美比賽"/>
+<OBJ id="15705" text="[%personname l] 連續淘汰 [%pitching bf]"/>
+<OBJ id="15763" text="誰說沒有人是完美的？"/>
+<OBJ id="15764" text="[%personname l] 在對 [%team#2name] 的比賽中完美表現"/>
+<OBJ id="15765" text="[%personname l] 完美地完成了他的工作"/>
+<OBJ id="44313" text="[%personname l] 在對 [%team#2name] 的比賽中無可挑剔，投出完美比賽"/>
+<OBJ id="44314" text="[%personname l] 在對 [%team#2name] 的比賽中毫無瑕疵，投出完美比賽"/>
 </CAT>
 
 <CAT id="376">
@@ -173364,7 +173361,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <OBJ id="63771" text="教練團隊[%team staffchem lc]不太妙，真的讓人擔心。">
 <COND id="174" value="20" />
 </OBJ>
-<OBJ id="63772" text="[球隊教練團隊化學]是這樣，我預期你會解決這個情況。」">
+<OBJ id="63772" text="[%team staffchem lc]是這樣，我預期你會解決這個情況。」">
 <COND id="174" value="20" />
 </OBJ>
 <OBJ id="63773" text="教練團隊化學評分是[%team staffchem lc]。不用說，這種情況對你的形象很不利。">
@@ -173373,31 +173370,31 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="1101">
-<OBJ id="63817" text="佢無辦法係界外地捉到球。" />
-<OBJ id="63818" text="佇保齡球模擬賽中，彼時的打擊落點在界外……(nl)噉攏打者仝款再有一次機會。" />
-<OBJ id="63819" text="掉在了界外……(nl)所以打者有第二次機會。" />
-<OBJ id="63823" text="掉在界外……(nl)因此打者得到新的生命。" />
-<OBJ id="63824" text="落出界線了……(nl)讓打者有另外一次機會。" />
-<OBJ id="63825" text="掉出去了！(nl)給[%game batter] 一個重新獲得生機的機會。" />
-<OBJ id="63826" text="球落出界……(nl)因此打者[%game batter]得到再一次機會。" />
-<OBJ id="63827" text="球落在線外了……(nl) [%game batter] 獲得了一次機會。" />
-<OBJ id="63828" text="球落在界外地……(nl)所以[%game batter]還活著。" />
-<OBJ id="63829" text="佢無抓到那個出界的飛球（ng）." />
-<OBJ id="63830" text="佇左外角難攬住(NL)。" />
-<OBJ id="63831" text="佢摟唔住喎，出咗粗末落。" />
-<OBJ id="63832" usage_chance_for_game="2" only_once_per_x2="1" text="佇出局之前漏吊的飛球。" />
-<OBJ id="63833" text="球偏出……[%game batter] 得以受惠。" />
-<OBJ id="63834" text="[%球員名稱] 得到了休息的機會……球掉進了界外。" />
-<OBJ id="63835" text="[%game batter] 再次上場打擊……(nl)球會落在界外。" />
-<OBJ id="63836" text="他接不到那個飛球。" />
-<OBJ id="63837" text="他失誤了擊出界外球的接球。" />
-<OBJ id="63838" text="他洋糊塗了，讓那個飛球墜落出界。" />
-<OBJ id="63839" text="他沒接到那個飛球。" />
-<OBJ id="63840" text="那顆球是飛出界了，但可以抓得到。" />
-<OBJ id="63841" usage_chance_for_game="1" only_once_per_x2="1" text="那隻飛球好像很容易可以抓到啊。" />
-<OBJ id="63842" text="那個犯規應該要接住的。" />
-<OBJ id="63843" text="那球明明是飛球出界了，但是還是可以接到的。" />
-<OBJ id="63844" text="佢攏捉袂住那個飛球。" />
+<OBJ id="63817" text="他無法在界外區做出接球。"/>
+<OBJ id="63818" text="這是在界外地帶...(nl)因此打者可以再試一次。"/>
+<OBJ id="63819" text="它掉落在界外區...(nl)所以打者可以再獲得一次機會。"/>
+<OBJ id="63823" text="它掉在界外...(nl)所以打者獲得了新生。"/>
+<OBJ id="63824" text="它掉在界外...(nl)讓打者再有一次機會。"/>
+<OBJ id="63825" text="它掉在界外...(nl)給了 [%game batter] 新的生機。"/>
+<OBJ id="63826" text="球掉落在界外...(nl)所以打者 [%game batter] 獲得了再次打擊的機會。"/>
+<OBJ id="63827" text="球掉落在界外...(nl)因為 [%game batter] 獲得了運氣。"/>
+<OBJ id="63828" text="球掉落在界外...(nl)因此 [%game batter] 繼續保有打擊機會。"/>
+<OBJ id="63829" text="他無法接住那顆界外球。"/>
+<OBJ id="63830" text="他無法在界外區握住它。"/>
+<OBJ id="63831" text="他無法在界外地帶把球接住。"/>
+<OBJ id="63832" usage_chance_for_game="2" only_once_per_x2="1" text="他搞砸了那顆界外高飛球。"/>
+<OBJ id="63833" text="球掉在界外...(nl)而 [%game batter] 因為這個失誤而受益。"/>
+<OBJ id="63834" text="[%game batter] 獲得運氣...(nl)因為球掉落在界外。"/>
+<OBJ id="63835" text="[%game batter] 可以再打一次...(nl)因為球掉落在界外。"/>
+<OBJ id="63836" text="他無法在那顆界外高飛球上做出接球。"/>
+<OBJ id="63837" text="他搞砸了那顆界外高飛球的接球。"/>
+<OBJ id="63838" text="他在界外高飛球上犯了錯誤。"/>
+<OBJ id="63839" text="他未能接住那顆界外高飛球。"/>
+<OBJ id="63840" text="那顆球是界外的，但可以接到。"/>
+<OBJ id="63841" usage_chance_for_game="1" only_once_per_x2="1" text="那顆界外球是非常容易接到的。"/>
+<OBJ id="63842" text="那顆界外球應該被接住。"/>
+<OBJ id="63843" text="那顆球明顯是界外的，但本來可以接住。"/>
+<OBJ id="63844" text="他無法接住那顆界外球。"/>
 </CAT>
 
 <CAT id="1102">
@@ -173414,7 +173411,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="327" value="1" />
 </OBJ>
 <OBJ id="63985" text="兩隊以[%game score inn]平手收場。" />
-<OBJ id="63986" text="這場比賽會和局，0比0。(Note: This is the translation based on Taiwanese vocabulary and language habits. However, in Taiwan, the most commonly used word for &quot;tie&quot; in a sports game is &quot;平手&quot; instead of &quot;和局.&quot;)">
+<OBJ id="63986" text="這場比賽會和局，0比0。">
 <COND id="84" value="0" />
 <COND id="403" value="0" />
 <COND id="401" value="0" />
