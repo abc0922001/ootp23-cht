@@ -65509,7 +65509,7 @@
   <HCS i="8418">
    <EN>BASIC PITCHING STATS</EN>
    <DC />
-   <KR>基本投球統計數據</KR>
+   <KR>基本投球數據</KR>
    <ES>ESTADÍSTICAS BÁSICAS DE LANZAMIENTO</ES>
    <JP>基本的なピッチング統計</JP>
    <CN>基本投球数据</CN>
@@ -65637,7 +65637,7 @@
   <HCS i="8434">
    <EN>Pitcher's Control Rating vs. left-handed Batters</EN>
    <DC />
-   <KR>投手控球能力比对左投打者</KR>
+   <KR>投手對左打者的控球評價</KR>
    <ES>Índice de control del lanzador frente a bateadores zurdos</ES>
    <JP>ピッチャーのコントロールレーティングと左利きのバッター</JP>
    <CN>投手的控制率与左手击球手</CN>
@@ -65677,7 +65677,7 @@
   <HCS i="8439">
    <EN>BNN Top Prospects</EN>
    <DC />
-   <KR>BNN 前途樂觀球員</KR>
+   <KR>BNN 頂尖前景</KR>
    <ES>Principales prospectos de BNN</ES>
    <JP>BNNトッププロスペクト</JP>
    <CN>BNN 顶级前景</CN>
@@ -65717,7 +65717,7 @@
   <HCS i="8445">
    <EN>pinch hitter</EN>
    <DC />
-   <KR>代打手</KR>
+   <KR>代打</KR>
    <ES>bateador emergente</ES>
    <JP>ピンチヒッター</JP>
    <CN>捏击手</CN>
@@ -65861,7 +65861,7 @@
   <HCS i="8464">
    <EN>Days on Waivers</EN>
    <DC />
-   <KR>免責期天數</KR>
+   <KR>待交易天數</KR>
    <ES>Días en exenciones</ES>
    <JP>ウェイバー公示の日</JP>
    <CN>讓渡天数</CN>
@@ -110304,7 +110304,7 @@
   <HCS i="14115">
    <EN>Shutdowns</EN>
    <DC />
-   <KR>關閉遊戲</KR>
+   <KR>關門點</KR>
    <ES>paradas</ES>
    <JP>シャットダウン</JP>
    <CN>停机</CN>
@@ -111896,7 +111896,7 @@
   <HCS i="14316">
    <EN>Maximum allowable contract for</EN>
    <DC />
-   <KR>players球員的最高可承受契約</KR>
+   <KR>最大可允許合約為</KR>
    <ES>Contrato máximo permitido para</ES>
    <JP>の最大許容契約</JP>
    <CN>最大允许合約</CN>
@@ -111936,7 +111936,7 @@
   <HCS i="14321">
    <EN>Expanded Batting Stats 2</EN>
    <DC />
-   <KR>擴展打擊數據2</KR>
+   <KR>擴展打擊數據 2</KR>
    <ES>Estadísticas de bateo ampliadas 2</ES>
    <JP>拡張されたバッティング統計2</JP>
    <CN>扩展击球数据 2</CN>
@@ -111944,7 +111944,7 @@
   <HCS i="14322">
    <EN>Expanded Pitching Stats 1</EN>
    <DC />
-   <KR>投手資料1. 擴增的投手數據</KR>
+   <KR>擴展投球數據 1</KR>
    <ES>Estadísticas de lanzamiento ampliadas 1</ES>
    <JP>拡張されたピッチング統計1</JP>
    <CN>扩展投球统计 1</CN>
@@ -111952,7 +111952,7 @@
   <HCS i="14323">
    <EN>Expanded Pitching Stats 2</EN>
    <DC />
-   <KR>擴展投球數據2</KR>
+   <KR>擴展投球數據 2</KR>
    <ES>Estadísticas de lanzamiento ampliadas 2</ES>
    <JP>拡張されたピッチング統計2</JP>
    <CN>扩展投球统计 2</CN>
@@ -111968,7 +111968,7 @@
   <HCS i="14325">
    <EN>Opponent Batting Stats 2</EN>
    <DC />
-   <KR>對手打擊紀錄 2</KR>
+   <KR>對手打擊數據 2</KR>
    <ES>Estadísticas de bateo del oponente 2</ES>
    <JP>対戦相手のバッティング統計2</JP>
    <CN>对手击球数据 2</CN>
@@ -115993,7 +115993,7 @@
   <HCS i="14839">
    <EN>Meltdown</EN>
    <DC />
-   <KR>自爆</KR>
+   <KR>崩盤點</KR>
    <ES>Fusión de un reactor</ES>
    <JP>メルトダウン</JP>
    <CN>崩溃</CN>

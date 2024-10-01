@@ -9587,35 +9587,35 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="87">
-<OBJ id="346" text="球探[%personname#2 l]從[%string#1]報告發現[%personage]歲[%playerposition capital]。" />
-<OBJ id="615" text="[%personname#2 l] 走遍[%string#1]尋找球員" />
-<OBJ id="616" text="[%personname#2 l] 於[%string#1]進行才能搜尋" />
-<OBJ id="617" text="[%personname#2] 搜羅[%string#1]，想要新鮮血液" />
-<OBJ id="618" text="[%personname#2 L] 在[%string#1]尋覓人才" />
-<OBJ id="619" text="[%personname#2 L] 在球探之旅中發現 [%personage] 年齡 [%playerposition capital]。" />
-<OBJ id="620" text="[%personname#2 L] 在[%string#1]發掘了才華" />
-<OBJ id="621" text="[%personname#2 L] 在[%string#1]的才能審查中單挑[%personage]歲的球員" />
-<OBJ id="622" text="[%personname#2 L] 發現了 [%string#1] 的天賦" />
-<OBJ id="623" text="[%personname#2 L] 發掘到 [%string#1] 的才能" />
-<OBJ id="624" text="[%personname#2] 進行 [%string#1] 的才能探查" />
-<OBJ id="625" text="[%personname#2 L] 提交了關於[%string#1]的球探報告" />
-<OBJ id="626" text="[%personname#2 L] 在人才搜尋中橫掃[%string#1]。" />
-<OBJ id="627" text="[%personname#2 L] 注意到 [%string#1] 新進球員的潛力" />
-<OBJ id="628" text="[%personname#2 L] 從偵查任務回來到[%string#1]" />
-<OBJ id="629" text="球探評估: [%string#1]" />
-<OBJ id="630" text="才能檔案：[%string#1]" />
-<OBJ id="631" text="[%personname#2 L] 發現[%string#1]具有天賦" />
-<OBJ id="632" text="[%personname#2 L] 踏查[%string#1]尋覓未來之星" />
-<OBJ id="633" text="[%personname#2 L] 走棋 [%string#1]" />
-<OBJ id="634" text="[%playerposition capital] 被球探 [%personname#2 f l] 在 [%string#1] 發現" />
-<OBJ id="635" text="FYI / 童軍 [%personname#2 l] 從 [%string#1] 任務回來了。" />
-<OBJ id="742" text="[%personname#2 L] 在[%string#1]尋找才華之星" />
-<OBJ id="743" text="[%personname#2 L] 在[%string#1]中物色人才" />
-<OBJ id="744" text="[%personname#2 L] 完成了[%string#1]球探報告的最後潤飾工作" />
-<OBJ id="998" text="[%personname#2] 報告 [%string#1] 的發現" />
-<OBJ id="999" text="[%personname#2] 車袋青年在大[%string#1]獵殺中" />
-<OBJ id="1000" text="[%string#1] 得到果實，當[%personname#2 l] 回來了。" />
-<OBJ id="1001" text="[%personname#2 l] 實現 [%string#1] 新秀尋找計畫" />
+<OBJ id="346" text="球探 [%personname#2 l] 從 [%string#1] 報告，發現 [%personage] 歲的 [%playerposition capital]"/>
+<OBJ id="615" text="[%personname#2 l] 在 [%string#1] 搜尋人才"/>
+<OBJ id="616" text="[%personname#2 l] 在 [%string#1] 進行人才搜尋"/>
+<OBJ id="617" text="[%personname#2 l] 在 [%string#1] 探索新的人才"/>
+<OBJ id="618" text="[%personname#2 L] 在 [%string#1] 尋找人才"/>
+<OBJ id="619" text="[%personname#2 L] 在偵察旅行中發現 [%personage] 歲的 [%playerposition capital]"/>
+<OBJ id="620" text="[%personname#2 L] 在 [%string#1] 發現人才"/>
+<OBJ id="621" text="[%personname#2 L] 在 [%string#1] 的人才搜尋中挑選出 [%personage] 歲的球員"/>
+<OBJ id="622" text="[%personname#2 L] 在 [%string#1] 找到人才"/>
+<OBJ id="623" text="[%personname#2 L] 在 [%string#1] 發掘人才"/>
+<OBJ id="624" text="[%personname#2 L] 在 [%string#1] 進行人才調查"/>
+<OBJ id="625" text="[%personname#2 L] 提交 [%string#1] 的偵察報告"/>
+<OBJ id="626" text="[%personname#2 L] 在 [%string#1] 的人才搜尋中掃蕩一番"/>
+<OBJ id="627" text="[%personname#2 L] 在 [%string#1] 注意到新的人才"/>
+<OBJ id="628" text="[%personname#2 L] 從 [%string#1] 的偵察任務回來了"/>
+<OBJ id="629" text="偵察評估：[%string#1]"/>
+<OBJ id="630" text="人才檔案：[%string#1]"/>
+<OBJ id="631" text="[%personname#2 L] 在 [%string#1] 發現人才"/>
+<OBJ id="632" text="[%personname#2 L] 在 [%string#1] 尋找潛力股"/>
+<OBJ id="633" text="[%personname#2 L] 在 [%string#1] 掃描"/>
+<OBJ id="634" text="球探 [%personname#2 f l] 在 [%string#1] 發現的 [%playerposition capital]"/>
+<OBJ id="635" text="附註 / 球探 [%personname#2 l] 從 [%string#1] 任務回來了"/>
+<OBJ id="742" text="[%personname#2 L] 探索 [%string#1] 的人才池"/>
+<OBJ id="743" text="[%personname#2 L] 在 [%string#1] 進行人才探查"/>
+<OBJ id="744" text="[%personname#2 L] 完成 [%string#1] 偵察報告的最後潤飾"/>
+<OBJ id="998" text="[%personname#2 l] 報告 [%string#1] 的發現"/>
+<OBJ id="999" text="[%personname#2 l] 在 [%string#1] 大獵中捕獲青年"/>
+<OBJ id="1000" text="[%string#1] 在 [%personname#2 l] 返回後結出果實"/>
+<OBJ id="1001" text="[%personname#2 l] 完成 [%string#1] 的潛力股搜尋"/>
 </CAT>
 
 <CAT id="88">
@@ -95134,7 +95134,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="228" value="3" />
 </OBJ>
 <OBJ id="19371">
-<TXT>今天[%team#1link nickname]贏得[%leaguefinals]冠軍讓他們庆祝得意洋洋。(nl)(nl)今天在[%ballpark]場地，[%team#1nickname]以[%game score]的成績擊敗[%team#2link nickname]贏得了本屆[%leaguefinals]冠軍。這是[%team#1name]隊史上第[%team number champions]次成為此項殊榮的得主。(nl)(nl)"直到最後一刻，我相信我們能夠找到方法改變比賽局勢和扭轉系列賽，" 敗部總教練[%team#2 managerlink]說道，"但[%team#1nickname]是一支強而有力的球隊，他們確保這不會發生。"(nl)(nl)[%team#1name] 隊常季表現成績為[%team record num]，並在[%team division]中排名第[%team division position]。</TXT>
+<TXT>今天，[%team#1link nickname] 像騎在雲端上一樣，因為他們贏得了隊史上的 [%team number champions] [%leaguefinals] 冠軍頭銜。(nl)(nl)今天在 [%ballpark]，[%team#1nickname] 以 [%game score] 的勝利結束了 [%team#2link nickname] 的苦楚，並將系列賽帶到了 [%string#1]。(nl)(nl)「直到最後一刻，我都相信我們能找到翻盤的辦法，改變這場比賽和系列賽的局勢，」輸的經理 [%team#2 managerlink] 說。「然而，[%team#1nickname] 是一支優秀的球隊，他們確保這一切不會發生。」(nl)(nl)[%team#1name] 以 [%team record num] 的成績結束了常規賽，並在 [%team division] 中排名 [%team division position]。</TXT>
 </OBJ>
 <OBJ id="19372">
 <TXT>[%leaguename]的歷史紀錄又新增了一頁。[%team#1link nickname]以[%game score]的比數擊敗[%team#2link nickname]，贏得了本屆[%team number champions]次聯盟冠軍。(nl)(nl)他們在本季[%leaguefinals] [%string#1]贏得了冠軍。(nl)(nl)在例行比賽中，[%team#1link]取得了[%team record num]的戰績，並在[%team division]排名第[%team division position]。</TXT>
@@ -95153,7 +95153,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="159" value="1" />
 </OBJ>
 <OBJ id="39482">
-<TXT>在[%game ballpark]今晚以[%game score]擊敗[%team#2link nickname]後，[%team#1link nickname]終於獲得了他們在球隊歷史上的[%team number champions]冠軍。(nl)(nl)[%team#1name]絲毫不讓步，說明誰才是更好的球隊。 "團隊"是當天的主題，[%team#1nickname]在比賽後贏家的更衣室慶祝他們的成功。(nl)(nl)"打擊、投球、守備；這些都是贏得比賽的要素，但最重要的是你需要一個團隊，一個一起為同一個集體目標而努力的團隊，" [%team manager]教練說。"我們的球員整年都有這種感覺，他們就是這樣打球的。當有一個人表現不好，其他24個人就會站出來彌補。 "(nl)(nl)庆祝氛圍充滿了歡樂氣氛。市長表示已經在籌備遊行計畫，並有一個"大型慶祝會"。(nl)(nl)"我們將慶祝我們的球隊、我們的冠軍[%team#1link nickname]。"市長說。(nl)(nl)冠軍隊在常規賽季中以[%team division position]名，[%team record num]勝[%team record num2]敗的成績完成了賽季。</TXT>
+<TXT>在今晚於 [%game ballpark] 擊敗 [%team#2link nickname]，以 [%game score] 的勝利後，[%team#1link nickname] 確保了他們隊史上的 [%team number champions] 冠軍稱號。(nl)(nl)[%team#1name] 幾乎沒有留下誰是更強球隊的疑問。「團隊」是今日的關鍵詞，[%team#1nickname] 在比賽後於勝利者更衣室慶祝他們的榮耀一年。(nl)(nl)「打擊、投球、守備；這些都是獲勝所需的，但最重要的是你需要一支隊伍，一支朝著同一共同目標合作的隊伍，」[%team#1name] 的經理 [%team manager] 說。「我們的球員全年都這樣感受並且這樣打球。當某個球員狀態不佳時，其他 24 位球員就會挺身而出，填補空缺。」(nl)(nl)隨著 [%team#1name] 直至夜晚的慶祝，喜悅的氣氛充滿了空氣。市長表示遊行計劃正在進行中，並且正在策劃一場「盛大的慶祝活動」。(nl)(nl)「我們要慶祝我們的球隊，我們的冠軍 [%team#1link nickname]，」市長說。(nl)(nl)這支冠軍隊以 [%team division position] 名完成常規賽，並在 [%team division] 擁有 [%team record num] 的成績。</TXT>
 <COND id="161" value="0" />
 </OBJ>
 <OBJ id="39483">
