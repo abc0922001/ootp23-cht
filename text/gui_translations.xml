@@ -119705,7 +119705,7 @@
   <HCS i="15308">
    <EN>Injury Time left (in Days</EN>
    <DC />
-   <KR>受傷剩餘時間（以天為單位</KR>
+   <KR>受傷剩餘時間（以天計</KR>
    <ES>Tiempo restante de lesión (en días)</ES>
    <JP>残りの負傷時間（日数）</JP>
    <CN>受伤时间（天）</CN>
@@ -119721,7 +119721,7 @@
   <HCS i="15310">
    <EN>Day-to-Day Injury (able to play</EN>
    <DC />
-   <KR>) – 每日傷患（可出賽</KR>
+   <KR>日常受傷（能夠參加比賽</KR>
    <ES>Lesión diaria (capaz de jugar</ES>
    <JP>日常の怪我（遊ぶことができる</JP>
    <CN>日常伤害（能玩</CN>
@@ -119729,7 +119729,7 @@
   <HCS i="15311">
    <EN>IL Time left (in Days</EN>
    <DC />
-   <KR>IL 距離結束時間還剩下幾天（日）</KR>
+   <KR>傷病名單剩餘時間（以天計</KR>
    <ES>IL Tiempo restante (en días)</ES>
    <JP>IL残り時間（日数）</JP>
    <CN>IL 剩余时间（天</CN>
@@ -119745,7 +119745,7 @@
   <HCS i="15313">
    <EN>Overall Proneness (1 - 200</EN>
    <DC />
-   <KR>整體適應性（1-200</KR>
+   <KR>整體易傷性（1 - 200</KR>
    <ES>Propensión general (1 - 200</ES>
    <JP>全体的な傾向（1〜200</JP>
    <CN>整体倾向 (1 - 200</CN>
@@ -119753,7 +119753,7 @@
   <HCS i="15314">
    <EN>Back Proneness (1 - 200</EN>
    <DC />
-   <KR>背向傾斜度 (1 - 200</KR>
+   <KR>背部易傷性（1 - 200</KR>
    <ES>Propensión a la espalda (1 - 200</ES>
    <JP>背中の傾向（1〜200</JP>
    <CN>背部倾向 (1 - 200</CN>
@@ -119761,7 +119761,7 @@
   <HCS i="15315">
    <EN>Legs Proneness (1 - 200</EN>
    <DC />
-   <KR>腿部易損傷度（1-200</KR>
+   <KR>腿部易傷性（1 - 200</KR>
    <ES>Propensión de las piernas (1 - 200</ES>
    <JP>脚の傾向（1〜200</JP>
    <CN>腿部倾斜度 (1 - 200</CN>
@@ -119769,7 +119769,7 @@
   <HCS i="15316">
    <EN>Arm Proneness (1 - 200</EN>
    <DC />
-   <KR>投手臂力 (1 - 200</KR>
+   <KR>手臂易傷性（1 - 200</KR>
    <ES>Propensión del brazo (1 - 200</ES>
    <JP>腕の傾向（1〜200</JP>
    <CN>手臂倾斜度 (1 - 200</CN>

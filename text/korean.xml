@@ -95526,23 +95526,23 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="655">
-<OBJ id="20946" text="[%string#1] - [%personname l]的連續打數" />
-<OBJ id="20947" text="[%personname l] 打擊 [%string#1] 場比賽連續命中" />
-<OBJ id="20948" text="[%personname l] 目前擊出連續 [%string#1] 支安打！" />
-<OBJ id="20949" text="[%personname l] 連續[%string#1]場比賽。" />
-<OBJ id="20950" text="[%personname l] 的連續安打紀錄達到 [%string#1] 場" />
-<OBJ id="20951" text="[%personname l] 把打擊紀錄串拉長至 [%string#1]" />
-<OBJ id="20952" text="[%personname l] 把擊球連續紀錄延續到 [%string#1] 場比賽啦!" />
-<OBJ id="20962" text="[%personname l] 打出了 [%string#1] 的連續安打紀錄" />
-<OBJ id="21867" text="[%personname l] 打擊保持[%string#1]局連續安打 " />
-<OBJ id="21868" text="[%personname l] 仍然連續打擊紀錄未斷。" />
-<OBJ id="21869" text="[%personname l] 繼續保持安打積極表現" />
-<OBJ id="21870" text="[%personname l] 繼續連續比賽擊出安打的紀錄。" />
-<OBJ id="21871" text="[%personname l] 有[%string#1]場連續安打的紀錄" />
-<OBJ id="21872" text="[%personname l] 狂揍 [%string#1] 轟連續守備出色'" />
-<OBJ id="21873" text="[%personname l]　的連續安打紀錄創[%string#1]場高峰" />
-<OBJ id="21874" text="[%personname l] 達成了 [%string#1] 場比賽擊球連續上演的紀錄" />
-<OBJ id="21875" text="[%personname l] 打出 [%string#1] 場比賽連續安打" />
+<OBJ id="20946" text="[%string#1] 場比賽連續安打對 [%personname l]"/>
+<OBJ id="20947" text="[%personname l] 在 [%string#1] 場比賽中安打"/>
+<OBJ id="20948" text="連續安打場次目前為 [%string#1] 場，[%personname l]保持中"/>
+<OBJ id="20949" text="[%personname l] 連續打出 [%string#1] 場比賽"/>
+<OBJ id="20950" text="[%personname l] 的安打連續場次達到 [%string#1] 場"/>
+<OBJ id="20951" text="[%personname l] 將安打連續場次延伸至 [%string#1] 場"/>
+<OBJ id="20952" text="[%personname l] 擴展安打連續場次至 [%string#1] 場"/>
+<OBJ id="20962" text="[%personname l] 的安打連續場次提升至 [%string#1] 場"/>
+<OBJ id="21867" text="[%personname l] 提升安打連續場次至 [%string#1] 場"/>
+<OBJ id="21868" text="安打連續場次仍在延續對 [%personname l]"/>
+<OBJ id="21869" text="[%personname l] 保持安打連續場次"/>
+<OBJ id="21870" text="連續比賽安打場次繼續為 [%personname l]"/>
+<OBJ id="21871" text="[%personname l] 擁有 [%string#1] 場安打連續場次"/>
+<OBJ id="21872" text="[%personname l] 在 [%string#1] 場比賽中火熱發揮"/>
+<OBJ id="21873" text="[%personname l] 的安打連續場次飆升至 [%string#1] 場"/>
+<OBJ id="21874" text="[%personname l] 提升安打連續場次至 [%string#1] 場"/>
+<OBJ id="21875" text="[%personname l] 在 [%string#1] 場比賽中安打連續場次"/>
 </CAT>
 
 <CAT id="668">
@@ -95642,22 +95642,22 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="671">
-<OBJ id="24606" text="[%team#1nickname] [%personname L] 受挫" />
-<OBJ id="25009" text="[%team#1name]的[%personname f l]受挫" />
-<OBJ id="25010" text="[%team#1nickname][%personname f l] 又遭糟糕情況。" />
-<OBJ id="25011" text="[%personname l] 和 [%team#1name] 的壞消息" />
-<OBJ id="25012" text="[%team#1nickname] [%personname l] 受傷了" />
-<OBJ id="25013" text="[%team#1name]的[%personname f l]又有傷病問題了。" />
-<OBJ id="25014" text="[%personname f l] 復健受阻" />
-<OBJ id="25015" text="[%team#1nickname] [%personname f l] 恢復速度較慢。" />
-<OBJ id="25016" text="[%personname l] 的療程進展不佳，遭遇了挫折。" />
-<OBJ id="25017" text="[%personname f l] 又遭遇逆轉了，[%team#1name] 又遇到挫折了。" />
-<OBJ id="25018" text="[%personname l]狀況惡化，再度遭受挫折" />
-<OBJ id="25019" text="[%team#1name] 和 [%personname f l] 受挫了" />
-<OBJ id="25020" text="[%personname f l]和[%team#1nickname]受到挫折了" />
-<OBJ id="25021" text="[%team#1name]陣容危機，[%personname l]慘遭挫折" />
-<OBJ id="25154" text="康復路對於[%personname f l]的[%team#1nickname]來說真的很困難。" />
-<OBJ id="25155" text="[%personname l] 受傷情況不佳，回歸時間延後了。[%team#1nickname]。" />
+<OBJ id="24606" text="[%team#1nickname] [%personname L] 遭遇挫折"/>
+<OBJ id="25009" text="[%team#1name] 的 [%personname f l] 遭遇挫折"/>
+<OBJ id="25010" text="[%team#1nickname] [%personname f l] 再遭困境"/>
+<OBJ id="25011" text="對 [%personname l] 和 [%team#1name] 的壞消息"/>
+<OBJ id="25012" text="[%team#1nickname] [%personname l] 的傷病挫折"/>
+<OBJ id="25013" text="[%team#1name] 的 [%personname f l] 面臨更多傷病問題"/>
+<OBJ id="25014" text="[%personname f l] 的康復進展不順"/>
+<OBJ id="25015" text="[%team#1nickname] [%personname f l] 的康復緩慢"/>
+<OBJ id="25016" text="[%personname l] 的治療進展不佳，遭遇挫折"/>
+<OBJ id="25017" text="[%team#1name] 的 [%personname f l] 又遭遇挫折"/>
+<OBJ id="25018" text="[%personname l] 的情況惡化，再度遭遇挫折"/>
+<OBJ id="25019" text="[%team#1name] 和 [%personname f l] 的挫折"/>
+<OBJ id="25020" text="[%team#1nickname] 和 [%personname f l] 的挫折"/>
+<OBJ id="25021" text="[%team#1name] 的麻煩，[%personname l] 遭遇挫折"/>
+<OBJ id="25154" text="[%team#1nickname] [%personname f l] 的康復之路艱辛"/>
+<OBJ id="25155" text="傷情惡化，[%team#1nickname] [%personname l] 的回歸延遲"/>
 </CAT>
 
 <CAT id="654">
@@ -95988,52 +95988,52 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="673">
-<OBJ id="24603" text="[%personname F L] 的球員生涯結束了，[%team#1nickname]。" />
-<OBJ id="24946" text="復健失敗，[%team#1nickname][%personname l] 球員生涯結束。" />
-<OBJ id="24950" text="[%team#1nickname] [%personname l] 無法復原，生涯結束。" />
-<OBJ id="24954" text="[%team#1nickname] 的 [%personname l] 因傷退出球壇" />
-<OBJ id="24957" text="[%team#1nickname] 的[%personname l] 遭受挫折，生涯宣告結束" />
-<OBJ id="24964" text="治療失敗，[%personname f l] 的職棒生涯完了。" />
-<OBJ id="24970" text="受傷情況加重，[%team#1name]的[%personname l]宣布退役。" />
-<OBJ id="24972" text="職業生涯結束，[%personname l] 在康復過程中遭遇挫折。" />
-<OBJ id="24974" text="[%team#1nickname] [%personname l] 永久出賽，傷勢無法康復。" />
-<OBJ id="24976" text="[%personname l] 無法翻盤，傷勢過重" />
-<OBJ id="24978" text="[%personname l] 放棄了，遭到挫折並退役了。" />
-<OBJ id="24985" text="[%team#1nickname] [%personname l] 又遭逢挫折，被迫退役。" />
-<OBJ id="24986" text="[%team#1name] 的 [%personname l] 因挫折而退役。" />
-<OBJ id="24987" text="傷病阻礙 [%personname f l] 的球員退役。" />
-<OBJ id="24990" text="[%team#1nickname] [%personname l] 不幸受傷，無法恢復，被迫退出比賽。" />
-<OBJ id="24993" text="事業結束，[%team#1name]的[%personname l]遭遇挫敗。" />
-<OBJ id="24997" text="[%team#1nickname] [%personname l] 無法恢復，退役了" />
-<OBJ id="24999" text="[%personname f l] 被迫退役，再次受挫。" />
-<OBJ id="25006" text="[%personname f l] 的生涯大概沒有回頭路了。" />
-<OBJ id="25007" text="[%personname l] 又遭受挫折，不得不退役。" />
-<OBJ id="25008" text="[%team#1name] 的 [%personname l] 結束了他的職棒生涯，遭遇挫折並退休了。" />
-<OBJ id="25169" text="[%team#1nickname] [%personname f l]的未來面臨危機" />
+<OBJ id="24603" text="[%team#1nickname] [%personname F L] 職業生涯結束"/>
+<OBJ id="24946" text="康復失敗，[%team#1nickname] [%personname l] 職業生涯結束"/>
+<OBJ id="24950" text="[%team#1nickname] [%personname l] 無法恢復，職業生涯結束"/>
+<OBJ id="24954" text="因傷病，[%team#1nickname] [%personname l] 結束職業生涯"/>
+<OBJ id="24957" text="[%team#1nickname] [%personname l] 遭遇挫折，職業生涯結束"/>
+<OBJ id="24964" text="治療失敗，[%personname f l] 的職業生涯結束"/>
+<OBJ id="24970" text="傷情惡化，[%team#1name] 的 [%personname l] 職業生涯結束"/>
+<OBJ id="24972" text="職業生涯結束，[%personname l] 在康復中遭遇挫折"/>
+<OBJ id="24974" text="[%team#1nickname] [%personname l] 永久退役，無法從傷病中恢復"/>
+<OBJ id="24976" text="[%personname l] 的復出不可能，傷勢過於嚴重"/>
+<OBJ id="24978" text="[%personname l] 放棄，遭遇挫折並退休"/>
+<OBJ id="24985" text="[%team#1nickname] [%personname l] 又遭遇挫折，被迫退休"/>
+<OBJ id="24986" text="挫折迫使 [%team#1name] 的 [%personname l] 退休"/>
+<OBJ id="24987" text="傷病挫折迫使 [%personname f l] 退休"/>
+<OBJ id="24990" text="[%team#1nickname] [%personname l] 無法恢復，挫折迫使他退役"/>
+<OBJ id="24993" text="職業生涯結束，[%team#1name] 的 [%personname l] 遭遇挫折"/>
+<OBJ id="24997" text="[%team#1nickname] [%personname l] 無法恢復，退役"/>
+<OBJ id="24999" text="[%personname f l] 被迫退休，再遭遇挫折"/>
+<OBJ id="25006" text="對 [%personname f l] 來說復出不太可能，職業生涯可能結束"/>
+<OBJ id="25007" text="[%personname l] 又遭遇挫折，被迫退休"/>
+<OBJ id="25008" text="[%team#1name] 的 [%personname l] 宣佈結束職業生涯，遭遇挫折並退休"/>
+<OBJ id="25169" text="[%team#1nickname] [%personname f l] 的未來岌岌可危"/>
 </CAT>
 
 <CAT id="675">
-<OBJ id="25271" text="[%personname l] 成功完成 [%team#2nickname] [%game score]，拯救[%string#1]回合" />
-<OBJ id="25275" text="[%team#1nickname] [%personname l] 奪下了[%string#1]次救援成功" />
-<OBJ id="25276" text="儲存號碼[%string#1]給[%team#1nickname][%personname l]" />
-<OBJ id="25277" text="[%personname l] 拿到[%string#1]次救援成功，關門 [%team#2nickname] [%game score]" />
-<OBJ id="25278" text="[%personname f l] 安全守護 [%string#1]號救援成功" />
-<OBJ id="25279" text="[%team#1nickname] [%personname f l] 安心錄得第[%string#1]個救援成功。" />
-<OBJ id="25280" text="[%team#1nickname]的[%personname l]成功挫敗[%team#2name]，保送[%string#1]個勝利。" />
-<OBJ id="25281" text="[%personname f l] 完成 [%string#1] 場救援成功，[%team#1name] 以 [%game score] 擊敗了 [%team#2name]。" />
-<OBJ id="25282" text="里程碑救援成功，[%personname f l] 拿到第 [%string#1] 個救援成功。" />
-<OBJ id="25287" text="[%personname f l] 紀錄了 [%string#1] 場救援成功，馴服了 [%team#2name] [%game score]。" />
-<OBJ id="25288" text="[%personname l] 投手守住 [%string#1] 場救援成功，[%team#1name] 以 [%game score] 擊敗[%team#2nickname]。" />
-<OBJ id="25289" text="[%personname l] 在 [%team#1nickname] 對 [%team#2nickname] 的比賽中獲得了第[%string#1]次救援成功。" />
-<OBJ id="25323" text="[%personname l] 幫 [%team#2name] 鎖定球門，錄得 [%string#1] 場救援成功。" />
-<OBJ id="25324" text="[%personname l] 鎖定了[%team#1nickname]勝利，拿到[%string#1]個救援成功。" />
-<OBJ id="25325" text="[%team#1nickname] [%personname l] 順利取得勝利，得到第[%string#1]次救援成功！" />
-<OBJ id="25326" text="[%team#1name] 抵擋住[%team#2nickname]的進攻，[%personname l] 獲得[%string#1]次救援成功。" />
-<OBJ id="25327" text="[%team#1nickname] [%personname f l]的生涯救援成功次數為[%string#1]。" />
-<OBJ id="25328" text="[%personname l] 出任務 擊退 [%team#2name] 保住 [%string#1] 次救援成功" />
-<OBJ id="25329" text="[%personname l] 在 [%game score] 的 [%team#1name] 勝利中達成了 [%string#1]-救援里程碑。" />
-<OBJ id="25330" text="[%personname l] 救援成功第[%string#1]次，[%team#1nickname] 守住勝利擊敗 [%team#2nickname]。" />
-<OBJ id="25331" text="[%team#1name] 在比賽中以 [%game score] 的比分擊敗了 [%team#2name]，[%personname l] 抓下第 [%string#1] 次救援成功。" />
+<OBJ id="25271" text="[%personname l] 完成對 [%team#2nickname] 的 [%game score]，獲得第 [%string#1] 次救援"/>
+<OBJ id="25275" text="[%team#1nickname] [%personname l] 鎖定第 [%string#1] 次救援"/>
+<OBJ id="25276" text="第 [%string#1] 次救援，[%team#1nickname] [%personname l]"/>
+<OBJ id="25277" text="[%personname l] 獲得第 [%string#1] 次救援，關閉對 [%team#2nickname] 的 [%game score]"/>
+<OBJ id="25278" text="[%personname f l] 記錄第 [%string#1] 次救援"/>
+<OBJ id="25279" text="[%team#1nickname] [%personname f l] 獲得第 [%string#1] 次救援"/>
+<OBJ id="25280" text="[%team#1nickname] [%personname l] 阻止 [%team#2name] 獲得第 [%string#1] 次救援"/>
+<OBJ id="25281" text="[%string#1] 次救援，[%personname f l] 在 [%team#1name] 獲勝中擊敗 [%team#2name] [%game score]"/>
+<OBJ id="25282" text="里程碑救援，[%personname f l] 獲得第 [%string#1] 次救援"/>
+<OBJ id="25287" text="[%personname f l] 記錄第 [%string#1] 次救援，壓制 [%team#2name] [%game score]"/>
+<OBJ id="25288" text="[%personname l] 獲得第 [%string#1] 次救援，[%team#1name] 擊敗 [%team#2nickname] [%game score]"/>
+<OBJ id="25289" text="[%personname l] 在 [%team#1nickname] 擊敗 [%team#2nickname] 的比賽中獲得第 [%string#1] 次救援"/>
+<OBJ id="25323" text="[%personname l] 封鎖對 [%team#2name] 的攻勢，記錄第 [%string#1] 次救援。"/>
+<OBJ id="25324" text="[%personname l] 鎖定 [%team#1nickname] 勝利，獲得第 [%string#1] 次救援"/>
+<OBJ id="25325" text="[%team#1nickname] 獲得大勝，[%personname l] 獲得救援 #[%string#1]"/>
+<OBJ id="25326" text="[%team#1name] 擋住 [%team#2nickname] 的攻擊，[%personname l] 獲得第 [%string#1] 次救援"/>
+<OBJ id="25327" text="[%team#1nickname] [%personname f l] 獲得職業生涯第 [%string#1] 次救援"/>
+<OBJ id="25328" text="[%personname l] 封鎖對 [%team#2name] 的攻勢，獲得第 [%string#1] 次救援"/>
+<OBJ id="25329" text="[%personname l] 在 [%game score] 的 [%team#1name] 勝利中達成第 [%string#1] 次救援里程碑"/>
+<OBJ id="25330" text="[%string#1] 次救援，[%personname l] 在 [%team#1nickname] 擋住 [%team#2nickname] 的攻擊"/>
+<OBJ id="25331" text="[%team#1name] 擊敗 [%team#2name] [%game score]，[%personname l] 獲得第 [%string#1] 次救援"/>
 </CAT>
 
 <CAT id="450">
@@ -96050,219 +96050,220 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="451">
-<OBJ id="20172" text="打擊能力稍遜。" />
-<OBJ id="20562" text="潛力不太大，預測打擊率低。" />
-<OBJ id="20563" text="應該最終會成為下游的接觸打者。" />
-<OBJ id="26764" text="計畫成為一個[%batting avg]好手。" />
-<OBJ id="26789" text="預測他的打擊率不太好。" />
-<OBJ id="26790" text="低接觸率打擊者的預測。" />
-<OBJ id="26791" text="未來可能不太適合打接觸球。" />
-<OBJ id="26792" text="擊球能力普通以下。" />
-<OBJ id="37807" text="這裡沒有太多潛力。未來可能成為下游聯絡打者。" />
-<OBJ id="37808" text="看起來似乎沒有任何潛力高手，成績顯示他是低水準的接觸型擊球手。" />
+<OBJ id="20172" text="低於平均的接觸打者。"/>
+<OBJ id="20562" text="幾乎沒有潛力，預測打擊率會很低。"/>
+<OBJ id="20563" text="應該會成為一個低於平均的接觸打者。"/>
+<OBJ id="26764" text="預測將成為一個 [%batting avg] 的打者。"/>
+<OBJ id="26789" text="預測打擊率會很低。"/>
+<OBJ id="26790" text="預測接觸能力會很低。"/>
+<OBJ id="26791" text="作為接觸打者的未來不太明朗。"/>
+<OBJ id="26792" text="接觸潛力低於平均水平。"/>
+<OBJ id="37807" text="這裡的潛力不大。未來可能成為一個低於平均的接觸打者。"/>
+<OBJ id="37808" text="看起來沒有任何潛在的隱藏天賦。評級為低於平均的接觸打者。"/>
 </CAT>
 
 <CAT id="452">
-<OBJ id="20173" text="無法穩定擊打高水準投手的球。也許會是一個打擊率 [%batting avg] 的打者。"/>
-<OBJ id="20564" text="輪值球員。"/>
-<OBJ id="20587" text="預期會是一個低於平均水準的打者，需要在揮棒上多加努力。"/>
-<OBJ id="21341" text="他展現過一些打擊能力的片段，足以讓球探定期回來觀察，但對他在更高層次中的打擊能力仍有疑慮。"/>
-<OBJ id="26765" text="預計打擊率會是 [%batting avg]。"/>
-<OBJ id="37809" text="一個平庸的接觸型打者。"/>
-<OBJ id="37810" text="揮棒沒什麼特別之處。預計打擊率為 [%batting avg]。"/>
-<OBJ id="37811" text="只展現了些許天賦。"/>
-<OBJ id="37812" text="評價為稍低於平均的接觸型打者。[%personname L] 看來並沒有太多天賦。"/>
+<OBJ id="20173" text="無法穩定地擊中頂級投手。可能成為一個 [%batting avg] 的打者。"/>
+<OBJ id="20564" text="輪替球員。"/>
+<OBJ id="20587" text="預計將成為一個低於平均的打者，需要在揮棒上努力。"/>
+<OBJ id="21341" text="他展現了打擊能力的閃光點，足以讓球探定期回來，但對於他在下一級別的打擊能力仍有疑問。"/>
+<OBJ id="26765" text="預測將成為一個 [%batting avg] 的打者。"/>
+<OBJ id="37809" text="一名平庸的接觸打者。"/>
+<OBJ id="37810" text="揮棒沒有特別之處。預測將成為一個 [%batting avg] 的打者。"/>
+<OBJ id="37811" text="只有偶爾的天賦閃現。"/>
+<OBJ id="37812" text="評級為略低於平均的接觸打者。[%personname L] 似乎並沒有太多的天賦。"/>
 <OBJ id="37813" text="潛力不大。"/>
-<OBJ id="46098" text="良好的揮棒速度和強勁的接觸力將幫助他，但他仍然存在一些擊球準備和手部位置的問題。"/>
-<OBJ id="46241" text="需要更多對抗高水準投手的經驗。"/>
-<OBJ id="46311" text="要在更高層次中擊球，他必須縮短揮棒並調整擊球策略。"/>
-<OBJ id="46513" text="無法打出足夠的紮實擊球，讓他的速度發揮作用。">
+<OBJ id="46098" text="良好的揮棒速度和強勁的接觸會幫助他，但他仍然存在一些準備和手部擺放的問題。"/>
+<OBJ id="46241" text="需要更多對抗優質投手的經驗。"/>
+<OBJ id="46311" text="必須縮短揮棒並調整打擊方式，以便在更高的級別打擊。"/>
+<OBJ id="46513" text="無法進行足夠的穩定接觸來發揮他的速度。">
 <COND id="20" value="125"/>
 </OBJ>
-<OBJ id="46592" text="也許可以作為一個工具型內野手，但打擊能力不足。">
+<OBJ id="46592" text="可能是一名多功能內野手，但打擊能力不夠。">
 <COND id="106" value="4"/>
 <COND id="72" value="17"/>
 </OBJ>
 </CAT>
 
 <CAT id="453">
-<OBJ id="20174" text="若這練得勤，就能夠發揮出平均水平的打擊觸球能力。" />
-<OBJ id="20588" text="應該會變成一個普通的打者。" />
-<OBJ id="26757" text="揮棒很有水準。" />
-<OBJ id="26758" text="預測平均打擊率。" />
-<OBJ id="26759" text="預測他會略高於平均水準的接觸率。" />
-<OBJ id="26760" text="[%personname L] 的預測指標是個普通的接觸打者。" />
-<OBJ id="26761" text="[%personname L] 預計會是個打擊率 [%batting avg] 的選手。" />
-<OBJ id="26762" text="希望可以成為打擊率 [%batting avg] 的球員。" />
-<OBJ id="26788" text="有些對球的接觸能力，有成為[%batting avg]的潛力。" />
-<OBJ id="37814" text="揮棒。[%personname L]不是天才，但他可以成為一個不錯的接觸型擊球手。" />
-<OBJ id="45434" text="隨著年齡的增長，改進的可能性越來越小。">
-<COND id="7" value="29" />
+<OBJ id="20174" text="透過努力，他有潛力成為一名普通的接觸打者。"/>
+<OBJ id="20588" text="應該能成為一名普通的打者。"/>
+<OBJ id="26757" text="揮棒表現一般。"/>
+<OBJ id="26758" text="預計能達到一般的接觸能力。"/>
+<OBJ id="26759" text="預計能稍微高於一般的接觸能力。"/>
+<OBJ id="26760" text="[%personname L] 預計將成為一名普通的接觸打者。"/>
+<OBJ id="26761" text="[%personname L] 預計將成為一名 [%batting avg] 打者。"/>
+<OBJ id="26762" text="預計將成為一名 [%batting avg] 打者。"/>
+<OBJ id="26788" text="顯示出一定的接觸能力，有潛力成為一名 [%batting avg] 打者。"/>
+<OBJ id="37814" text="揮棒不錯。[%personname L] 並不是天才，但他可能成為一名不錯的接觸打者。"/>
+<OBJ id="45434" text="隨著年齡增長，潛在的改善可能減少。">
+<COND id="7" value="29"/>
 </OBJ>
-<OBJ id="45440" text="無法調整身體機械動作來改善他的揮擊。" />
-<OBJ id="45617" text="揮擊模式要有快速的收拍和長時間的後揮力道，可能需要再精進。" />
-<OBJ id="45904" text="一個亂揮棒且需要更好控制打擊區域的球員。">
-<COND id="103" value="2" />
+<OBJ id="45440" text="無法調整影響揮棒的身體動作。"/>
+<OBJ id="45617" text="揮棒動作包括短暫的後揮和長時間的隨後動作。可能需要改進。"/>
+<OBJ id="45904" text="是一名自由揮棒者，需要更好的壓制好球帶的能力。">
+<COND id="103" value="2"/>
 </OBJ>
-<OBJ id="45948" text="他的平均打擊能力和能否保持力道會決定他的未來。">
-<COND id="102" value="6" />
-<COND id="22" value="110" />
-<COND id="104" value="4" />
+<OBJ id="45948" text="他的擊球能力能否保持力量的同時達到平均水準，將決定他的未來。">
+<COND id="102" value="6"/>
+<COND id="22" value="110"/>
+<COND id="104" value="4"/>
 </OBJ>
-<OBJ id="46088" text="一支快速揮棒，擅長重擊的球棒手。但還需要在揮棒控制方面加以改進。">
-<COND id="104" value="4" />
+<OBJ id="46088" text="揮棒速度快，擅長進行強力接觸。不過，他的控制技巧還需要加強。">
+<COND id="104" value="4"/>
 </OBJ>
-<OBJ id="46097" text="一名擁有出色的棒速和棒桿控制結合的擊球手。在下一個階段應該可以擊出高打擊率。" />
-<OBJ id="46099" text="打擊時能很好地把握擊球位置。他的揮棒非常簡潔利落，能夠讓他把球打到整個球場。" />
-<OBJ id="46262" text="用他的手擊球，將球打往中場，並保持身體在球內。">
-<COND id="265" value="0" />
-<COND id="266" value="1" />
+<OBJ id="46097" text="擁有良好揮棒速度與控制的打者。在下一級別應該能維持擊球水準。"/>
+<OBJ id="46099" text="顯示出良好的擊球能力，擁有緊湊且乾淨的揮棒動作，幫助他在場上散佈球。"/>
+<OBJ id="46262" text="用手擊球，保持在球的內側，並將球打向中間。">
+<COND id="265" value="0"/>
+<COND id="266" value="1"/>
 </OBJ>
-<OBJ id="46264" text="一貫的平均或以上的棒球擊球速度。" />
-<OBJ id="46312" text="需要改善他的球種選擇，以及瞭解比賽情勢和局數。">
-<COND id="35" value="2" />
+<OBJ id="46264" text="揮棒速度持平至略高於平均水準。"/>
+<OBJ id="46312" text="需要改善揮棒選擇，了解比賽情況和球數。">
+<COND id="35" value="2"/>
 </OBJ>
 </CAT>
 
 <CAT id="454">
-<OBJ id="20175" text="[%personname L] 具備高於平均水準的接觸潛力。在他的層級中，可能是所有人中最擅長使用球棒的一位。" />
-<OBJ id="20597" text="看起來應該會有中上的接觸率。他揮棒不錯而且能快速適應投手。" />
-<OBJ id="26766" text="預計成為一個[%batting avg]的打者。" />
-<OBJ id="26781" text="有成為[%batting avg]高手的潛力。" />
-<OBJ id="26782" text="接觸方面可謂是高水準。" />
-<OBJ id="26783" text="希望成為一個高水準繞壘好手。" />
-<OBJ id="26784" text="係大聯盟可能係中等至上等的接觸擊球手。" />
-<OBJ id="26785" text="顯示聯繫潛力，應該會轉化為高於平均水準的打擊率。" />
-<OBJ id="37815" text="這個位置可能會有一位超過平均的接觸者；或許有一天成為一位打擊率[%batting avg]的選手。" />
-<OBJ id="37816" text="揮得很棒。[%personname L] 可能不會創下紀錄，但可能成為一位很穩定的接觸型打擊手。" />
-<OBJ id="45582" text="隨著他增加力量，他的攻擊將更具威力。" />
-<OBJ id="45583" text="以短暴有力的擊球方式，規畫擊球面向均衡。" />
-<OBJ id="45628" text="專注且安靜，擁有可重複的揮擊和以直線為主的打擊風格。" />
-<OBJ id="45636" text="需要在頂尖投手面前證明自己的積極打者。" />
-<OBJ id="45659" text="揮棒快速反應球速飆快，但慢球可能會讓他吃不消。" />
-<OBJ id="45903" text="打擊力道相當不錯，而且手感短促，等他的體格成熟、經驗增加，預計未來能有更多的長打表現。」">
-<COND id="102" value="5" />
-<COND id="104" value="6" />
-<COND id="8" value="23" />
-<COND id="20" value="85" />
+<OBJ id="20175" text="[%personname L] 具有高於平均的接觸潛力。在他這個水準的選手中，他的揮棒可以與任何人媲美。"/>
+<OBJ id="20597" text="預計將擁有高於平均的接觸能力。他的揮棒相當不錯，並能迅速調整面對投手。"/>
+<OBJ id="26766" text="預計將成為一名 [%batting avg] 打者。"/>
+<OBJ id="26781" text="具有成為一名 [%batting avg] 打者的潛力。"/>
+<OBJ id="26782" text="高於平均的接觸潛力。"/>
+<OBJ id="26783" text="預計將成為一名高於平均的接觸打者。"/>
+<OBJ id="26784" text="最終應該能成為大聯盟中一名高於平均的接觸打者。"/>
+<OBJ id="26785" text="顯示出接觸潛力，這應該能轉化為高於平均的打擊率。"/>
+<OBJ id="37815" text="這裡可能有一名高於平均的接觸打者；或許有一天能成為一名 [%batting avg] 打者。"/>
+<OBJ id="37816" text="揮棒不錯。[%personname L] 不太可能創下紀錄，但可能成為一名穩定的接觸打者。"/>
+<OBJ id="45582" text="隨著力量的增加，他的揮棒將更加有威力。"/>
+<OBJ id="45583" text="預計能打到所有球場，並且擁有短小而自信的揮棒動作。"/>
+<OBJ id="45628" text="安靜且專注，揮棒動作可重複，並以直球為主要攻擊方式。"/>
+<OBJ id="45636" text="積極的打者，將需要在頂級投手面前證明自己。"/>
+<OBJ id="45659" text="揮棒快速，能應對大多數快速球，但變速球可能對他造成挑戰。"/>
+<OBJ id="45903" text="揮棒短小，擊球良好，預計隨著身體成熟和經驗累積，能夠打出力量。">
+<COND id="102" value="5"/>
+<COND id="104" value="6"/>
+<COND id="8" value="23"/>
+<COND id="20" value="85"/>
 </OBJ>
-<OBJ id="46084" text="加強辨識投球，有一定的擊球穩定性。">
-<COND id="103" value="4" />
-<COND id="278" value="4" />
-<COND id="100" value="5" />
+<OBJ id="46084" text="正在改善球的識別能力，並且具備持續接觸的能力。">
+<COND id="103" value="4"/>
+<COND id="278" value="4"/>
+<COND id="100" value="5"/>
 </OBJ>
-<OBJ id="46089" text="打擊技巧中等以上。揮棒流暢，手速快。看得出來球路良好。">
-<COND id="103" value="6" />
+<OBJ id="46089" text="高於平均的接觸技巧。揮棒流暢，手速快。良好的球識別能力。">
+<COND id="103" value="6"/>
 </OBJ>
-<OBJ id="46094" text="年紀輕輕就是一位出色的擊球手。擁有充足的擊球速度，並能完美地擊中球。" />
-<OBJ id="46875" text="以頻繁的安打交換揮棒失誤。">
-<COND id="278" value="3" />
-<COND id="104" value="4" />
+<OBJ id="46094" text="對於他的年齡來說是位進階打者。揮棒速度相當快，並且在擊球時能很好地對準球心。">
+</OBJ>
+<OBJ id="46875" text="用大量的安打來換取揮棒的失誤。">
+<COND id="278" value="3"/>
+<COND id="104" value="4"/>
 </OBJ>
 </CAT>
 
 <CAT id="455">
-<OBJ id="20176" text="天份不錯，打擊穩定率也很好。未來有望成為出色的接觸型打者。" />
-<OBJ id="20601" text="計畫成為很優秀的接觸打者。" />
-<OBJ id="26767" text="能力值相當穩定，[%personname L] 將成為一名[%batting avg]的擊球手。" />
-<OBJ id="26769" text="[%personname L] 未來的打擊率應該會達到 [%batting avg]。" />
-<OBJ id="26770" text="[%personname L] 未來作為一位接觸打者前程一片光明。其預測可以成為一位 [%batting avg] 的好打者。" />
-<OBJ id="26771" text="非常高的接觸潛力。" />
-<OBJ id="26777" text="加強打擊連絡。" />
-<OBJ id="26778" text="潛力有可能加強打擊。" />
-<OBJ id="26779" text="有機會成為一個[%batting avg]打者。" />
-<OBJ id="26780" text="計畫成為一位[%batting avg]打者。" />
-<OBJ id="26786" text="顯示出打擊接觸能力，應該可以轉換成穩定的打擊率。" />
-<OBJ id="37817" text="[%personname L]有好多天份，打擊的部分評價為優秀。" />
-<OBJ id="45584" text="應該要有平均率和間隙發球力。" />
-<OBJ id="45606" text="[%personname L]有一個平衡有節奏的揮擊方式，是一位有天賦的接觸型擊球手。" />
-<OBJ id="45608" text="會打球從中間空隙野球場上。看球很準。" />
-<OBJ id="45609" text="他的盤面覆蓋率相當高，特別是他尋找相反方向的能力。" />
-<OBJ id="45629" text="力量不算很強，但能將擊中間隙的球擊飛到相當遠的距離。">
-<COND id="23" value="120" />
+<OBJ id="20176" text="優秀的天賦，能夠將球棒與球接觸。作為接觸打者的未來看起來光明。"/>
+<OBJ id="20601" text="預計將成為一名非常優秀的接觸打者。"/>
+<OBJ id="26767" text="穩定的接觸潛力，[%personname L] 預計將成為一名 [%batting avg] 打者。"/>
+<OBJ id="26769" text="[%personname L] 預計將成為一名 [%batting avg] 打者。"/>
+<OBJ id="26770" text="作為接觸打者的未來看起來光明。[%personname L] 預計將成為一名 [%batting avg] 打者。"/>
+<OBJ id="26771" text="高於平均的接觸潛力。"/>
+<OBJ id="26777" text="優秀的接觸潛力。"/>
+<OBJ id="26778" text="具備優秀的接觸潛力。"/>
+<OBJ id="26779" text="有潛力成為一名 [%batting avg] 打者。"/>
+<OBJ id="26780" text="預計將成為一名 [%batting avg] 打者。"/>
+<OBJ id="26786" text="顯示出接觸能力，這應該能轉化為穩定的打擊率。"/>
+<OBJ id="37817" text="[%personname L] 擁有很多天賦，評價為優秀的接觸打者。"/>
+<OBJ id="45584" text="應該能夠產生平均水準的表現和空隙力量。"/>
+<OBJ id="45606" text="[%personname L] 擁有均衡、富有節奏的揮棒動作。才華橫溢的接觸打者。"/>
+<OBJ id="45608" text="能夠將球打到兩側的空隙，並且能夠清楚地看到球。"/>
+<OBJ id="45609" text="在他對球的覆蓋範圍方面表現優異，特別是在找到對側場地的能力上。"/>
+<OBJ id="45629" text="雖然力量不強，但能夠在打到空隙的時候把球打得相當遠。">
+<COND id="23" value="120"/>
 </OBJ>
-<OBJ id="45634" text="簡單的揮棒方式，並且利用對手的失誤來狠狠地擊出去。">
-<COND id="22" value="130" />
+<OBJ id="45634" text="簡單的打擊方式，並能把握住投手的失誤。">
+<COND id="22" value="130"/>
 </OBJ>
-<OBJ id="45637" text="揮棒動作有點長，也會太愛往右拉。">
-<COND id="104" value="3" />
+<OBJ id="45637" text="揮棒有點長，容易偏向拉打。">
+<COND id="104" value="3"/>
 </OBJ>
-<OBJ id="45759" text="會有連續擊球的穩定性和優美流暢的揮棒。" />
-<OBJ id="46073" text="加加能力。非常流暢的揮棒讓他能夠打出高打擊率。" />
-<OBJ id="46204" text="甜美的揮擊和命中率高，打擊力量穩定。">
-<COND id="102" value="6" />
+<OBJ id="45759" text="將會以穩定的方式驅動球，並擁有甜美、流暢的揮棒。"/>
+<OBJ id="46073" text="優秀的能力，揮棒非常流暢，使他能夠保持高打擊率。"/>
+<OBJ id="46204" text="甜美的揮棒，有機會以穩定的力量打出高打擊率。">
+<COND id="102" value="6"/>
 </OBJ>
-<OBJ id="46205" text="甜美的擊球動作，有機會達成高打擊率並擁有可靠的威力。">
-<COND id="102" value="5" />
+<OBJ id="46205" text="甜美的揮棒，有機會以穩定的力量打出高打擊率。">
+<COND id="102" value="5"/>
 </OBJ>
-<OBJ id="46206" text="甜美的揮棒和擊中率高且實力穩健的打擊能力。">
-<COND id="102" value="7" />
+<OBJ id="46206" text="甜美的揮棒，有機會以穩定的力量打出高打擊率。">
+<COND id="102" value="7"/>
 </OBJ>
-<OBJ id="46251" text="有機會成為一位以上平均水平的打者，擁有鬆散且迅速的揮擊方式，能很好地在球內擊出球。">
-<COND id="88" value="1" />
-</OBJ>
-<OBJ id="46319" text="隨著他的成長，球從他球棒上彈跳的力度越來越大。">
+<OBJ id="46251" text="有機會成為一名高於平均的打者，揮棒輕鬆且快速，能夠掌控內球。">
 <COND id="88" value="1"/>
 </OBJ>
-<OBJ id="46320" text="短小的揮棒保持在球內，直線打擊。只要他能控制好三振那就能向守備方發起挑戰。">
-<COND id="88" value="1" />
-<COND id="266" value="3" />
-<COND id="103" value="3" />
+<OBJ id="46319" text="隨著他的成熟，球從他的棒上飛出的距離越來越遠。">
+<COND id="88" value="1"/>
+</OBJ>
+<OBJ id="46320" text="短小的直線擊球揮棒，能夠掌控內球。如果能控制好三振次數，將能挑戰對手的防守。">
+<COND id="88" value="1"/>
+<COND id="266" value="3"/>
+<COND id="103" value="3"/>
 </OBJ>
 </CAT>
 
 <CAT id="456">
-<OBJ id="20177" text="每年都有機會打出高打擊率，甚至可能爭奪打擊王。" />
-<OBJ id="20602" text="是一名傑出的接觸型打者。" />
-<OBJ id="20603" text="[%personname L] 的打擊應該相當不錯哦，會有非常好的接觸感，而且動作也相當種體操。" />
-<OBJ id="21363" text="具有超卓的接觸性。[%personname L] 是一位純粹的擊球手，對每個打擊都有完整的應對方式。" />
-<OBJ id="26768" text="打擊視野極佳，而且預測能夠擊出高打擊率。" />
-<OBJ id="26772" text="極高的接觸能力。" />
-<OBJ id="26773" text="擁有極高的接觸球能力，預測成為一位[%batting avg]的打者。" />
-<OBJ id="26774" text="[%personname L] 有很高的打擊平均率的潛力。" />
-<OBJ id="26775" text="[%personname L]有極高的可能性擁有優秀的接觸能力。" />
-<OBJ id="26776" text="[%personname L] 在接觸率方面有非常高的潛力。" />
-<OBJ id="26787" text="具有卓越的接觸技巧。應該能轉化為高打擊率。" />
-<OBJ id="27075" text="加上加上的接觸能力預測會有高打擊率。" />
-<OBJ id="27076" text="有獨特的洞察力和紀律性，預測擊率會很高。" />
-<OBJ id="37818" text="[%personname L]有發展成為超級接觸擊球手的天賦，可能在大聯盟成為一名名符其實的球員。" />
-<OBJ id="45631" text="精明的洞察力和細膩的技術，有自信。">
-<COND id="38" value="4" />
+<OBJ id="20177" text="有潛力每年都能打出高打擊率，甚至可能挑戰打擊王。"/>
+<OBJ id="20602" text="預計將成為精英級的接觸打者。"/>
+<OBJ id="20603" text="預期能展現優秀的接觸能力，[%personname L] 具備良好的視野和乾淨的揮棒動作。"/>
+<OBJ id="21363" text="擁有超凡的接觸能力。[%personname L] 是一位純正的打者，對每次打擊都有完整的策略。"/>
+<OBJ id="26768" text="在打擊區的視野卓越，預計能夠保持高接觸率。"/>
+<OBJ id="26772" text="優秀的接觸潛力。"/>
+<OBJ id="26773" text="擁有優秀的接觸潛力。預計將成為一名 [%batting avg] 打者。"/>
+<OBJ id="26774" text="[%personname L] 在高打擊率方面有顯著的預測。"/>
+<OBJ id="26775" text="[%personname L] 在優秀接觸方面有顯著的預測。"/>
+<OBJ id="26776" text="[%personname L] 在非常高的接觸率方面有顯著的預測。"/>
+<OBJ id="26787" text="擁有出色的接觸能力，應能轉化為高打擊率。"/>
+<OBJ id="27075" text="優秀的接觸能力預計將帶來高打擊率。"/>
+<OBJ id="27076" text="展現獨特的視野和紀律，預計能打出高打擊率。"/>
+<OBJ id="37818" text="[%personname L] 擁有發展成為卓越接觸打者的潛力，未來有機會在大聯盟闖出名堂。"/>
+<OBJ id="45631" text="敏銳的洞察力和細緻的動作，充滿自信。">
+<COND id="38" value="4"/>
 </OBJ>
-<OBJ id="45754" text="擊球速度極佳，並且善用整個球場。" />
-<OBJ id="45756" text="使用非傳統但有效的短型擊球方式擊往對方球場。" />
-<OBJ id="45757" text="應該擊出高打擊率和適當的火力或更多。">
-<COND id="102" value="6" />
+<OBJ id="45754" text="出色的揮棒速度，能充分運用整個場地。"/>
+<OBJ id="45756" text="以不尋常但有效的短揮棒打擊對側場地。"/>
+<OBJ id="45757" text="應該能夠打出高打擊率和合理的力量或更多。">
+<COND id="102" value="6"/>
 </OBJ>
-<OBJ id="45763" text="他在打擊方面的進攻策略並不適合散步，但對於一支願意犧牲上壘率以換取打點的球隊來說，他是一個很好的選擇。">
-<COND id="104" value="5" />
+<OBJ id="45763" text="他在打擊時的攻擊風格不利於獲得保送，但對於願意犧牲上壘率以換取打點的球隊來說，他非常合適。">
+<COND id="104" value="5"/>
 </OBJ>
-<OBJ id="46077" text="非常具有潛力。已經被拿來和一些曾經打過球的最佳球員相比。" />
-<OBJ id="46078" text="實力真是驚人，擊球力道和挑戰性都很強。打擊時最擅長把球打到人哪裡都不在的缺口。" />
-<OBJ id="46090" text="罕見的天賦，有機會擊出超級聯繫。流暢順滑的揮擊，有著充足的球棒速度。">
-<COND id="20" value="160" />
+<OBJ id="46077" text="潛力非常好，已經與一些棒球界的最佳球員相提並論。"/>
+<OBJ id="46078" text="令人印象深刻的揮棒速度和力量，能夠準確地把球打到無人防守的地方。"/>
+<OBJ id="46090" text="稀有的人才，有機會展現優秀的接觸能力，揮棒流暢且速度十足。">
+<COND id="20" value="160"/>
 </OBJ>
-<OBJ id="46095" text="非常高超的打擊姿勢，擁有出色的棒球技巧。">
-<COND id="103" value="6" />
-<COND id="22" value="145" />
-<COND id="105" value="6" />
+<OBJ id="46095" text="在打擊時的風格非常成熟，擁有出色的棒對棒技巧。">
+<COND id="103" value="6"/>
+<COND id="22" value="145"/>
+<COND id="105" value="6"/>
 </OBJ>
 </CAT>
 
 <CAT id="460">
-<OBJ id="20310" text="打擊威力評價非常低下。" />
-<OBJ id="21356" text="好差到爆表。力量不是[%personname L] 的強項。" />
-<OBJ id="21360" text="對於沒有力量的球員來說，他打出空中手球的頻率太高了。" />
-<OBJ id="22346" text="完全無力。" />
-<OBJ id="22347" text="[%personname L] 的打擊不會很有力道。" />
-<OBJ id="22348" text="[%personname L] 的火力評分為不佳。" />
-<OBJ id="25752" text="無力。" />
-<OBJ id="25753" text="看起來不太會打長打。" />
-<OBJ id="25754" text="無能力。" />
-<OBJ id="25755" text="無力量就沒有力量。" />
-<OBJ id="25756" text="打擊能力不足，無法打出威力。" />
-<OBJ id="26022" text="[%personname L]像是個輕打者，他不會常常打出本壘打。" />
-<OBJ id="26023" text="即使[%personname L]擊球實心，他也沒有足夠的力量讓球飛過圍牆。" />
+<OBJ id="20310" text="力量評級為遠低於平均水準。"/>
+<OBJ id="21356" text="遠低於平均到差。力量不是 [%personname L] 的強項。"/>
+<OBJ id="21360" text="對於一位沒有力量的球員來說，他的飛球打得太頻繁了。"/>
+<OBJ id="22346" text="完全沒有力量。"/>
+<OBJ id="22347" text="[%personname L] 不會打出力量球。"/>
+<OBJ id="22348" text="[%personname L] 的力量評級為差。"/>
+<OBJ id="25752" text="沒有力量。"/>
+<OBJ id="25753" text="評級為一位差勁的力量打者。"/>
+<OBJ id="25754" text="完全沒有力量。"/>
+<OBJ id="25755" text="缺乏力量使他沒有任何力量。"/>
+<OBJ id="25756" text="缺乏打出力量的力量。"/>
+<OBJ id="26022" text="[%personname L] 是一位短打手，他不會經常打出全壘打。"/>
+<OBJ id="26023" text="即使 [%personname L] 接觸良好，他也沒有力量將球打出場外。"/>
 </CAT>
 
 <CAT id="461">
@@ -96311,31 +96312,31 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="463">
-<OBJ id="20314" text="近乎平均的力量。"/>
-<OBJ id="21349" text="[%personname F]手速敏捷，具有一定的威力。"/>
-<OBJ id="22357" text="他的力量平均。"/>
-<OBJ id="22358" text="平均水平的長打者。"/>
-<OBJ id="22359" text="[%personname L]的力量評分介於平均水準至稍微高，還有一些增長空間。"/>
-<OBJ id="22360" text="力量不是[%personname L]的優勢，但他有能力在合適的球路上擊出全壘打。"/>
-<OBJ id="22361" text="[%personname L]的力量評分為平均。"/>
-<OBJ id="25777" text="平均水平的力量。"/>
-<OBJ id="25778" text="力量評分為平均。"/>
-<OBJ id="25780" text="平均水準至稍微高的力量。"/>
-<OBJ id="25781" text="[%personname L]具有平均水平的力量。"/>
-<OBJ id="25782" text="[%personname L]的力量評分為平均。"/>
-<OBJ id="25783" text="擊球速度應該能夠轉化為平均水平的力量。"/>
-<OBJ id="25784" text="具有平均水平的力量。"/>
-<OBJ id="25785" text="力量評分略高於平均水準。"/>
-<OBJ id="26027" text="當他擊中時，有一些威力可以造成損害。"/>
-<OBJ id="26028" text="[%personname L]能夠用力將一些球擊出全壘打。"/>
-<OBJ id="46107" text="力量略低於平均，但也不弱。似乎有機會每個賽季產生[%batting hr]支全壘打。"/>
-<OBJ id="46120" text="直線砲火，能夠造成額外壘打的力量。">
-<COND id="282" value="5" />
+<OBJ id="20314" text="接近平均的力量。"/>
+<OBJ id="21349" text="[%personname F] 擁有快速的手速，能打出一些力量球。"/>
+<OBJ id="22357" text="他的力量是平均水準。"/>
+<OBJ id="22358" text="平均力量打者。"/>
+<OBJ id="22359" text="[%personname L] 的力量評級為平均到略高，還有成長空間。"/>
+<OBJ id="22360" text="力量不是 [%personname L] 的強項，但在適當的球上有能力將球打出場外。"/>
+<OBJ id="22361" text="[%personname L] 的力量評級為平均。"/>
+<OBJ id="25777" text="平均力量。"/>
+<OBJ id="25778" text="力量評級為平均。"/>
+<OBJ id="25780" text="平均到略高的力量。"/>
+<OBJ id="25781" text="[%personname L] 擁有平均的力量。"/>
+<OBJ id="25782" text="[%personname L] 的力量評級為平均。"/>
+<OBJ id="25783" text="擊球速度應該可以轉化為平均力量。"/>
+<OBJ id="25784" text="擁有平均的力量。"/>
+<OBJ id="25785" text="力量評級為略高於平均。"/>
+<OBJ id="26027" text="當他擊中球時，有能力造成一定的傷害。"/>
+<OBJ id="26028" text="[%personname L] 能將幾個球打出場外。"/>
+<OBJ id="46107" text="力量低於平均，但也不弱。看來有機會每季產出 [%batting hr] 支全壘打。"/>
+<OBJ id="46120" text="直球擊出額外基數的力量。">
+<COND id="282" value="5"/>
 </OBJ>
-<OBJ id="46338" text="揮出雙重火力，握棒手力強勁。">
-<COND id="99" value="5" />
-<COND id="266" value="3" />
-<COND id="264" value="120" />
+<OBJ id="46338" text="在打擊時雙手強勁，能打出雙倍的力量。">
+<COND id="99" value="5"/>
+<COND id="266" value="3"/>
+<COND id="264" value="120"/>
 </OBJ>
 </CAT>
 
