@@ -2470,152 +2470,155 @@
 </CAT>
 
 <CAT id="23">
-<OBJ id="63" text="[%personname L] 主導 [%team#2name]"/>
-<OBJ id="64" text="[%team#2name] 無法與 [%personname L] 匹敵"/>
-<OBJ id="284" text="[%team#1nickname]，[%personname L] 在 [%game score] 中擊敗 [%team#2name]"/>
-<OBJ id="285" text="在 [%personname l] 的帶領下，[%team#1name] 在 [%game score] 中擊敗 [%team#2name]"/>
-<OBJ id="287" text="[%personname L] 擊潰 [%team#2name]，[%game score]"/>
-<OBJ id="288" text="[%personname L] 令 [%team#2name] 的打者困惑"/>
-<OBJ id="290" text="[%personname L] 在 [%game score] 的無安打比賽中表現出色"/>
-<OBJ id="291" text="[%personname L] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="292" text="[%team#2name] 被 [%personname L] 無安打擊敗"/>
-<OBJ id="293" text="[%personname F L] 在 [%game score] 中擊敗 [%team#2name]"/>
-<OBJ id="294" usage_chance_for_game="4" text="[%personname L] 在無安打勝利中「電光火石」"/>
-<OBJ id="295" text="[%team#1nickname]，[%personname L] 在 [%game score] 中讓 [%team#2name] 沉默"/>
-<OBJ id="296" text="[%team#2name] 在對 [%personname L] 的比賽中無法得分"/>
-<OBJ id="297" text="紅熱的 [%personname L] 令 [%team#2name] 冷卻"/>
-<OBJ id="300" text="[%team#2nickname] 在 [%game score] 中被 [%personname L] 無安打擊敗"/>
-<OBJ id="301" text="[%team#2name] 面對 [%personname L] 無法得分"/>
-<OBJ id="302" text="[%team#2name] 被 [%personname L] 擊潰，[%game score]"/>
-<OBJ id="304" text="[%team#1nickname] [%personname L] 擊退 [%team#2nickname]"/>
-<OBJ id="305" text="[%team#2name] 在對 [%personname L] 的比賽中未能得分"/>
-<OBJ id="307" text="[%personname L] 主導比賽，在 [%game score] 中擊敗 [%team#2name]"/>
-<OBJ id="308" text="[%personname L] 投出佳作，[%team#1nickname] 擊敗 [%team#2name]，[%game score]"/>
-<OBJ id="309" text="[%personname L] 銳利，擊敗 [%team#2nickname]，[%game score]"/>
-<OBJ id="311" text="[%personname L] 令 [%team#2name] 沉默，[%game score]"/>
-<OBJ id="312" text="[%team#1nickname] [%personname L] 主導 [%team#2nickname]"/>
-<OBJ id="313" text="零時刻：[%personname L] 擊敗 [%team#2nickname]"/>
-<OBJ id="316" text="[%team#2name] 在 [%game score] 的比賽中被 [%personname L] 擾亂"/>
-<OBJ id="319" text="[%personname L] 冷凍 [%team#2name]，[%game score]"/>
-<OBJ id="320" text="[%personname L] 對 [%team#2name] 施加魔法"/>
-<OBJ id="322" text="[%personname L] 令 [%team#2name] 垮掉，[%game score]"/>
-<OBJ id="323" text="[%team#1nickname] [%personname L] 擊退 [%team#2nickname]"/>
-<OBJ id="324" text="[%personname L] 擊敗 [%team#2name]，[%game score]"/>
-<OBJ id="327" text="[%personname L] 擊退 [%team#2nickname]"/>
-<OBJ id="15091" text="在 [%personname L] 的帶領下，[%team#1name] 擊退 [%team#2name]"/>
-<OBJ id="15098" text="[%personname L] 擊敗 [%team#2nickname]，[%game score]"/>
-<OBJ id="15103" text="[%team#1name] 在 [%personname L] 的帶領下無法得分，[%game score]"/>
-<OBJ id="15105" text="[%team#1nickname] 擊敗 [%team#2nickname]，[%personname L] 獲勝"/>
-<OBJ id="15106" text="[%personname L] 為 [%team#1name] 贏得無安打勝利"/>
-<OBJ id="15107" text="[%personname L] 為 [%team#1name] 獲得無安打勝利"/>
-<OBJ id="15108" text="[%personname L] 為 [%team#1nickname] 贏得 [%game score] 的無安打勝利"/>
-<OBJ id="15109" text="[%personname L] 為 [%team#1nickname] 獲得無安打勝利"/>
-<OBJ id="15110" text="[%personname L] 為 [%team#1nickname] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="15111" text="[%personname L] 為 [%team#1nickname] 獲得無安打勝利"/>
-<OBJ id="15114" text="[%personname L] 擊敗 [%team#2name]，[%game score]"/>
-<OBJ id="15115" text="[%personname L] 擊退 [%team#2nickname]，[%game score]"/>
-<OBJ id="15116" text="[%personname L] 擊敗 [%team#2name]，[%game score]"/>
-<OBJ id="15117" text="[%personname L] 擊敗 [%team#2nickname]，[%game score]"/>
-<OBJ id="15119" text="[%personname L] 為 [%team#1nickname] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="15120" text="[%personname L] 為 [%team#1name] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="15121" text="[%personname L] 為 [%team#1nickname] 贏得無安打勝利"/>
-<OBJ id="15122" text="[%personname L] 在對 [%team#2name] 的比賽中投出無安打比賽"/>
-<OBJ id="15123" text="[%personname L] 在對 [%team#2nickname] 的比賽中投出無安打比賽"/>
-<OBJ id="15124" text="[%personname L] 在對 [%team#2name] 的比賽中創造無安打比賽"/>
-<OBJ id="15125" text="[%personname L] 在對 [%team#2nickname] 的比賽中創造無安打比賽"/>
-<OBJ id="15126" text="[%personname L] 在對 [%team#2name] 的比賽中投出 [%game score] 的無安打比賽"/>
-<OBJ id="15127" text="[%personname L] 在對 [%team#2nickname] 的比賽中投出無安打比賽"/>
-<OBJ id="15128" text="[%personname L] 在對 [%team#2name] 的比賽中創造無安打比賽"/>
-<OBJ id="15129" text="[%personname L] 在對 [%team#2nickname] 的比賽中創造無安打比賽"/>
-<OBJ id="15130" text="[%personname L] 令 [%team#2name] 無法得分"/>
-<OBJ id="15131" text="[%personname L] 令 [%team#2nickname] 無法得分"/>
-<OBJ id="15132" text="[%personname L] 為 [%team#1name] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="15133" text="[%personname L] 在 [%team#1name] 的勝利中投出 [%game score] 的無安打比賽"/>
-<OBJ id="15134" text="[%personname L] 在 [%team#1name] 的勝利中投出無安打比賽"/>
-<OBJ id="15135" text="[%personname L] 在 [%team#1nickname] 的勝利中投出無安打比賽"/>
-<OBJ id="15136" text="[%team#1nickname] 在 [%game score] 中獲勝，[%personname L] 讓 [%team#2name] 無法得分"/>
-<OBJ id="15137" text="[%personname L] 讓 [%team#2nickname] 驚訝，[%game score]"/>
-<OBJ id="15139" text="[%personname L] 在 [%game score] 中困惑 [%team#2name]，[%team#1name] 獲勝"/>
-<OBJ id="15140" text="[%personname L] 讓 [%team#2name] 冷卻"/>
-<OBJ id="15141" text="[%personname L] 在 [%game score] 的佳作中表現出色"/>
-<OBJ id="15142" text="[%personname L] 在 [%game score] 的無安打比賽中閃耀"/>
-<OBJ id="15143" text="[%personname L] 鋒利，擊退 [%team#2name]"/>
-<OBJ id="15144" text="[%personname L] 在 [%game score] 的無安打比賽中主導 [%team#2nickname]"/>
-<OBJ id="15147" text="[%personname L] 輕鬆獲得無安打勝利"/>
-<OBJ id="15148" text="[%personname L] 輕鬆投出無安打比賽"/>
+<OBJ id="63" text="[%personname L] 主宰 [%team#2name]"/>
+<OBJ id="64" text="[%team#2name] 無法匹敵 [%personname L]"/>
+<OBJ id="284" text="[%team#1nickname]、[%personname L] 完封 [%team#2name]，[%game score]"/>
+<OBJ id="285" text="在 [%personname l] 的帶領下，[%team#1name] 完封 [%team#2name]，[%game score]"/>
+<OBJ id="287" text="[%personname L] 完全壓制 [%team#2name]，[%game score]"/>
+<OBJ id="288" text="[%personname L] 讓 [%team#2name] 打者感到困惑"/>
+<OBJ id="290" text="[%personname L] 在 [%game score] 完封中表現出色"/>
+<OBJ id="291" text="[%personname L] 完封了 [%game score]"/>
+<OBJ id="292" text="[%team#2name] 被 [%personname L] 完封"/>
+<OBJ id="293" text="[%personname F L] 完封 [%team#2name]，[%game score]"/>
+<OBJ id="294" usage_chance_for_game="4" text="[%personname L] 在完封勝利中展現出「無人能敵」的表現"/>
+<OBJ id="295" text="[%team#1nickname]、[%personname L] 沉默了 [%team#2name]，[%game score]"/>
+<OBJ id="296" text="[%team#2name] 對 [%personname L] 連續失分"/>
+<OBJ id="297" text="狀態火熱的 [%personname L] 壓制了 [%team#2name]"/>
+<OBJ id="300" text="[%team#2nickname] 被 [%personname L] 完封，[%game score]"/>
+<OBJ id="301" text="[%team#2name] 的打擊被 [%personname L] 鎮壓"/>
+<OBJ id="302" text="[%team#2name] 被 [%personname L] 完全壓制，[%game score]"/>
+<OBJ id="304" text="[%team#1nickname] [%personname L] 壓制 [%team#2nickname]"/>
+<OBJ id="305" text="[%team#2name] 對 [%personname L] 感到無能為力"/>
+<OBJ id="307" text="[%personname L] 霸氣十足，完封 [%team#2name]，[%game score]"/>
+<OBJ id="308" text="[%personname L] 精彩表現，[%team#1nickname] 戰勝 [%team#2name]，[%game score]"/>
+<OBJ id="309" text="[%personname L] 表現出色，完封 [%team#2nickname]，[%game score]"/>
+<OBJ id="311" text="[%personname L] 讓 [%team#2name] 感到壓力，[%game score]"/>
+<OBJ id="312" text="[%team#1nickname] [%personname L] 主宰 [%team#2nickname]"/>
+<OBJ id="313" text="關鍵時刻：[%personname L] 完封 [%team#2nickname]"/>
+<OBJ id="316" text="[%team#2name] 在 [%game score] 的完封賽中被 [%personname L] 完全擊潰"/>
+<OBJ id="319" text="[%personname L] 完全壓制 [%team#2name]，[%game score]"/>
+<OBJ id="320" text="[%personname L] 施下魔咒於 [%team#2name]"/>
+<OBJ id="322" text="[%personname L] 讓 [%team#2name] 感到挫敗，[%game score]"/>
+<OBJ id="323" text="[%team#1nickname] [%personname L] 完封 [%team#2nickname]"/>
+<OBJ id="324" text="[%personname L] 完封 [%team#2name]，[%game score]"/>
+<OBJ id="327" text="[%personname L] 完全擊敗 [%team#2nickname]"/>
+<OBJ id="15091" text="[%team#1name] 完封 [%team#2name]，[%personname L] 獲勝"/>
+<OBJ id="15098" text="[%personname L] 壓制 [%team#2nickname]，[%game score]"/>
+<OBJ id="15103" text="[%team#1name] 完封 [%team#2name]，[%personname L] 獲勝"/>
+<OBJ id="15105" text="[%team#1nickname] 完封 [%team#2nickname]，[%personname L] 獲勝"/>
+<OBJ id="15106" text="[%personname L] 帶領 [%team#1name] 獲得完封勝利"/>
+<OBJ id="15107" text="[%personname L] 帶領 [%team#1name] 獲得完封勝利"/>
+<OBJ id="15108" text="[%personname L] 以 [%game score] 完封 [%team#1nickname] 獲勝"/>
+<OBJ id="15109" text="[%personname L] 帶領 [%team#1nickname] 獲得完封勝利"/>
+<OBJ id="15110" text="[%personname L] 為 [%team#1name] 投出 [%game score] 完封"/>
+<OBJ id="15111" text="[%personname L] 為 [%team#1name] 獲得完封勝利"/>
+<OBJ id="15112" text="[%personname L] 投出 [%team#1nickname] 的 [%game score] 獲勝"/>
+<OBJ id="15113" text="[%personname L] 投出 [%team#1nickname] 的完封勝利"/>
+<OBJ id="15114" text="[%personname L] 完封 [%team#2name]，[%game score]"/>
+<OBJ id="15115" text="[%personname L] 完封 [%team#2nickname]，[%game score]"/>
+<OBJ id="15116" text="[%personname L] 完封 [%team#2name]，[%game score]"/>
+<OBJ id="15117" text="[%personname L] 完封 [%team#2nickname]，[%game score]"/>
+<OBJ id="15119" text="[%personname L] 投出 [%game score] 完封，為 [%team#1nickname] 獲勝"/>
+<OBJ id="15120" text="[%personname L] 投出 [%game score] 完封，為 [%team#1name] 獲勝"/>
+<OBJ id="15121" text="[%personname L] 帶領 [%team#1nickname] 獲得完封勝利"/>
+<OBJ id="15122" text="[%personname L] 完封 [%team#2name]"/>
+<OBJ id="15123" text="[%personname L] 完封 [%team#2nickname]"/>
+<OBJ id="15124" text="[%personname L] 完封 [%team#2name]"/>
+<OBJ id="15125" text="[%personname L] 完封 [%team#2nickname]"/>
+<OBJ id="15126" text="[%personname L] 投出 [%game score] 完封對 [%team#2name]"/>
+<OBJ id="15127" text="[%personname L] 完封 [%team#2nickname]"/>
+<OBJ id="15128" text="[%personname L] 記錄 [%game score] 完封對 [%team#2name]"/>
+<OBJ id="15129" text="[%personname L] 記錄完封對 [%team#2nickname]"/>
+<OBJ id="15130" text="[%personname L] 使 [%team#2name] 無法得分"/>
+<OBJ id="15131" text="[%personname L] 使 [%team#2nickname] 無法得分"/>
+<OBJ id="15132" text="[%personname L] 為 [%team#1name] 投出 [%game score] 完封"/>
+<OBJ id="15133" text="[%personname L] 在 [%team#1nickname] 獲勝中投出完封"/>
+<OBJ id="15134" text="[%personname L] 在 [%team#1name] 獲勝中投出完封"/>
+<OBJ id="15135" text="[%personname L] 在 [%team#1nickname] 獲勝中投出完封"/>
+<OBJ id="15136" text="[%team#1nickname] 贏得比賽，[%game score]，[%personname L] 使 [%team#2name] 感到困惑"/>
+<OBJ id="15137" text="[%personname L] 使 [%team#2nickname] 感到困惑，[%game score]"/>
+<OBJ id="15139" text="[%personname L] 在 [%game score] [%team#1name] 獲勝中使 [%team#2name] 感到困惑"/>
+<OBJ id="15140" text="[%personname L] 使 [%team#2name] 感到無法應對"/>
+<OBJ id="15141" text="[%personname L] 在 [%game score] 中表現出色"/>
+<OBJ id="15142" text="[%personname L] 在 [%game score] 的完封中閃耀"/>
+<OBJ id="15143" text="[%personname L] 鋒利無比，完封 [%team#2name]"/>
+<OBJ id="15144" text="[%personname L] 在 [%game score] 完封 [%team#2nickname]"/>
+<OBJ id="15147" text="[%personname L] 輕鬆獲得完封勝利"/>
+<OBJ id="15148" text="[%personname L] 輕鬆完封"/>
 <OBJ id="15150" text="[%personname L] 控制 [%team#2nickname]，[%game score]"/>
-<OBJ id="15151" text="[%personname L] 在最佳狀態下，讓 [%team#2name] 無法得分"/>
-<OBJ id="15152" text="[%personname L] 讓 [%team#2nickname] 無法得分"/>
-<OBJ id="15154" text="[%personname L] 燃燒，[%team#2name] 無法得分"/>
-<OBJ id="15156" usage_chance_for_game="2" text="[%personname L] 在 [%game score] 的勝利中玩弄 [%team#2name]"/>
-<OBJ id="15157" text="[%personname L] 停住 [%team#2name]"/>
-<OBJ id="15161" text="[%personname L] 狀態良好，擊敗 [%team#2name]，[%game score]"/>
-<OBJ id="15162" text="[%personname L] 太強大，讓 [%team#2name] 無法得分"/>
-<OBJ id="15163" text="[%team#1name] 擊退 [%team#2nickname]，[%personname L] 獲勝"/>
-<OBJ id="15164" text="[%team#1nickname] 擊退 [%team#2nickname]，[%personname L] 獲勝"/>
-<OBJ id="15165" text="[%team#1nickname] 擊退 [%team#2name]，[%personname L] 獲勝"/>
-<OBJ id="15166" text="[%team#1name] 擊退 [%team#2nickname]，[%personname L] 獲勝"/>
-<OBJ id="15167" text="[%team#1nickname] 擊退 [%team#2name]，[%personname L] 獲勝"/>
-<OBJ id="15222" text="[%personname L] 在 [%game score] 的無安打比賽中閃耀 [%team#2name]"/>
-<OBJ id="15223" text="[%personname L] 在 [%team#2name] 的比賽中表現卓越"/>
-<OBJ id="15226" text="[%personname L] 在 [%game score] 的勝利中壯觀"/>
-<OBJ id="15227" text="[%personname L] 在擊敗 [%team#2name] 的比賽中表現出色"/>
+<OBJ id="15151" text="[%personname L] 以最佳狀態壓制 [%team#2name]"/>
+<OBJ id="15152" text="[%personname L] 使 [%team#2nickname] 無法得分"/>
+<OBJ id="15154" text="[%personname L] 表現火熱，[%team#2name] 感到沮喪"/>
+<OBJ id="15156" usage_chance_for_game="2" text="[%personname L] 玩弄 [%team#2name]，以 [%game score] 贏得比賽"/>
+<OBJ id="15157" text="[%personname L] 阻止了 [%team#2name]"/>
+<OBJ id="15161" text="[%personname L] 狀態極佳，以 [%game score] 打敗 [%team#2name]"/>
+<OBJ id="15162" text="[%personname L] 太強了，讓 [%team#2name] 完封"/>
+<OBJ id="15163" text="[%team#1name] 完封 [%team#2nickname]，[%personname L] 獲勝"/>
+<OBJ id="15164" text="[%team#1nickname] 完封 [%team#2nickname]，[%personname L] 獲勝"/>
+<OBJ id="15165" text="[%team#1nickname] 完封 [%team#2name]，[%personname L] 獲勝"/>
+<OBJ id="15166" text="[%team#1name] 完封 [%team#2nickname]，[%personname L] 獲勝"/>
+<OBJ id="15167" text="[%team#1nickname] 完封 [%team#2nickname]，[%personname L] 獲勝"/>
+<OBJ id="15168" text="[%team#1nickname] 完封 [%team#2name]，[%personname L] 獲勝"/>
+<OBJ id="15222" text="[%personname L] 在 [%game score] 完封 [%team#2name] 中閃耀"/>
+<OBJ id="15223" text="[%personname L] 在 [%team#2name] 前表現優異"/>
+<OBJ id="15226" text="[%personname L] 在 [%game score] [%team#1name] 勝利中表現出色"/>
+<OBJ id="15227" text="[%personname L] 在打敗 [%team#2name] 中展示實力"/>
 <OBJ id="15228" text="[%personname L] 擊敗 [%team#2name]，[%game score]"/>
-<OBJ id="15229" text="[%personname L] 投出 [%game score] 的佳作"/>
-<OBJ id="15230" text="鋒利的 [%personname L] 擊退 [%team#2name]"/>
-<OBJ id="15231" text="[%personname L] 令 [%team#2name] 無法得分"/>
-<OBJ id="15232" text="[%personname L] 讓 [%team#2name] 失去機會"/>
-<OBJ id="15234" text="[%personname L] 在 [%team#1name] 的無安打比賽中脫穎而出"/>
-<OBJ id="15235" text="[%personname L] 燦爛，讓 [%team#2name] 無法得分，[%game score]"/>
-<OBJ id="15236" text="[%team#1name] 擊退 [%team#2nickname]，[%personname L] 在最佳狀態下"/>
-<OBJ id="15239" text="[%personname L]，[%team#1nickname] 擊退 [%team#2nickname]，[%game score]"/>
-<OBJ id="15241" text="[%team#1nickname] 讓 [%team#2name] 無法得分"/>
-<OBJ id="15242" text="[%personname L] 在 [%team#2nickname] 的比賽中優秀表現"/>
-<OBJ id="15243" text="[%personname L] 鮮明，讓 [%team#2nickname] 無法得分"/>
-<OBJ id="15244" text="[%personname L] 主導，讓 [%team#2nickname] 無法得分"/>
-<OBJ id="15374" text="[%personname L] 擊退 [%team#2name]，[%game score]"/>
-<OBJ id="15375" text="[%personname L] 擊退 [%team#2nickname]，[%game score]"/>
-<OBJ id="15376" text="[%personname L] 擊退 [%team#2name]，[%game score]"/>
-<OBJ id="15377" text="[%personname L] 擊退 [%team#2nickname]，[%game score]"/>
-<OBJ id="15378" text="[%personname L] 擊退 [%team#2name]，[%game score]"/>
-<OBJ id="15379" text="[%personname L] 擊退 [%team#2nickname]，[%game score]"/>
-<OBJ id="19225" text="[%personname l] 讓 [%team#2nickname] 感到困惑，在 [%game score] 的比賽中獲勝"/>
-<OBJ id="19230" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="19231" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="19232" text="[%team#1nickname] 投手 [%personname l] 投出佳作"/>
-<OBJ id="19233" text="[%team#2name] 面對 [%personname l] 無能為力，最終以 [%game score] 輸掉比賽"/>
-<OBJ id="19234" text="[%team#2name] 面對 [%personname l] 感到絕望"/>
-<OBJ id="19247" text="[%team#2name] 被 [%personname l] 擊潰"/>
-<OBJ id="19248" text="[%team#2nickname] 被 [%personname l] 擊潰，[%game score]"/>
-<OBJ id="19249" usage_chance_for_game="3" text="[%personname l] 擊潰 [%team#2name]，[%game score]"/>
-<OBJ id="19250" text="[%personname l] 狀態火熱，[%team#2nickname] 狀態冰冷"/>
-<OBJ id="19741" text="[%personname l] 擊敗 [%team#2name]"/>
-<OBJ id="19742" text="[%personname l] 擊敗 [%team#2nickname]"/>
-<OBJ id="19743" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="19744" text="[%personname l] 投出無安打比賽"/>
-<OBJ id="19745" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="19746" text="[%personname l] 獲得 [%game score] 的無安打比賽"/>
-<OBJ id="19748" text="[%personname l] 擊退 [%team#2nickname]"/>
-<OBJ id="19749" text="[%team#2name] 被 [%personname l] 擊潰"/>
-<OBJ id="19750" text="[%team#2nickname] 被 [%personname l] 擊潰"/>
-<OBJ id="19751" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="19752" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="42438" text="[%personname L] 讓 [%team#2name] 的打者陷入僵局"/>
-<OBJ id="55054" text="[%team#1name] 擊潰 [%team#2name]，[%game score]"/>
-<OBJ id="55055" text="[%team#1name] 擊退 [%team#2name]，[%game score]"/>
-<OBJ id="55056" text="[%team#1name] 擊退 [%team#2name]，[%game score]"/>
-<OBJ id="56536" text="[%personname L] 令 [%team#2name] 感到著迷"/>
-<OBJ id="56879" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="56880" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="56881" text="[%personname l] 在對 [%team#2name] 的比賽中投出 [%game score] 的無安打比賽"/>
-<OBJ id="56882" text="[%personname l] 創造 [%game score] 的無安打比賽"/>
-<OBJ id="56957" usage_chance_for_game="8" text="[%team#2name] 被 [%personname L] 擊潰，[%game score]"/>
-<OBJ id="56958" text="[%personname L] 擊潰 [%team#2nickname]"/>
-<OBJ id="56998" text="[%personname L] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="56999" text="[%personname l] 擊敗 [%team#2name]，[%game score]"/>
-<OBJ id="57000" text="[%personname L] 在 [%game score] 的無安打比賽中展現出色表現"/>
-<OBJ id="57001" text="[%personname l] 擊退 [%team#2name]，[%game score]"/>
-<OBJ id="57002" text="[%team#2nickname] 在對 [%personname l] 的比賽中未能得分"/>
+<OBJ id="15229" text="[%personname L] 投出 [%game score] 的精彩表現"/>
+<OBJ id="15230" text="銳利的 [%personname L] 完封 [%team#2name] "/>
+<OBJ id="15231" text="[%personname L] 約束了 [%team#2name]"/>
+<OBJ id="15232" text="[%personname L] 讓 [%team#2name] 結果為零"/>
+<OBJ id="15234" text="[%personname L] 在 [%team#1name] 完封中表現突出"/>
+<OBJ id="15235" text="[%personname L] 表現出色，完封 [%team#2name]，[%game score]"/>
+<OBJ id="15236" text="[%team#1name] 完封 [%team#2nickname]，[%personname L] 狀態極佳"/>
+<OBJ id="15239" text="[%personname L]，[%team#1nickname] 完封 [%team#2nickname]，[%game score]"/>
+<OBJ id="15241" text="[%team#1nickname] [%personname L] 鎮壓 [%team#2name]"/>
+<OBJ id="15242" text="[%personname L] 在打敗 [%team#2nickname] 中表現最佳"/>
+<OBJ id="15243" text="[%personname L] 出色，完封 [%team#2nickname]"/>
+<OBJ id="15244" text="[%personname L] 優勢，完封 [%team#2nickname]"/>
+<OBJ id="15374" text="[%personname L] 完封 [%team#2name]，[%game score]"/>
+<OBJ id="15375" text="[%personname L] 完封 [%team#2nickname]，[%game score]"/>
+<OBJ id="15376" text="[%personname L] 完封 [%team#2nickname]"/>
+<OBJ id="15377" text="[%personname L] 讓 [%team#2name] 得分為零"/>
+<OBJ id="15378" text="[%personname L] 讓 [%team#2nickname] 得分為零"/>
+<OBJ id="15379" text="[%personname L] 完封 [%team#2name]"/>
+<OBJ id="19225" text="[%personname l] 讓 [%team#2nickname] 感到困惑，以 [%game score] 完封"/>
+<OBJ id="19230" text="[%personname l] 投出 [%game score] 的完封"/>
+<OBJ id="19231" text="[%personname l] 投出 [%game score] 的完封"/>
+<OBJ id="19232" text="[%team#1nickname] 投手 [%personname l] 投出傑作"/>
+<OBJ id="19233" text="[%team#2name] 面對 [%personname l] 無能為力，以 [%game score] 輸掉"/>
+<OBJ id="19234" text="[%team#2name] 對 [%personname l] 感到絕望"/>
+<OBJ id="19247" text="[%team#2name] 被 [%personname l] 完封"/>
+<OBJ id="19248" text="[%team#2nickname] 被 [%personname l] 完封，以 [%game score]"/>
+<OBJ id="19249" usage_chance_for_game="3" text="[%personname l] 撲倒 [%team#2name]，以 [%game score] 獲勝"/>
+<OBJ id="19250" text="[%personname l] 狀態火熱，[%team#2nickname] 凍結"/>
+<OBJ id="19741" text="[%personname l] 完封 [%team#2name]"/>
+<OBJ id="19742" text="[%personname l] 完封 [%team#2nickname]"/>
+<OBJ id="19743" text="[%personname l] 投出 [%game score] 的完封"/>
+<OBJ id="19744" text="[%personname l] 投出完封"/>
+<OBJ id="19745" text="[%personname l] 投出 [%game score] 的完封"/>
+<OBJ id="19746" text="[%personname l] 獲得 [%game score] 的完封"/>
+<OBJ id="19748" text="[%personname l] 完封 [%team#2nickname]"/>
+<OBJ id="19749" text="[%team#2name] 被 [%personname l] 完封"/>
+<OBJ id="19750" text="[%team#2nickname] 被 [%personname l] 完封"/>
+<OBJ id="19751" text="[%personname l] 投出 [%game score] 的完封"/>
+<OBJ id="19752" text="[%personname l] 投出 [%game score] 的完封"/>
+<OBJ id="42438" text="[%personname L] 讓 [%team#2name] 的擊球手進入深度凍結"/>
+<OBJ id="55054" text="[%team#1name] 完封 [%team#2name]，以 [%game score] 獲勝"/>
+<OBJ id="55055" text="[%team#1name] 完封 [%team#2name]，以 [%game score] 獲勝"/>
+<OBJ id="55056" text="[%team#1name] 完封 [%team#2name]，以 [%game score] 獲勝"/>
+<OBJ id="56536" text="[%personname L] 迷惑了 [%team#2name]"/>
+<OBJ id="56879" text="[%personname l] 投出 [%game score] 的完封"/>
+<OBJ id="56880" text="[%personname l] 投出 [%game score] 的完封"/>
+<OBJ id="56881" text="[%personname l] 投出 [%game score] 的完封，對抗 [%team#2name]"/>
+<OBJ id="56882" text="[%personname l] 打造 [%game score] 的完封"/>
+<OBJ id="56957" usage_chance_for_game="8" text="[%team#2name] 被 [%personname L] 完封，[%game score]"/>
+<OBJ id="56958" text="[%personname L] 完封 [%team#2nickname]"/>
+<OBJ id="56998" text="[%personname L] 投出 [%game score] 的完封"/>
+<OBJ id="56999" text="[%personname l] 完封 [%team#2name]，以 [%game score] 獲勝"/>
+<OBJ id="57000" text="[%personname L] 在 [%game score] 的完封中展現魔力"/>
+<OBJ id="57001" text="[%personname l] 完封 [%team#2name]，以 [%game score] 獲勝"/>
+<OBJ id="57002" text="[%team#2nickname] 在 [%game score] 的比賽中對 [%personname l] 一無所獲"/>
 <OBJ id="57028" usage_chance_for_game="1" text="[%team#1nickname] 獲得一分來贏得比賽">
 <COND id="214" value="1"/>
 </OBJ>
@@ -2636,18 +2639,18 @@
 <OBJ id="57038" usage_chance_for_game="4" text="[%team#1nickname] 在對 [%team#2nickname] 的比賽中毫無抵抗之力，以 [%game score] 輸掉">
 <COND id="213" value="9"/>
 </OBJ>
-<OBJ id="57060" text="[%personname l] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="57061" text="[%personname l] 對 [%team#2nickname] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="57062" text="[%team#1name] 在 [%personname L] 的帶領下以 [%game score] 擊敗 [%team#2name]"/>
-<OBJ id="57063" text="[%team#2name] 被 [%team#1nickname] 擊敗，最終比分 [%game score]，[%personname L] 投出無安打比賽"/>
-<OBJ id="57064" text="[%team#2name] 輸給 [%team#1nickname]，最終比分 [%game score]，[%personname L] 投出無安打比賽"/>
-<OBJ id="57065" usage_chance_for_game="6" text="[%team#2name] 在對 [%team#1nickname] 的比賽中以 [%game score] 輸掉，毫無抵抗力">
+<OBJ id="57060" text="[%personname l] 投出 [%game score] 的完封"/>
+<OBJ id="57061" text="[%personname l] 對 [%team#2nickname] 投出 [%game score] 的完封"/>
+<OBJ id="57062" text="[%team#1name] 在 [%personname L] 的帶領下完封 [%team#2name]，以 [%game score] 獲勝"/>
+<OBJ id="57063" text="[%team#2name] 被 [%team#1nickname] 完封，[%game score]"/>
+<OBJ id="57064" text="[%team#2name] 以 [%game score] 輸給 [%team#1nickname] 和 [%personname L]"/>
+<OBJ id="57065" usage_chance_for_game="6" text="[%team#2name] 在對 [%team#1nickname] 的比賽中毫無威脅，以 [%game score] 輸掉">
 <COND id="213" value="8"/>
 </OBJ>
-<OBJ id="57067" text="[%team#1name] 擊敗 [%team#2name]，[%personname L] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="57068" text="[%team#1name] 擊敗 [%team#2name]，[%personname L] 投出 [%game score] 的無安打比賽"/>
-<OBJ id="57069" text="[%team#1name] 擊敗 [%team#2name]，最終比分 [%game score]"/>
-<OBJ id="57070" text="[%personname L] 帶領 [%team#1name] 以 [%game score] 擊敗 [%team#2name]"/>
+<OBJ id="57067" text="[%team#1name] 擊敗 [%team#2name]，[%personname L] 投出 [%game score] 的完封"/>
+<OBJ id="57068" text="[%team#1name] 击败 [%team#2name]，[%personname L] 投出 [%game score] 的完封"/>
+<OBJ id="57069" text="[%team#1name] 完封 [%team#2name]，[%game score]"/>
+<OBJ id="57070" text="[%personname L] 帶領 [%team#1name] 以 [%game score] 獲勝，擊敗 [%team#2name]"/>
 <OBJ id="57095" usage_chance_for_game="4" text="[%team#1nickname] 無情地 [%game score] 轟擊了 [%team#2nickname]">
 <COND id="213" value="9" />
 </OBJ>
@@ -2667,11 +2670,11 @@
 <OBJ id="57100" usage_chance_for_game="4" text="[%team#2nickname] 以下巴帶領，最終 KO 落敗，比分 [%game score]">
 <COND id="213" value="9" />
 </OBJ>
-<OBJ id="57107" usage_chance_for_game="1" text="[%personname L] 電到爆表！[%team#1name] [%game score] 勝利">
-<COND id="187" value="10" />
+<OBJ id="57107" usage_chance_for_game="1" text="[%personname L] 在 [%game score] 的 [%team#1name] 獲勝中表現出色">
+<COND id="187" value="10"/>
 </OBJ>
-<OBJ id="57110" usage_chance_for_game="1" text="[%team#1name] 左投手投出 [%game score] 無失分比賽">
-<COND id="75" value="1" />
+<OBJ id="57110" usage_chance_for_game="1" text="[%team#1name] 的左投手投出 [%game score] 完封">
+<COND id="75" value="1"/>
 </OBJ>
 <OBJ id="57128" usage_chance_for_game="4" text="[%personname L] 於 [%game score] 的比賽中以[%team#2name] 為對手白手套拍。">
 <COND id="187" value="8" />
@@ -2685,11 +2688,11 @@
 <OBJ id="57185" usage_chance_for_game="1" text="[%team#2nickname] 被 [%personname l] 投手, [%team#1nickname], [%game score] 打爆了。">
 <COND id="187" value="10" />
 </OBJ>
-<OBJ id="57192" usage_chance_for_game="2" text="[%personname L] 獨拿 [%game score] 的完全比賽榮耀" />
-<OBJ id="57193" usage_chance_for_game="2" text="[%personname L] 獨挑大樑擋住[%team#2name]，[%team#1nickname]大勝，[%game score]" />
-<OBJ id="57194" usage_chance_for_game="2" text="[%team#2name] 無緣得分，[%team#1nickname] 的投手[%personname L] 堅守完全比賽。" />
-<OBJ id="57202" usage_chance_for_game="1" only_once_per_x2="1" text="[%team#1nickname]，[%personname L] Stonewall，[%team#2name]，[%game score]">
-<COND id="213" value="4" />
+<OBJ id="57192" usage_chance_for_game="2" text="[%personname L] 在 [%game score] 的完封中搶下焦點"/>
+<OBJ id="57193" usage_chance_for_game="2" text="[%personname L] 完全遏制 [%team#2name]，[%team#1nickname] 獲勝，[%game score]"/>
+<OBJ id="57194" usage_chance_for_game="2" text="[%team#2name] 對 [%personname L] 無法得分，[%team#1nickname] 獲勝"/>
+<OBJ id="57202" usage_chance_for_game="1" only_once_per_x2="1" text="[%team#1nickname] 和 [%personname L] 堅如磐石，完封 [%team#2name]，[%game score]">
+<COND id="213" value="4"/>
 </OBJ>
 <OBJ id="57203" text="[%personname L] 阻止了[%team#2name]，[%game score]" />
 <OBJ id="57211" usage_chance_for_game="4" text="[%personname L] 精采表現 帶領球隊獲得[%game score]勝利」">
@@ -2893,7 +2896,7 @@
 <COND id="62" value="0" />
 </OBJ>
 <OBJ id="17563">
-<TXT>在[%ballpark]球場上，三支全壘打通常等於一場勝利，但今天並非如此。[%team#2link nickname]球隊敵運加身，以[%game score]擊敗了[%personlink]和[%team#1link nickname]球隊。(nl)(nl)擁有火熱打擊手[%personname l]在投手板上過上了歷史性的一天，打了三支全壘打，[batting h word]達到[batting ab word]，[batting rbi]分打點以及[batting r]得分，但還是沒有勝利。(nl)(nl)他說：“這場比賽對我很特別，這是我的個人成就。作為一個團隊，我們今天表現不佳，但三支全壘打讓情況好了一些。”(nl)(nl)[%string#1]</TXT>
+<TXT>在[%ballpark]球場上，三支全壘打通常等於一場勝利，但今天並非如此。[%team#2link nickname]球隊敵運加身，以[%game score]擊敗了[%personlink]和[%team#1link nickname]球隊。(nl)(nl)擁有火熱打擊手[%personname l]在投手板上過上了歷史性的一天，打了三支全壘打，[batting h word]達到[%batting ab word]，[batting rbi]分打點以及[batting r]得分，但還是沒有勝利。(nl)(nl)他說：“這場比賽對我很特別，這是我的個人成就。作為一個團隊，我們今天表現不佳，但三支全壘打讓情況好了一些。”(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="0" />
 </OBJ>
 <OBJ id="17564">
@@ -3642,7 +3645,7 @@
 <COND id="7" value="33" />
 </OBJ>
 <OBJ id="9526">
-<TXT>[%personlink] 上週打擊打得相當漂亮，今天他更以卓越表現獲得了[%subleaguename] 週球員殊榮。(nl)(nl)[%teamlink] 的[%playerposition] 在打擊上猛攻對手投手，打出了[%batting h word] 全壘打，[batting ab word] 打數的亮眼表現。他有著[%batting avg]的超高打擊率，並送回了[%batting rbi]分，自己也得了[%batting r]分。</TXT>
+<TXT>[%personlink] 上週打擊打得相當漂亮，今天他更以卓越表現獲得了[%subleaguename] 週球員殊榮。(nl)(nl)[%teamlink] 的[%playerposition] 在打擊上猛攻對手投手，打出了[%batting h word] 全壘打，[%batting ab word] 打數的亮眼表現。他有著[%batting avg]的超高打擊率，並送回了[%batting rbi]分，自己也得了[%batting r]分。</TXT>
 </OBJ>
 <OBJ id="17014">
 <TXT>這是 [%teamlink] [%playerposition] [%personlink] 美妙的一周，今天更加突出的是，他宣布獲得了 [%subleaguename] 週最佳球員獎。(nl)(nl) 上週，[%personlink L] 以驚人的 [%batting avg] 的速率猛打，總計[%batting ab] 揮棒命中 [%batting h] 支，並擊出 [%batting hr word] 分，[%batting rbi] 分打點，[%batting r word] 分得分。</TXT>
@@ -93182,7 +93185,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="16" value="5" />
 </OBJ>
 <OBJ id="25518">
-<TXT>[%team#1nickname][%playerposition] [%personlink][%injuryevent]在對戰[%team#2link][nickname]的比賽中受傷，因此必須休息[%injurytime]進行治療。消息今日於[%team#1link]發佈。[%personlink l]的傷勢為[%injurydescription]。</TXT>
+<TXT>今天在 [%team#1link] 宣布，[%team#1nickname] 的 [%playerposition] [%personlink] 將因為在最近對陣 [%team#2link nickname] 的比賽中遭受的 [%injurydescription] 而需要休養 [%injurytime]。[%personlink l] 是在 [%injuryevent] 受傷的。</TXT>
 </OBJ>
 </CAT>
 
@@ -94190,7 +94193,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <TXT>這個賽季，不少[%leaguename]的投手看到[%personlink]上場打擊都覺得頭痛。這是因為[%personage]歲的[%teamlink nick]球隊明星贏得了[%batting avg]的打擊率。(nl)(nl)"這個成就還沒有完全沉淀下來。"[%personhometown]的這位選手說道："我知道這是一件不容易完成的事情，等我有時間反思一下，我想我會為自己而感到驕傲的。"(nl)(nl)除了高打擊率，[%personname L]亮眼的賽季還包括[%batting h word]支安打，[%batting d word]支二壘安打，[%batting t word]支三壘安打，[%batting hr word]支全壘打，[%batting rbi]個打點和[%batting r word]次得分。</TXT>
 </OBJ>
 <OBJ id="38139">
-<TXT>在一個球季中擊出[%batting avg]的成績，[%teamlink nick]的[%personlink]坦承運氣也很重要。(nl)(nl)他說：「很多球掉在場內，我有很多線球也能轉化為安打，而我的挪威森林神隱了也會掉在場內。要達到那樣的成績，需要一些好運氣。」(nl)(nl)無論是運氣好壞，[%personname L]今年無疑是表現出色。他擊出總計[%batting h word]，包括[%batting d word]、[%batting t word]、[%batting hr word]和[%batting rbi] RBIs。他還得到[%batting r word]分。</TXT>
+<TXT>為了在一個賽季中打出 [%batting avg]，[%personlink] 來自 [%teamlink nick] 承認這其中涉及很多運氣。(nl)(nl)「許多球落地，很多次我的直球成為安打，還有我的小飛球也掉進去了，」他說。「要達到那個程度需要一些好運。」(nl)(nl)無論運氣如何，毫無疑問的是 [%personname L] 今年的表現非常出色。他總共打出了 [%batting h word]，包括 [%batting d word]、[%batting t word]、[%batting hr word] 和 [%batting rbi] 次打點。他還得到了 [%batting r word] 次得分。</TXT>
 </OBJ>
 <OBJ id="38140">
 <TXT>在大多數球員已經退役或是棒球事業走向暮年的年紀時，[%personlink] 打出了一個驚人的球季。(nl)(nl)在[%personage]歲的時候，[%teamlink nick]的[%playerposition]打擊率達到了非凡的[%batting avg]。(nl)(nl)"我不確定我還剩下多少個球季，所以能夠完成這樣的成就真的很棒。"這位出生於[%personhometown]的球員說。(nl)(nl)[%personname l]這一年度的成績包括了[%batting h word]、[%batting d word]、[%batting t word]、[%batting hr word]、[%batting rbi]支打點和[%batting r word]分的得分。</TXT>
@@ -95673,12 +95676,12 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="246" value="45" />
 </OBJ>
 <OBJ id="20974">
-<TXT>[%personlink] 從未間斷地繼續著。這位火熱的[%playerposition] 在 [%ballpark] 帶領著 [%team#1link nickname] 取得 [%game score] 的勝利，在 [%batting ab] 個打數中敲出 [%batting h] 支安打，並將他的連續安打紀錄延續至 [%string#1] 場比賽。(nl)(nl)"他現在絕對是一股勁!" [%team#2nickname] 經理 [%team#2 managerlink] 說道。"我認為我們對他投了幾球都不錯，但他是個好打者，他依然擊出安打。"(nl)(nl)當被問及他的表現時，[%personname l] 說如果能贏球，他並不介意沒有敲出安打。</TXT>
+<TXT>[%personlink] 來自 [%team#1link nickname] 的表現持續優異。這位熱打的 [%playerposition] 在他的球隊以 [%game score] 勝過 [%team#2link nickname] 的比賽中打出了 [%batting h]-打[%batting ab]，並將他的安打紀錄延續到 [%string#1] 場。(nl)(nl)「他現在確實狀態火熱，」[%team#2nickname] 的經理 [%team#2 managerlink] 說。「我覺得我們對他投了一些好球，但他是一位優秀的打者，依然能夠擊中球。」(nl)(nl)當被問及他的表現時，[%personname l] 表示他不介意「沒有安打，只要我們贏得比賽。」</TXT>
 <COND id="62" value="1" />
 <COND id="162" value="1" />
 </OBJ>
 <OBJ id="20975">
-<TXT>[%team#1link nickname]今天輸了[%game score]給[%team#2link nickname]，證明他們也只是凡人，但是[%personlink]還是像神一樣打得好。(nl)(nl)這位[%playerposition]在這場失利中擊出了[%batting h word]，[batting ab word]，並延續他的安打記錄到[%string#1]場。(nl)(nl)"[%personname l]現在打得非常好，燃燒著火熱的表現，"[%team#1nickname]經理[%team manager]說。"希望他的表現可以激發其他隊員，幫助我們取得勝利。"(nl)(nl)[%personname l]似乎對這場比賽不太滿意，在更衣室被記者追問時只說了："唯有失敗"。</TXT>
+<TXT>[%team#1link nickname]今天輸了[%game score]給[%team#2link nickname]，證明他們也只是凡人，但是[%personlink]還是像神一樣打得好。(nl)(nl)這位[%playerposition]在這場失利中擊出了[%batting h word]，[%batting ab word]，並延續他的安打記錄到[%string#1]場。(nl)(nl)"[%personname l]現在打得非常好，燃燒著火熱的表現，"[%team#1nickname]經理[%team manager]說。"希望他的表現可以激發其他隊員，幫助我們取得勝利。"(nl)(nl)[%personname l]似乎對這場比賽不太滿意，在更衣室被記者追問時只說了："唯有失敗"。</TXT>
 <COND id="62" value="0" />
 </OBJ>
 <OBJ id="21058">
@@ -95734,7 +95737,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="247" value="30" />
 </OBJ>
 <OBJ id="21933">
-<TXT>[%personlink] 在[%ballpark] 繼續他的連續表現，即使比賽並未朝他的方向發展。[%team#1link] 的[%playerposition]在今天的比賽中擊出[%batting h]安打-[%batting ab]打席，在過去的[%string#1]場比賽都安打得分。[%teamnickname] 運氣不佳，[%game score]輸給了[%team#2link nickname]。(nl)(nl)"[%personname l] 几乎擊中我們投出的每一球，" [%team#2name] 經理[%team#2 managerlink]說道。"他是一位堅強的對手。幸運的是，比賽的運作對我們有利，我們以勝利告終。</TXT>
+<TXT>[%personlink] 今天在 [%ballpark] 繼續他的安打紀錄，即使比賽並不如他所願。這位 [%team#1link] 的 [%playerposition] 在今天的比賽中打出了 [%batting h]-打[%batting ab]，現在已經在最近的 [%string#1] 場比賽中持續安打。[%teamnickname] 則不那麼幸運，以 [%game score] 輸給了 [%team#2link nickname]。(nl)(nl)「[%personname l] 對我們投的每一球都能擊中，」[%team#2name] 的經理 [%team#2 managerlink] 說。「他是個難纏的打者。幸運的是，今天比賽的結果對我們有利，我們贏得了勝利。」</TXT>
 <COND id="62" value="0" />
 </OBJ>
 <OBJ id="21934">
@@ -168590,7 +168593,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <TXT>[%leagueyear]的全壘打挑戰賽在[%ballpark]引起一陣歡呼喝彩的熱烈氣氛，選手們陸續把球桶打出遠遠的全壘打。比賽結束後，[%personlink]成爲了冠軍。[%team#1link]的[%playerposition]成功擊敗[%personlink#2]，最後以[%string#1]的得分拿下了冠軍。(nl)(nl)"我花盡全力才擊敗這些選手，" [%personname L]說。</TXT>
 </OBJ>
 <OBJ id="56308">
-<TXT>[%leagueyear] 全壘打比賽吸引了一群熱情澎湃的球迷，在 [%ballpark] 絕不無聊，因為多位頂尖強棒振臂高呼。比賽進行到最後，[%personlink] 壓倒性的擊球表現贏得了冠軍頭銜，他以 [%string#1] 的比分擊敗了[%personlink#2]。(nl)(nl)「我用盡全力才贏到這場比賽，真是累翻了。」[%personname L.] 如是說道。</TXT>
+<TXT>[%leagueyear] 全壘打挑戰賽在 [%ballpark] 吸引了熱情的觀眾，許多頂尖的重砲手們揮舞著球棒，力求擊出全壘打。比賽結束時，[%personlink]，[%team#1link nickname] 的 [%playerposition]，最終獲勝。他在最後一輪以 [%string#1] 的成績淘汰了 [%personlink#2]。(nl)(nl)「我需要每一分力量才能擊敗這些家伙，」[%personname L] 說道。「我已經累垮了。」</TXT>
 </OBJ>
 <OBJ id="56309">
 <TXT>[%leagueyear]全壘打挑戰賽在[%ballpark]上演了激烈的戲碼。最後冠軍榮耀頒給了[%team#1link nickname]的[%personlink]，他擊敗[%personlink#2]，在最後一輪比賽以[%string#1]的比分贏得了冠軍。(nl)(nl)「我聽說這會是很有趣的比賽」，[%personname L]說道，「的確如此。」</TXT>
