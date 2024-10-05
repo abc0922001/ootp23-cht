@@ -74414,7 +74414,7 @@
   <HCS i="9543">
    <EN>Saves Streak</EN>
    <DC />
-   <KR>救援成功連勝次數</KR>
+   <KR>連續救援</KR>
    <ES>Guarda la racha</ES>
    <JP>ストリークを保存</JP>
    <CN>节省连胜</CN>
@@ -74422,7 +74422,7 @@
   <HCS i="9544">
    <EN>Undefeated Streak</EN>
    <DC />
-   <KR>不敗記錄</KR>
+   <KR>連續不敗</KR>
    <ES>Racha invicta</ES>
    <JP>無敗のストリーク</JP>
    <CN>不败连胜</CN>
@@ -74430,7 +74430,7 @@
   <HCS i="9545">
    <EN>Hitting Streak</EN>
    <DC />
-   <KR>安打連續紀錄</KR>
+   <KR>連續安打</KR>
    <ES>Racha de golpes</ES>
    <JP>連続安打</JP>
    <CN>连胜</CN>
@@ -74438,7 +74438,7 @@
   <HCS i="9546">
    <EN>Scoring Streak</EN>
    <DC />
-   <KR>得分連勝</KR>
+   <KR>連續得分</KR>
    <ES>Racha de puntuación</ES>
    <JP>スコアリングストリーク</JP>
    <CN>连续得分</CN>
@@ -74446,7 +74446,7 @@
   <HCS i="9547">
    <EN>Home Run Streak</EN>
    <DC />
-   <KR>全壘打連續記錄</KR>
+   <KR>連續全壘打</KR>
    <ES>Racha de jonrones</ES>
    <JP>ホームランストリーク</JP>
    <CN>本垒打</CN>
@@ -74462,7 +74462,7 @@
   <HCS i="9549">
    <EN>Quality Start Streak</EN>
    <DC />
-   <KR>優質先發投手連勝紀錄</KR>
+   <KR>連續優質先發投手</KR>
    <ES>Racha de inicio de calidad</ES>
    <JP>クオリティスタートストリーク</JP>
    <CN>质量开始连续</CN>
@@ -74470,7 +74470,7 @@
   <HCS i="9550">
    <EN>Scoreless Streak</EN>
    <DC />
-   <KR>無得分紀錄</KR>
+   <KR>連續無得分</KR>
    <ES>Racha sin goles</ES>
    <JP>スコアレスストリーク</JP>
    <CN>连胜</CN>
@@ -74486,7 +74486,7 @@
   <HCS i="9552">
    <EN>Consecutive On-Base</EN>
    <DC />
-   <KR>連續安打上壘率</KR>
+   <KR>連續上壘</KR>
    <ES>En Base Consecutivo</ES>
    <JP>連続出塁</JP>
    <CN>连续上垒</CN>
@@ -142474,7 +142474,7 @@
   <HCS i="18233">
    <EN>Players Streak</EN>
    <DC />
-   <KR>球員連勝次數</KR>
+   <KR>連續出場</KR>
    <ES>Racha de jugadores</ES>
    <JP>プレイヤーストリーク</JP>
    <CN>球员连胜</CN>
