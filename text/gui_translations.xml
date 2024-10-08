@@ -60900,7 +60900,7 @@
   <HCS i="7840">
    <EN>View Movement</EN>
    <DC />
-   <KR>查看跑壘狀況</KR>
+   <KR>查看變化</KR>
    <ES>Ver movimiento</ES>
    <JP>動きを見る</JP>
    <CN>查看运动</CN>
@@ -60932,7 +60932,7 @@
   <HCS i="7844">
    <EN>Raw Movement</EN>
    <DC />
-   <KR>原生動作</KR>
+   <KR>原始變化</KR>
    <ES>Movimiento crudo</ES>
    <JP>生の動き</JP>
    <CN>原始运动</CN>
@@ -110928,7 +110928,7 @@
   <HCS i="14193">
    <EN>Decide which role(s) you wish to take on: Manager, General Manager, or both.  This choice affects which team actions are available to you or delegated to other staff members of your team. For example, if you play as GM only, you may not be able to set the lineups / pitching roles / on-field strategy, depending on the personality and reputation of your manager</EN>
    <DC />
-   <KR>請決定你想擔任的角色：總教練、總經理或兩者皆有。這個選擇會影響你可以執行哪些球隊行動，(nl)或者將其委託給其他球隊職員。(nl)例如，如果你只擔任總經理，可能無法設定陣容、投手角色或場上策略，這取決於你的經理個性和聲譽</KR>
+   <KR>決定您希望擔任的角色：經理、總經理，或兩者皆可。此選擇會影響您可執行的團隊行動或委託給您團隊中的其他成員。例如，如果您只擔任總經理，您可能無法根據經理的個性和聲譽來設定排陣、投手角色或場上策略。</KR>
    <ES>Decida qué rol(es) desea asumir: Gerente, Gerente General o ambos. Esta elección afecta qué acciones de equipo están disponibles para usted o delegadas a otros miembros del personal de su equipo. Por ejemplo, si juega solo como gerente general, es posible que no pueda establecer las alineaciones, los roles de lanzamiento o la estrategia en el campo, según la personalidad y la reputación de su entrenador.</ES>
    <JP>担当する役割を決定します：マネージャー、ゼネラルマネージャー、またはその両方。この選択は、どのチームアクションを使用できるか、またはチームの他のスタッフメンバーに委任するかに影響します。たとえば、GMとしてのみプレーする場合、マネージャーの性格や評判によっては、ラインナップ/ピッチングの役割/フィールド戦略を設定できない場合があります。</JP>
    <CN>决定您希望担任的角色：经理、总经理或两者兼而有之。此选择会影响您可以使用哪些团队操作或委派给您团队的其他工作人员。例如，如果您仅担任总经理，您可能无法设置阵容/投球角色/场上策略，具体取决于经理的个性和声誉</CN>
@@ -120113,7 +120113,7 @@
   <HCS i="15359">
    <EN>Hit Batsmen (based on 550 BF</EN>
    <DC />
-   <KR>被觸身球（基於550次打席</KR>
+   <KR>觸身球（根據550次打擊</KR>
    <ES>Hit Batsmen (basado en 550 BF</ES>
    <JP>ヒットバットマン（550BFに基づく）</JP>
    <CN>击球手（基于 550 BF</CN>
@@ -120225,7 +120225,7 @@
   <HCS i="15373">
    <EN>Getting HBP (based on 550 PA</EN>
    <DC />
-   <KR>) - 在550次打席中被投手打中 (HBP</KR>
+   <KR>被投球擊中（根據 550 次打席</KR>
    <ES>Obtener HBP (basado en 550 PA</ES>
    <JP>HBPの取得（550 PAに基づく）</JP>
    <CN>获得 HBP（基于 550 PA</CN>

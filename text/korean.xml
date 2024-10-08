@@ -4748,7 +4748,7 @@
 <OBJ id="15455" text="[%personname l] 選擇了[%subleagueabbr]最佳投手" />
 <OBJ id="15456" text="[%personname l] 抱走[%subleagueabbr]頭號投手獎盃" />
 <OBJ id="15457" text="[%personname l] 被選為[%month previous]最佳[%subleagueabbr]投手" />
-<OBJ id="15458" text="[%month previous]的[%subleagueabbr]优秀投手宣布" />
+<OBJ id="15458" text="[%subleagueabbr] 公布了 [%month previous] 的最佳投手。"/>
 <OBJ id="15459" text="[%personname l] 在[%month previous]被評為最佳[%subleagueabbr]投手" />
 <OBJ id="15460" text="[%month previous]最佳[%subleagueabbr]投手是[%personname l]" />
 <OBJ id="15462" text="[%teamname] 的[%personname l] [%subleagueabbr] 最佳投手" />
@@ -6433,7 +6433,7 @@
 <TXT>[%personlink] 在今天的BNN [%subleaguename] 月度新秀票選中勝出。(nl)(nl) 上個月[%teamlink] 首發投手累積了不錯的數據，贏得了這個獎項。他獲得[%pitching w]-[%pitching l]的勝負紀錄，[%pitching era]的防禦率和[%pitching k word]的三振數，在[%pitching ip]局中並且失了[%pitching bb word]保送。對手擊球率為[%pitching avg]。</TXT>
 </OBJ>
 <OBJ id="1656">
-<TXT>[%teamlink]的投手[%personlink]在壁炉上增添了一座不错的新奖杯。這位[%personage]岁的球员因為上個月的优良表现荣獲了[%subleaguename]新人王奖。(nl)(nl)在[%month previous]里，他共投了[%pitching ip]局比赛，出战[%pitching gs]场，在[%pitching k word]中完成了[%pitching w word]胜[%pitching l word]负，并且让對手打出了[%pitching avg]的打擊率。</TXT>
+<TXT>[%teamlink] 的投手 [%personlink] 在他的擺設架上多了一座漂亮的新獎盃。這位 [%personage] 歲的選手因為上個月交出一些優異的數據而獲得了 [%subleaguename] 本月最佳新秀獎。(nl)(nl)在 [%month previous]，他在 [%pitching gs] 場先發中投了 [%pitching ip] 局，拿下 [%pitching k word] 次三振，獲得 [%pitching w word] 勝和 [%pitching l word] 敗，並將對手的打擊率限制在 [%pitching avg]。</TXT>
 </OBJ>
 <OBJ id="1657">
 <TXT>今天[%personlink]在[%subleaguename]中被冠上去月份的新秀王。(nl)(nl)在[%pitching gs]場先發中，[%teamlink]的先發投手拋了[%pitching ip]局，三振了[%pitching k]人，保送了[%pitching bb]人。新秀打了[%pitching w word]勝[%pitching l word]敗，投出[%pitching era]的防禦率，而對手擊球率[%pitching avg]。</TXT>
@@ -9842,7 +9842,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <OBJ id="17657" text="這季[%personlink l]擊出[%batting avg]的打擊率，還有[%batting hr word]的全壘打，[%batting rbi]分打點，並且得分[%batting r]次。" />
 <OBJ id="17658" text="到現在為止，[%personlink l] 打擊率[%batting avg]，擊出[%batting hr word]，有[%batting rbi]打點，[%batting r]分得分。" />
 <OBJ id="17659" text="[%personlink l] 今年打擊率為 [%batting avg]，擊出 [%batting hr word]，有 [%batting rbi] 打點並且得了 [%batting r] 分。" />
-<OBJ id="17660" text="現在[%personlink l]的打擊率是[%batting avg]，擊出[%batting hr word]支[home run]、貢獻[%batting rbi]分打點，他已經出場[%batting g]次而且得分[%batting r]次。" />
+<OBJ id="17660" text="目前 [%personlink l] 的打擊率為 [%batting avg]，擊出 [%batting hr word] 支全壘打和 [%batting rbi] 次打點。他參加了 [%batting g] 場比賽，並且得分 [%batting r] 次。"/>
 <OBJ id="17661" text="這個球季至今為止，[%personlink l]擊出[%batting avg]的打擊率，還有[%batting hr word]支全壘打和[%batting rbi]分打點。" />
 <OBJ id="17662" text="本季至今為止，[%personlink l] 在打擊方面表現出色，擁有[%batting avg] 的打擊率，[%batting hr word] 的全壘打數，[%batting rbi] 的打點數，以及[%batting r] 次的得分。" />
 <OBJ id="17663" text="這個球季至今為止，[%personlink l] 擁有 [%batting avg] 的打擊率，打出[%batting hr word] 轟，並有 [%batting rbi] 個打點。" />
@@ -93630,7 +93630,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </OBJ>
 <OBJ id="24106" text="今天[%team#1link nickname]在體育新聞上掀起了一陣波瀾，同意與[%team#2link nickname]進行重大交易。[%team#1nickname]將在此交易中獲得[%string#2]，而[%team#2nickname]將會得到[%string#1]作為回報。" />
 <OBJ id="24107">
-<TXT>[%team#1link nickname]和[%team#2link nickname]因為一项大规模的交易成為了当今棒球圈的焦点。[%team#1nickname]将放弃[%string#1]来交换[%string#2]。(nl)(nl)"為了得到更优秀的人才，你有时必须拿出一些付出", [%team#1link]的GM[%team gmlink]向记者表示。“没有人会白白送出他們的人才。”</TXT>
+<TXT>今天，[%team#1link nickname] 和 [%team#2link nickname] 成為棒球界的焦點，因為發生了一筆巨大的交易。[%team#1nickname] 將放棄 [%string#1] 來換取 [%string#2]。(nl)(nl)「要得到人才，就必須放棄人才，」[%team#1link] 總經理 [%team gmlink] 對記者表示。「沒有人會隨便給你。」</TXT>
 </OBJ>
 <OBJ id="24108">
 <TXT>[%team#1link]同[%team#2link]今日在棒球模擬比賽中成為大新聞。在一次重大交易中，[%string#1]將被送到[%team#2nickname]，而[%team#1nickname]則將收到[%string#2]。(nl)(nl)"當機會之窗打開時，就必須好好把握。"[%team gmlink]指出。</TXT>
@@ -161006,10 +161006,10 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <OBJ id="52200" text="他可以成為一位堅實的防守球員球探。">
 <COND id="366" value="4" />
 </OBJ>
-<OBJ id="52201" text="他在防守方面被评為优秀的[%playerposition scout]。">
+<OBJ id="52201" text="他的防守評價為高於平均水平的 [%playerposition scout]。">
 <COND id="366" value="5" />
 </OBJ>
-<OBJ id="52202" text="作為一名[%playerposition 職位球探]，他的防守表現被評為優秀。">
+<OBJ id="52202" text="作為一名 [%playerposition scout]，他的防守評價為優秀。">
 <COND id="366" value="6" />
 </OBJ>
 <OBJ id="52203" text="他在打球位置的球探眼中被評為頂尖的守備員。">
@@ -162006,7 +162006,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="374" value="7" />
 <COND id="338" value="9" />
 </OBJ>
-<OBJ id="53265" text="他容易犯错误，削弱了他拥有的优秀投手臂和頂级跑动能力。">
+<OBJ id="53265" text="他在場上的失誤傾向影響了他優秀的臂力和一流的範圍。">
 <COND id="366" value="5" />
 <COND id="374" value="5" />
 <COND id="375" value="3" />
