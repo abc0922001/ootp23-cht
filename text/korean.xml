@@ -2872,7 +2872,7 @@
 <COND id="62" value="0" />
 </OBJ>
 <OBJ id="17557">
-<TXT>球員在一場比賽中擊出三支全壘打已經很罕見了，更罕見的是他在這樣的情況下輸掉比賽。(nl)(nl)今天在[%ballpark]，[%personlink]代表[%team#1link nickname]三次轟出全壘打，但仍被[%team#2link nickname]隊擊敗[%game score]。(nl)(nl)「今天我們很幸運能贏球。」[%team#2link managerlink]說：「你不能放那麼多全壘打，希望能贏得比賽。」(nl)(nl)在整場比賽中，[%team#1link]的[%playerposition]共打[%batting ab word]局，擊出[%batting h word]支安打，得[%batting r]分，打進[%batting rbi]分。(nl)(nl)[%personlink l]在賽後記者會上帶著複雜的情感對記者們說，他很傷心輸球，但很高興能打得這麼好。(nl)(nl)「我只是試著盡早而頻繁地揮棒，給自己一個機會。」他說：「我讓投手提供所有的力量，試圖找出如何擊打球。」(nl)(nl)[%string#1]</TXT>
+<TXT>當一位球員在一場比賽中擊出三支全壘打時，這是個罕見的事件；而當他做到這一點卻還是輸掉比賽，則更為罕見。(nl)(nl)今天在 [%ballpark] 發生了這樣的情況，[%team#1link nickname] 的 [%personlink] 對 [%team#2link nickname] 轟出了三支全壘打，但最終還是以 [%game score] 輸給了 [%team#2nickname]。(nl)(nl)&quot;今天能贏真是幸運，&quot; [%team#2link] 的教練 [%team#2 managerlink] 說。&quot;你不能讓對手擊出這麼多全壘打，卻期望能經常獲勝。&quot;(nl)(nl)在這場比賽中，[%team#1link] 的 [%playerposition] 擊出了 [%batting h word] 支安打，面對 [%batting ab word] 次打擊，得分 [%batting r] 次，並打回 [%batting rbi] 分。(nl)(nl)[%personlink l] 在賽後記者會中心情複雜地對媒體表示，他對輸球感到難過，但也為自己能看好球感到高興。(nl)(nl)&quot;我只是試著早點揮棒，給自己機會，&quot; 他說，&quot;我讓投手提供所有的力量，並試著找出如何將球棒擊中球。&quot;(nl)(nl)[%string#1]</TXT>
 <COND id="62" value="0" />
 </OBJ>
 <OBJ id="17558">
@@ -97695,84 +97695,84 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="651">
-<OBJ id="20907" text="[%personname l] 球迷，[%pitching] [%team#2nickname]">
-<COND id="62" value="1" />
+<OBJ id="20907" text="[%personname l] 三振 [%pitching k] [%team#2nickname]">
+<COND id="62" value="1"/>
 </OBJ>
-<OBJ id="20908" text="[%personname l] 火燒眉毛，三振了 [%pitching k] [%team#2nickname]">
-<COND id="62" value="1" />
+<OBJ id="20908" text="[%personname l] 狀態火熱，三振 [%pitching k] [%team#2nickname]">
+<COND id="62" value="1"/>
 </OBJ>
-<OBJ id="20909" text="[%personname l] 投了 [%pitching k] 個三振，擊敗了 [%team#2name]，[%game score]">
-<COND id="62" value="1" />
+<OBJ id="20909" text="[%pitching k] 次三振，[%personname l] 打敗 [%team#2name] [%game score]">
+<COND id="62" value="1"/>
 </OBJ>
-<OBJ id="20910" text="[%personname l] 空振 [%pitching], [%team#1name] 領先 [%team#2name]">
-<COND id="62" value="1" />
+<OBJ id="20910" text="[%personname l] 三振 [%pitching k]，[%team#1name] 戰勝 [%team#2name]">
+<COND id="62" value="1"/>
 </OBJ>
-<OBJ id="20911" text="[%personname l] 控制住 [%team#2nickname]，[%game score]，[%pitching k] 次三振.">
-<COND id="62" value="1" />
+<OBJ id="20911" text="[%personname l] 鎮壓 [%team#2nickname] [%game score]，三振 [%pitching k] 次">
+<COND id="62" value="1"/>
 </OBJ>
-<OBJ id="20912" text="[%personname l] 球迷 [%pitching k]，輸了 [%game score] 分">
-<COND id="62" value="0" />
+<OBJ id="20912" text="[%personname l] 三振 [%pitching k]，輸掉 [%game score]">
+<COND id="62" value="0"/>
 </OBJ>
-<OBJ id="20916" text="[%personname l] 太棒了，球迷們 [%pitching k]！">
-<COND id="62" value="1" />
+<OBJ id="20916" text="[%personname l] 表現出色，三振 [%pitching k] 次">
+<COND id="62" value="1"/>
 </OBJ>
-<OBJ id="20917" text="[%personname l] 很棒，[%pitching k] 投三振">
-<COND id="62" value="1" />
+<OBJ id="20917" text="[%personname l] 非凡，三振 [%pitching k] 次">
+<COND id="62" value="1"/>
 </OBJ>
-<OBJ id="20918" text="[%personname l] 擊倒 [%pitching k] [%team#2nickname]">
-<COND id="62" value="1" />
+<OBJ id="20918" text="[%personname l] 輕鬆擊倒 [%pitching k] [%team#2nickname]">
+<COND id="62" value="1"/>
 </OBJ>
-<OBJ id="20919" text="[%personname l]斷投好球，三振出局。">
-<COND id="62" value="1" />
+<OBJ id="20919" text="[%pitching k] 次三振，[%personname l] 的傑出表現">
+<COND id="62" value="1"/>
 </OBJ>
-<OBJ id="20920" text="[%personname l] 三振了[%pitching k]，但 [%game score] 遺憾落敗。">
-<COND id="62" value="0" />
+<OBJ id="20920" text="[%personname l] 三振 [%pitching k]，但輸掉 [%game score]">
+<COND id="62" value="0"/>
 </OBJ>
-<OBJ id="21233" text="[%personname l] 已投出 [%pitching k] 三振" />
-<OBJ id="21234" text="[%personname l] 球迷[%pitching]在失利中">
-<COND id="62" value="0" />
+<OBJ id="21233" text="[%personname l] 擁有 [%pitching k] 次三振"/>
+<OBJ id="21234" text="[%personname l] 在失利中三振 [%pitching k] 次">
+<COND id="62" value="0"/>
 </OBJ>
-<OBJ id="21235" text="[%team#1nickname] [%personname l] 三振出局 [%pitching k]">
-<COND id="62" value="1" />
+<OBJ id="21235" text="[%team#1nickname] [%personname l] 三振 [%pitching k] 次">
+<COND id="62" value="1"/>
 </OBJ>
-<OBJ id="21236" text="[%team#1nickname]的[%personname l]已經投了[%pitching k]個三振'">
-<COND id="62" value="1" />
+<OBJ id="21236" text="[%team#1nickname] [%personname l] 擁有 [%pitching k] 次三振">
+<COND id="62" value="1"/>
 </OBJ>
-<OBJ id="21237" text="[%team#1nickname] [%personname l] 三振出局 [%pitching k] [%team#2nickname]">
-<COND id="62" value="1" />
+<OBJ id="21237" text="[%team#1nickname] [%personname l] 三振 [%pitching k] [%team#2nickname]">
+<COND id="62" value="1"/>
 </OBJ>
-<OBJ id="21238" text="[%personname l] 輸球但投出 [%pitching k] 個三振">
-<COND id="62" value="0" />
+<OBJ id="21238" text="[%personname l] 在失利中擁有 [%pitching k] 次三振">
+<COND id="62" value="0"/>
 </OBJ>
-<OBJ id="21239" text="[%pitching k] 次三振不足，[%team#2name] 擊敗了 [%personname l]">
-<COND id="62" value="0" />
+<OBJ id="21239" text="[%pitching k] 次三振不夠，[%team#2name] 戰勝 [%personname l]">
+<COND id="62" value="0"/>
 </OBJ>
-<OBJ id="21240" text="[%personname l]K[%pitching]三振 官軍敗北">
-<COND id="62" value="0" />
+<OBJ id="21240" text="[%personname l] 在失利中三振 [%pitching k] 次">
+<COND id="62" value="0"/>
 </OBJ>
-<OBJ id="21241" text="[%team#1nickname] [%personname l] 球迷 [%pitching k] [%team#2nickname]">
-<COND id="62" value="1" />
+<OBJ id="21241" text="[%team#1nickname] [%personname l] 三振 [%pitching k] [%team#2nickname]">
+<COND id="62" value="1"/>
 </OBJ>
-<OBJ id="21242" text="[%personname l] 在輸給[%team#2name]的比賽中被[%pitching k]三振出局">
-<COND id="62" value="0" />
+<OBJ id="21242" text="[%personname l] 在對 [%team#2name] 的失利中三振 [%pitching k] 次">
+<COND id="62" value="0"/>
 </OBJ>
-<OBJ id="21243" text="儘管[%pitching k]三振，[%team#2name]還是打敗了[%team#1name]">
-<COND id="62" value="0" />
+<OBJ id="21243" text="儘管有 [%pitching k] 次三振，[%team#2name] 戰勝 [%team#1name]">
+<COND id="62" value="0"/>
 </OBJ>
-<OBJ id="21244" text="[%pitching k]-三振出局！[%team#1nickname] [%personname l] 獲得K王！">
-<COND id="62" value="1" />
+<OBJ id="21244" text="[%pitching k] 次三振的比賽，[%team#1nickname] [%personname l]">
+<COND id="62" value="1"/>
 </OBJ>
-<OBJ id="21245" text="[%personname l] 在比賽中投出了 [%pitching k] 個三振">
-<COND id="62" value="1" />
+<OBJ id="21245" text="[%personname l] 在失利中三振 [%pitching k] 次">
+<COND id="62" value="0"/>
 </OBJ>
-<OBJ id="21246" text="[%personname l] 砲轟 [%pitching k] [%team#2nickname]">
-<COND id="62" value="1" />
+<OBJ id="21246" text="[%personname l] 擊倒 [%pitching k] [%team#2nickname]">
+<COND id="62" value="1"/>
 </OBJ>
-<OBJ id="21247" text="[%personname l] 在落敗中被[%pitching]擊出">
-<COND id="62" value="0" />
+<OBJ id="21247" text="[%personname l] 在失利中三振 [%pitching k] 次">
+<COND id="62" value="0"/>
 </OBJ>
-<OBJ id="21248" text="[%team#1name] 擊敗 [%team#2name] [%game score]，[%personname l] 投出 [%pitching k] 三振。">
-<COND id="62" value="1" />
+<OBJ id="21248" text="[%team#1name] 以 [%game score] 戰勝 [%team#2name]，[%personname l] 擁有 [%pitching k] 次三振">
+<COND id="62" value="1"/>
 </OBJ>
 </CAT>
 
