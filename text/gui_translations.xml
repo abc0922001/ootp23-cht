@@ -2595,7 +2595,7 @@
   <HCS i="327">
    <EN>Favors offer</EN>
    <DC />
-   <KR>給您的優惠報價</KR>
+   <KR>偏好提供的報價</KR>
    <ES>Oferta de favores</ES>
    <JP>好意は提供します</JP>
    <CN>优惠报价</CN>
@@ -2819,7 +2819,7 @@
   <HCS i="356">
    <EN>Got Better Max Offer</EN>
    <DC />
-   <KR>得到更好的報價</KR>
+   <KR>獲得更好的最高報價</KR>
    <ES>Mejor oferta máxima</ES>
    <JP>より良いマックスオファーを手に入れました</JP>
    <CN>获得更好的最高报价</CN>
@@ -3179,7 +3179,7 @@
   <HCS i="401">
    <EN>Max 1 career Qualifying Offer</EN>
    <DC />
-   <KR>最多只有一次職業生涯的合格報價</KR>
+   <KR>職業生涯最多 1 次合格報價</KR>
    <ES>Oferta de calificación de carrera Max 1</ES>
    <JP>最大1つのキャリア予選オファー</JP>
    <CN>最多 1 个职业资格的报价</CN>
@@ -10043,7 +10043,7 @@
   <HCS i="1263">
    <EN>Withdrew Offer</EN>
    <DC />
-   <KR>撤回提議</KR>
+   <KR>撤回報價</KR>
    <ES>Oferta retirada</ES>
    <JP>オファーを撤回</JP>
    <CN>撤回要约</CN>
@@ -10387,7 +10387,7 @@
   <HCS i="1307">
    <EN>Has Better Offer</EN>
    <DC />
-   <KR>更好的报价</KR>
+   <KR>有更好的報價</KR>
    <ES>tiene mejor oferta</ES>
    <JP>より良いオファーがあります</JP>
    <CN>有更好的报价</CN>
@@ -22459,7 +22459,7 @@
   <HCS i="2836">
    <EN>ATTENTION! Add-ons are not officially endorsed or supported by OOTP Developments. Use at your own risk. All copyrights &amp; trademarks belong to their respective owners. Web links on this page could potentially lead to sites outside of OOTP Developments' control. OOTP Developments bears no responsibility for the content of these web sites and the add-ons they offer</EN>
    <DC />
-   <KR>注意！附加元件並非由OOTP Developments官方認可或支援。使用時需自行承擔風險。所有版權和商標屬於其各自所有人。本頁面上的網絡鏈接有可能導致超出OOTP Developments控制範圍的網站。OOTP Developments對這些網站及其提供的附加元件的內容不承擔任何責任</KR>
+   <KR>注意！附加功能未經 OOTP 開發團隊正式認可或支持，使用風險自負。所有版權及商標均屬於各自擁有者。此頁面上的網頁連結可能導致 OOTP 開發團隊無法控制的網站。OOTP 開發團隊對這些網站的內容及其提供的附加功能不承擔任何責任</KR>
    <ES>¡ATENCIÓN! Los complementos no están oficialmente respaldados ni respaldados por OOTP Developments. Úselo bajo su propio riesgo. Todos los derechos de autor y marcas registradas pertenecen a sus respectivos dueños. Los enlaces web en esta página podrían llevar potencialmente a sitios fuera del control de OOTP Developments. OOTP Developments no se responsabiliza por el contenido de estos sitios web y los complementos que ofrecen.</ES>
    <JP>注意！アドオンは、OOTPDevelopmentsによって公式に承認またはサポートされていません。自己責任。すべての著作権および商標は、それぞれの所有者に帰属します。このページのWebリンクは、OOTPDevelopmentsの管理外のサイトにつながる可能性があります。 OOTP Developmentsは、これらのWebサイトのコンテンツおよびそれらが提供するアドオンについて責任を負いません。</JP>
    <CN>注意力！ OOTP Developments 未正式认可或支持附加组件。使用风险自负。所有版权和商标均属于其各自所有者。此页面上的 Web 链接可能会导致 OOTP Developments 无法控制的站点。 OOTP Developments 对这些网站的内容及其提供的附加组件不承担任何责任</CN>
@@ -36572,7 +36572,7 @@
   <HCS i="4673">
    <EN>%d players have received a minor league contract extension offer</EN>
    <DC />
-   <KR>有 %d 名球員收到小聯盟續約邀請</KR>
+   <KR>%d 名球員已收到小聯盟合約延長報價</KR>
    <ES>%d jugadores han recibido una oferta de extensión de contrato de ligas menores</ES>
    <JP>％dプレーヤーがマイナーリーグ契約延長オファーを受け取りました</JP>
    <CN>%d 名球员收到了一份小联盟的续约合約</CN>
@@ -36724,7 +36724,7 @@
   <HCS i="4692">
    <EN>%position  %name rejected the qualifying offer</EN>
    <DC />
-   <KR>%position  %name 拒絕了合格報價</KR>
+   <KR>%position %name 拒絕了合格報價</KR>
    <ES>%posición %nombre rechazó la oferta calificada</ES>
    <JP>％position％nameは対象となるオファーを拒否しました</JP>
    <CN>%position  %name 拒绝了合格的报价</CN>
@@ -37460,7 +37460,7 @@
   <HCS i="4784">
    <EN>ATTENTION! Steam workshop content is not officially endorsed or supported by OOTP Developments. Use at your own risk. All copyrights &amp; trademarks belong to their respective owners. Web links on this page could potentially lead to sites outside of OOTP Developments' control. OOTP Developments bears no responsibility for the content of these web sites and the add-ons they offer</EN>
    <DC />
-   <KR>請注意！Steam 軟體商店中的內容並非官方認可或維護 OOTP Developments 所提供。使用時請自行承擔風險。所有版權和商標歸其各自擁有者所有。此頁面上的網路連結可能導致 OOTP Developments 無法控制的網站。OOTP Developments 不對這些網站和所提供的附加元件內容負責</KR>
+   <KR>注意！Steam 工作坊內容未經 OOTP 開發團隊正式認可或支持，使用風險自負。所有版權及商標均屬於各自擁有者。此頁面上的網頁連結可能導致 OOTP 開發團隊無法控制的網站。OOTP 開發團隊對這些網站的內容及其提供的附加功能不承擔任何責任</KR>
    <ES>¡ATENCIÓN! El contenido del taller de Steam no está respaldado ni respaldado oficialmente por OOTP Developments. Úselo bajo su propio riesgo. Todos los derechos de autor y marcas registradas pertenecen a sus respectivos dueños. Los enlaces web en esta página podrían llevar potencialmente a sitios fuera del control de OOTP Developments. OOTP Developments no se responsabiliza por el contenido de estos sitios web y los complementos que ofrecen.</ES>
    <JP>注意！ Steamワークショップのコンテンツは、OOTPDevelopmentsによって公式に承認またはサポートされていません。自己責任。すべての著作権および商標は、それぞれの所有者に帰属します。このページのWebリンクは、OOTPDevelopmentsの管理外のサイトにつながる可能性があります。 OOTP Developmentsは、これらのWebサイトのコンテンツおよびそれらが提供するアドオンについて責任を負いません。</JP>
    <CN>注意力！ Steam 创意工坊内容未经 OOTP Developments 官方认可或支持。使用风险自负。所有版权和商标均属于其各自所有者。此页面上的 Web 链接可能会导致 OOTP Developments 无法控制的站点。 OOTP Developments 对这些网站的内容及其提供的附加组件不承担任何责任</CN>
@@ -67317,7 +67317,7 @@
   <HCS i="8647">
    <EN>Contract Offer</EN>
    <DC />
-   <KR>合約提議</KR>
+   <KR>合約報價</KR>
    <ES>Oferta de contrato</ES>
    <JP>契約オファー</JP>
    <CN>合约报价</CN>
@@ -81886,7 +81886,7 @@
   <HCS i="10483">
    <EN>%s is currently thinking about your offer</EN>
    <DC />
-   <KR>%s 正在考慮你的出價</KR>
+   <KR>%s 正在考慮您的報價</KR>
    <ES>%s está pensando en tu oferta actualmente</ES>
    <JP>%sは現在あなたのオファーについて考えています</JP>
    <CN>%s 目前正在考虑您的报价</CN>
@@ -82094,7 +82094,7 @@
   <HCS i="10509">
    <EN>Enter Offer</EN>
    <DC />
-   <KR>進入報價</KR>
+   <KR>輸入報價</KR>
    <ES>Introducir oferta</ES>
    <JP>オファーを入力してください</JP>
    <CN>输入报价</CN>
@@ -87606,7 +87606,7 @@
   <HCS i="11227">
    <EN>Accept Job Offer</EN>
    <DC />
-   <KR>接受工作邀約</KR>
+   <KR>接受工作報價</KR>
    <ES>Aceptar oferta de trabajo</ES>
    <JP>求人を受け入れる</JP>
    <CN>接受工作机会</CN>
@@ -106816,7 +106816,7 @@
   <HCS i="13667">
    <EN>%s was not convinced by your last offer</EN>
    <DC />
-   <KR>%s對你上次的報價仍不滿意</KR>
+   <KR>%s 沒有被您最後的報價說服</KR>
    <ES>%s no estaba convencido por su última oferta</ES>
    <JP>%sはあなたの最後の申し出に納得していませんでした</JP>
    <CN>%s 不相信你上次的报价</CN>
@@ -110400,7 +110400,7 @@
   <HCS i="14127">
    <EN>Offer</EN>
    <DC />
-   <KR>提供</KR>
+   <KR>報價</KR>
    <ES>Oferta</ES>
    <JP>オファー</JP>
    <CN>提供</CN>
@@ -135073,7 +135073,7 @@
   <HCS i="17278">
    <EN>reacts to signing bonus offer</EN>
    <DC />
-   <KR>回應簽約獎金的提議</KR>
+   <KR>對簽約獎金報價的反應</KR>
    <ES>reacciona a la oferta de bonificación por firmar</ES>
    <JP>契約金に反応する</JP>
    <CN>对签约奖金优惠作出反应</CN>
@@ -147666,7 +147666,7 @@
   <HCS i="18899">
    <EN>HAS OFFER</EN>
    <DC />
-   <KR>已有優惠</KR>
+   <KR>有報價</KR>
    <ES>TIENE OFERTA</ES>
    <JP>オファーがあります</JP>
    <CN>有报价</CN>
