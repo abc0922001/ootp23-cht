@@ -20299,7 +20299,7 @@
   <HCS i="2563">
    <EN>Signed a minor league contract out of an independent league with the %team_name organization</EN>
    <DC />
-   <KR>與 %team_name 簽訂了一份獨立聯盟的小聯盟合約</KR>
+   <KR>與 %team_name 組織簽下來自獨立聯盟的小聯盟合約</KR>
    <ES>Firmó un contrato de ligas menores de una liga independiente con la organización %team_name</ES>
    <JP>％team_name組織との独立リーグからマイナーリーグ契約を締結</JP>
    <CN>与 %team_name 组织签署了一份独立联赛之外的小联盟合約</CN>
@@ -20315,7 +20315,7 @@
   <HCS i="2565">
    <EN>Signed international amateur %player_position %player_name out of %nation_name to a minor league contract</EN>
    <DC />
-   <KR>簽下國際業餘球員%player_name，球員位置%player_position，並簽下一份小聯盟合約，球員國籍為 %nation_name</KR>
+   <KR>與 %nation_name 簽下國際業餘 %player_position %player_name 的小聯盟合約</KR>
    <ES>%player_position %player_name amateur internacional firmado de %nation_name a un contrato de ligas menores</ES>
    <JP>マイナーリーグ契約に％nation_nameから国際アマチュア％player_position％player_nameに署名</JP>
    <CN>与 %nation_name 的国际业余爱好者 %player_position %player_name 签订了一份小联盟合約</CN>
@@ -20323,7 +20323,7 @@
   <HCS i="2566">
    <EN>Signed a minor league contract out of %nation_name with the %team_name organization</EN>
    <DC />
-   <KR>在 %nation_name签下一份小联盟合約，加入了%team_name组织</KR>
+   <KR>與 %team_name 組織簽下來自 %nation_name 的小聯盟合約</KR>
    <ES>Firmó un contrato de ligas menores fuera de %nation_name con la organización %team_name</ES>
    <JP>％team_name組織と％nation_nameからマイナーリーグ契約を締結</JP>
    <CN>与 %team_name 组织签订了一份来自 %nation_name 的小联盟合約</CN>
@@ -20459,7 +20459,7 @@
   <HCS i="2583">
    <EN>Have a final total balance of %s</EN>
    <DC>EX: Have a final total balance of $1</DC>
-   <KR>最終總餘額為%s</KR>
+   <KR>最終總餘額為 %s</KR>
    <ES>Tener un saldo total final de %s</ES>
    <JP>%sの最終的な合計残高があります</JP>
    <CN>最终总余额为 %s</CN>
@@ -20467,7 +20467,7 @@
   <HCS i="2584">
    <EN>ARE YOU SURE? This will clear the current ballot</EN>
    <DC />
-   <KR>你确定吗？这将清除目前的选票</KR>
+   <KR>你確定嗎？這將清除當前的投票選票</KR>
    <ES>¿ESTÁ SEGURO? Esto borrará la boleta actual</ES>
    <JP>本気ですか？これにより、現在の投票がクリアされます</JP>
    <CN>你确定吗？这将清除当前选票</CN>
@@ -20515,7 +20515,7 @@
   <HCS i="2590">
    <EN>Get rid of clubhouse distraction %s</EN>
    <DC>EX: Get rid of clubhouse distraction Jone</DC>
-   <KR>消除更衣室干扰 %s</KR>
+   <KR>擺脫更衣室干擾 %s</KR>
    <ES>Deshazte de la distracción de la casa club %s</ES>
    <JP>クラブハウスの気晴らし%sを取り除く</JP>
    <CN>摆脱俱乐部的干扰 %s</CN>
@@ -20555,7 +20555,7 @@
   <HCS i="2595">
    <EN>Signed %round round draft pick %num_pick for a signing bonus of %bonus and a %num_years-year major league contract worth a total of %cache_amount</EN>
    <DC />
-   <KR>簽下%round回合選秀的 %num_pick順位球員，簽約獎金為%bonus元，並簽下 %num_years年的大聯盟合約，總金額為%cache_amount元</KR>
+   <KR>簽下 %round 回合選秀的 %num_pick 順位球員，簽約獎金為 %bonus 元，並簽下 %num_years 年的大聯盟合約，總金額為 %cache_amount 元</KR>
    <ES>Firmó % selección de draft de ronda redonda %num_pick por un bono de firma de %bonus y un contrato de ligas mayores de %num_years-year por un valor total de %cache_amount</ES>
    <JP>％ボーナスの契約金と合計％cache_amountに相当する％num_years-yearメジャーリーグ契約のための署名された％roundラウンドドラフトピック％num_pick</JP>
    <CN>签下 % 轮选秀权 %num_pick ，获得 %bonus 签约奖金和 %num_years 年总价值 %cache_amount 的大联盟合約</CN>
@@ -24843,7 +24843,7 @@
   <HCS i="3145">
    <EN>Service Time</EN>
    <DC />
-   <KR>服役时间</KR>
+   <KR>服役時間</KR>
    <ES>Tiempo de servicio</ES>
    <JP>サービス時間</JP>
    <CN>服务时间</CN>
@@ -51068,7 +51068,7 @@
   <HCS i="6528">
    <EN>Offer Minor Lg Contract</EN>
    <DC />
-   <KR>提供小型联盟合约</KR>
+   <KR>提供小聯盟合約</KR>
    <ES>Oferta Contrato Lg Menor</ES>
    <JP>マイナーLg契約を提供する</JP>
    <CN>提供小型 Lg 合约</CN>
@@ -73582,7 +73582,7 @@
   <HCS i="9439">
    <EN>Groundball Pitcher</EN>
    <DC>used to describe pitcher groundball tendency</DC>
-   <KR>地殼球投手</KR>
+   <KR>滾地球投手</KR>
    <ES>Lanzador de bolas de tierra</ES>
    <JP>グラウンドボールピッチャー</JP>
    <CN>地球投手</CN>
