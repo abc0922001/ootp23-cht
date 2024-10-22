@@ -91885,29 +91885,29 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="381">
-<OBJ id="14719" text="[%personname] 完成滿貫打擊" />
-<OBJ id="14877" text="[%personname L] 全壘打達成逆轉大滿貫！" />
-<OBJ id="14878" text="[%personname l] 上場打擊" />
-<OBJ id="14879" text="[%team#1nickname] [%playerposition abbr] [%personname L] 完成雙響炮" />
-<OBJ id="14880" text="「[%personname l]」大展身手，完成單場全壘打、二壘安打、三壘安打和一壘安打，寫下大滿貫紀錄，真是大好日子啊！" />
-<OBJ id="14881" text="[%personname L] 瘋狂攻擊，完成循環出局" />
-<OBJ id="14882" text="[%personname L] 對 [%team#2name] 攻下循環安打" />
-<OBJ id="14884" text="[%personname l] 打擊循環大滿貫" />
-<OBJ id="14886" text="[%personname l] 厲害了，實現了一圈全壘打。" />
-<OBJ id="14887" text="[%personname L] 完成大滿貫" />
-<OBJ id="15299" text="Ridin' High: [%personname L] 完美滿貫" />
-<OBJ id="15300" text="連續發威：[%personname L] 成就場內全壘打、三壘打、二壘打及高飛打" />
-<OBJ id="15301" text="安打大會：[%personname L] 打出了滿貫安打" />
-<OBJ id="15303" text="[%personname L] 在[%team#1name]成就大事：單場擊出所有安打" />
-<OBJ id="15304" text="[%personname L] 發飆中，打出循環賽吞針" />
-<OBJ id="15305" text="紅熱棒：[%personname L] 收集準大滿貫" />
-<OBJ id="15307" text="[%personname l] 打得兩棲起火" />
-<OBJ id="15310" text="難忘的一天：[%personname L]完成全壘打" />
-<OBJ id="15311" text="[%personname L] 打出一輪迴轉，剪斷了[%team#2nickname]的氣勢" />
-<OBJ id="15312" text="[%team#1nickname]的[%personname l]擊出一支猛烈的安打。" />
-<OBJ id="17575" text="[%personname l] 完全打擊" />
-<OBJ id="19241" text="[%personname l] 完成全壘打，實現單場滿貫" />
-<OBJ id="19242" text="[%team#1nickname] [%personname l] 打得熱鬧，實現野史巡迴" />
+<OBJ id="14719" text="[%personname l] 完成完全打擊"/>
+<OBJ id="14877" text="[%personname L] 踏遍所有壘包，達成完全打擊"/>
+<OBJ id="14878" text="[%personname l] 騎車般完成完全打擊"/>
+<OBJ id="14879" text="[%team#1nickname] [%playerposition abbr] [%personname L] 達成完全打擊"/>
+<OBJ id="14880" text="[%personname l] 今天表現出色，完成完全打擊"/>
+<OBJ id="14881" text="[%personname L] 氣勢如虹，完成完全打擊"/>
+<OBJ id="14882" text="[%personname L] 對戰 [%team#2name] 完成完全打擊"/>
+<OBJ id="14884" text="[%personname l] 揮擊達成完全打擊"/>
+<OBJ id="14886" text="[%personname l] 大展身手，完成完全打擊"/>
+<OBJ id="14887" text="[%personname L] 收集完全打擊"/>
+<OBJ id="15299" text="騎得正起勁：[%personname L] 完成完全打擊"/>
+<OBJ id="15300" text="騎行不停：[%personname L] 完成完全打擊"/>
+<OBJ id="15301" text="強打盛會：[%personname L] 完成完全打擊"/>
+<OBJ id="15303" text="[%personname L] 在 [%team#1name] 是個大事件：達成完全打擊"/>
+<OBJ id="15304" text="[%personname L] 氣勢磅礡，完成完全打擊"/>
+<OBJ id="15305" text="火熱的棒子：[%personname L] 收集完全打擊"/>
+<OBJ id="15307" text="[%personname l] 打擊節奏如車輪般流暢"/>
+<OBJ id="15310" text="難以忘懷：[%personname L] 完成完全打擊"/>
+<OBJ id="15311" text="[%personname L] 擊倒 [%team#2nickname]，完成完全打擊"/>
+<OBJ id="15312" text="[%team#1nickname] 的 [%personname l] 打擊狂潮"/>
+<OBJ id="17575" text="[%personname l] 完成完全打擊"/>
+<OBJ id="19241" text="[%personname l] 踏遍所有壘包，完成完全打擊"/>
+<OBJ id="19242" text="[%team#1nickname] 的 [%personname l] 以完全打擊大放異彩"/>
 </CAT>
 
 <CAT id="382">
