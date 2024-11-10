@@ -2648,7 +2648,7 @@
 <COND id="213" value="8"/>
 </OBJ>
 <OBJ id="57067" text="[%team#1name] 擊敗 [%team#2name]，[%personname L] 投出 [%game score] 的完封"/>
-<OBJ id="57068" text="[%team#1name] 击败 [%team#2name]，[%personname L] 投出 [%game score] 的完封"/>
+<OBJ id="57068" text="[%team#1name] 完封 [%team#2name]，[%personname L] 投出 [%game score] 完封賽"/>
 <OBJ id="57069" text="[%team#1name] 完封 [%team#2name]，[%game score]"/>
 <OBJ id="57070" text="[%personname L] 帶領 [%team#1name] 以 [%game score] 獲勝，擊敗 [%team#2name]"/>
 <OBJ id="57095" usage_chance_for_game="4" text="[%team#1nickname] 無情地 [%game score] 轟擊了 [%team#2nickname]">
@@ -15106,7 +15106,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <OBJ id="19421" text="[%teamname] 快簽下年資豐富的[%playerposition abbr]?">
 <COND id="9" value="10" />
 </OBJ>
-<OBJ id="19422" text="[%personname l]會來[%teamname嗎]？" />
+<OBJ id="19422" text="[%personname l] 是否即將加盟 [%teamname]？" />
 </CAT>
 
 <CAT id="119">
@@ -91860,28 +91860,28 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="380">
-<OBJ id="14718" text="[%personname l] 打散了 [%team#2nickname] 的投手，總計擊出 4 發全壘打！" />
-<OBJ id="14831" text="[%personname L] 4支全壘打" />
-<OBJ id="14832" text="[%personname L] 打出四發全壘打 " />
-<OBJ id="14833" text="轟出哩: [%personname L] 洞天四次方向打擊！" />
-<OBJ id="14834" text="[%personname L]轟出4支全壘打" />
-<OBJ id="14835" text="[%personname L] 打破紀錄，轟出4支全壘打。" />
-<OBJ id="14836" text="[%personname L] 打擊無敵：4 支全壘打。" />
-<OBJ id="14838" text="[%personname L] 打出4發全壘打對上[%team#2nickname]" />
-<OBJ id="14839" text="[%personname l] 敲破[%team#2name]四支全壘打" />
-<OBJ id="14840" text="[%team#1nickname] [%personname l] 全壘打4次" />
-<OBJ id="14841" text="[%personname啊] 單場比賽砸出4支全壘打啦！" />
-<OBJ id="14842" text="[%personname l] 對上[%team#2name]敲出了4支全壘打" />
-<OBJ id="14843" text="史上偉大的一天：[%personname l] 4支全壘打震撼球場。" />
-<OBJ id="14844" text="[%personname l] 對上[%team#2name]擊出四發全壘打" />
-<OBJ id="14845" text="[%personname l] 對上 [%team#2nickname] 打出4支全壘打" />
-<OBJ id="14846" text="[%personname l] 回來草坪整理後，連續擊出 4 支全壘打。" />
-<OBJ id="14847" text="DY-NO-MITE: [%personname l]狠狠地擊散[%team#2nickname]的投手，四分砲！" />
-<OBJ id="15313" text="眼不見：[%personname L] 把 4 發射進入軌道 " />
-<OBJ id="15314" text="轟-轟-轟-轟！[%personname L] 4支全壘打" />
-<OBJ id="15315" text="[%personname L] 打出 4 顆全壘打。" />
-<OBJ id="15316" text="紀錄之日：[%personname L] 敲出四支全壘打。" />
-<OBJ id="15317" text="全壘打：[%personname L] 敲出4發超遠的全壘打。" />
+<OBJ id="14718" text="[%personname l] 對 [%team#2nickname] 打出 4 支全壘打"/>
+<OBJ id="14831" text="[%personname L] 打出 4 支全壘打"/>
+<OBJ id="14832" text="[%personname L] 龍爭虎鬥，打出 4 支全壘打"/>
+<OBJ id="14833" text="轟轟轟：[%personname L] 打出 4 支全壘打"/>
+<OBJ id="14834" text="[%personname L] 打出 4 支全壘打"/>
+<OBJ id="14835" text="[%personname L] 創下紀錄，打出 4 支全壘打"/>
+<OBJ id="14836" text="[%personname L] 成為打擊焦點：4 支全壘打"/>
+<OBJ id="14838" text="[%personname L] 對 [%team#2nickname] 打出 4 支全壘打"/>
+<OBJ id="14839" text="[%personname l] 對 [%team#2name] 打出 4 支全壘打"/>
+<OBJ id="14840" text="[%team#1nickname] [%personname l] 一場比賽打出 4 支全壘打"/>
+<OBJ id="14841" text="[%personname l] 單場打出 4 支全壘打"/>
+<OBJ id="14842" text="[%personname l] 對 [%team#2name] 打出 4 支全壘打"/>
+<OBJ id="14843" text="歷史性的一天：[%personname l] 打出 4 支全壘打"/>
+<OBJ id="14844" text="[%personname l] 對 [%team#2name] 打出 4 支全壘打"/>
+<OBJ id="14845" text="[%personname l] 對 [%team#2nickname] 打出 4 支全壘打"/>
+<OBJ id="14846" text="[%personname l] 完成 yard 工作 -- 打出 4 支全壘打"/>
+<OBJ id="14847" text="DY-NO-MITE：[%personname l] 打出 4 支對 [%team#2nickname]"/>
+<OBJ id="15313" text="超級表現：[%personname L] 打出 4 支全壘打"/>
+<OBJ id="15314" text="轟轟轟轟！[%personname L] 打出 4 支全壘打"/>
+<OBJ id="15315" text="[%personname L] 打出 4 支圓形大砲"/>
+<OBJ id="15316" text="破紀錄的一天：[%personname L] 打出 4 支全壘打"/>
+<OBJ id="15317" text="月球炮：[%personname L] 打出 4 支全壘打"/>
 </CAT>
 
 <CAT id="381">
@@ -99896,7 +99896,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="62" value="0" />
 </OBJ>
 <OBJ id="21981">
-<TXT>今天[%team#1link nickname]的[%personlink] [打擊AB字]未能命中球，成為過去[%string#1]場比賽首次零安打。更糟的是，[%team#1link]還輸了比賽給[%team#2link nickname][%game score]。(nl)(nl)「今天表現不好，」[%personlink l]在後賽評論中告訴媒體。「我們輸了比賽，也打破了連勝。</TXT>
+<TXT>[%personlink] 來自 [%team#1link nickname]，今天在打擊上表現不佳，[%batting ab word] 次打擊皆無安打，這也是他 [%string#1] 場比賽以來的第一次。對於這位 [%playerposition] 而言，更糟糕的是 [%team#1link] 在比賽中以 [%game score] 輸給了 [%team#2link nickname]。(nl)(nl)&quot;今天不是一個好日子，&quot; [%personlink l] 在賽後的記者會上說。&quot;我們輸掉了比賽，連勝的紀錄也結束了。&quot;</TXT>
 <COND id="62" value="0" />
 </OBJ>
 <OBJ id="21982">

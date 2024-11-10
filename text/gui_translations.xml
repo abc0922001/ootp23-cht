@@ -40204,7 +40204,7 @@
   <HCS i="5128">
    <EN>Force Role</EN>
    <DC />
-   <KR>力量角色</KR>
+   <KR>強制角色</KR>
    <ES>Rol de fuerza</ES>
    <JP>力の役割</JP>
    <CN>强制角色</CN>
@@ -40212,7 +40212,7 @@
   <HCS i="5129">
    <EN>Pitching Staff Settings</EN>
    <DC />
-   <KR>投手設定</KR>
+   <KR>投手群設置</KR>
    <ES>Configuración del personal de lanzamiento</ES>
    <JP>ピッチングスタッフの設定</JP>
    <CN>投手人员设置</CN>
@@ -40244,7 +40244,7 @@
   <HCS i="5133">
    <EN>Aggressive Tiredness Hook</EN>
    <DC />
-   <KR>積極疲勞勾拳</KR>
+   <KR>積極疲勞換投</KR>
    <ES>Gancho de cansancio agresivo</ES>
    <JP>アグレッシブな倦怠感フック</JP>
    <CN>积极的疲劳钩</CN>
@@ -40332,7 +40332,7 @@
   <HCS i="5144">
    <EN>Hook as Starter/Follower</EN>
    <DC />
-   <KR>挂鉤作為先發投手／接替投手</KR>
+   <KR>先發/接力投手換投</KR>
    <ES>Hook como iniciador/seguidor</ES>
    <JP>スターター/フォロワーとしてフック</JP>
    <CN>Hook 作为 Starter/Follower</CN>
@@ -40468,7 +40468,7 @@
   <HCS i="5163">
    <EN>Suspended for %d game</EN>
    <DC />
-   <KR>因 %d 场比赛被暂停</KR>
+   <KR>因 %d 場比賽禁賽</KR>
    <ES>Suspendido para %d juego</ES>
    <JP>％dゲームのために一時停止</JP>
    <CN>已暂停 %d 场比赛</CN>
@@ -40508,7 +40508,7 @@
   <HCS i="5168">
    <EN>%team2 leads the series %wg games to %lg</EN>
    <DC />
-   <KR>%team2領先系列賽%wg場次贏了%lg場</KR>
+   <KR>%team2 以 %wg 勝 %lg 輸領先系列賽</KR>
    <ES>%team2 lleva la serie de juegos %wg a %lg</ES>
    <JP>％team2はシリーズ％wgゲームを%lgに導きます</JP>
    <CN>%team2 将系列 %wg 游戏带到 %lg</CN>
@@ -40700,7 +40700,7 @@
   <HCS i="5192">
    <EN>%b strikes out swinging</EN>
    <DC />
-   <KR>%b揮棒三振出局</KR>
+   <KR>%b 揮棒三振出局</KR>
    <ES>%b se poncha haciendo swing</ES>
    <JP>％bは揺れを打ちます</JP>
    <CN>%b 三振出局</CN>
@@ -40756,7 +40756,7 @@
   <HCS i="5199">
    <EN>%b hits a sacrifice fly</EN>
    <DC />
-   <KR>%b打出犧牲飛球</KR>
+   <KR>%b 打出犧牲飛球</KR>
    <ES>%b golpea una mosca de sacrificio</ES>
    <JP>％bが犠牲フライに当たる</JP>
    <CN>%b 击中一只牺牲苍蝇</CN>
@@ -40804,7 +40804,7 @@
   <HCS i="5205">
    <EN>%b singles, out at second</EN>
    <DC />
-   <KR>%b單壘安打，二壘出局</KR>
+   <KR>%b 一壘安打，二壘出局</KR>
    <ES>%b sencillos, out en segunda</ES>
    <JP>％bシングル、2番目に</JP>
    <CN>%b 单打，排在第二位</CN>
@@ -40844,7 +40844,7 @@
   <HCS i="5210">
    <EN>%b hits a solo HR</EN>
    <DC />
-   <KR>%b擊出一發單打全壘打</KR>
+   <KR>%b 擊出一發陽春全壘打</KR>
    <ES>%b alcanza un HR en solitario</ES>
    <JP>％bがソロHRにヒット</JP>
    <CN>%b 单打 HR</CN>
@@ -40852,7 +40852,7 @@
   <HCS i="5211">
    <EN>%b hits a 2-run HR</EN>
    <DC />
-   <KR>%b擊出2分全壘打</KR>
+   <KR>%b 擊出2分全壘打</KR>
    <ES>%b alcanza un HR de 2 carreras</ES>
    <JP>％bが2ランHRにヒット</JP>
    <CN>%b 达到 2-run HR</CN>
@@ -40860,7 +40860,7 @@
   <HCS i="5212">
    <EN>%b hits a 3-run HR</EN>
    <DC />
-   <KR>%b擊出三分砲</KR>
+   <KR>%b 擊出三分砲</KR>
    <ES>%b alcanza un HR de 3 carreras</ES>
    <JP>％bが3ランHRにヒット</JP>
    <CN>%b 命中 3 次 HR</CN>
@@ -40868,7 +40868,7 @@
   <HCS i="5213">
    <EN>%b hits a GRAND SLAM</EN>
    <DC />
-   <KR>%b擊出一支滿貫全壘打</KR>
+   <KR>%b 擊出一支滿貫全壘打</KR>
    <ES>%b golpea un GRAND SLAM</ES>
    <JP>％bがグランドスラムにヒット</JP>
    <CN>%b 击中大满贯</CN>
@@ -41020,7 +41020,7 @@
   <HCS i="5232">
    <EN>The  %name_of_next_round matchups and schedule will be announced after the  %name_of_round finishes</EN>
    <DC />
-   <KR>在棒球中， %name_of_round 完賽後，將公布下一輪比賽的  %name_of_next_round 對戰組合和賽程安排。</KR>
+   <KR>在棒球中， %name_of_round 完賽後，將公布下一輪比賽的 %name_of_next_round 對戰組合和賽程安排。</KR>
    <ES>Los enfrentamientos y el calendario de  %name_of_next_round se anunciarán después de que finalice  %name_of_round.</ES>
    <JP>％name_of_next_roundの対戦とスケジュールは、％name_of_roundが終了した後に発表されます</JP>
    <CN>%name_of_next_round 比赛和赛程将在  %name_of_round 结束后公布</CN>
@@ -41044,7 +41044,7 @@
   <HCS i="5235">
    <EN>Strikes out swinging, 2-3 out at first</EN>
    <DC />
-   <KR>揮棒落空被三振，2-3 號位於一壘出局</KR>
+   <KR>揮空三振，二壘手接球傳一壘出局</KR>
    <ES>Poncha tirándose, 2-3 out al principio</ES>
    <JP>スウィングアウト、最初は2〜3アウト</JP>
    <CN>挥杆出击，一开始2-3出局</CN>
@@ -41092,7 +41092,7 @@
   <HCS i="5241">
    <EN>Strikes out looking, 2-3 out at first</EN>
    <DC />
-   <KR>看著球被三振，2-3 號位於一壘出局</KR>
+   <KR>看著球被三振，二壘手接球傳一壘出局</KR>
    <ES>Se poncha buscando, 2-3 out al principio</ES>
    <JP>最初は2〜3アウト</JP>
    <CN>出局看，一开始2-3出局</CN>
@@ -41388,7 +41388,7 @@
   <HCS i="5278">
    <EN>Injured, %n</EN>
    <DC />
-   <KR>受傷了， %n</KR>
+   <KR>受傷了，%n</KR>
    <ES>Herido, %n</ES>
    <JP>負傷者、％n</JP>
    <CN>受伤， %n</CN>
@@ -41500,7 +41500,7 @@
   <HCS i="5292">
    <EN>Ask AI to set up strategy</EN>
    <DC />
-   <KR>請AI設定策略</KR>
+   <KR>請 AI 設定策略</KR>
    <ES>Pídele a la IA que establezca una estrategia</ES>
    <JP>AIに戦略を立ててもらう</JP>
    <CN>让 AI 制定策略</CN>
@@ -41516,7 +41516,7 @@
   <HCS i="5294">
    <EN>Single, Error in OF, E%d, batter to second base</EN>
    <DC />
-   <KR>安打，外野失誤，失誤%d，打者到二壘</KR>
+   <KR>安打，外野失誤，失誤 %d，打者到二壘</KR>
    <ES>Sencillo, Error en OF, E%d, bateador a segunda base</ES>
    <JP>シングル、OFのエラー、E％d、2塁への打者</JP>
    <CN>单人，错误，E%d，击球手进入二垒</CN>
@@ -41548,7 +41548,7 @@
   <HCS i="5298">
    <EN>Throwing error on steal attempt, SB - E%d</EN>
    <DC />
-   <KR>盜壘嘗試時投手失誤，壘包刺殺-失誤%d</KR>
+   <KR>盜壘嘗試時投手失誤，壘包刺殺-E%d</KR>
    <ES>Error de lanzamiento en intento de robo, SB - E%d</ES>
    <JP>盗みの試みでエラーを投げる、SB-E％d</JP>
    <CN>抢断尝试时抛出错误，SB - E%d</CN>
@@ -41596,7 +41596,7 @@
   <HCS i="5304">
    <EN>RA9-Wins Above Replacement</EN>
    <DC />
-   <KR>RA9-勝場貢獻值</KR>
+   <KR>RA9-Wins 貢獻值</KR>
    <ES>RA9-gana por encima del reemplazo</ES>
    <JP>RA9-置き換えよりも勝つ</JP>
    <CN>RA9-胜过替换</CN>
@@ -86118,7 +86118,7 @@
   <HCS i="11036">
    <EN>Coach Tendencies</EN>
    <DC />
-   <KR>教练倾向</KR>
+   <KR>教練傾向</KR>
    <ES>Tendencias del entrenador</ES>
    <JP>コーチの傾向</JP>
    <CN>教练倾向</CN>
