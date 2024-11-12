@@ -9491,7 +9491,7 @@
   <HCS i="1194">
    <EN>Batting against %s</EN>
    <DC />
-   <KR>面對%s進行打擊</KR>
+   <KR>面對 %s 進行打擊</KR>
    <ES>Batear contra %s</ES>
    <JP>%sとの打撃</JP>
    <CN>对抗 %s</CN>
@@ -19883,7 +19883,7 @@
   <HCS i="2511">
    <EN>%job_title %person_name signed as %job_title2 in %team2</EN>
    <DC />
-   <KR>%job_title %person_name 在 %team2 签下 %job_title2</KR>
+   <KR>%job_title %person_name 在 %team2 簽下 %job_title2</KR>
    <ES>%job_title %person_name firmado como %job_title2 en %team2</ES>
    <JP>％team2で％job_title2として署名された％job_title％person_name</JP>
    <CN>%job_title %person_name 在 %team2 中签名为 %job_title2</CN>
@@ -28292,7 +28292,7 @@
   <HCS i="3577">
    <EN>Sign #err to an extension by %d</EN>
    <DC>EX: Sign #err to an extensione by 2020</DC>
-   <KR>年以 $%f 的报酬签下 #err，以延长合约</KR>
+   <KR>將 #err 續約至 %d</KR>
    <ES>Firme #err en una extensión por %d</ES>
    <JP>％dによる拡張子への#errに署名します</JP>
    <CN>将 #err 签名到 %d 的扩展名</CN>
@@ -70182,7 +70182,7 @@
   <HCS i="9005">
    <EN>innings pitched</EN>
    <DC />
-   <KR>局數投球次數</KR>
+   <KR>投球局數</KR>
    <ES>entradas lanzadas</ES>
    <JP>投球回</JP>
    <CN>投球局</CN>
@@ -70222,7 +70222,7 @@
   <HCS i="9010">
    <EN>I don't think there's any debate. I think this is the best team ever assembled. %number1 wins since I gave out this goal, and %number1 championships in the last %year overall, I'm stunned at the success that this team has achieved</EN>
    <DC />
-   <KR>我認為沒有任何爭議，這是有史以來最棒的球隊。自我設定目標以來，已經贏得了 %number1場比賽，並在過去%year年贏得了 %number1次冠軍，我被這個球隊所取得的成功驚呆了</KR>
+   <KR>我不認為這還有什麼爭議。我認為這是歷史上最強的球隊。自從我設定這個目標以來，%number1 獲得了勝利，並且在過去 %year 年內取得了 %number1 次冠軍，我對這支球隊所取得的成功感到震驚</KR>
    <ES>No creo que haya ningún debate. Creo que este es el mejor equipo jamás formado. %number1 victorias desde que di esta meta, y %number1 campeonatos en el último %año en general, estoy asombrado por el éxito que ha logrado este equipo.</ES>
    <JP>議論はないと思います。これはこれまでに集まった中で最高のチームだと思います。私がこの目標を達成してから %number1が勝ち、過去％年間の %number1チャンピオンシップ全体で、このチームが達成した成功に驚いています。</JP>
    <CN>我不认为有任何争论。我认为这是有史以来最好的团队。自从我给出这个目标以来 %number1 次胜利，以及去年 %number1 次总冠军，我对这支球队取得的成功感到震惊</CN>
@@ -70270,7 +70270,7 @@
   <HCS i="9016">
    <EN>So, which %rstarting pitchers are leading the %l in %c</EN>
    <DC />
-   <KR>那麼，哪些先發投手在 %l 中帶領著 %c 呢？</KR>
+   <KR>那麼，目前有哪些 %r先發投手 在 %l 中領先 %c 呢？</KR>
    <ES>Entonces, ¿qué %rlanzadores abridores lideran el %l en %c?</ES>
    <JP>したがって、どの％rstartingピッチャーが％cの%lをリードしていますか</JP>
    <CN>那么，在 %c 中哪个 %r 首发投手领先 %l</CN>
@@ -82206,7 +82206,7 @@
   <HCS i="10523">
    <EN>Your offer was submitted. The player will respond via mail within the next few days</EN>
    <DC />
-   <KR>您的報價已提交。球員將在未來幾天內通過郵件回复</KR>
+   <KR>您的報價已提交。球員將在未來幾天內通過郵件回覆</KR>
    <ES>Su oferta fue enviada. El jugador responderá por correo en los próximos días.</ES>
    <JP>オファーが送信されました。プレーヤーは数日以内にメールで返信します</JP>
    <CN>您的报价已提交。球員将在接下来的几天内通过邮件回复</CN>
@@ -83078,7 +83078,7 @@
   <HCS i="10632">
    <EN>Use current order for all remaining rounds</EN>
    <DC />
-   <KR>使用目前的排名进行剩余的轮数</KR>
+   <KR>對於所有剩餘回合使用目前的順序</KR>
    <ES>Usar orden actual para todas las rondas restantes</ES>
    <JP>残りのすべてのラウンドに現在の順序を使用する</JP>
    <CN>对所有剩余回合使用当前顺序</CN>
@@ -83094,7 +83094,7 @@
   <HCS i="10634">
    <EN>Reset Draft Order</EN>
    <DC />
-   <KR>重置选秀顺序</KR>
+   <KR>重設選秀順序</KR>
    <ES>Restablecer orden preliminar</ES>
    <JP>ドラフト注文をリセット</JP>
    <CN>重置草稿订单</CN>
@@ -117457,7 +117457,7 @@
   <HCS i="15025">
    <EN>PIT</EN>
    <DC>Total Pitches</DC>
-   <KR>投球数</KR>
+   <KR>總投球數</KR>
    <ES>FOSA</ES>
    <JP>ピット</JP>
    <CN>坑</CN>
