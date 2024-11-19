@@ -50780,7 +50780,7 @@
   <HCS i="6492">
    <EN>%avg/%obp/%slg, %ab AB, %hr HR</EN>
    <DC>Stat Abbreviations: Batting Average/On-Base Pct/Slugging Pct, At-Bats, Home Runs</DC>
-   <KR>打擊率/%上壘率/%長打率, %打數打數，%全壘打全壘打</KR>
+   <KR>%avg/%obp/%slg，%ab 打數，%hr 全壘打</KR>
    <ES>%avg/%obp/%slg, %ab AB, %hr FC</ES>
    <JP>％avg /％obp /%slg、％ab AB、％hr HR</JP>
    <CN>%avg/%obp/%slg, %ab AB, %hr HR</CN>
