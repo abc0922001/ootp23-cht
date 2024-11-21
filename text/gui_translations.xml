@@ -29460,7 +29460,7 @@
   <HCS i="3723">
    <EN>Does not Begin With</EN>
    <DC />
-   <KR>不以XX开头</KR>
+   <KR>不以……開始</KR>
    <ES>no comienza con</ES>
    <JP>で始まらない</JP>
    <CN>不以</CN>
@@ -29516,7 +29516,7 @@
   <HCS i="3730">
    <EN>This replay could not be loaded</EN>
    <DC />
-   <KR>重放失败，无法加载</KR>
+   <KR>此重播無法載入</KR>
    <ES>Esta repetición no se pudo cargar</ES>
    <JP>このリプレイを読み込めませんでした</JP>
    <CN>无法加载此回放</CN>
@@ -29540,7 +29540,7 @@
   <HCS i="3733">
    <EN>Passed with Flying Colors</EN>
    <DC />
-   <KR>以优异成绩通关</KR>
+   <KR>以優異的表現通過</KR>
    <ES>Aprobado con gran éxito</ES>
    <JP>フライングカラーで合格</JP>
    <CN>以绚丽的色彩通过</CN>
@@ -29804,7 +29804,7 @@
   <HCS i="3766">
    <EN>The box score could not be downloaded! Please try again</EN>
    <DC />
-   <KR>! 無法下載比賽成績表，請再試一次</KR>
+   <KR>比賽數據無法下載！請再試一次</KR>
    <ES>¡No se pudo descargar la partitura! Inténtalo de nuevo</ES>
    <JP>ボックススコアをダウンロードできませんでした。もう一度やり直してください</JP>
    <CN>无法下载盒子分数！请再试一次</CN>
@@ -29828,7 +29828,7 @@
   <HCS i="3769">
    <EN>Opens the league home screen</EN>
    <DC />
-   <KR>打开联盟主页画面</KR>
+   <KR>開啟聯盟主畫面</KR>
    <ES>Abre la pantalla de inicio de la liga.</ES>
    <JP>リーグのホーム画面を開きます</JP>
    <CN>打开联赛主畫面</CN>
@@ -29972,7 +29972,7 @@
   <HCS i="3787">
    <EN>%d %s Playoff Appearances</EN>
    <DC />
-   <KR>%d位於%s的季後賽出場</KR>
+   <KR>%d 次 %s 季後賽出場</KR>
    <ES>%d %s apariciones en playoffs</ES>
    <JP>％d%sプレーオフ出場</JP>
    <CN>%d %s 次季后赛出场</CN>
@@ -29980,7 +29980,7 @@
   <HCS i="3788">
    <EN>%number1 %league Playoff Appearances, %number2 %championship wins</EN>
    <DC />
-   <KR>%number1 %league季後賽出場次數， %number2 %冠軍得主</KR>
+   <KR>%number1 次 %league 季後賽出場，%number2 次 %championship 勝利</KR>
    <ES>%number1 %apariciones en playoffs de la liga, %number2 %campeonatos ganados</ES>
    <JP>%number1％リーグプレーオフ出場、 %number2％チャンピオンシップ優勝</JP>
    <CN>%number1 % 联赛季后赛出场次数， %number2 % 冠军胜利</CN>
@@ -30076,7 +30076,7 @@
   <HCS i="3800">
    <EN>Cut payroll from %money1 to %money2 by %year</EN>
    <DC>EX: Cut payroll from $10 to $8 by 2020</DC>
-   <KR>在%year年內將工資預算從%money1降到%money2</KR>
+   <KR>在 %year 前將薪資總額從 %money1 減少到 %money2</KR>
    <ES>Reducir la nómina de %money1 a %money2 por %año</ES>
    <JP>給与を％money1から％money2に%year削減します</JP>
    <CN>通过 %year 将工资单从 %money1 削减到 %money2</CN>
@@ -30292,7 +30292,7 @@
   <HCS i="3827">
    <EN>Have a final total balance of %money by %year</EN>
    <DC>EX: Have a final total balance of $1 by 2020</DC>
-   <KR>到%year年，您的总余额为%money</KR>
+   <KR>在 %year 前達到最終總餘額 %money</KR>
    <ES>Tener un saldo total final de %dinero por %año</ES>
    <JP>％年ごとに％moneyの最終的な合計残高があります</JP>
    <CN>%year 的最终总余额为 %money</CN>
@@ -30420,7 +30420,7 @@
   <HCS i="3843">
    <EN>Round Robin Mode must advance a power of 2 teams out of the pool rounds</EN>
    <DC />
-   <KR>環式賽制必須在淘汰賽前出取2的冪次方數量的球隊</KR>
+   <KR>循環賽模式必須從分組賽中晉級 2 的次方數量的球隊</KR>
    <ES>El modo Round Robin debe avanzar una potencia de 2 equipos fuera de las rondas de grupo</ES>
    <JP>ラウンドロビンモードでは、プールラウンドから2チームのパワーを進める必要があります</JP>
    <CN>循环赛模式必须将 2 支球队的力量提前出池轮</CN>
@@ -30428,7 +30428,7 @@
   <HCS i="3844">
    <EN>Modified Double Elimination Mode is only supported with 4, 8, 16, etc... team brackets</EN>
    <DC />
-   <KR>「修改版雙重淘汰賽模式」僅支援4、8、16等隊伍的賽制</KR>
+   <KR>修改後的雙淘汰模式僅支援 4、8、16 等球隊數的賽制</KR>
    <ES>El modo de eliminación doble modificado solo es compatible con grupos de equipos de 4, 8, 16, etc.</ES>
    <JP>変更されたダブルエリミネーションモードは、4、8、16などのチームブラケットでのみサポートされます</JP>
    <CN>修改后的双重淘汰模式仅支持 4、8、16 等......团队括号</CN>
@@ -30436,7 +30436,7 @@
   <HCS i="3845">
    <EN>Double Elimination Mode is only supported with 4, 8, 16, etc... team brackets</EN>
    <DC />
-   <KR>雙重淘汰賽模式僅支援四、八、十六等隊的賽程</KR>
+   <KR>雙淘汰模式僅支援 4、8、16 等球隊數的賽制</KR>
    <ES>El modo de eliminación doble solo es compatible con grupos de equipos de 4, 8, 16, etc.</ES>
    <JP>ダブルエリミネーションモードは、4、8、16などのチームブラケットでのみサポートされます</JP>
    <CN>双淘汰模式仅支持 4、8、16 等...团队括号</CN>
@@ -30444,7 +30444,7 @@
   <HCS i="3846">
    <EN>First round matchups determined by</EN>
    <DC />
-   <KR>record in division:由區域賽紀錄確定的首輪比賽對手</KR>
+   <KR>第一輪對戰組合的決定方式</KR>
    <ES>Enfrentamientos de primera ronda determinados por</ES>
    <JP>によって決定された最初のラウンドの対戦</JP>
    <CN>首轮比赛由</CN>
@@ -30476,7 +30476,7 @@
   <HCS i="3850">
    <EN>Stealing it</EN>
    <DC />
-   <KR>偷(垒)</KR>
+   <KR>偷走了</KR>
    <ES>robarlo</ES>
    <JP>それを盗む</JP>
    <CN>偷它</CN>
@@ -30484,7 +30484,7 @@
   <HCS i="3851">
    <EN>Re-order by seed prior to each round</EN>
    <DC />
-   <KR>每一轮赛前按照排名重新排序</KR>
+   <KR>在每輪開始前按種子順序重新排序</KR>
    <ES>Reordenar por semilla antes de cada ronda</ES>
    <JP>各ラウンドの前にシードごとに再注文する</JP>
    <CN>在每轮之前按种子重新排序</CN>
@@ -30492,7 +30492,7 @@
   <HCS i="3852">
    <EN>Wildcards seeded lowest</EN>
    <DC />
-   <KR>球季優先場次最低的外卡種子球隊</KR>
+   <KR>外卡隊伍種子排名最低</KR>
    <ES>Comodines sembrados más bajos</ES>
    <JP>最も低くシードされたワイルドカード</JP>
    <CN>通配符种子最低</CN>
@@ -30532,7 +30532,7 @@
   <HCS i="3857">
    <EN>The number of games the higher seeded team starts the first round ahead</EN>
    <DC />
-   <KR>種子排名較高的隊伍在第一輪比賽中已經領先的場數</KR>
+   <KR>高種子球隊在第一輪開始時領先的比賽數</KR>
    <ES>La cantidad de juegos que el equipo cabeza de serie más alto comienza la primera ronda por delante.</ES>
    <JP>シード数の多いチームが最初のラウンドを開始するゲームの数</JP>
    <CN>较高种子队先发第一轮的比赛场数</CN>
@@ -30572,7 +30572,7 @@
   <HCS i="3862">
    <EN>No starting subs allowed</EN>
    <DC />
-   <KR>不允許使用任何首发替補</KR>
+   <KR>禁止使用代打先發球員</KR>
    <ES>No se permiten suplentes iniciales</ES>
    <JP>開始潜水艦は許可されていません</JP>
    <CN>不允许首发潜艇</CN>
@@ -30700,7 +30700,7 @@
   <HCS i="3878">
    <EN>The Next Generation</EN>
    <DC />
-   <KR>of Stars下一代球星</KR>
+   <KR>下一世代</KR>
    <ES>La próxima generación</ES>
    <JP>次の世代</JP>
    <CN>下一代</CN>
@@ -30708,7 +30708,7 @@
   <HCS i="3879">
    <EN>Lock Him Up</EN>
    <DC />
-   <KR>關他起來</KR>
+   <KR>鎖定他</KR>
    <ES>encerrarlo</ES>
    <JP>彼をロックします</JP>
    <CN>把他关起来</CN>
