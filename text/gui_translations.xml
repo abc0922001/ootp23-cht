@@ -103008,7 +103008,7 @@
   <HCS i="13191">
    <EN>%s Inning off</EN>
    <DC />
-   <KR>%s 局開始</KR>
+   <KR>%s 局得分從</KR>
    <ES>%s entrada libre</ES>
    <JP>%sイニングオフ</JP>
    <CN>%s 一局结束</CN>
@@ -103016,7 +103016,7 @@
   <HCS i="13192">
    <EN>%s on</EN>
    <DC />
-   <KR>%s 出賽中</KR>
+   <KR>%s 上場</KR>
    <ES>%s en</ES>
    <JP>%s on</JP>
    <CN>％儿子</CN>
@@ -103024,7 +103024,7 @@
   <HCS i="13193">
    <EN>outs</EN>
    <DC />
-   <KR>出局数</KR>
+   <KR>出局</KR>
    <ES>salidas</ES>
    <JP>アウト</JP>
    <CN>出局</CN>
@@ -135489,7 +135489,7 @@
   <HCS i="17333">
    <EN>has met the statistical requirement for his vesting option in his current contract. The upcoming contract year has become guaranteed</EN>
    <DC />
-   <KR>他現有的合約條款中的出場條件已滿足統計要求。未來的合約年份已經得到保證</KR>
+   <KR>已達成現有合約中觸發條款的數據要求。下一年度的合約已經成為保證合約</KR>
    <ES>ha cumplido con el requisito estadístico para su opción de adjudicación en su contrato actual. El próximo año de contrato se ha garantizado.</ES>
    <JP>現在の契約における権利確定オプションの統計的要件を満たしています。次の契約年が保証されました</JP>
    <CN>已满足其当前合約中的归属选择权的统计要求。即将到来的合約年已成为保证</CN>
@@ -135497,7 +135497,7 @@
   <HCS i="17334">
    <EN>did not meet the statistical requirement for his vesting option in his current contract. His last contract year gets voided and he will become a free agent if you do not negotiate an extension</EN>
    <DC />
-   <KR>如果他現有合約中的累積數據標準不符合既定條件，他的最後一年合約將被取消，如果您不協商續約，他將成為自由球員</KR>
+   <KR>未達成現有合約中觸發條款的數據要求。最後一年的合約將被取消，若您未談妥續約，他將成為自由球員</KR>
    <ES>no cumplió con el requisito estadístico para su opción de adquisición en su contrato actual. Su último año de contrato se anula y se convertirá en agente libre si no negocia una extensión.</ES>
    <JP>彼の現在の契約における彼の権利確定オプションの統計的要件を満たしていませんでした。彼の最後の契約年は無効になり、延長を交渉しない場合、彼はフリーエージェントになります</JP>
    <CN>不符合他当前合約中的归属选择权的统计要求。他的最后一个合約年被取消，如果你不协商续约，他将成为自由球员</CN>
@@ -135777,7 +135777,7 @@
   <HCS i="17369">
    <EN>BB%</EN>
    <DC>Abbreviation for statistic Bases on Balls Percentage</DC>
-   <KR>四壞球比率</KR>
+   <KR>BB%</KR>
    <ES>CAMA Y DESAYUNO%</ES>
    <JP>BB％</JP>
    <CN>BB%</CN>
@@ -135849,7 +135849,7 @@
   <HCS i="17378">
    <EN>that he has decided to execute his player option of the last contract year. He will be a member of your organization for another year and hopes to be part of a winning team</EN>
    <DC />
-   <KR>他已經決定執行他上一份合約年度的球員選擇權。他將會是貴組織的一員再多一年，並期望成為一支勝利的球隊的一份子</KR>
+   <KR>他已決定執行合約最後一年的球員選擇權。他將再為您的球隊效力一年，並希望能成為一支勝利球隊的一員</KR>
    <ES>que ha decidido ejecutar su opción de jugador del último año de contrato. Será miembro de su organización un año más y espera formar parte de un equipo ganador.</ES>
    <JP>彼は昨年の契約年のプレーヤーオプションを実行することを決定しました。彼はもう1年間あなたの組織のメンバーになり、優勝チームの一員になることを望んでいます。</JP>
    <CN>他已经决定执行上一个合約年的球员选项。他将在您的组织中再工作一年，并希望成为获胜团队的一员</CN>
@@ -135881,7 +135881,7 @@
   <HCS i="17382">
    <EN>that he has decided not to opt out of his current contract. He will remain a member of your organization and hopes to be part of many future championship teams</EN>
    <DC />
-   <KR>他決定不選擇選擇退出他目前的合約。他將繼續留在貴組織中，並希望成為未來許多冠軍隊伍的一員</KR>
+   <KR>他已決定不退出目前的合約。他將繼續留在您的球隊，並希望成為未來多次奪冠球隊的一部分</KR>
    <ES>que ha decidido no desvincularse de su contrato actual. Seguirá siendo miembro de su organización y espera ser parte de muchos futuros equipos campeones.</ES>
    <JP>彼は現在の契約をオプトアウトしないことに決めました。彼はあなたの組織のメンバーであり続け、多くの将来のチャンピオンシップチームの一員になることを望んでいます</JP>
    <CN>他已经决定不退出他目前的合約。他将仍然是您组织的成员，并希望成为许多未来冠军球队的一员</CN>
@@ -135945,7 +135945,7 @@
   <HCS i="17390">
    <EN>that he has decided not to execute his player option of the last contract year. He will test free agency</EN>
    <DC />
-   <KR>他已經決定不行使他最後一份合約年的球員選項。他將進行自由球員市場的測試</KR>
+   <KR>他已決定不執行合約最後一年的球員選擇權。他將進入自由球員市場</KR>
    <ES>que ha decidido no ejecutar su opción de jugador del último año de contrato. Pondrá a prueba la agencia libre</ES>
    <JP>彼は昨年の契約年のプレーヤーオプションを実行しないことに決めました。彼はフリーエージェントをテストします</JP>
    <CN>他已决定不执行上一个合約年的球员选项。他将测试自由球员</CN>
@@ -135961,7 +135961,7 @@
   <HCS i="17392">
    <EN>that he has decided to opt out of the remainder of his current contract. He will test free agency</EN>
    <DC />
-   <KR>他已決定放棄目前合約的餘下部分，並會考慮自由球員選擇</KR>
+   <KR>他已決定退出目前合約的剩餘部分。他將進入自由球員市場</KR>
    <ES>que ha decidido renunciar al resto de su contrato actual. Pondrá a prueba la agencia libre</ES>
    <JP>彼は現在の契約の残りの部分をオプトアウトすることを決定しました。彼はフリーエージェントをテストします</JP>
    <CN>他已决定退出当前合約的剩余部分。他将测试自由球员</CN>
@@ -135969,7 +135969,7 @@
   <HCS i="17393">
    <EN>QRG-BO3-12677</EN>
    <DC />
-   <KR>復刻版</KR>
+   <KR>QRG-BO3-12677</KR>
    <ES>QRG-BO3-12677</ES>
    <JP>QRG-BO3-12677</JP>
    <CN>QRG-BO3-12677</CN>
@@ -135993,7 +135993,7 @@
   <HCS i="17396">
    <EN>voids last contract year</EN>
    <DC />
-   <KR>voids 最後一年的合約</KR>
+   <KR>取消最後一年的合約</KR>
    <ES>anula el último año de contrato</ES>
    <JP>昨年の契約年は無効</JP>
    <CN>上个合約年无效</CN>
@@ -136129,7 +136129,7 @@
   <HCS i="17413">
    <EN>You have 14 days to complete or reject the trade. Use the controls in 'Respond to Message' above</EN>
    <DC />
-   <KR>你有14天時間來完成或拒絕交易。請使用上方的“回覆訊息”功能來操作</KR>
+   <KR>您有 14 天的時間完成或拒絕這筆交易。請使用上方「回應訊息」中的控制項</KR>
    <ES>Tiene 14 días para completar o rechazar la operación. Use los controles en &amp;#39;Responder al mensaje&amp;#39; arriba</ES>
    <JP>取引を完了するか拒否するまでに14日あります。上記の「メッセージへの返信」のコントロールを使用します</JP>
    <CN>您有 14 天的时间来完成或拒绝交易。使用上面“回复消息”中的控件</CN>
@@ -136137,7 +136137,7 @@
   <HCS i="17414">
    <EN>You have 14 days to complete or reject the trade. Use the controls in the 'Actions' menu</EN>
    <DC />
-   <KR>你有14天時間完成或拒絕交易。使用「操作」菜單中的控件</KR>
+   <KR>您有 14 天的時間完成或拒絕這筆交易。請使用「操作」選單中的控制項</KR>
    <ES>Tiene 14 días para completar o rechazar la operación. Usa los controles en el menú &amp;#39;Acciones&amp;#39;</ES>
    <JP>取引を完了するか拒否するまでに14日あります。 [アクション]メニューのコントロールを使用します</JP>
    <CN>您有 14 天的时间来完成或拒绝交易。使用“操作”菜单中的控件</CN>
@@ -142266,7 +142266,7 @@
   <HCS i="18200">
    <EN>2-out RBI</EN>
    <DC />
-   <KR>兩出局打點。</KR>
+   <KR>兩出局打點</KR>
    <ES>2 carreras impulsadas</ES>
    <JP>2アウトRBI</JP>
    <CN>2-out 打点</CN>
