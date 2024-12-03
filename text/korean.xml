@@ -4728,109 +4728,109 @@
 </CAT>
 
 <CAT id="37">
-<OBJ id="15437" text="[%personname L] [%subleagueabbr] 贏家，[%month previous]月份的最佳投手" />
-<OBJ id="15438" text="[%subleagueabbr] [%month previous]月份的最佳投手被選出" />
-<OBJ id="15439" text="[%personname L] 獲得[%subleagueabbr]頭號投手獎" />
-<OBJ id="15440" text="[%subleaguename] 宣佈 [%month previous] 月份最佳投手" />
-<OBJ id="15441" text="揭曉[%month previous]月份的第一投手：[%personname l]" />
-<OBJ id="15442" text="[%month previous]的[%subleagueabbr]最佳投手是[%teamnickname][%personname l]" />
-<OBJ id="15443" text="[%subleaguename] 的頂級投手是 [%personname l]" />
-<OBJ id="15444" text="[%teamnickname] [%personname l] 被評選為[%subleagueabbr]最佳投手" />
-<OBJ id="15445" text="[%personname L] 在上個月被譽為頂尖的投手。" />
-<OBJ id="15446" text="[%teamnickname] [%personname L]上個月的#1投手" />
-<OBJ id="15447" text="[%personname L] 是上個月最佳的[%subleagueabbr]投手" />
-<OBJ id="15448" text="[%teamname] 投手出賽！最佳洋投上陣！" />
-<OBJ id="15449" text="[%personname L] 被譽為頂尖的[%subleagueabbr]投手" />
-<OBJ id="15450" text="[%personname l] 脫穎而出，成為最佳投手之選" />
-<OBJ id="15451" text="[%teamname]的[%personname l]已經是[%month previous]月份的最佳投手了。" />
-<OBJ id="15453" text="[%teamname] 先發投手 [%month previous] 的最佳投手" />
-<OBJ id="15454" text="[%subleagueabbr](nl) [%month previous]的頂尖投手是[%personname l]" />
-<OBJ id="15455" text="[%personname l] 選擇了[%subleagueabbr]最佳投手" />
-<OBJ id="15456" text="[%personname l] 抱走[%subleagueabbr]頭號投手獎盃" />
-<OBJ id="15457" text="[%personname l] 被選為[%month previous]最佳[%subleagueabbr]投手" />
-<OBJ id="15458" text="[%subleagueabbr] 公布了 [%month previous] 的最佳投手。"/>
-<OBJ id="15459" text="[%personname l] 在[%month previous]被評為最佳[%subleagueabbr]投手" />
-<OBJ id="15460" text="[%month previous]最佳[%subleagueabbr]投手是[%personname l]" />
-<OBJ id="15462" text="[%teamname] 的[%personname l] [%subleagueabbr] 最佳投手" />
-<OBJ id="15463" text="[%personname l] [%subleagueabbr]在[%month previous]是排名第一的投手。" />
-<OBJ id="15464" text="[%personname l] 奪取[%subleagueabbr] 最佳投手榮譽" />
-<OBJ id="15465" text="[%personname l]拿下[%subleagueabbr]最佳投手獎" />
-<OBJ id="15467" text="[%teamnickname]的投手之王[%personname L][%month previous]" />
-<OBJ id="15468" text="[%subleagueabbr] 挑選 [%month previous] 的最佳投手" />
-<OBJ id="15469" text="[%subleagueabbr] 表揚 [%month previous] 的第一名投手" />
-<OBJ id="15470" text="[%subleagueabbr] 宣布上月最佳先發。" />
-<OBJ id="15472" text="[%personname l] 上個月在 [%subleagueabbr] 的最佳球手" />
-<OBJ id="15473" text="[%personname L] 是[%subleagueabbr]在[%month previous]最棒的投手。" />
-<OBJ id="15474" text="[%subleaguename] 上個月的第一號投手是誰？" />
-<OBJ id="15475" text="[%subleaguename] 選擇了[%month previous]的#1先發投手" />
-<OBJ id="15477" text="[%month previous] [%subleagueabbr] 最佳投手是 [%personname L]" />
-<OBJ id="15478" text="[%subleaguename] 選擇 [%month previous] 最佳先發。" />
-<OBJ id="15479" text="[%subleaguename] 挑選出最佳先發投手" />
-<OBJ id="15480" text="[%subleaguename] 挑選出最佳投手" />
-<OBJ id="15481" text="[%month previous]的最佳投手是[%personname l]" />
-<OBJ id="15483" text="[%month previous]」的[%subleagueabbr]前一號先發決定了。" />
-<OBJ id="15484" text="[%month previous]最佳先發球員在[%subleagueabbr]中誕生了。" />
-<OBJ id="15485" text="[%personname l]在[%month previous]是頂尖投手" />
-<OBJ id="15486" text="[%personname l] 是最棒的[%subleagueabbr]先發投手" />
-<OBJ id="15487" text="[%personname L] 攬下[%subleagueabbr]第一投手獎" />
-<OBJ id="15488" text="[%subleagueabbr] 宣布[%month previous]最佳投手" />
-<OBJ id="15489" text="[%personname l] 獲得最佳[%subleagueabbr]投手獎" />
-<OBJ id="15491" text="[%subleagueabbr] 選出月度最佳投手" />
-<OBJ id="15492" text="[%month previous]的[%subleagueabbr]區域最佳先發球員揭曉" />
-<OBJ id="15493" text="[%month previous]頂尖先發是[%personname l]" />
-<OBJ id="15494" text="[%subleagueabbr]的第一棒投手是[%personname l]" />
-<OBJ id="15495" text="[%subleagueabbr]最佳先發是[%personname l]" />
-<OBJ id="15496" text="[%subleagueabbr] 最好的先發球員是[%personname l]" />
-<OBJ id="15497" text="[%subleagueabbr]的最佳先發是[%personname l]" />
-<OBJ id="15498" text="[%personname l] 逮 [%subleagueabbr] 隊投手大獎" />
-<OBJ id="15499" text="[%personname l] 獲得 [%month previous] 的#1 投手獎" />
-<OBJ id="15500" text="[%personname L] 抱回[%subleagueabbr]最佳投手獎盃" />
-<OBJ id="15501" text="[%personname L] 獲取[%subleagueabbr]頭號投手獎盃" />
-<OBJ id="15502" text="[%personname L] 得到上個月的最佳投手獎盃" />
-<OBJ id="15503" text="[%personname L] 收下[%subleagueabbr]最佳先發球員獎座" />
-<OBJ id="15504" text="[%personname L] 奪下[%subleagueabbr]一軍投手獎" />
-<OBJ id="15505" text="[%personname L] 獲得[%subleagueabbr] 投手獎" />
-<OBJ id="15506" text="[%subleaguename] 宣布最佳先發投手" />
-<OBJ id="15507" text="[%subleaguename] 宣布最佳先發球員" />
-<OBJ id="15508" text="[%subleaguename] 宣布 #1 投手" />
-<OBJ id="15510" text="[%teamname] 先發投手獲得[%subleagueabbr]投手獎" />
-<OBJ id="15511" text="[%teamnickname] 開投手得[%subleagueabbr] 頒獎殊榮" />
-<OBJ id="15512" text="[%teamname] 先發投手贏得上個月的投手獎" />
-<OBJ id="15513" text="[%personname L]獲得[%subleagueabbr]最佳投手榮譽" />
-<OBJ id="15514" text="[%personname L] 獲得上個[%month previous]月最佳投手殊榮。" />
-<OBJ id="15515" text="[%personname L] 舉起[%subleagueabbr] 月度最佳投手榮譽" />
-<OBJ id="15516" text="[%teamnickname] 先發投手是[%subleagueabbr]聯盟第一把交椅啊！" />
-<OBJ id="15517" text="[%teamnickname] 投手榮膺[%subleagueabbr]最佳先發" />
-<OBJ id="15518" text="[%teamnickname]的先發投手，名列上月的#1先發投手" />
-<OBJ id="15519" text="[%teamnickname] 投手 [%month previous] 最強先發球員！" />
-<OBJ id="15520" text="[%teamname] 先發投手被頒發 [%subleagueabbr] 的#1 投手獎" />
-<OBJ id="15521" text="[%teamname] 的先發投手被稱為 [%subleagueabbr] 最佳投手" />
-<OBJ id="15522" text="[%teamname] 先發投手榮獲 [%subleagueabbr] 最佳投手" />
-<OBJ id="15523" text="[%teamname] 先發投手被譽為 [%subleagueabbr] 最佳投手" />
-<OBJ id="15524" text="[%teamnickname] 先發投手是 [%month previous] 月最佳投手" />
-<OBJ id="15525" text="[%personname l] 被選為上個月的最佳投手" />
-<OBJ id="15527" text="[%personname l] 被評選為 [%month previous] 月的月度先發投手" />
-<OBJ id="15528" text="[%personname l] 是上個[%month]月的頂尖先發投手" />
-<OBJ id="15532" text="[%subleaguename] 其中頂尖的投手是 [%personname l]" />
-<OBJ id="15533" text="[%month previous] 百里挑一獎項頒給[%personname L]，[%subleagueabbr] 最佳投手!" />
-<OBJ id="15534" text="[%subleagueabbr]頂尖投手是[%teamname]的[%personname L]" />
-<OBJ id="15535" text="[%subleagueabbr] 在 [%month previous] 選擇的最佳投手是 [%personname L]" />
-<OBJ id="15536" text="[%teamnickname]的[%personname L]在[%month previous]被選為[%subleagueabbr]的最佳球員" />
-<OBJ id="15537" text="[%subleagueabbr] [%month previous] 的#1 投手是 [%teamname] 的 [%personname l]" />
-<OBJ id="15538" text="[%teamname]的[%personname L] 被選為[%month previous] 最佳[%subleagueabbr]" />
-<OBJ id="15539" text="[%subleagueabbr] 選擇 [%personname L] 上個月最佳的投手" />
-<OBJ id="15540" text="[%subleagueabbr] 選擇了[%personname L] 上個月的第一投手" />
-<OBJ id="15541" text="[%subleagueabbr] 選擇 [%personname L] [%month previous] 年度最佳先發。" />
-<OBJ id="15542" text="[%subleagueabbr] 選擇 [%personname L] [%month previous] 的最佳先發投手" />
-<OBJ id="15543" text="[%subleagueabbr] 本月最佳投手獎頒給 [%personname L]" />
-<OBJ id="15544" text="[%subleagueabbr]本月先發投手獎頒發給[%personname L]" />
-<OBJ id="15546" text="[%month previous]月的月度最佳投手為[%personname L]而得。" />
-<OBJ id="15547" text="[%month previous] 前一個月的先發投手獎，授予給 [%personname L]。" />
-<OBJ id="15548" text="[%personname L] [%month previous] [%subleagueabbr] 最佳先發投手" />
-<OBJ id="15549" text="[%personname L] [%subleagueabbr]上個月的開發先發" />
-<OBJ id="15550" text="[%personname L]是[%month previous]年度[%subleagueabbr]聯盟中最佳的投手(#1)。" />
-<OBJ id="15551" text="[%personname L] 是[%subleagueabbr]今年[%month previous]最強先發投手" />
-<OBJ id="15552" text="[%personname L] 獲得[%subleagueabbr]最佳投手獎盃" />
+<OBJ id="15437" text="[%personname L] [%subleagueabbr] 月最佳投手，[%month previous] 月的最佳投手"/>
+<OBJ id="15438" text="[%subleagueabbr] 月最佳投手為[%month previous] 被選出"/>
+<OBJ id="15439" text="[%personname L] 獲得[%subleagueabbr] #1 投手獎"/>
+<OBJ id="15440" text="[%subleaguename] 宣布[%month previous] 月最佳投手"/>
+<OBJ id="15441" text="[%month previous] 月最佳投手是[%personname L]"/>
+<OBJ id="15442" text="[%subleagueabbr] 月最佳投手是[%teamnickname] 的[%personname L]"/>
+<OBJ id="15443" text="[%subleaguename] 月最佳投手是[%personname L]"/>
+<OBJ id="15444" text="[%teamnickname] 的[%personname L] 被選為[%subleagueabbr] 最佳投手"/>
+<OBJ id="15445" text="[%personname L] 在[%month previous] 月榮獲最佳投手稱號"/>
+<OBJ id="15446" text="[%teamnickname] 的[%personname L] 榮獲[%month previous] 月的 #1 投手"/>
+<OBJ id="15447" text="[%personname L] 是[%month previous] 月[%subleagueabbr] 最佳投手"/>
+<OBJ id="15448" text="[%teamname] 先發投手被選為最佳投手"/>
+<OBJ id="15449" text="[%personname L] 被選為[%subleagueabbr] 最佳投手"/>
+<OBJ id="15450" text="[%personname L] 突出表現，選為最佳投手"/>
+<OBJ id="15451" text="[%teamname] 的[%personname L] 被選為[%month previous] 月的最佳投手"/>
+<OBJ id="15453" text="[%teamname] 先發投手被選為[%month previous] 月最佳投手"/>
+<OBJ id="15454" text="[%subleagueabbr] 月最佳投手是[%personname L]"/>
+<OBJ id="15455" text="[%personname L] 被選為[%subleagueabbr] 月最佳投手"/>
+<OBJ id="15456" text="[%personname L] 獲得[%subleagueabbr] #1 投手獎"/>
+<OBJ id="15457" text="[%personname L] 獲得[%month previous] 月最佳投手獎"/>
+<OBJ id="15458" text="[%personname L] 被選為[%subleagueabbr] 月最佳投手"/>
+<OBJ id="15459" text="[%personname L] 被選為[%month previous] 月[%subleagueabbr] 最佳投手"/>
+<OBJ id="15460" text="[%month previous] 月的最佳投手是[%personname L]"/>
+<OBJ id="15462" text="[%teamname] 的[%personname L] 是[%subleagueabbr] 月最佳投手"/>
+<OBJ id="15463" text="[%personname L] 被選為[%month previous] 月[%subleagueabbr] 最佳投手"/>
+<OBJ id="15464" text="[%personname L] 贏得[%subleagueabbr] 月最佳投手榮譽"/>
+<OBJ id="15465" text="[%personname L] 獲得[%subleagueabbr] 月最佳投手獎"/>
+<OBJ id="15467" text="[%teamnickname] 的[%personname L] 是[%month previous] 月的最佳投手"/>
+<OBJ id="15468" text="[%subleagueabbr] 選擇[%month previous] 月最佳投手"/>
+<OBJ id="15469" text="[%subleagueabbr] 月最佳投手榮譽頒給[%personname L]"/>
+<OBJ id="15470" text="[%subleagueabbr] 公布[%month previous] 月最佳投手"/>
+<OBJ id="15472" text="[%personname L] 是[%subleagueabbr] 月最佳投手"/>
+<OBJ id="15473" text="[%personname L] 是[%subleagueabbr] 月最佳投手"/>
+<OBJ id="15474" text="[%subleaguename] 宣布[%month previous] 月最佳投手"/>
+<OBJ id="15475" text="[%subleaguename] 公布[%month previous] 月最佳先發投手"/>
+<OBJ id="15477" text="[%month previous] 月的最佳投手是[%personname L]"/>
+<OBJ id="15478" text="[%subleaguename] 公布[%month previous] 月最佳先發投手"/>
+<OBJ id="15479" text="最佳先發投手由[%subleaguename] 選出"/>
+<OBJ id="15480" text="最佳投手由[%subleaguename] 選出"/>
+<OBJ id="15481" text="[%month previous] 月最佳投手是[%personname L]"/>
+<OBJ id="15483" text="[%month previous] 月#1 先發投手由[%subleagueabbr] 選出"/>
+<OBJ id="15484" text="[%month previous] 月最佳先發投手由[%subleagueabbr] 選出"/>
+<OBJ id="15485" text="[%personname L] 是[%month previous] 月最佳投手"/>
+<OBJ id="15486" text="[%personname L] 是[%subleagueabbr] 月最佳先發投手"/>
+<OBJ id="15487" text="[%personname L] 獲得[%subleagueabbr] #1 投手獎"/>
+<OBJ id="15488" text="[%subleagueabbr] 公布[%month previous] 月最佳投手"/>
+<OBJ id="15489" text="[%personname L] 獲得[%subleagueabbr] 月最佳投手"/>
+<OBJ id="15491" text="[%subleaguename] 月最佳投手選出"/>
+<OBJ id="15492" text="[%month previous] 月最佳先發投手選出"/>
+<OBJ id="15493" text="[%month previous] 月最佳先發投手是[%personname L]"/>
+<OBJ id="15494" text="[%subleagueabbr] #1 先發投手是[%personname L]"/>
+<OBJ id="15495" text="[%subleagueabbr] 最佳先發投手是[%personname L]"/>
+<OBJ id="15496" text="[%subleagueabbr] 最優先發投手是[%personname L]"/>
+<OBJ id="15497" text="[%subleagueabbr] 最佳先發投手是[%personname L]"/>
+<OBJ id="15498" text="[%personname L] 獲得[%subleagueabbr] 月最佳投手獎"/>
+<OBJ id="15499" text="[%personname L] 獲得[%subleagueabbr] 月最佳投手獎"/>
+<OBJ id="15500" text="[%personname L] 獲得[%month previous] 月最佳投手獎"/>
+<OBJ id="15501" text="[%personname L] 獲得[%subleagueabbr] 月最佳投手獎"/>
+<OBJ id="15502" text="[%personname L] 獲得[%month previous] 月最佳投手獎"/>
+<OBJ id="15503" text="[%personname L] 獲得[%subleagueabbr] 月最佳先發投手獎"/>
+<OBJ id="15504" text="[%personname L] 獲得[%subleagueabbr] 月最佳投手獎"/>
+<OBJ id="15505" text="[%personname L] 獲得[%subleagueabbr] 月最佳投手獎"/>
+<OBJ id="15506" text="[%subleaguename] 宣布最佳先發投手"/>
+<OBJ id="15507" text="[%subleaguename] 公布最佳先發投手"/>
+<OBJ id="15508" text="[%subleaguename] 公布#1 先發投手"/>
+<OBJ id="15510" text="[%teamname] 先發投手獲得[%subleagueabbr] 月最佳投手獎"/>
+<OBJ id="15511" text="[%teamnickname] 先發投手獲得[%subleagueabbr] 月最佳投手獎"/>
+<OBJ id="15512" text="[%teamname] 先發投手獲得[%month previous] 月最佳投手獎"/>
+<OBJ id="15513" text="[%personname L] 獲得[%subleagueabbr] 月最佳投手稱號"/>
+<OBJ id="15514" text="[%personname L] 獲得[%month previous] 月最佳投手稱號"/>
+<OBJ id="15515" text="[%personname L] 獲得[%subleagueabbr] 月度最佳投手獎"/>
+<OBJ id="15516" text="[%teamnickname] 先發投手獲得[%subleagueabbr] 月最佳投手稱號"/>
+<OBJ id="15517" text="[%teamnickname] 先發投手獲得[%subleagueabbr] 月最佳投手獎"/>
+<OBJ id="15518" text="[%teamnickname] 先發投手獲得[%month previous] 月最佳投手獎"/>
+<OBJ id="15519" text="[%teamname] 先發投手獲得[%month previous] 月最佳投手獎"/>
+<OBJ id="15520" text="[%teamname] 先發投手獲得[%subleagueabbr] 月最佳投手獎"/>
+<OBJ id="15521" text="[%teamname] 先發投手獲得[%subleagueabbr] 月最佳投手獎"/>
+<OBJ id="15522" text="[%teamname] 先發投手獲得[%subleagueabbr] 月最佳投手獎"/>
+<OBJ id="15523" text="[%teamname] 先發投手被選為[%subleagueabbr] 的頂尖投手"/>
+<OBJ id="15524" text="[%teamnickname] 先發投手被選為[%month previous] 月的頂尖投手"/>
+<OBJ id="15525" text="[%personname l] 被選為[%month previous] 月的最佳投手"/>
+<OBJ id="15527" text="[%personname l] 被選為[%month previous] 月的最佳先發投手"/>
+<OBJ id="15528" text="[%personname l] 是[%month previous] 月的最佳先發投手"/>
+<OBJ id="15532" text="[%subleaguename] 的#1 投手是[%personname l]"/>
+<OBJ id="15533" text="[%subleagueabbr] 月最佳投手獎頒給[%month previous] 的[%personname L]"/>
+<OBJ id="15534" text="[%subleagueabbr] 頂尖投手是[%teamname] 的[%personname L]"/>
+<OBJ id="15535" text="[%subleagueabbr] 選出[%month previous] 月的最佳投手是[%personname L]"/>
+<OBJ id="15536" text="[%teamnickname] 的[%personname L] 被選為[%month previous] 月[%subleagueabbr] 的最佳投手"/>
+<OBJ id="15537" text="[%subleagueabbr] 月最佳投手是[%teamname] 的[%personname l]"/>
+<OBJ id="15538" text="[%teamname] 的[%personname L] 被選為[%month previous] 月[%subleagueabbr] 的最佳投手"/>
+<OBJ id="15539" text="[%subleagueabbr] 選出[%month previous] 月的最佳投手是[%personname L]"/>
+<OBJ id="15540" text="[%subleagueabbr] 選出[%month previous] 月的#1 投手是[%personname L]"/>
+<OBJ id="15541" text="[%subleagueabbr] 選出[%month previous] 月的最佳先發投手是[%personname L]"/>
+<OBJ id="15542" text="[%subleagueabbr] 選出[%month previous] 月的最佳投手是[%personname L]"/>
+<OBJ id="15543" text="[%subleagueabbr] 月最佳投手獎頒給[%personname L]"/>
+<OBJ id="15544" text="[%subleagueabbr] 月最佳先發投手獎頒給[%personname L]"/>
+<OBJ id="15546" text="[%month previous] 月的最佳投手是[%personname L]"/>
+<OBJ id="15547" text="[%month previous] 月的最佳先發投手是[%personname L]"/>
+<OBJ id="15548" text="[%personname L] 是[%month previous] 月的最佳[%subleagueabbr] 投手"/>
+<OBJ id="15549" text="[%personname L] 是[%month previous] 月的最佳[%subleagueabbr] 先發投手"/>
+<OBJ id="15550" text="[%personname L] 是[%month previous] 月的#1[%subleagueabbr] 投手"/>
+<OBJ id="15551" text="[%personname L] 是[%month previous] 月的最佳[%subleagueabbr] 先發投手"/>
+<OBJ id="15552" text="[%personname L] 獲得[%subleagueabbr] 月最佳投手獎"/>
 </CAT>
 
 <CAT id="38">
