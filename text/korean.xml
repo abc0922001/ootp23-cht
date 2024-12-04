@@ -109188,7 +109188,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="161" value="0" />
 </OBJ>
 <OBJ id="38449">
-<TXT>[%team#1link nickname] 更接近贏得[%leaguefinals]，而[%team#2link nickname] 的球季已經結束。(nl)(nl)[%team#1name] 在今天在[%game ballpark]的決定性比賽中以[%game score]的勝利贏得了[%league currentseries]的第一場比賽。(nl)(nl)[%team#1name] 的[%playerposition][%personlink#1]因擊打[batting avg]的平均率和[batting obp]的上壘率，其中有[%batting HR]支全壘打，[%batting RBI]分打點以及[%batting R]次得分，被評為該系列賽的MVP。(nl)(nl)"我只希望我能在[%league nextseries]中保持這種狀態，" 他說。(nl)(nl)[%string#2]</TXT>
+<TXT>[%team#1link nickname] 距離贏得 [%leaguefinals] 還有一步之遙，並且 [%team#2link nickname] 的賽季已經結束。(nl)(nl)[%team#1name] 在今天於 [%game ballpark] 的決勝比賽中以 [%game score] 的勝利，贏得了 [%league currentseries] [%string#1]。(nl)(nl)[%team#1name] 的 [%playerposition] [%personlink#1] 被選為系列賽MVP，該名球員在系列賽中打出了 [%batting avg] 的打擊率，並且有 [%batting obp] 的上壘率。他擊出了 [%batting HR] 支全壘打，打點 [%batting RBI] 分，並且得到了 [%batting r] 次得分。(nl)(nl)「我只希望能在 [%league nextseries] 中繼續保持這樣的表現，」他說。(nl)(nl)[%string#2]</TXT>
 <COND id="147" value="1" />
 <COND id="72" value="14" />
 <COND id="160" value="0" />
