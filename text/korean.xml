@@ -111598,22 +111598,22 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="790">
-<OBJ id="40748" text="女士們、先生們……(nl)現在是第七局中場休息時間。" />
-<OBJ id="40749" text="而家係時候喺度禮讚：(nl)「帶我去看球賽。" />
-<OBJ id="40750" text="現在時間到了，大家起來伸懶腰，唱起歌來吧。" />
-<OBJ id="40762" text="女士們、先生們，請起立(nl)和一起唱「帶我去球場」。" />
-<OBJ id="40763" text="現在是休息到第七局的時間。" />
-<OBJ id="40764" text="歡迎大家一起來唱「帶我去棒球賽」。(huān yíng dà jiā yì qǐ lái chàng &quot;dài wǒ qù bàng qiú sài&quot;)" />
-<OBJ id="40765" usage_chance_for_game="2" only_once_per_x2="1" text="好啦，讓我聽聽你們的聲音吧(nl)一、二、三！(nl)帶我去看棒球賽……" />
-<OBJ id="41182" text="現在是時候讓主場球迷站起來活動一下了。" />
-<OBJ id="41183" text="現在本場球迷們會站起來了。" />
-<OBJ id="41184" text="現在主場球迷齊聲高呼……(nl)唱「帶我去看棒球比賽」歌。" />
-<OBJ id="50465" text="是時候讓主場球迷起立了。" />
-<OBJ id="55823" text="七仙女時間到。" />
-<OBJ id="55824" text="[%game ballpark] 的第七局休息時間。" />
-<OBJ id="55825" text="現在在[%比賽球場]的球迷們都站起來……(nl)進行第七局休息時間。" />
-<OBJ id="55826" text="[%game]球場的觀眾們現在起立……(nl)為了第七局休息。" />
-<OBJ id="55827" text="比賽場地到了伸展（stretch）時間。" />
+<OBJ id="40748" text="各位先生女士...(nl)是時候進行第七局休息了。"/>
+<OBJ id="40749" text="現在是時候站起來，並一起唱...(nl)「Take Me Out to the Ball Game」。"/>
+<OBJ id="40750" text="現在是大家起來伸展，並一起唱歌的時候。"/>
+<OBJ id="40762" text="各位先生女士，請站起來...(nl)一起唱「Take Me Out to the Ball Game」。"/>
+<OBJ id="40763" text="現在是第七局休息時間。"/>
+<OBJ id="40764" text="邀請大家一起唱「Take Me Out to the Ball Game」。"/>
+<OBJ id="40765" usage_chance_for_game="2" only_once_per_x2="1" text="好吧，讓我聽到你們的聲音!(nl)一、二、三!(nl)Take me out to the ball game..."/>
+<OBJ id="41182" text="現在是主場球迷起來伸展的時間。"/>
+<OBJ id="41183" text="現在是主場球迷站起來的時候。"/>
+<OBJ id="41184" text="現在主場球迷起來站著...(nl)為了唱「Take Me Out to the Ball Game」。"/>
+<OBJ id="50465" text="現在是主場球迷站起來的時間。"/>
+<OBJ id="55823" text="第七局休息時間。"/>
+<OBJ id="55824" text="在[%game ballpark]進行第七局休息時間。"/>
+<OBJ id="55825" text="在[%game ballpark]的球迷現在站起來...(nl)進行第七局休息時間。"/>
+<OBJ id="55826" text="在[%game ballpark]的球迷現在起立...(nl)進行第七局休息時間。"/>
+<OBJ id="55827" text="在[%game ballpark]進行伸展時間。"/>
 </CAT>
 
 <CAT id="791">
@@ -111848,8 +111848,8 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <OBJ id="40950" text="我知道找到一個[%string#1]挑戰不小，但你沒有找到符合條件的球員嗎？我的意思是，我翻了一遍名單，連接近我要求的都沒有找到。你是沒有理解我對你的要求嗎？">
 <COND id="174" value="10" />
 </OBJ>
-<OBJ id="40951" text="我知道我唔係每次嘅目標都係容易嘅，但係我係係係係係係係係[%string#1]攞嘅目標都要努力啊。我搵唔到有人做到條件啦。你唔可以忽略我嘅要求，又期望唔收到後果。">
-<COND id="174" value="10" />
+<OBJ id="40951" text="我知道我不總是給出容易達成的目標，但對於我給的目標，我希望你有所努力。我找不到任何人能達到我在[%string#1]中要求的標準。你不能忽視我對你的要求，還指望能避免後果。">
+<COND id="174" value="10"/>
 </OBJ>
 <OBJ id="41968" text="我很高興你能夠把[%personlink f l]加入名單。當我告訴你我想要一位[%string#1]球員時，他正好是我所想要的那種球員。幹得好。">
 <COND id="173" value="100" />
@@ -112257,8 +112257,8 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <OBJ id="45537" text="我跟大多數老闆沒兩樣，我喜歡賺錢。尤其是喜歡能幫我賺更多錢的人。真的很喜歡你，你做得很好，讓我達到了我的利潤目標。">
 <COND id="173" value="100" />
 </OBJ>
-<OBJ id="45538" text="佢地講人生無法用金錢買樂，真係假D嘢啦。我就係靠佢攞啲錢過得開心。你打完我俾嘅財務目標做得好！">
-<COND id="173" value="100" />
+<OBJ id="45538" text="他們說錢買不到幸福是謊言。它確實買到了我的幸福。你在達成我給你的財務目標方面做得很好。">
+<COND id="173" value="100"/>
 </OBJ>
 <OBJ id="45539" text="你可能認為我定下營利目標只是開玩笑，還是你就沒有盡全力達成它。老實說，我不太高興。">
 <COND id="174" value="5" />
@@ -112305,9 +112305,9 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <OBJ id="41060" text="感謝你把[%personlink f l]割愛了。知道將球隊成員放手並不容易，但我很高興你在這件事上同意我的看法，對我們的名單前進方向來說是最好的方式。">
 <COND id="173" value="100" />
 </OBJ>
-<OBJ id="41061" text="我唔鍾意有妨礙球隊氣氛嘅人選，但我很開心你同意我對於[%personlink f l]嘅評估。我聽聞佢係個極之有壞影響力嘅人而我覺得球隊如果唔係同佢相處會更好。">
-<COND id="173" value="100" />
-<COND id="162" value="2" />
+<OBJ id="41061" text="我不喜歡名單上的負面影響，很高興你同意我對 [%personlink f l] 的評價。我聽說他在更衣室裡是個糟糕的影響，覺得隊伍如果沒有他會更好。">
+<COND id="173" value="100"/>
+<COND id="162" value="2"/>
 </OBJ>
 <OBJ id="41062" text="我知道你跟我一樣在意錢的問題，我很高興你同意[%personlink f l]在我們的隊伍裡的薪水太高了。確保每個隊員都能拿到公道的薪水是一件好事。">
 <COND id="173" value="100" />
@@ -112324,7 +112324,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="173" value="100" />
 <COND id="163" value="550" />
 </OBJ>
-<OBJ id="41066" text="[%personlink]=球員連結&#10;&#10;[%personlink f l]為什麼還在球隊名單裡？我不是跟你說過我想把他放走了嗎？忠誠是好的，但有時候為了進步必須割捨掉一些關係。">
+<OBJ id="41066" text="為什麼 [%personlink f l] 還在名單上？我不是說過要把他交易掉嗎？忠誠固然重要，但有時候你得割捨一些人選來提升隊伍實力。">
 <COND id="174" value="1" />
 </OBJ>
 <OBJ id="41067" text="[%personlink f l] 為什麼還是這個俱樂部的一員？我對 [%teamlink nickonly] 的要求很高，我覺得 [%personname L] 不適合我們的陣容。">
@@ -112476,7 +112476,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 </CAT>
 
 <CAT id="809">
-<OBJ id="41108" text="我叫你幫我揾一個前途無量嘅新秀，可以做為球隊代表人物，我見[%personlink f l]嘅排名已經大幅度上升，真係感到開心。如果佢能夠按呢個趨勢繼續進步，我相信我哋可以有一個超級巨星去打造球隊。">
+<OBJ id="41108" text="我要求你找到一位頂級潛力股，作為我們隊伍的代言人，很高興看到 [%personlink f l] 真正快速地上升至榜單。如果他繼續以這個速度進步，我認為我們將擁有一位真正的超級巨星來圍繞建設這支隊伍。">
 <COND id="173" value="100" />
 <COND id="177" value="1" />
 </OBJ>
@@ -112503,7 +112503,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="174" value="70" />
 <COND id="179" value="0" />
 </OBJ>
-<OBJ id="41115" text="我哋而家較[%ownergoal issueyear]前有啲進展，但唔係咁多。希望你仲可以搵到一個真正嘅頂級潛力球員嚟打造呢支隊伍。">
+<OBJ id="41115" text="我們至少比 [%ownergoal issueyear] 時的情況要好一些，但差距不大。我希望你仍然能找到一位真正的頂級潛力股來圍繞這支隊伍進行建設。">
 <COND id="173" value="10" />
 <COND id="174" value="50" />
 <COND id="179" value="1" />
@@ -112534,7 +112534,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <TXT>我對你建立的潛力選手庫印象非常深刻。我原本只是想成為一支[%league topgroup]的球隊，但你已經超越了這個目標。當我們繼續改善球隊時，保持有充足的農場球員庫存，將輕鬆地使你的工作更輕鬆。</TXT>
 <COND id="173" value="100" />
 </OBJ>
-<OBJ id="41139" text="(&quot;Our farm system is very impressive, thanks to your hard work. As we work through our rebuild, keeping the farm stocked is the best way to ensure that we will eventually have a team that can again compete in the league. Well done.&quot;)&#10;&#10;農場體系非常厲害, 多虧了妳們的辛勤工作. 我們在進行再建過程中, 保持農場豐富才是確保我們最終能有能再次在聯盟競爭的球隊. 辛苦了.">
+<OBJ id="41139" text="我們的農場系統非常令人印象深刻，這要歸功於您的辛勤工作。在我們進行重建的過程中，保持農場的豐富是確保我們最終能夠再次在聯盟中競爭的最佳方式。做得好。">
 <COND id="173" value="100" />
 <COND id="182" value="2" />
 </OBJ>
@@ -112585,7 +112585,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="173" value="40" />
 <COND id="174" value="70" />
 </OBJ>
-<OBJ id="41150" text="我哋[%ownergoal issueyear]年嘅時候，已經升級左呢支球隊嘅潛力球員陣容。但係，要等我哋[%teamname]嘅[%league topgroup]備選球員系統出現喺[%team nationalpaper]上面嘅報導之前，仲有好多功課要做。">
+<OBJ id="41150" text="我們從 [%ownergoal issueyear] 開始提升了球隊的前景池。但在我看到 [%team nationalpaper] 上關於「[%teamname] 的 [%league topgroup] 小聯盟系統」的新聞報導之前，還有很多工作要做。">
 <COND id="173" value="30" />
 <COND id="174" value="70" />
 <COND id="179" value="1" />
@@ -112608,7 +112608,7 @@ B. [%leaguename]的季後賽今日開打，首場戰事是[%string#1]。對於�
 <COND id="174" value="40" />
 <COND id="182" value="2" />
 </OBJ>
-<OBJ id="41155" text="我唬爛麻。我接洽妳良多回想提拔庄稼系統，結果妳啥都沒有做。">
+<OBJ id="41155" text="我不知道該說什麼。我要求你改善農場系統，但你什麼都沒做。">
 <COND id="174" value="1" />
 </OBJ>
 <OBJ id="41156" text="一支重建中的球隊，這樣菜的農場系統在聯盟裡算是最差的之一。有了現在這樣的選秀名單，你怎麼期待能重回勝利戰績呢？">
